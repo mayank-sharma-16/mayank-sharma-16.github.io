@@ -57,5 +57,13 @@ h3 {
 }
 
 ul {
-    list-style-type: disc;
+    list-style-type: none;
+}
+
+a:link, a:visited, a:active {
+    color:white;
+}
+
+a:hover {
+    color:grey;
 }
