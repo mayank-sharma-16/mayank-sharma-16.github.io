@@ -22,9 +22,6 @@ window.onload = function() {
         subsection_content.push(subsection_list[i].getElementsByClassName('subsection-content')[0]);
     }
 
-    
-    
-
     var promise_made = gradual_load_text(title_element,complete_title)
     .then(
         (elements, new_style) => instant_display_elements(table_of_contents, "block") 
