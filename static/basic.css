@@ -1,15 +1,20 @@
 @font-face {
-    font-family: 'Lucida Console';
-    src: url('Lucida_Console_Regular.ttf');
+    font-family: 'LibreBaskerville';
+    src: url('LibreBaskerville-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.ttf')
 }
 
 body {
     color: #414141;
     background-color:#1f1b1b;
     font-size:16px;
-    font-family: 'Lucida Console';
     line-height: 20px;
 }
+
 
 .title {
     font-size:2.5em;
@@ -34,6 +39,10 @@ body {
     font-size: 3em;
 }
 
+p {
+    font-family: 'LibreBaskerville';
+}
+
 h2 {
     font-size:2em;
     color: #723cfa;
@@ -41,6 +50,7 @@ h2 {
 
 h3 {
     color: #42e01b;
+    font-family: 'Montserrat';
 }
 
 .subsection-content {

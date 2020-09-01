@@ -24,7 +24,7 @@ var gradual_load_helper = function(element, text, resolve){
                 element.innerText = text.substring(0, text.length);
                 resolve();
             }
-        }, 100);
+        }, 50);
     }
     showfull();
 }
