@@ -20,6 +20,23 @@ body {
     position:relative;
 }
 
+#left_panel {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 5%;
+    align-self: left;
+    background-color: white;
+    width: 23.33%;
+    height: 75%;
+    
+}
+
+#left_panel p {
+    opacity: 0;
+    z-index: 4;
+    margin-left: 5px;
+    margin-right: 5px;
+}
 
 #banner_container {
     position: relative;
@@ -31,7 +48,7 @@ body {
 #hidden_body {
     position: absolute;
     z-index: 3;
-    background-color: #e7c9a9;
+    background-color: #d1685e;
     margin-left: 0.2vw;
     margin-top: 90vh;
     height: 90vh;

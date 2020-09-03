@@ -7,10 +7,11 @@ window.onload = function() {
     title_card.style.marginTop = 0;
 
     opacity_delay_helper(title_card, 0.1, 7);
-    slight_downlift_helper(title_card);
+    slight_downlift_helper(title_card, 20);
 
     opacity_delay_helper(footer, 0.1, 7);
     slight_uplift_helper(footer);
+
 
     var about_me_activated = false;
 
@@ -57,14 +58,13 @@ var collapse_second_helper = function(element, time){
     var timer = setInterval(function (){
         if (initial_margin >= 90){
             clearInterval(timer);
-            expand_second_helper(element, time);
             return;
         }
         initial_margin += Math.max((0.75 - acceleration),0.18);
         acceleration = acceleration+0.0032;
         element.style.marginTop = initial_margin.toString() + "vh";
     }, time);   
-}
+};
 
 var expand_helper = function(element, time){
 
@@ -91,12 +91,22 @@ var expand_second_helper = function(element, time){
     var timer = setInterval(function (){
         if (initial_width >= 99.6){
             clearInterval(timer);
+            about_word_helper();
             return;
         }
         initial_width += Math.max((0.75 - acceleration), 0.12);
         acceleration = acceleration+0.0045;
         element.style.width = initial_width.toString() + "vw";
     }, time);
+};
+
+var about_word_helper = function(element, time){
+    var words = document.getElementById('left_panel').getElementsByTagName('p');
+    
+    for(var i = 0; i < words.length; i++){
+        console.log(words[i]);
+        opacity_delay_helper(words[i], 0, 1);
+    }
 };
 
 var slight_uplift_helper = function(element) {
@@ -113,9 +123,9 @@ var slight_uplift_helper = function(element) {
     }, 30);
 }
 
-var slight_downlift_helper = function(element) {
+var slight_downlift_helper = function(element, margin) {
 
-    var ideal_shift_margin = 20;
+    var ideal_shift_margin = margin;
     var completed_shift_margin = 0;
     
     var timer = setInterval(function (){
