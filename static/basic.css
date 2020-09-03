@@ -26,7 +26,7 @@ body {
     margin-top: 5%;
     align-self: left;
     background-color: white;
-    width: 23.33%;
+    width: 25.33%;
     height: 75%;
     
 }
@@ -34,8 +34,9 @@ body {
 #left_panel p {
     opacity: 0;
     z-index: 4;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 4px;
+    margin-right: 4px;
+    font-family: 'LibreBaskerville';
 }
 
 #banner_container {
@@ -70,7 +71,7 @@ body {
 
 #title_card {
     text-align: center;
-    background-color: #bf1d02;
+    background-color: #b6341c;
     color: white;
     z-index: 0;
     width: 20%;
@@ -108,13 +109,13 @@ body {
     display: inline-block;
     width: 33vw;
     height: 9.5vh;
-    background-color: #bf1d02;
+    background-color: #b6341c;
     text-align: center;
     z-index: 2;
 }
 
 .footer_subsection:hover {
-    background-color: red;
+    background-color: #d13a1f;
     color: black;
 }
 
