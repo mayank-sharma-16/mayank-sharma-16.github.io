@@ -20,11 +20,29 @@ body {
     position:relative;
 }
 
+
 #banner_container {
     position: relative;
     width: 100vw;
     height: 90vh;
     overflow: hidden;
+}
+
+#hidden_body {
+    position: absolute;
+    z-index: 3;
+    background-color: #e7c9a9;
+    margin-left: 0.2vw;
+    margin-top: 90vh;
+    height: 90vh;
+    width: 33vw;
+    overflow: visible;
+    opacity: 0;
+}
+
+#hidden_body h1 {
+    font-family: "LibreBaskerville";
+    text-align: center;
 }
 
 #banner_image img {
