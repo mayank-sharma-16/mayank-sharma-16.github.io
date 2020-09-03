@@ -68,15 +68,13 @@ body {
     color:white;
     margin-top: 21px;
     margin-bottom: 0px;
-    margin-right: 1px;
     position: relative;
-    display: block;
+    display: inline-block;
     width: 33vw;
     height: 9.5vh;
     background-color: #bf1d02;
     text-align: center;
     z-index: 2;
-    float: right;
 }
 
 .footer_subsection:hover {
