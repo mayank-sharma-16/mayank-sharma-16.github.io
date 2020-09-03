@@ -8,88 +8,46 @@
         <title> Mayank's Corner </title>
         <link rel="stylesheet" href="../static/basic.css" />
         <script src = "../static/script.js" type="module"></script>
-        <script src = "../static/displays.js" type = "module"></script>
         <link rel = "icon" type = "image/png" href = "../static/images/hotstuff.png"/>
     </head>
     <body>
-
-        <div class = "title" id = "title">
-            <h1> &nbsp </h1>
-        </div>
-
-        <div class = "table-of-contents" id = "table-of-contents">
-            <ul>
-                <li><h1><a href = "#About-Me">About_Me.txt</a><h1></li>
-                <li><h1><a href = "#Projects">Projects</a></h1></li>
-                <li><h1><a href = "#Current-Activities">Current_Activities</a></h1></li>
-            </ul>
-        </div>
-
-        <!--<img src="../images/hotstuff.png" height="200" width="300" alt= "hot stuff">-->
-
-        <div class = "subsection">
-            <div class = "subsection-title" id = "About-Me">
-                <h2> &nbsp </h2>
+        <div id="banner_container">
+            <div id="banner_image">
+                <img src="../static/images/bb_fountain.jpg">
             </div>
-            <div class = "subsection-content">
-                <p> 
-                    Hello there! My name is Mayank, and I'm a Computer Science major at the University of California, Irvine specializing in 
-                    Intelligent Systems. I'm part of two research groups at my university: 1) researching the spread of wildfires in California 
-                    with Convolutional Neural Networks and 2) researching synthetic network generators. This site is both a portfolio for the
-                    things I'm working on as well as a means to document some of my technical thoughts. Thanks for stopping by!
-                </p>
+            <div id="title_card">
+                <h1>
+                    Mayank Sharma
+                </h1>
+                <h2>
+                    Programmer
+                </h2>
+                <h2>
+                    Researcher
+                </h2>
+                <h2>
+                    Game Enthusiast
+                </h2>
             </div>
         </div>
+        <div id="footer">
+            <div class="footer_subsection" id="footer1">
+                <h2>
+                    About Me
+                </h2>
 
-        <div class = "subsection">
-            <div class = "subsection-title" id = "Projects">
-                <h2> &nbsp </h2>
             </div>
-            <div class = "subsection-content">
-                <ul>
-                    <li> <h3>UwUsic - Mood-Based Spotify Playlist Generation with Machine Learning</h3></li>
-                    <img src="../static/images/uwusic_thumbnail.gif" alt="UwUsic Thumbnail">
-                    <p> 
-                        <em>An award winner at HackUCI!</em> This site uses machine learning + facial recognition with face-api.js to detect your mood 
-                        and generate a Spotify playlist to match using your preferred artists and genre. I trained an SVM model that takes song data
-                        from Spotify's API and predicts the levels of happiness, sadness, and anger present in each song's tone.
-                    </p>
-                    <li><h3>Wildfire Research with Convolutional Neural Networks</h3></li>
-                    <img src = "../static/images/wildfires.png" alt="Wildfires">
-                    <p>
-                        In one of my research groups, I'm studying the ability of CNNs to help us predict the danger zones and spread of wildfires in
-                        California based on meteorological satellite and vegetation data.
-                    </p>
-                    <li><h3>COVID-19 Media Topic Assessments</h3></li>
-                    <img src = "../static/images/NYC_mit.png" alt="Timeline">
-                    <p>
-                        <em>Top 10 at MIT's Data Hackathon!</em> This research project uses unsupervised topic modeling on social media platforms and 
-                        media reports at-large to learn the priorities of public concerns relative to the number of COVID-19 cases and major developments.
+            <div class="footer_subsection" id="footer2">
+                <h2>
+                    My Projects
+                </h2>
 
-                    </p>
-                    <li> <h3>PeterPortal</h3></li>
-                    <p>
-                        As a member of the ICS Student Council at UCI, we're working on a comprehensive 4-year course planning tool that will help students
-                        access professor reviews, course prerequisite trees, personal progress, and more all in one place. We are currently getting feedback
-                        from alpha testing right now here!
-                    </p>
-                </ul>
+            </div>
+            <div class="footer_subsection" id="footer3">
+                <h2>
+                    My Thoughts
+                </h2>
             </div>
         </div>
-
-        <div class = "subsection">
-            <div class = "subsection-title" id = "Current-Activities">
-                <h2> &nbsp </h2>
-            </div>
-            <div class = "subsection-content">
-                <ul>
-                    <li><h3>AI@UCI Executive Board</h3></li>
-                    <li><h3>ICS Student Council, Projects Committee</h3></li>
-                    <li><h3>Undergraduate Research Assistant, UCI Computational Cognitive Neuroscience Lab</h3></li>
-                    <li><h3>Undergraduate Researcher in Graph Theory under Professor Wayne Hayes</h3></li>
-                </ul>
-            </div>
-        </div>
-
     </body>
 </html>
