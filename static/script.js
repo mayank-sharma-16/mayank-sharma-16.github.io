@@ -1,6 +1,10 @@
 
 window.onload = function() {
 
+    console.log("Hello friend! This site is under some massive visual changes \
+    so features are currently in development as I transition old content and make new content. \
+    These should be resolved soon!");
+
     var title_card = this.document.getElementById('title_card');
     var footer = this.document.getElementById('footer');
     var footer_subsections = this.document.getElementsByClassName('footer_subsection');
