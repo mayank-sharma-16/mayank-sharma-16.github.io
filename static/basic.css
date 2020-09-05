@@ -20,15 +20,36 @@ body {
     position:relative;
 }
 
+.word_soup {
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 36%;
+    width: 60%;
+    height: 80%;
+    display: none;
+    z-index: 5;
+    border: black;
+}
+
+.soup_word {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 20px;
+    color:black;
+    opacity: 0;
+    font-size: 20px;
+    width: 10px;
+    height: 10px;
+}
+
 #left_panel {
     position: absolute;
     margin-left: 5%;
     margin-top: 5%;
     align-self: left;
-    background-color: white;
+    background-color: #fc7f74;
     width: 25.33%;
-    height: 75%;
-    
+    height: 80%;
 }
 
 #left_panel p {
@@ -71,12 +92,12 @@ body {
 
 #title_card {
     text-align: center;
-    background-color: #b6341c;
-    color: white;
+    background-color: #f4e9cd;
+    color: black;
     z-index: 0;
     width: 20%;
     position: absolute;
-    margin-left: 5%;
+    margin-left: 2%;
     margin-top: 10px;
     clear: both;
     opacity: 0;
@@ -102,20 +123,20 @@ body {
 }
 
 .footer_subsection {
-    color:white;
+    color:black;
     margin-top: 21px;
     margin-bottom: 0px;
     position: relative;
     display: inline-block;
     width: 33vw;
     height: 9.5vh;
-    background-color: #b6341c;
+    background-color: #f4e9cd;
     text-align: center;
     z-index: 2;
 }
 
 .footer_subsection:hover {
-    background-color: #d13a1f;
+    background-color: #d6ccb2;
     color: black;
 }
 

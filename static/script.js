@@ -12,7 +12,6 @@ window.onload = function() {
     opacity_delay_helper(footer, 0.1, 7);
     slight_uplift_helper(footer);
 
-
     var about_me_activated = false;
 
     footer_subsections[0].addEventListener("click", function(element){
@@ -100,17 +99,128 @@ var expand_second_helper = function(element, time){
     }, time);
 };
 
+
 var about_word_helper = function(element, time){
     var words = document.getElementById('left_panel').getElementsByTagName('p');
     
     for(var i = 0; i < words.length; i++){
-        console.log(words[i]);
         opacity_delay_helper(words[i], 0, 1);
     }
+
+    populate_soup(window.document.getElementById('about_soup'));
+
 };
 
-var slight_uplift_helper = function(element) {
+var populate_soup = function(element){
+    var word_list = ['hello', 'there', 'fren'];
 
+    window.document.getElementById('about_soup').style.display = "initial";
+
+    for(var i = 0; i < word_list.length; i++){
+        element.insertAdjacentHTML("afterbegin", "<div class='soup_word' id='about_soup" + 
+                                    i + "'><p>" + word_list[i] + "</p></div>");
+    }
+
+    var word_count = 0;
+
+    var timer = setInterval(function(){
+        if(word_count >= word_list.length){
+            clearInterval(timer);
+            return;
+        }
+        
+        var word_element = window.document.getElementById('about_soup' + word_count.toString());
+        opacity_delay_helper(word_element, 0.05, 10);
+        setTimeout(function(){
+            add_velocity(word_element, -1, 1, -1);
+        }, 500);
+        word_count += 1;
+
+    }, 1000);
+}
+
+var add_velocity = function(element, vertical, horizontal, ticks){
+    var timer = setInterval(function(){
+        if(ticks != -1 && ticks <= 0){
+            clearInterval(timer);
+        }
+        add_velocity_unit(element, vertical, horizontal, timer);
+
+        if(boundary_check(element, element.parentElement)[0] == -1){
+            horizontal = -1*horizontal;
+        }
+        
+        if(boundary_check(element, element.parentElement)[1] == -1){
+            vertical = -1*vertical;
+        }
+
+    },10);
+}
+
+var add_velocity_unit = function(element, vertical, horizontal, timer){
+
+    var r_y = window.getComputedStyle(element).getPropertyValue("margin-top");
+    var r_x = window.getComputedStyle(element).getPropertyValue("margin-left");
+
+    var i_y = parseInt(r_y.substring(0,r_y.length-2));
+    var i_x = parseInt(r_x.substring(0,r_x.length-2));
+
+    element.style.marginTop = (i_y + vertical).toString() + "px";
+    element.style.marginLeft = (i_x + horizontal).toString() + "px";
+
+}
+
+var boundary_check = function(element, bounding_element){
+    var element_rect = element.getBoundingClientRect();
+    var bounding_rect = bounding_element.getBoundingClientRect();
+
+    console.log(element_rect);
+    console.log(bounding_rect);
+
+    var results = []
+
+    if(element_rect["left"] <= bounding_rect["left"] 
+        || element_rect["right"] >= bounding_rect["right"]){
+        results.push(-1);
+    }
+    else{
+        results.push(1);
+    }
+
+    if(element_rect["top"] <= bounding_rect["top"] 
+        || element_rect["bottom"] >= bounding_rect["bottom"]){
+        results.push(-1);
+    }
+    else{
+        results.push(1);
+    }
+
+    /*
+
+    if(Math.abs())
+
+    if(Math.abs((element_rect["left"] - bounding_rect["left"]) <= 2)
+        || (element_rect["right"] - bounding_rect["right"] <= 2)){
+        results.push(1);
+    }
+    else{
+        results.push(-1);
+    }
+
+    if(Math.abs((element_rect["top"] - bounding_rect["top"]) <= 2)
+        || (element_rect["bottom"] - bounding_rect["bottom"] <= 2)){
+        results.push(1);
+    }
+    else{
+        results.push(-1);
+    }*/
+    
+    return results;
+
+}
+
+
+var slight_uplift_helper = function(element) {
     var ideal_shift_margin = -18;
     var completed_shift_margin = 0;
     
