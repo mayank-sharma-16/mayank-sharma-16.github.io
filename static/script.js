@@ -14,6 +14,10 @@ window.onload = function() {
 
     var about_me_activated = false;
 
+    this.document.addEventListener("mousemove", function(event){
+        console.log("mouse" + event.pageX.toString() + " " + event.pageY.toString());
+    });
+
     footer_subsections[0].addEventListener("click", function(element){
         
         if(about_me_activated == false){
@@ -111,8 +115,23 @@ var about_word_helper = function(element, time){
 
 };
 
+var random_bounded_coordinates = function(rect){
+    var x_min = rect["left"];
+    var x_max = rect["right"];
+
+    var y_min = rect["top"];
+    var y_max = rect["bottom"];
+
+    return [Math.random() * x_max * 0.5, Math.random() * y_max *0.5]; 
+
+};
+
 var populate_soup = function(element){
-    var word_list = ['hello', 'there', 'fren'];
+    var word_list = [
+        'Python', 'C++', 'Machine Learning', 'Neural Networks',
+        'Video Games', 'Unity', 'Cooking', 'Taco Bell',
+        'Arrested Development', 'Hamilton', 'UC Irvine',
+        'HP Lovecraft', 'Dark Souls', 'Bloodborne'];
 
     window.document.getElementById('about_soup').style.display = "initial";
 
@@ -130,14 +149,34 @@ var populate_soup = function(element){
         }
         
         var word_element = window.document.getElementById('about_soup' + word_count.toString());
+        var initial = random_bounded_coordinates(element.getBoundingClientRect());
+
+        word_element.style.left = initial[0].toString() + 'px';
+        word_element.style.top = initial[1].toString() + 'px';
+
+        var fixed_total = 10;
+
+        var random_horizontal_velocity = Math.random() + 1;
+        var random_vertical_velocity = Math.sqrt(fixed_total - random_horizontal_velocity**2);
+
+        if (Math.random() >= 0.5){
+            random_horizontal_velocity *= -1;
+        }
+        if (Math.random() >= 0.5){
+            random_vertical_velocity *= -1;
+        }
+
+        console.log(random_horizontal_velocity.toString() + " " + random_vertical_velocity.toString());
+        //console.log(word_element.innerText + " " + word_element.style.left.toString() + " " + word_element.style.top.toString());
+
         opacity_delay_helper(word_element, 0.05, 10);
         setTimeout(function(){
-            add_velocity(word_element, -1, 1, -1);
+            add_velocity(word_element, random_vertical_velocity, random_horizontal_velocity, -1);
         }, 500);
         word_count += 1;
 
     }, 1000);
-}
+};
 
 var add_velocity = function(element, vertical, horizontal, ticks){
     var timer = setInterval(function(){
@@ -154,28 +193,25 @@ var add_velocity = function(element, vertical, horizontal, ticks){
             vertical = -1*vertical;
         }
 
-    },10);
-}
+    },15);
+};
 
 var add_velocity_unit = function(element, vertical, horizontal, timer){
 
-    var r_y = window.getComputedStyle(element).getPropertyValue("margin-top");
-    var r_x = window.getComputedStyle(element).getPropertyValue("margin-left");
+    var r_y = window.getComputedStyle(element).getPropertyValue("top");
+    var r_x = window.getComputedStyle(element).getPropertyValue("left");
 
     var i_y = parseInt(r_y.substring(0,r_y.length-2));
     var i_x = parseInt(r_x.substring(0,r_x.length-2));
 
-    element.style.marginTop = (i_y + vertical).toString() + "px";
-    element.style.marginLeft = (i_x + horizontal).toString() + "px";
+    element.style.top = (i_y + vertical).toString() + "px";
+    element.style.left = (i_x + horizontal).toString() + "px";
 
-}
+};
 
 var boundary_check = function(element, bounding_element){
     var element_rect = element.getBoundingClientRect();
     var bounding_rect = bounding_element.getBoundingClientRect();
-
-    console.log(element_rect);
-    console.log(bounding_rect);
 
     var results = []
 
@@ -194,30 +230,10 @@ var boundary_check = function(element, bounding_element){
     else{
         results.push(1);
     }
-
-    /*
-
-    if(Math.abs())
-
-    if(Math.abs((element_rect["left"] - bounding_rect["left"]) <= 2)
-        || (element_rect["right"] - bounding_rect["right"] <= 2)){
-        results.push(1);
-    }
-    else{
-        results.push(-1);
-    }
-
-    if(Math.abs((element_rect["top"] - bounding_rect["top"]) <= 2)
-        || (element_rect["bottom"] - bounding_rect["bottom"] <= 2)){
-        results.push(1);
-    }
-    else{
-        results.push(-1);
-    }*/
     
     return results;
 
-}
+};
 
 
 var slight_uplift_helper = function(element) {
@@ -231,7 +247,7 @@ var slight_uplift_helper = function(element) {
         completed_shift_margin -= 1;
         element.style.marginTop = completed_shift_margin.toString() + 'px';
     }, 30);
-}
+};
 
 var slight_downlift_helper = function(element, margin) {
 
@@ -245,7 +261,7 @@ var slight_downlift_helper = function(element, margin) {
         completed_shift_margin += 1;
         element.style.marginTop = completed_shift_margin.toString() + 'px';
     }, 30);
-}
+};
 
 var opacity_delay_helper = function(element, op, time) {
 

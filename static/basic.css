@@ -22,24 +22,24 @@ body {
 
 .word_soup {
     position: absolute;
-    margin-top: 5%;
-    margin-left: 36%;
-    width: 60%;
-    height: 80%;
+    background-color: white;
+    top: 5vh;
+    left: 36vw;
+    width: 60vw;
+    height: 60vh;
     display: none;
     z-index: 5;
     border: black;
+    overflow: hidden;
 }
 
 .soup_word {
     position: absolute;
-    margin-left: 10px;
-    margin-top: 20px;
+    margin-left: 1px;
+    margin-top: 1px;
     color:black;
     opacity: 0;
     font-size: 20px;
-    width: 10px;
-    height: 10px;
 }
 
 #left_panel {
