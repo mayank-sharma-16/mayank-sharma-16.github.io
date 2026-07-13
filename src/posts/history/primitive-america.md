@@ -79,4 +79,15 @@ Aboriginal nations have inhabited Australia for at least 50,000 years. The moder
 
 After WWII, with the old superpowers weakened and America insulated from the frontlines save for Pearl Harbor, they were in the best position to start building new capital networks in a wartorn world. The Marshall Plan allowed them to set the terms for a Europe indebted to America. They picked out scientists from Nazi Germany in Operation Paperclip, defectors from Soviet Russia seeking to escape a poor authoritarian state, data sharing agreements with Unit 731 from Japan, etc. They also brain drained the best of the best from the education systems in developing countries. The military-intelligence complex especially worked to ensure that America would retain this global advantage for a long time. 
 
-So if we were to evaluate America harshly, we might say it's actually been a short-lived experiment in violent corporatism which tends towards monopolization of power and, once populist elements are introduced, Othering of competitors into destruction or subjugation. It has no philosophical or historical traditions to look back on if the current Constitution fails, except maybe the Anti-Federalists. There's no tradition of oral storytelling as a form of knowledge preservation and community bonding that cuts across class stratifications. The average person sees land and property as an investment, so there's very little stewardship culture where people feel responsibility for the environment because they feel personally connected to it. The education system has almost completely surrendered the idea of teaching kids by modeling successful behavior in the world or providing personal mentorship; we're lucky if we have enough teachers to match a 1:30 education ratio, meanwhile the universities that have amassed the most capital are the least likely to expand to keep up with the population growth. 
+So if we were to evaluate America harshly, we might say it's actually been a short-lived experiment in violent corporatism which tends towards monopolization of power and, once populist elements are introduced, Othering of competitors into destruction or subjugation. It has no philosophical or historical traditions to look back on if the current Constitution fails, except maybe the Anti-Federalists. There's no tradition of oral storytelling as a form of knowledge preservation and community bonding that cuts across class stratifications. If say, some technology emerged where 
+
+
+
+
+
+
+
+
+dream
+
+using dream, but no cravings, hated it, very vivid details though
