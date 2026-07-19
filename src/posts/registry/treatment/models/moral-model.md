@@ -1,0 +1,21 @@
+---
+title: The Moral Models of Addiction
+slug: reviews/research/models/moral-model
+---
+
+I don't think I can do better than the succint summary included in this link:
+
+*The moral model rests on a straightforward premise: using drugs is wrong, and people who become addicted have made immoral choices. Substance use is rooted in immorality, and the person using substances bears complete blame for their situation. There is no disease, no brain malfunction, no genetic vulnerability in this framework. There is only a person who chose badly.*
+
+*This view assumes that willpower alone is sufficient to stop using substances. If someone cannot quit, it reflects a deficiency in their character, not a change in their biology. Recovery, under this model, is essentially a matter of deciding to be a better person. And failure to recover is further proof of moral weakness.*
+
+Although the scientific and medical communities have roundly rejected this model for decades, the moral model has remained embedded in policy, media, and public perception of addiction. Courts have ruled that suffering from addiction can't alone be the justification for a penalty, but we still criminalize the behaviors around addiction, like possession of addictive substances or public drunkenness. Whether or not someone has an addiction, we expect that at some point they would leave their house, so arresting them for public intoxication is arguably arresting them for displaying a symptom in public. The very definition of addiction is that it compels one to compromise everything for a substance that compromises them further, which is obviously going to include rules.
+
+That doesn't mean we can't hold someone with the disease accountable for trying to address it to the best of their abilities. If someone makes the decision to go to a bar sober and knows they're going to drive back drunk, only to crash and kill some kids playing in their front yard, then we can obviously hold that person accountable in a very serious way. They made an extremely reckless decision from a clear state of mind that led to pain and death. If that same person made a plan not to use any kind of substance as a designated driver, but someone new they just met thought it would be funny to give everyone edibles without their knowledge, I would have a hard time blaming the person with a substance use disorder for ending up in a fatal crash instead of the person who drugs people without consent. I've certainly met people who find that kind of thing funny. As with almost everything, the context matters a lot, but we can hopefully see there are times when addiction can cause damage without being an open-and-shut case in terms of morality.
+
+Of course, individuals may benefit from making amends by admitting wrongdoing or feel motivated by the call to be better, but modern science has evidence of structural changes in the brain of those who use substances long-term. If we consider addiction to be a type of Traumatic Brain Injury or at least something comparable, then it may not make sense to approach their healing and treatment through morality. In fact, it can veer into religion very quickly. If someone stops going to church and then relapses, it's very easy to blame them for destroying their connection to God's will in favor of egoistic self-will, but people stop going to church all the time without suffering immediate or noticeable negative consequences. The focus on morality might cause us to look past something underlying the decision to stop going to church, like a depressive episode, a new reminder of old traumas, tension in the church community, additional stress and fatigue from work, or just changes in one's preferred mode of experiencing a spiritual connection to their God. At least for me, I can't just see any of that as immoral or weak-willed. 
+
+So I'm not the biggest fan of the moral model, or moralizing any disease or illness as a blanket policy. Individuals can be judged once we know their context, but a categorical judgment is harder for me to stomach.
+
+# Links
+- https://biologyinsights.com/what-is-the-moral-model-of-addiction/

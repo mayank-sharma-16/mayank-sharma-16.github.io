@@ -74,7 +74,7 @@ In the 1990s and 2000s, goal-setting and self-regulated learning methods grew as
 
 SMART rode the coattails of those trends in the late 2010s and early 2020s, which is the range in which I encountered this class at UC Irvine. Education had its own Outcomes-Based Education (OBE) framework for designing content around demonstrable learning objectives rather than delivery itself. SMART is one possible way to structure this, though it's not a dominant form by any means. In fact, it seems to have gotten its footing in education through a desire to treat public organizations more like corporations with measurements for individual administrators and teachers. It trickled down to students after educators became familiar with it off the professional development circuit, so it doesn't really come out of a tradition of pedagogy or education research as much as a practical corporate tool that float across other institutions. I imagine at some point, the idea that it's good for kids to get used to industry processes was a rationale for someone. 
 
-The rest of this page is lifted from the cheerier and shallower listicle-esque version I drafted. Looking back, I can see that I was running out of enthusiasm for it as I went down the letters. Oh well. Here it is.
+The rest of this page is lifted from the less cynical listicle-esque version I drafted. Looking back, I can see that I was running out of enthusiasm for it as I went down the letters. Oh well. Here it is.
 
 ### S: Specific 
 The 5Ws and How is a good starting point. Some examples:
