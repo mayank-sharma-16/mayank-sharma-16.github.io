@@ -1,0 +1,18 @@
+---
+title: Wikipedia is Not a Good Source
+slug: rants/wikipedia-is-not-a-good-source
+---
+
+Wikipedia is not a good source. It is a better source than ChatGPT or Gemini or any LLM, and it is better than a blog run by someone using their professional credentials to promote snake oil. It is definitely better than Facebook and Whatsapp memes, which are just the modern-day equivalent of email chains claiming Satanists in government are turning frogs gay in preparation for human trials and we can only stop it by writing checks to a campaign to draft Ralph Nader. 
+
+To be fair though, Wikipedia isn't a source. It doesn't market itself as a source. It's an encyclopedia comprised of incomplete references that are skewed by its close connection to Western academia and historical archives. That's not the same as saying it's full of factual inaccuracies either. It means that you can walk away from Wikipedia with a completely different understanding of reality than if you had a different set of references that were equally factual. 
+
+My go-to example of this has to do with the Portuguese invasion of India in the 15th century. If you read the Wikipedia page, you will walk away thinking the two parties had misunderstandings that led to conflicts over trade because the references come almost entirely from outdated and skewed materials from European state archives. I hope we can all agree that European state archives are probably not going to give a balanced perspective of European colonialism. If we take a look at other sources, we come to a very horrifying set of interactions that include setting entire ships of families on fire for refusing to grant a random foreign power a practical monopoly over their domestic markets. That history matters, because it impacts how you might interpret the behaviors of countries today.
+
+When you see Indian nationalism or consolidation around a Hindu identity driven by Hindutva groups, it's tempting to compare it to the authoritarian and fascist movements that the West is familiar with since WWII. What's often missing is the context of centuries of European powers playing regional Asian powers against each other, the same divide and conquer strategy they used with indigenous American nations. If these nations had a glimpse into the future of Manifest Destiny, they perhaps would've played their political hands very differently. Indian nationalism has to be understood in this context of trying to form a political coalition of a billion people arbitrarily grouped together by those European nations. To quote Sir David Gore-Boothe, High Commissioner to India from 1996 to 1998: "We didn't promise to leave a perfect world, and we didn't. We fucked up."
+
+It also recontextualizes how you might perceive European powers. Is their success really built on post-Enlightenment ideals about liberal marketplaces, rational discourse, individual liberties, democratic foundations, and unparalleled breakthroughs in material sciences? Or does it come from the unapologetic cruelty of refusing to recognize the humanity of anyone who didn't follow the paths laid out by their social institutions? How much of America's success is just inertia from being a relative island after a couple of wars that destroyed the former superpowers and a policy of continuing to destabilize any political structure that wasn't compliant with institutional mandates? 
+
+Of course it's not that black-and-white. The world isn't split into good people and Death Eaters. That's the point. Wikipedia tends to lean heavily on skewed evidence that leads to skewed perspectives. Even when there is nuance, it's filtered through the skewed perception of nuance and balance. 
+
+# Links

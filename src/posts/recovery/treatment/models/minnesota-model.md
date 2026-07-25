@@ -1,0 +1,104 @@
+---
+title: The Minnesota Model of Recovery
+slug: registry/reviews/research/models/minnesota-model
+---
+
+# You Know It More Than You Think
+
+From the 1990 book *Broadening the Base of Treatment for Alcohol Problems*:
+
+*Although treatment programs continue to vary along ideological lines, the field has seen in recent years the evolution and emergence of hybrid programs that claim to reflect the biopsychosocial model.* 
+
+*The major hybrid is the Minnesota Model of Chemical Dependence Intervention and Treatment (Laundergan, 1982), a treatment strategy that blends AA and professional concepts and practices. It is widely believed that today the vast majority of U.S. treatment programs, both in the public and private sectors, subscribes to the philosophy and organization of treatment services that has become known simply as the Minnesota model (Anderson, 1981; Laundergan, 1982; Hoffmann et al., 1987b).*
+
+*The standardized treatment program typically delivered to persons in treatment in the course of a four week inpatient stay, either in a hospital or in a freestanding facility, consists of detoxification, education (based on the disease concept) about the harmful medical and psychosocial effects of excessive alcohol consumption, confrontation, attendance at AA meetings and use of AA materials in developing a recovery plan (“stepwork”), and disulfiram therapy.*
+
+If that treatment protocol seems familiar, whether from pop culture or from experience, it's because it's still the foundation of addiction treatment in 2026. 
+
+The Minnesota Model represents an intersection of religion, the private healthcare industry, and the aesthetics of science. The widespread nature of its adoption has made it almost impossible to imagine treatment for addiction outside of the model's toolkit. That doesn't mean the model doesn't work, or that individual facilities haven't iterated into something more impactful, but it does mean we got where we are for reasons that don't involve honoring the work of addiction researchers through good science.
+
+From 1950-1951, Dr. Nelson Bradley, Daniel Anderson, and Jean Joseph Rossi Jr. at the Willmar State Mental Hospital. Willmar was the state of Minnesota's only hospital for "inebriates." The professional staff had begun experimenting with a new approach that saw "the power of spiritual experience as a driving force in recovery" given the multidimensional nature of addiction. They used a combination of psychologists, social workers, doctors, clergy, and people in recovery with multiple years of sobriety to fuse the Buchmanist principles of AA with medicine and state services. 
+
+In 1954, recovered alcoholics were able to be hired under a distinct title called "Counselor on Alcoholism" that William Wilson (Bill W.), founder of AA, encouraged former alcoholics to pursue despite concerns that it was turning the 12th step into a paid-professional track. Anderson wrote:
+
+*Treatment is based on two kinds of knowing. You need the knowledge of science, but you also need the knowledge of wisdom and experience. The latter is where you get into the spiritual dimensions that recovered alcoholics bring into the mix. You have to mesh these two kinds of knowing together. The choices are a dynamic integration or a self-destructive polarization.*
+
+That seems reasonable enough. The emphasis on peer counselors who are also in recovery seemed to grow over time. By the 1960s, a counselor-patient ratio might look something like 1:40 with pods of ten patients at a time. Critically, these counselors were not attempting-
+
+*"to do group therapy in the way psychiatrists and psychologists were being trained to do groups... What was infused into the counselor role was not psychology, but the core of A.A.'s philosophy of alcoholism recovery... Willmar also involved A.A. volunteers in the treatment program and linked clients to A.A. as the primary means of continued support following discharge... Another volunteer labor force... was made up of physicians and nurses who were sentenced to Willmar in lieu of losing their credentials or going to the narcotics hospital in Lexington, Kentucky. Most of the doctors who worked on the inebriate unit at Willmar were themselves there for treatment, and alcoholic R.N.s performed a wide variety of duties on the unit... Wilmar State Hospital, Pioneer House, and Hazelden all used clergy to assist alcoholic patients in taking A.A.'s Fifth Step. Willmar brought clergy into the interdisciplinary team as full-time, fully participating members... Rev. John Keller and the Rev. Gordan Grimm..."*
+
+The format of modern treatment has certainly become less explicitly religious, but no less dependent on seeking an overlap between religion and therapy that's reconciled through peers without training in either. Rather than clergy coming in to offer advice, it's common that a recovering addict will lead a discussion using a book of religious principles like Just For Today or The Four Agreements. It's actually very amusing to read Rev. Keller describe the experience of being approached:
+
+*"We have been looking around the country for a pastor to go full-time into specialized ministry in alcoholism and we think you are the guy." *That statement made absolutely no sense. My ministry in three congregations was marked by a lack of knowledge, no involvement with alcoholics, and total silence on alcoholism. The answer was "no".*
+
+Keller did eventually agree to joining after meeting with Bradley, though I'm still trying to figure out what convinced him. It seems like the opportunity to be on the ground floor of defining religious and spiritual guidelines for a disease that had been around for centuries was very compelling for a young preacher compared to regular Sunday services.
+
+By 1961, barely a decade after they arrived, Bradley, Anderson, and Rossi had all left Willmar for different reasons. Bradley had a salary dispute, Anderson accepted leadership at Hazelden to replicate the model used at Willmar, and Rossi continued to research alcoholism.
+
+The Alcoholic Addiction Project was formed to study the outcomes of Willmar's treatment program, and they published two papers in the 1960s into the *Quarterly Journal of Studies on Alcohol*. This link has the full tables: https://www.practicalrecovery.com/prblog/how-alcohol-treatment-became-divorced-from-alcohol-science-the-rise-of-the-minnesota-model/
+
+To summarize, the first showed that by 1957, 34% of patients "improved" while 32% were "unimproved" and 6% were "dead". 20% were "unknown" and 8% were "motivated." The second analysis of outcomes from 1963 showed 5% institutionalized, 6% dead, 17% lost to follow-up, 22% were mild drinking, and 43% were serious drinking. Only 7% reported continuous abstinence. So, at best it seemed to help a third of the patients in some way with only single-digits staying sober.
+
+You might be wondering how the Minnesota Model came to be accepted across institutions if there was substantial evidence about its limitations. The answer isn't too far from the reasons Anderson and Hazelden were pushing a defense of their model so aggressively despite challenges from new evidence. Let's hop over to the Johnson Institute.
+
+Vernon E. Johnson was an Episcopal priest whose own struggles to recover from alcoholism led to seeking treatment at the Hazelden Foundation in 1962. Convinced that addiction could be treated and addressed before hitting "rock bottom" through the intervention of family, friends, clergy, and employers, he founded the Johnson Institute in 1966 to promote early detection and treatment for "chemical dependencies." By 1968, funded by Irene and Wheelock Whitney, Johnson established a chemical dependecy program at St. Mary's Hospital in Minneapolis and set up over 30 by 1980. More than actual medical treatment though, Johnson focused on training the public to do interventions. The Institute became heavily involved in workplace Employee-Assistance Programs (EAPs) that allowed employers to refer employees for medical help if they suspected performance issues were related to health issues like substance abuse rather than just outright firing them. Through these early intervention and detection approaches, Johnson was funneling the public into the entry points for Minnesota Model programs, many of which were implemented by Hazelden alumni. 
+
+I'll discuss the Johnson Institute and the intervention literature in more depth elsewhere, but for now you should know that studies and scholars have not backed up the idea of confrontational interventions being a consistently effective method to restore someone to sobriety or treatment. Remember that Johnson had no scientific or statistical background when he set up the Institute. Since then, we have more scientifically validated intervention methods like Community Reinforcement and Family Training (CRAFT) which tries to work with the idea of gradual reinforcement of change rather than abrupt disruptions that can provoke fear and hostility. Studies show up to 70% of families engaged with CRAFT manage to engage their loved ones with treatment within a year while other intervention methods clocked in around 20% at best. 
+
+Nevertheless, with Hazelden alumni spreading across US hospitals looking to fill empty beds for the promise of federal funding, Anderson creating a highly publicized political controversy around scientific critiques, and Johnson promoting interventions from employers and families to funnel the chemically dependent into Minnesota Model treatment programs, all the pieces were there for standardization and institutionalization. In the 1970s, the private hospital lobby operated under an independent non-profit called the JCAH, consisting of:
+
+- The American Medical Association (AMA)
+
+- The American Hospital Association (AHS)
+
+- The American College of Surgeons (ACS)
+
+- The American College of Physicians (ACP)
+
+The JCAH was not a government agency or a body of researchers. It was a trade organization for medical professionals and providers which maintained internal standards to avoid external regulation and inspection from the state. The 1970 Hughes Act gave the JCAH a legal monopoly on approving hospitals for accreditation and thus becoming eligible for Medicare/Medicaid reimbursements. The same Act was responsible for creating the National Institute on Alcohol, Abuse and Alcoholism (NIAAA) that we discussed above, which was not incentivized to monopolize the gatekeeping of treatment protocols the way JCAH was. 
+
+The JCAH feared that either the federal government would step in to regulate the health sector more aggressively or alternative accreditation agencies would emerge that challenged their monopoly based on NIAAA's alternative research projects. To address that fear, the JCAH created an Accreditation Council for Psychiatric Facilities. It was staffed with representatives of the American Psychiatric Association (which uses Benjamin Rush's silhouette in the logo for being one of the first American psychiatrists; he pushed for a disease model of addiction centuries ago). 
+
+Together they came up with the *1972 Accreditation Manual for Psychiatric Facilities* and established 28 components that had to be demonstrated in order for mental health programs to receive accreditation. By 1974, the NIAAA had begun contracting with the JCAH to create standards that medical insurance providers would cover. As the decade went on, insurance companies began offering coverage for alcoholism at the same time that hospitals were suddenly finding themselves with lots of empty beds.
+
+Note: I am still searching for a version of the 1972 manual to reference and share. Frustratingly, many of the sources are paywalled, but that's not that surprising given everything we've seen so far and will continue to see. Apparenty it's still under copyright despite being an accreditation guideline that we're supposed to trust in and that has been cited in court cases about patient rights.
+
+Now let's revisit the book I mentioned at the top, *Broadening the Base of Treatment for Alcohol Problems* (1990):
+
+*Although treatment programs continue to vary along ideological lines, the field has seen in recent years the evolution and emergence of **hybrid programs that claim to reflect the biopsychosocial model**.* 
+
+Notice the wording "claim to reflect." I would interpret that as suggesting that the values of a biopsychosocial model are recognized in the field but still bound to the ingrained institutional practices of the Minnesota Model.
+
+*The major hybrid is the Minnesota Model of Chemical Dependence Intervention and Treatment (**Laundergan, 1982**), a treatment strategy that blends AA and professional concepts and practices. It is widely believed that today the vast majority of U.S. treatment programs, both in the public and private sectors, subscribes to the philosophy and organization of treatment services that has become known simply as the Minnesota model (**Anderson, 1981; Laundergan, 1982**; Hoffmann et al., 1987b).*
+
+Notice the authors being cited and the dates? Laundergan and Anderson from the early 1980s. Notice that they're only being cited for the proposal and adoption of the Minnesota Model, not its efficacy?
+
+*To understand the current status of treatment in this country, it is important to understand the evolution of Minnesota model inpatient treatment programs, a standardized specialist treatment system that has been criticized as emphasizing an overly expensive, inpatient-focused medical model (e.g., **Miller** and Hester, 1987; Yahr, 1988).* 
+
+"Overly expensive" is an interesting critique for a program that was tacitly manualized and operationalized by a private trade organization that deals mostly through an "inpatient-focused medical model" and was aware of taxpayer-funded reimbursements coming through the federal government. Also, this Miller was involved in the studies about CRAFT's efficacy from before, so there's a pattern of some addiction researchers repeatedly refuting the claims made by private individuals and organizations who rush past evidence into dogma.
+
+*The standardized treatment program typically delivered to persons in treatment in the course of a four week inpatient stay, either in a hospital or in a freestanding facility, consists of detoxification, education (based on the disease concept) about the harmful medical and psychosocial effects of excessive alcohol consumption, confrontation, attendance at AA meetings and use of AA materials in developing a recovery plan (“stepwork”), and disulfiram therapy.*
+
+Insurance companies grew to love the Minnesota Model because it was very predictable in terms of costs: the length of stay, structure of treatment, staffing, billing codes, documentation of medical necessity, etc. For hospitals and insurers alike, it became really easy to make calculations like estimating the costs and profits of keeping 25 beds in a rotation for 4 weeks per person. You can't do it that easily with cancer, heart failure, stroke, clot, amputation, infection, or another vector of illness. It also explains why certain therapeutic modalities form the basis for psychoeducation topics, like CBT/DBT that are focused on worksheets and short-term skills development. 
+
+This isn't to say those modalities are inherently wrong or unhelpful, but the incentive behind promoting them as a "gold standard" or "one-size-fits-all" curriculum has to do with how easy it is to operationalize. Even the "evidence-based" marketing around CBT/DBT is heavily rooted in how easy they are to run experiments for compared to psychodynamic/psychoanalytic approaches. You can very easily create a skills module consisting of a certain number of classes and worksheets just like K-12 education, and then claim treatment is done because the patient completed those modules. Continued suffering from symptoms means another set of classes and worksheets under an unfalsifiable presumption that they simply didn't internalize the tools to challenge cognitive distortions well enough for them to be effective. 
+
+Often the metric we use to measure effectiveness depends on numerical self-reporting, like saying that your depression went from an 8 to a 7, or that your sleep went from "Quite a bit" disrupted to "Moderately" disrupted which is one severity category down. It's much harder to evaluate someone who might want to say "I feel just as hopeless as I did last week, but I'm more aware of it as a temporary state, so I can apply some of the coping skills we went over to get me through the day instead of ruminating, but I'd be lying if I said I was at all more optimistic for the future." Does that sound like an 8 to a 7? Do we even know if this is a good thing, whether someone is becoming more dissociated from their daily experiences or applying a metacognitive perspective while self-regulating? I have no clue.
+
+Therapists don't even really have a chance to build a relationship or get a picture of someone's life in just 4 weeks. Good therapists will be upfront about how difficult it would be to address trauma or something meaningful within that time frame. It can take months of conversations to even begin discovering what your traumas might be. Yet, studies increasingly show that for those with co-occurring disorders like PTSD and substance abuse at the same, addressing the two simultaneously rather than waiting for long-term stabilization can be more effective. Common factor studies strongly suggest that a successful and sustained relationship with a therapist makes a bigger difference in your mental health outcomes than the modality they choose. Recovery capital framework studies suggest that community recovery capital in the form of a couple of highly supportive relationships and access to healthcare can do more to improve sustained abstinence and quality of life than individual recovery capital in the form of more coping skills or spirituality. 
+
+Unfortunately, as soon as a monopoly attempts to put uniform standards on something, we add costs on the side of liability and lost innovation. Treatment facilities have to adhere to all kinds of guidelines that were not designed with the patients' outcomes as a priority. Remember that the JCHA was composed of professional organizations in the private hospital industry, not patient advocacy groups or scientific communities. If a facility has to account for justifying a treatment plan, setting up diverse programming like family counseling sessions, hiring qualified staff that are trained in diverse programming, measuring outcomes in a comparable way, securing physical clinical space, maintaining patient privacy, handling medications and adverse reactions, and preparing for inspections or reports to several different groups for accountability, then "experimenting with a brand new state-of-the-art approach" is a borderline implausible task. Not impossible, but certainly a risk that I wouldn't blame any facility or professional for considering unreasonable compared to iterating on the Minnesota Model. 
+
+Personally, I would say Housing First is probably the most viable alternative pathway to the existing standardized model, mostly because it just keeps someone in one safe and stable place long enough to meaningfully engage with treatments and find out what works for them. It was initially proposed to address the issue of homelessness, but I would argue it's an ideal first step towards addressing any debilitating mental health condition. It becomes much easier to apply CRA/CRAFT approaches or therapeutic community approaches that have substantial evidence of their effectiveness but rely on providing a stable network to engage with. For many people, substance abuse is not the most destabilizing factor in their daily life or long-term goals. 
+
+*Although one could trace a number of early precursors of this approach, the efforts begun in Minnesota at the Willmar State Hospital, the Hazelden Foundation, and the Johnson Foundation were particularly influential in the development and spread of this program model and in its adoption as the standard treatment regimen.*
+
+Indeed, we are still attempting to recover from being under their influence.
+
+# Links
+- https://mn.gov/mnddc/past/pdf/80s/87/87-DHS-WRT.pdf
+- https://www.hazeldenbettyford.org/articles/the-minnesota-model
+- https://www.practicalrecovery.com/prblog/how-alcohol-treatment-became-divorced-from-alcohol-science-the-rise-of-the-minnesota-model/
+- https://archive.org/details/slayingdragonhis00whit/page/204/mode/2up
+- https://mn.gov/mnddc/parallels2/pdf/70s/74/74-WCC-ASM.pdf
+- https://archive.wfn.org/1999/07/msg00104.html

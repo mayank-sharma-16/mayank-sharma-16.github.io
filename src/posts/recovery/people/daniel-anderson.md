@@ -1,0 +1,39 @@
+---
+title: Daniel Anderson
+slug: registry/people/daniel-anderson
+---
+
+Daniel Anderson joined the army from 1942 to 1945 as a radarman in the Pacific, after which he used the GI Bill to pursue higher education. He had a poor academic record (he and his friends literally made a game out of trying to get low scores in the past since they hated school), but the College of St. Thomas accepted him despite the missing courses anyways. He enrolled in 1946 and began working at the Hastings State Hospital in 1947, which inspired him to pursue psychology. Dr. Nelson Bradley was the superintendent of Hastings when Anderson met him, and the two hit it off so that Anderson followed Bradely to Willmar State Mental Hospital in 1950.
+
+Anderson pursued a master's degree in clinical psychology from Loyola University, a private Jesuit college, because he disliked the idea of secular psychology divorced from religious beliefs. Jean Joseph Rossi, who joined Willmar, recommended that Anderson complete a dissertation at the University of Ottawa which replaced Sigmund Freud with St. Thomas Aquinas. He abandoned his master's thesis, *An Exploratory Investigation of Anxiety in Alcoholics*, but finished a doctoral dissertation in 1966: *Personality Correlates of Complex Instrumental Avoidance Learning.*
+
+In the early 1960s, the Alcoholic Addiction Project had published papers about the outcomes of the Willmar model for recovery, and it wasn't great. Only a third of patients were described as "improved" in 1957, and only 7% were described as maintaining "continuous abstinence" in 1963. By this point, Anderson had left to accept a leadership position at the Hazelden Institute, where the Hill Family Foundation sponsored an applied research program. He would serve both as Vice-President and CEO. Unfortunately, this is also where Anderson began playing fast and loose with science.
+
+In 1976, David J. Armor, J. Michael Polich, and Harriet B. Stambull were commissioned by the National Institute on Alcohol Abuse and Alcoholism (NIAAA) to study thousands of alcoholics across dozens of federally-funded centers:
+
+*"Client characteristics that may be of prognostic significance in alcoholism, such as social background, ethnicity, marital status, employment, and previous drinking, are examined in detail. Using a definition of remission that includes both abstention and drinking behavior within a range specified as normal, the study finds that 70 percent of those treated are in remission at 6 and at 18 months following entry. These remission rates are quite similar regardless of the type of treatment given."*
+
+The findings would prove to be controversial, as the authors were well-aware:  
+
+*"The authors are aware that some of the findings of the present study-particularly the finding that some alcoholics appear to return to and maintain patterns of normal drinking-may be controversial in some quarters. To remove any possible misunderstanding, the authors wish to emphasize that this study makes no recommendation about treatment goals for alcoholics, and in particular does not recommend or suggest that any alcoholic should resume drinking."*
+
+Let me echo that too: no part of anything I say should be construed as permission, justification, rationalization, recommendation, or suggestion about anyone drinking. 
+
+Nevertheless, this finding posed some challenges for what had become conventions within the culture of addiction treatment. If the data shows that some alcoholics do return to drinking in a pattern that's typical of those never diagnosed as alcoholics, that suggests some problems about the "powerless over alcohol" or "pickles can't go back to cucumbers" lines. Abstinence-only programs could no longer say that their way was the only possible way to address addiction or chemical dependence meaningfully. That's a problem for organizations that have spent a lot of time marketing themselves that way.
+
+The backlash from Anderson, Hazelden, and sympathetic allies on the National Council of Alcoholism (NCA) was strong and swift. They scheduled a press conference on the same day the report was released to claim the information about remission rates would cause alcoholics to resume drinking and relapse. In terms of methodology, they argued the 18-month tracking window of the NIAAA-backed Rand study was too short for a chronic disease that lasted a lifetime. The Rand authors countered that an 18-months window was standard across federal programs. They argued it was also possible that alcoholics who internalized the "powerlessness" narratives would turn a slip at a social event into a fatal spiral over the idea of being doomed after a sip. The heightened stress and anxiety from that alone could be a driver in a relapse, or make a relapse worse.
+
+Hazelden had its own press and publication infrastructure, which meant that information they distributed about programs and outcomes didn't have to go through a peer-review process from the scientific community. Until 1978, Sister Mary Leo Kammeier had been in charge of the program and was consistently publishing in peer-reviewed journals. After her death, it seems everything started going through Hazelden's own press without scientific scrutiny. In 1982, a consultant named Clark Laundergan for Hazelden published *Easy Does It: Alcoholism Treatment Outcomes, Hazelden and the Minnesota Model.* He claimed that 54% of patients from their program stayed abstinent while 18% reported improvement. 72% of patients benefitting from addiction treatment is certainly substantial. 
+
+In response to the counter-arguments from Anderson and Hazelden, the Rand authors did what researchers do when they encounter criticism: more experiments. They designed a 4-year follow-up study of the same cohort they had assessed before, and they found that 46% were still in active remission. 28% stayed completely abstinent but 18% no longer met the criteria for problem drinking. **1 in 5 patients admitted to programs for alcoholism resumed non-problem drinking.**
+
+Andersen's takeaway from the study was that those who attempted non-problem drinking increased their chances of relapsing by 16% compared to those who maintained total abstinence among a subgroup that presented with high physical dependence, which he used to argue that controlled drinking was statistically so unlikely that it should be discounted. The authors pointed out that Andersen conveniently ignored those who presented with low physical dependence who attempted total abstinence **actually had a higher relapse rate** than those just aiming to no longer be problem drinkers.
+
+Meanwhile, Christopher C.H. Cook analyzed the Hazelden data in 1988 and discovered that Laundergan threw out the data for over 2000 patients who had been readmitted or given extended care. He really analyzed just 1200 of the patients who seemed like clean cases that completed the program as intended. When considering all 3638 patients, 37.8% were abstinent, 9.2% showed improvement, and a shocking 53.1% reported no improvement. 
+
+**This is not a minor issue in interpreting data or statistical methodology.** A program that claimed to benefit a supermajority of its patients was actually a failure for most of them. Not only that, the proponents of this program sought to convince the public and policymakers to stop funding research into treatment models that conflicted with theirs. The fear they spread led to media and political backlash, including wealthy donors and philanthropists threatening to pull funding for anything other than abstinence-only guidelines. 
+
+# Links
+- https://www.hazeldenbettyford.org/articles/the-minnesota-model
+- https://www.practicalrecovery.com/prblog/how-alcohol-treatment-became-divorced-from-alcohol-science-the-rise-of-the-minnesota-model/
+- https://www.rand.org/pubs/reports/R1739.html
