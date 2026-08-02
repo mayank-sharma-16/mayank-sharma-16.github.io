@@ -1,0 +1,26 @@
+---
+title: San Francisco Opium Den Ordinance of 1875
+slug: recovery/policy/united-states/california/1870-1879/san-francisco-opium-den-ordinance-of-1875
+---
+
+# Summary
+The San Francisco Opium Den Ordinance of 1875 was the first law in America that banned a non-alcoholic drug by making it a misdemeanor to visit places where people smoked opium. 
+
+It was driven largely over xenophobic fears about growing Chinese communities in the city, as well as concerns that it played a role in attracting white residents to Chinatown establishments away from white-owned ones. In doing so, law enforcement had the legal cover to selectively disrupt Chinese communities under suspicions of being an opium den while white neighborhoods continued using liquid opium as medicine.
+
+# Context
+The 1870s were an economically rough time for California. The Long Depression of 1873 lasted until 1879 as the longest period of economic contraction recognized by the National Bureau of Economic Research. 
+
+Paradoxically, historians mark the beginning of the Second Industrial Revolution around the same time. Factories were adopting new technologies in steel, chemical manufacturing, and electrical grids. This meant goods could be cheaply mass manufactured which drove down their prices globally and cut down the profit margins businesses were expecting. Massive speculation in railroad companies after the Civil War proved to outpace actual returns. The collapse of banking house Jay Cooke & Company triggered panic that led to the temporary closure of the New York Stock Exchange (NYSE). An estimated 18,000 businesses and 89 railroads went bankrupt in the US in the initial years, with a peak unemployment of 14% by 1878. Layoffs and wage cuts were met with violent backlash like the Great Railroad Strike of 1877.
+
+However, finance and economics are hard concepts. Instead of blaming the rampant financial speculation or lack of policies to help workers transition during periods of massive change in the labor market, they blamed immigrants for dragging down wages and using underhanded tactics to undermine white businesses. White saloons and gambling houses viewed Chinatown opium dens as competitors for working-class white men seeking recreational substances. Factory owners and labor leaders alike claimed that opium addiction, though not alcoholism, was affecting the productivity of white workers. The Workingmen's Party of California demanded a boycott of Chinese-made goods and Chinese-owned businesses.
+
+Some of the claims bordered on hysteria and conspiratorial paranoia. Labor organizations practically alleged a nefarious plan to trap white workers in drug dependency in order for Chinese communities to get ahead. Yellow journalism companies ran stories that claimed Chinese men used opium to lure, seduce, and traffick young white women into "white slavery." They would fabricate narratives painting Chinatown as a seedy underbelly and pay locals to pose in ways that fit the story they were trying to write. For politicians, anti-Chinese hysteria became a platform that could unite upper-class business owners fearing labor unrest and working-class European immigrants who feared job competition.
+
+Thus, America's first anti-drug law was born out of a desire to dismantle a minority community that was growing into an economic hub. White residents could still buy laudanum, or liquid opium, sold at pharmacies and high-end hotels in white neighborhoods. Opium itself wasn't being restricted; only the methods and locations used by Chinese communities, namely smoking opium and dens. Local law enforcement had the pretext to raid businesses through Chinatown, which disrupted commerce, devalued real estate, and drove customers to other shops.
+
+If all this sounds eerily familiar, whether you're thinking about the War on Drugs or the fentanyl crisis being blamed on China in recent years despite the finding that most manufacturing happens in illicit labs in Mexico, you're not alone. 
+
+# A Note About Selective Enforcement
+When I see someone fanning the flames of division between local communities through bigotry and prejudice, I instinctively look for the money trail. I am personally of the belief that we as humans default to diversity, trade, and forgiveness until someone thinks they build a monopoly by dividing and conquering. The history of drug regulations makes it really easy to see how arbitrary the line is between "choice available to an informed consenting consumer" and "contagious threat to the entire community that must be eliminated." It's depressingly simple to map that line onto the preexisting ones around race, ethnicity, culture, religion, etc. 
+
