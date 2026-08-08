@@ -13,7 +13,7 @@ Over time, the network also began focusing on supporting change in systems and o
 
 Shut up. This is different. Shut up. Moving on.
 
-On average, it takes an average of 17 years to integrate a new medical intervention nito standard healthcare practice. That lines up with what a professor once gave me as a rule of thumb: assume that American protocols are 5-10 years behind the international standards and assume the international standards are 5-10 years behind the research consensus for state-of-the-art approaches. Some of the evidence-based interventions included motivational interviewing, contingency management, and buprenorphine treatment. CM is among my favorite proposals to address addiction as both social policy and individual assistance. 
+On average, it takes an average of 17 years to integrate a new medical intervention into standard healthcare practice. That lines up with what a professor once gave me as a rule of thumb: assume that American protocols are 5-10 years behind the international standards and assume the international standards are 5-10 years behind the research consensus for state-of-the-art approaches. Some of the evidence-based interventions included motivational interviewing, contingency management, and buprenorphine treatment. CM is among my favorite proposals to address addiction as both social policy and individual assistance. 
 
 The ATTC Network remains one of the longest running public efforts to translate evidence from research into clinical practice.
 

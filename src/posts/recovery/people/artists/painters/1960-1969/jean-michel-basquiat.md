@@ -1,0 +1,3 @@
+---
+title: Jean-Michel Basquiat
+---

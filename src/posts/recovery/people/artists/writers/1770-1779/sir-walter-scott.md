@@ -1,0 +1,3 @@
+---
+title: Sir Walter Scott
+---

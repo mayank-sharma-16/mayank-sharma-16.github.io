@@ -3,6 +3,14 @@ title: Disease Model of Addiction
 slug: reviews/research/models/disease-model
 ---
 
+
+
+# Commentary
+
+When I first heard of the disease model, I honestly shrugged. For an individual who finds themselves in a treatment program, being introduced to the label of a "disease" can feel relatively quaint. It doesn't change the overwhelming burden on the individual to overcome it through some calibration of personal willpower, and it doesn't lessen the impacts of addiction on loved ones or the community in which it occurs. Carl Erik Fisher writes something in his book that resonated with me:
+
+*"'The brain disease model of addiction' can mean different things. The most modest claims are reasonable, bordering on uninteresting: neuroscience can help us to understand addiction, including ways of helping with medical treatments, but it is not necessarily the only way to understand the problem."*
+
 The disease model is as old as Benjamin Rush, a signatory of the Declaration of Independence who had trusted correspondence with Thomas Jefferson and John Adams. 
 
 Rush was a doctor who was unapologetic about Christian education being the bedrock of a democratic republic, but he also relied on his faith to argue against slavery, banning all women from education, and the inhumane treatment of prisoners. His faith drove his commitments to social justice, and that includes social views of those afflicted with "habitual drunkenness." He made several observations that placed addiction into the realm of an "odious disease" or a "disease of the will" where immoral behavior was a symptom rather than a reason to condemn someone. He documented the impact of "habitual drinking" on bodily organs which meant there were undeniably impacts on physiological health, but he also included "madness" that drives one to suicide so that there was a connection between the physical and mental outcomes. Rush is often credited as one of the first American psychiatrists for exploring mental health as a systematic science tied to the body. Although some of his theories didn't pan out (like mental illness being caused by blood vessel issues in the brain), I think that his arguments hold up today as a rebuttal to the moral model. 

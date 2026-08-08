@@ -1,0 +1,3 @@
+---
+title: Christoph Wilhem Hufeland
+---

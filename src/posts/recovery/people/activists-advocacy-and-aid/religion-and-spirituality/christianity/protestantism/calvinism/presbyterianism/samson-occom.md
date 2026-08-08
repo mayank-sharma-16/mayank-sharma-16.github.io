@@ -1,0 +1,3 @@
+---
+title: Samson Occom
+---
