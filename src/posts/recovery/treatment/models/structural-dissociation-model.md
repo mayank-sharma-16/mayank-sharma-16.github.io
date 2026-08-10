@@ -1,0 +1,3 @@
+---
+title: Structural Dissociation Model
+---

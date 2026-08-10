@@ -1,0 +1,3 @@
+---
+title: Behavioral Economics
+---

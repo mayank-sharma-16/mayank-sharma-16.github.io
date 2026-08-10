@@ -14,10 +14,9 @@ The award's name comes from its selection process, which consists entirely of th
 
 So I see this award as a nod to those within ASAM who work on their publications and communications.
 
-It seems Brian Hurley, the ASAM President during the 2024 and 2025 award processes, declined to grant it to anyone. It's possible that the pages are simply not updated or the announcements weren't archived, so I'll update this if I find any more information. 
+It seems Brian Hurley, the ASAM President during the 2024 and 2025 award processes, declined to grant it to anyone. It's possible that the pages are simply not updated or the announcements weren't archived, so I'll update this if I find any more information. On the other hand, a discretionary award can be seen as motivated by political or professional ambitions, so it's possible Hurley just didn't want to enter that thicket.
 
-The 2023 award went to Anthony P. Albanese, who worked to expand associated health training positions within the Department of Veterans Affairs (VA) with an emphasis on shifting to a Whole Health model of car and serving veterans struggling with chronic pain in rural areas. Albanese is also a professor within the University of California system ( Davis). The ASAM President at the time was William F. Haning III, 
-
+The 2023 award went to Anthony P. Albanese, who worked to expand associated health training positions within the Department of Veterans Affairs (VA) with an emphasis on shifting to a Whole Health model of car and serving veterans struggling with chronic pain in rural areas. Albanese is also a professor within the University of California system ( Davis). The ASAM President at the time was William F. Haning III. 
 
 # Links
 - https://www.asam.org/membership/asam-award-programs/presidential-award

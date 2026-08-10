@@ -14,3 +14,7 @@ slug: recovery/literature/books/non-fiction/history/the-urge-our-history-of-addi
 --
 
 *"As many critics have noted, AA was created by and for those in power - namely, white, Protestant, middle-aged, professional men - and it wasn't easy for women in AA in those early days... Dr. Bob in Akron was particularly notorious for distrusting female alcoholics... a common saying of the era warned members, 'Under every skirt there's a slip.'"*
+
+-- 
+
+*"Just like all the other best parts of rehab, it was nothing more than the experience of being around people who understood."*

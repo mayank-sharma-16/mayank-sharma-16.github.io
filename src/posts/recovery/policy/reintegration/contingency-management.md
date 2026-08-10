@@ -24,3 +24,10 @@ We've poured billions into preventation education programs to "Just Say No" or "
 There is no economic reason for this; these approaches have been expensive and regressive failures. Some of our politicians take a deeply perverse pride in taking away the little capital retained by the poorest and most vulnerable members of their constituencies.
 
 All this time, gift cards and basic housing accommodations would have done far more for far cheaper. 
+
+# Notable Mentions
+
+Hannah Pickard, *What Would You Do Alone in a Cage with Nothing But Cocaine?* (2026) 
+
+*"Perhaps even more surprisingly given the dominance of the brain disease model, the most effective treatment for cocaine and some polydrug addictions is not pharmacological but behavioral. Contingency management treatment reliably delivers small rewards, such as prizes, money, and vouchers for meals or movies—or, in the behavioral psychologist Kenneth Silverman’s inspired innovation of a therapeutic workplace, skills training and employment—on condition of drug abstinence. It is based on operant conditioning principles, a form of reinforcement learning originating in the psychologist Edward Thorndike’s discovery of the law of effect at the end of the nineteenth century, and elaborated by B. F. Skinner in the 1930s and 1940s."*
+
