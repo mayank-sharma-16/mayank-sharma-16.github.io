@@ -1,4 +1,4 @@
 ---
-title: The Biology of Desire - Why Addiction is Not a Disease
+title: The Biology of Desire - Why Addiction is Not a Disease by Marc Lewis
 slug: recovery/literature/books/non-fiction/science/pop/the-biology-of-desire
 ---

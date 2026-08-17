@@ -1,5 +1,16 @@
 ---
 title: Panhellenic Medical Congress
+created: 1901
 ---
 
-At the 1903 Pan-Hellenic Medical Conference held in Athens, alcohol was widely considered a poison and psychiatrists were divided between total abstinence and moderation.
+# Overview
+The Panhellenic Medical Congress is one of the oldest medical conferences in Greece, established in 1901 by the Athens Medical Society, which was founded in 1835. Events were hosted periodically until 1975, when the military dictatorship fell and the Athens Medical Society restructured themselves for an annual event. In the 1903 conference, the participants drafted a proposal to run a state-controlled monopoly over quinine, which was influential for Greek public health frameworks.
+
+# Attendees
+- Athanasios Exadaktylos, President of the Panhellenic Medical Association
+
+- Ioannis Arkadianos, President of the European Lifestyle Medicine Organization (ELMO)
+
+- Ioanna Michalopoulou
+
+- Antonia Trichopoulou, pioneer of the Mediterranean diet

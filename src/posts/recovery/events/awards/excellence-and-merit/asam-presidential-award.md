@@ -1,5 +1,5 @@
 ---
-title: ASAM Presidential Award
+title: Presidential Award | ASAM
 slug: recovery/events/awards/asam-presidential-award
 ---
 

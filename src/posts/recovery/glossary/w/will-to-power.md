@@ -1,0 +1,3 @@
+---
+title: Will to Power
+---

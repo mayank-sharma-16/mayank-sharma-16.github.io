@@ -1,3 +1,0 @@
----
-title: Age of Anxiety
----

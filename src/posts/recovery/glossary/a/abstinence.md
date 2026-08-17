@@ -5,7 +5,7 @@ title: Abstinence
 # Summary
 Abstinence refers to refraining from some kind of behavior or substance, as opposed to moderation. In the context of addiction, it means a policy of never using a substance or a process again, usually under the belief that any use will lead to unmanageable consequences.
 
-## Etymology
+## History and Etymology
 In Latin "abstinere" is formed from "ab" as "away from" and "tinere" as "to hold". Together, it means "to hold away from." The noun "abstinentia" came to mean "self-restraint" in a way that still could've applied to moderation as a type of restraint. "Abstinence" begins to appear in Middle English through Old French.
 
 Through the 18th and 19th centuries, temperance movements in Europe and North America began promoting abstinence as the only strategy to meaningfully deal with alcohol. It wasn't just for drinkers, but anyone and everyone, as the substance itself was seen as a problem. "Temperance" also originally meant a type of moderation or self-restraint, as in to temper one's coldness with compassion. 
@@ -16,8 +16,9 @@ As the medical community began seeing addiction as something treatable, they als
 
 From then onwards, "abstinence" became a widely legitimized term used in clinical, recovery, and public settings. 
 
-## Research
+# Commentary
 
+## Is it All-or-Nothing?
 Historically, the emphasis on abstinence as a metric and an ideal outcome meant clinicians and researchers alike paid less attention to other metrics. While there were researchers like D.L. Davies in the 1960s who reported the existence of alcoholics who had returned to moderate drinking, it was still seen as a remote possibility rather than an outcome that could be reasonably achieved as a result of interventions. Still, it established that abstinence and death were not the only two outcomes for alcoholics.
 
 In the 1970s, Linda and Mark Sobell, a married couple who collaborate often on research, ran a trial with 70 male alcoholics who were assigned to a goal of either controlled drinking or abstinence, and then either a control group or a group receiving Individualized Behavior Therapy (IBT). The results showed that, aside from the IBT group having significantly better functioning across the board, some alcoholics had maintained controlled drinking behavior by the 1 year mark. 
