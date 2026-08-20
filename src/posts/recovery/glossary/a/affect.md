@@ -24,4 +24,3 @@ Types of affects used in the Mental Status Examination (MSE) for clinical purpos
 - Incongruent Affect
 
 # Commentary
-Affect is inherently tricky for clinicians to interpret.

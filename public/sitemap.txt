@@ -1,0 +1,3454 @@
+src/
+├── pages
+│   ├── about.md
+│   └── index.md
+├── posts
+│   ├── directory
+│   │   └── index.html
+│   ├── education
+│   │   ├── learning-to-learn
+│   │   │   ├── a-history-of-re-education.md
+│   │   │   ├── index.html
+│   │   │   ├── meta-learning.md
+│   │   │   ├── smart-goals.md
+│   │   │   └── towards-an-intelligible-conversation-about-intelligence.md
+│   │   ├── subjects
+│   │   │   ├── history
+│   │   │   │   ├── imperialism-as-a-family-business.md
+│   │   │   │   ├── index.html
+│   │   │   │   ├── max-weber.md
+│   │   │   │   └── primitive-america.md
+│   │   │   └── religion-philosophy-and-spirituality
+│   │   │       ├── buddhist-modernism.md
+│   │   │       ├── index.html
+│   │   │       ├── perennialism.md
+│   │   │       ├── pragmatism.md
+│   │   │       ├── radical-empiricism.md
+│   │   │       ├── sathya-sai-education-in-human-values-ssehv.md
+│   │   │       ├── stoicism.md
+│   │   │       └── voluntarism.md
+│   │   └── index.html
+│   ├── notes-to-mank
+│   │   └── index.html
+│   ├── rants
+│   │   ├── aa-is-religious.md
+│   │   ├── animal-addiction.md
+│   │   ├── drugs-on-war.md
+│   │   ├── elitism-is-anti-intellectualism.md
+│   │   ├── good-quotes.md
+│   │   ├── goofy-shit.md
+│   │   ├── index.html
+│   │   ├── kill-the-new-age-spirit.md
+│   │   ├── on-decency-in-health-policy.md
+│   │   ├── the-reality-based-community.md
+│   │   └── wikipedia-is-not-a-good-source.md
+│   └── recovery
+│       ├── directories
+│       │   ├── cars-peer-recovery-organizations.md
+│       │   ├── find-treatment-gov.md
+│       │   ├── naatp-addiction-industry-directory.md
+│       │   ├── peergalaxy.md
+│       │   └── shatterproof-treatment-atlas.md
+│       ├── events
+│       │   ├── awards
+│       │   │   ├── excellence-and-merit
+│       │   │   │   ├── lectures
+│       │   │   │   │   └── croonian-medal-and-lecture.md
+│       │   │   │   ├── lifetime-achievement
+│       │   │   │   │   ├── nelson-bradley-career-achievement-award.md
+│       │   │   │   │   └── the-copley-medal.md
+│       │   │   │   ├── asam-presidential-award.md
+│       │   │   │   ├── carl-nowell-leadership-award.md
+│       │   │   │   ├── davida-coady-gorham-medical-professional-of-the-year-award.md
+│       │   │   │   ├── h-westley-clark-award-for-distinguished-service.md
+│       │   │   │   ├── lora-roe-memorial-addiction-counselor-of-the-year-award.md
+│       │   │   │   ├── mel-schulstad-professional-of-the-year-award.md
+│       │   │   │   └── william-f-bill-callahan-leadership-award.md
+│       │   │   ├── grants-and-funding
+│       │   │   │   └── presidents-frontier-award.md
+│       │   │   ├── literary
+│       │   │   │   └── experience-strength-and-hope-award.md
+│       │   │   ├── research-and-discovery
+│       │   │   │   ├── dr-james-west-quality-improvement-award.md
+│       │   │   │   └── marc-galanter-md-annual-award.md
+│       │   │   └── social-impact
+│       │   │       ├── dr-jasper-chen-see-volunteer-leadership-award.md
+│       │   │       ├── dr-peter-hayden-diversity-inclusivity-and-racial-equity-award.md
+│       │   │       ├── john-p-mcgovern-award-on-addiction-and-society.md
+│       │   │       └── michael-ford-journalism-award.md
+│       │   ├── calendars
+│       │   │   ├── united-states
+│       │   │   │   ├── california
+│       │   │   │   │   ├── events-orange-county-intergroup-association.md
+│       │   │   │   │   ├── orange-county-area-activities.md
+│       │   │   │   │   └── southern-california-region-of-narcotics-anonymous.md
+│       │   │   │   └── minnesota
+│       │   │   │       └── minnesota-young-people-in-alcoholics-anonymous-mnypaa.md
+│       │   │   ├── alcoholics-anonymous-calendar-of-events.md
+│       │   │   ├── asam-live-conferences.md
+│       │   │   ├── careers-of-substance-training-and-events.md
+│       │   │   ├── faces-and-voices-of-recovery-events.md
+│       │   │   ├── naadac-calendar-of-events.md
+│       │   │   ├── naatp-events-calendar.md
+│       │   │   └── nbhap-conference-or-summit.md
+│       │   ├── conferences
+│       │   │   ├── art-and-media
+│       │   │   │   ├── addiction-recovery-arts-network-conference.md
+│       │   │   │   └── reel-recovery-film-festival-and-symposium.md
+│       │   │   ├── executive
+│       │   │   │   ├── addiction-leadership-conference.md
+│       │   │   │   └── evive-summit.md
+│       │   │   ├── industry
+│       │   │   │   ├── global-forum-on-nicotine.md
+│       │   │   │   ├── global-tobacco-and-nicotine-forum.md
+│       │   │   │   └── sud-business-summit.md
+│       │   │   ├── peer-and-public
+│       │   │   │   ├── 12-step
+│       │   │   │   │   ├── united-kingdom
+│       │   │   │   │   ├── united-states
+│       │   │   │   │   │   ├── california
+│       │   │   │   │   │   │   ├── all-california-young-people-in-alcoholics-anonymous.md
+│       │   │   │   │   │   │   └── southern-california-aa-convention.md
+│       │   │   │   │   │   ├── minnesota
+│       │   │   │   │   │   │   └── minnesota-young-people-in-alcoholics-anonymous-mnypaa.md
+│       │   │   │   │   │   └── smart-recovery-national-conference.md
+│       │   │   │   │   ├── alcoholics-anonymous-international-convention.md
+│       │   │   │   │   └── international-conference-of-young-people-in-alcoholics-anonymous-icypaa.md
+│       │   │   │   ├── annual-matthew-perry-foundation-summit-on-addiction-and-recovery.md
+│       │   │   │   ├── multiple-pathways-recovery-conference-mprc.md
+│       │   │   │   └── peerpocalypse.md
+│       │   │   ├── politics-and-policy
+│       │   │   │   └── united-states
+│       │   │   │       └── alabama
+│       │   │   │           └── alabama-recovery-advocacy-day.md
+│       │   │   ├── professional
+│       │   │   │   └── asads-conference.md
+│       │   │   └── research
+│       │   │       ├── ASAM-annual-conference.md
+│       │   │       ├── CSAM-annual-conference.md
+│       │   │       ├── global-addiction-conference-gac.md
+│       │   │       ├── ISAJE-conference.md
+│       │   │       ├── national-conference-on-addiction-recovery-science-ncars.md
+│       │   │       └── panhellenic-medical-congress.md
+│       │   ├── fundraisers
+│       │   │   ├── annual-cure-addiction-now-benefit.md
+│       │   │   └── shatterproof-walk-to-end-addiction.md
+│       │   ├── observances
+│       │   │   ├── international-overdose-awareness-day.md
+│       │   │   ├── national-fentanyl-awareness-day.md
+│       │   │   ├── national-prevention-week.md
+│       │   │   └── national-recovery-month.md
+│       │   ├── rallies
+│       │   │   ├── united-states
+│       │   │   │   ├── alabama
+│       │   │   │   │   └── end-addiction-bham-walk.md
+│       │   │   │   └── naatp-hill-day.md
+│       │   │   └── unite-to-face-addiction.md
+│       │   └── training-and-workshops
+│       │       ├── faces-and-voices-of-recovery-training.md
+│       │       ├── hazelden-betty-ford-addiction-recovery-webinars-and-video-conferencesmd
+│       │       ├── mcshin-foundation-technical-assistance-program.md
+│       │       └── naspa-certified-peer-educator-training.md
+│       ├── glossary
+│       │   ├── a
+│       │   │   ├── a-disease-like-any-other.md
+│       │   │   ├── a-priori.md
+│       │   │   ├── aboulia.md
+│       │   │   ├── abstinence-violation-effect-ave.md
+│       │   │   ├── abstinence.md
+│       │   │   ├── abuse.md
+│       │   │   ├── accessibility.md
+│       │   │   ├── accountability.md
+│       │   │   ├── acute-stress-disorder-asd.md
+│       │   │   ├── adaptive.md
+│       │   │   ├── addicere.md
+│       │   │   ├── addict.md
+│       │   │   ├── addiction.md
+│       │   │   ├── addictive-personality.md
+│       │   │   ├── adenosine.md
+│       │   │   ├── adjustment-disorder.md
+│       │   │   ├── adverse-childhood-experience-ace.md
+│       │   │   ├── aerosol.md
+│       │   │   ├── affect.md
+│       │   │   ├── age-of-anxiety.md
+│       │   │   ├── agency.md
+│       │   │   ├── agitation.md
+│       │   │   ├── agonist.md
+│       │   │   ├── aian-american-indians-and-alaska-natives.md
+│       │   │   ├── akrasia.md
+│       │   │   ├── alcohol-tobacco-and-other-drugs-atod.md
+│       │   │   ├── alcoholism.md
+│       │   │   ├── alexithymia.md
+│       │   │   ├── allostasis.md
+│       │   │   ├── allostatic-load.md
+│       │   │   ├── ambivalence.md
+│       │   │   ├── amnesia.md
+│       │   │   ├── analgesia.md
+│       │   │   ├── analog.md
+│       │   │   ├── anesthesia.md
+│       │   │   ├── anesthesiology.md
+│       │   │   ├── anhedonia.md
+│       │   │   ├── anorexia-nervosa.md
+│       │   │   ├── antagonist.md
+│       │   │   ├── anterior-cingulate-cortext.md
+│       │   │   ├── antidepressants.md
+│       │   │   ├── antisocial.md
+│       │   │   ├── antitoxic.md
+│       │   │   ├── anxiety.md
+│       │   │   ├── anxious-attachment.md
+│       │   │   ├── applied-behavioral-analysis.md
+│       │   │   ├── assay.md
+│       │   │   ├── assertive-communication.md
+│       │   │   ├── assessment.md
+│       │   │   ├── at-risk.md
+│       │   │   ├── attachment-theory.md
+│       │   │   ├── attention-deficit-hyperactivity-disorder-adhd.md
+│       │   │   ├── attention.md
+│       │   │   ├── avoidance.md
+│       │   │   ├── avoidant-attachment.md
+│       │   │   └── ayahuasca.md
+│       │   ├── b
+│       │   │   ├── barbiturate.md
+│       │   │   ├── bath-salts.md
+│       │   │   ├── bed-sores.md
+│       │   │   ├── bedside-manner.md
+│       │   │   ├── behavioral-economics.md
+│       │   │   ├── behavioral-neurology.md
+│       │   │   ├── behaviorism.md
+│       │   │   ├── bender.md
+│       │   │   ├── benzedrine.md
+│       │   │   ├── betel-nut.md
+│       │   │   ├── beth-e-meyerson.md
+│       │   │   ├── bigotry-of-low-expectations.md
+│       │   │   ├── binge-drinking.md
+│       │   │   ├── bioavailability.md
+│       │   │   ├── biohackers.md
+│       │   │   ├── black-and-white-thinking.md
+│       │   │   ├── blackout.md
+│       │   │   ├── blood-alcohol-concentration.md
+│       │   │   ├── boredom.md
+│       │   │   ├── borrachos.md
+│       │   │   ├── brain-fog.md
+│       │   │   ├── breathalyzer.md
+│       │   │   ├── brief-alcohol-screening-and-intervention-for-college-students-basics.md
+│       │   │   ├── brief-motivational-intervention.md
+│       │   │   ├── brownout.md
+│       │   │   ├── bulimia-nervosa.md
+│       │   │   └── burnout.md
+│       │   ├── c
+│       │   │   ├── c-ptsd.md
+│       │   │   ├── caffeine.md
+│       │   │   ├── california-sober.md
+│       │   │   ├── cannabinoids.md
+│       │   │   ├── capsaicin.md
+│       │   │   ├── carcinogen.md
+│       │   │   ├── caregiving.md
+│       │   │   ├── case-management.md
+│       │   │   ├── category-error.md
+│       │   │   ├── catharsis.md
+│       │   │   ├── cathinones.md
+│       │   │   ├── catnip.md
+│       │   │   ├── chemical-imbalance.md
+│       │   │   ├── child-abuse.md
+│       │   │   ├── chinatown.md
+│       │   │   ├── chloroform.md
+│       │   │   ├── chronic-disease.md
+│       │   │   ├── chronic-pain.md
+│       │   │   ├── cid-corporate-induced-disorder.md
+│       │   │   ├── cinchona.md
+│       │   │   ├── circular-inference.md
+│       │   │   ├── clinical-decision-support.md
+│       │   │   ├── clinical-trial.md
+│       │   │   ├── cns-central-nervous-system.md
+│       │   │   ├── co-occurring-disorders.md
+│       │   │   ├── co-regulation.md
+│       │   │   ├── coca.md
+│       │   │   ├── codependence.md
+│       │   │   ├── cognitive-distortion.md
+│       │   │   ├── cognitive-load.md
+│       │   │   ├── cognitive-reframing.md
+│       │   │   ├── cold-intimacies.md
+│       │   │   ├── communities-mobilizing-for-change-on-alcohol-cmca.md
+│       │   │   ├── community-based-participatory-action-research-cbpar.md
+│       │   │   ├── community-trials.md
+│       │   │   ├── comorbidities.md
+│       │   │   ├── compulsion.md
+│       │   │   ├── computational-psychiatry.md
+│       │   │   ├── concentration.md
+│       │   │   ├── confession.md
+│       │   │   ├── confirmation-bias.md
+│       │   │   ├── consent.md
+│       │   │   ├── consumerism.md
+│       │   │   ├── contaminant.md
+│       │   │   ├── contingency-management.md
+│       │   │   ├── continuum-of-care.md
+│       │   │   ├── convulsions.md
+│       │   │   ├── core-beliefs.md
+│       │   │   ├── corporate-social-responsibility-csr.md
+│       │   │   ├── cost-benefit-analysis.md
+│       │   │   ├── cost-effectiveness-analysis.md
+│       │   │   ├── counseling.md
+│       │   │   ├── cpa-corporate-political-activities.md
+│       │   │   ├── crack-baby.md
+│       │   │   ├── crack-cocaine.md
+│       │   │   ├── crank.md
+│       │   │   ├── crisis-centers.md
+│       │   │   ├── cross-reaction.md
+│       │   │   ├── cross-talk.md
+│       │   │   └── cuat-cannabis-used-as-treatment.md
+│       │   ├── d
+│       │   │   ├── daily-reprieve.md
+│       │   │   ├── death-drive.md
+│       │   │   ├── decriminalization.md
+│       │   │   ├── deep-learning-model.md
+│       │   │   ├── degeneration.md
+│       │   │   ├── delirium-tremens.md
+│       │   │   ├── delirium.md
+│       │   │   ├── delusion.md
+│       │   │   ├── denial.md
+│       │   │   ├── dens.md
+│       │   │   ├── dependence.md
+│       │   │   ├── depersonalization.md
+│       │   │   ├── depressant.md
+│       │   │   ├── depression.md
+│       │   │   ├── derealization.md
+│       │   │   ├── designer-drug.md
+│       │   │   ├── detail-man.md
+│       │   │   ├── determinism.md
+│       │   │   ├── detoxification.md
+│       │   │   ├── deviant.md
+│       │   │   ├── diabetes.md
+│       │   │   ├── dimethyltryptamine-dmt.md
+│       │   │   ├── dipsomania.md
+│       │   │   ├── disability.md
+│       │   │   ├── discounting.md
+│       │   │   ├── disease.md
+│       │   │   ├── disorder.md
+│       │   │   ├── dissociation.md
+│       │   │   ├── distress-tolerance.md
+│       │   │   ├── diversion.md
+│       │   │   ├── diversity-equity-inclusion.md
+│       │   │   ├── doomscrolling.md
+│       │   │   ├── dopamine.md
+│       │   │   ├── drift-diffusion.md
+│       │   │   ├── driving-under-influence-dui.md
+│       │   │   ├── drug-consumption-room-dcr.md
+│       │   │   ├── drug-users-unions.md
+│       │   │   ├── druggist.md
+│       │   │   ├── dual-diagnosis.md
+│       │   │   ├── dysphoria.md
+│       │   │   └── dysregulation.md
+│       │   ├── e
+│       │   │   ├── eating-disorder-ed.md
+│       │   │   ├── ecstacy.md
+│       │   │   ├── eddd-electronic-drug-delivery-devices.md
+│       │   │   ├── edibles.md
+│       │   │   ├── ego.md
+│       │   │   ├── elder-abuse.md
+│       │   │   ├── electroencephalogram.md
+│       │   │   ├── electronic-health-records.md
+│       │   │   ├── emergency-medicine.md
+│       │   │   ├── empathy.md
+│       │   │   ├── employee-assistance-program-eap.md
+│       │   │   ├── endocannabinoids.md
+│       │   │   ├── enmeshment.md
+│       │   │   ├── entheos.md
+│       │   │   ├── entitlement.md
+│       │   │   ├── epidemiology.md
+│       │   │   ├── epigenetics.md
+│       │   │   ├── equal-opportunity.md
+│       │   │   ├── ethanol.md
+│       │   │   ├── ethnicity.md
+│       │   │   ├── eugenics.md
+│       │   │   ├── euphoria.md
+│       │   │   ├── evidence-based-intervention.md
+│       │   │   ├── excoriation-disorder.md
+│       │   │   ├── executive-dysfunction.md
+│       │   │   ├── explanandum.md
+│       │   │   ├── explanans.md
+│       │   │   ├── explication.md
+│       │   │   └── expungement.md
+│       │   ├── f
+│       │   │   ├── fascism.md
+│       │   │   ├── faustian-bargain.md
+│       │   │   ├── fentanyl-test-strips-fts.md
+│       │   │   ├── fentanyl.md
+│       │   │   ├── fermentation.md
+│       │   │   ├── fidelity.md
+│       │   │   ├── fiend.md
+│       │   │   ├── fight-flight-freeze-fawn.md
+│       │   │   ├── firewater-myths.md
+│       │   │   ├── first-pass-metabolism.md
+│       │   │   ├── fixed-mindset.md
+│       │   │   ├── flashbacks.md
+│       │   │   ├── formaldehyde.md
+│       │   │   ├── freebase.md
+│       │   │   ├── functional-magnetic-resonance-imaging.md
+│       │   │   └── future-tripping.md
+│       │   ├── g
+│       │   │   ├── gambling-disorder.md
+│       │   │   ├── gangrene.md
+│       │   │   ├── ganja.md
+│       │   │   ├── gender.md
+│       │   │   ├── geneva.md
+│       │   │   ├── gin-craze.md
+│       │   │   ├── ginseng.md
+│       │   │   ├── global-north-global-south.md
+│       │   │   ├── gout.md
+│       │   │   ├── gratification.md
+│       │   │   ├── grog.md
+│       │   │   ├── growth-mindset.md
+│       │   │   ├── grue.md
+│       │   │   ├── guardianship.md
+│       │   │   └── guilt.md
+│       │   ├── h
+│       │   │   ├── habit-forming.md
+│       │   │   ├── habitual-drunkenness.md
+│       │   │   ├── half-life.md
+│       │   │   ├── hallucinogenic.md
+│       │   │   ├── hangover.md
+│       │   │   ├── harm-reduction.md
+│       │   │   ├── hashish.md
+│       │   │   ├── hate-crime.md
+│       │   │   ├── hazardous.md
+│       │   │   ├── heavy-drinking.md
+│       │   │   ├── hedonism.md
+│       │   │   ├── hepatitis-c-virus.md
+│       │   │   ├── heroin.md
+│       │   │   ├── higher-power.md
+│       │   │   ├── hnb-heat-not-burn.md
+│       │   │   ├── holistic.md
+│       │   │   ├── homeostasis.md
+│       │   │   ├── housing-first.md
+│       │   │   ├── human-immunodeficiency-virus-hiv.md
+│       │   │   ├── humanism.md
+│       │   │   ├── hungry-angry-lonely-tired-halt.md
+│       │   │   ├── hypervigilance.md
+│       │   │   └── hysteria.md
+│       │   ├── i
+│       │   │   ├── i-statements.md
+│       │   │   ├── iatrogenic.md
+│       │   │   ├── im-intramuscular.md
+│       │   │   ├── impairment.md
+│       │   │   ├── imposter-syndrome.md
+│       │   │   ├── impulsivity.md
+│       │   │   ├── industrialism.md
+│       │   │   ├── inebriety.md
+│       │   │   ├── inflammation.md
+│       │   │   ├── informed-consent.md
+│       │   │   ├── inner-child.md
+│       │   │   ├── inner-city.md
+│       │   │   ├── inpatient.md
+│       │   │   ├── insanity.md
+│       │   │   ├── insomnia.md
+│       │   │   ├── intelligence.md
+│       │   │   ├── intensive-outpatient-program-iop.md
+│       │   │   ├── intertemporal-bargaining.md
+│       │   │   ├── intervention.md
+│       │   │   ├── intimate-partner-violence-ivp.md
+│       │   │   ├── intrinsic-motivation.md
+│       │   │   ├── intrusive-thoughts.md
+│       │   │   └── iv-intravenous.md
+│       │   ├── j
+│       │   │   ├── jim-crow.md
+│       │   │   ├── joan-vollmer.md
+│       │   │   ├── junkies.md
+│       │   │   ├── just-world.md
+│       │   │   └── justice-involved-individual.md
+│       │   ├── k
+│       │   │   ├── kava.md
+│       │   │   ├── ketamine.md
+│       │   │   ├── kinship.md
+│       │   │   ├── kleptomania.md
+│       │   │   └── kratom.md
+│       │   ├── l
+│       │   │   ├── learned-helplessness.md
+│       │   │   ├── learning.md
+│       │   │   ├── legalization.md
+│       │   │   ├── lethargy.md
+│       │   │   ├── lex-talionis.md
+│       │   │   ├── liberal.md
+│       │   │   ├── liquid-chromatography-mass-spectrometry-lc-ms.md
+│       │   │   ├── lived-experience.md
+│       │   │   ├── living-amends.md
+│       │   │   ├── lobbying.md
+│       │   │   ├── locus-of-control.md
+│       │   │   └── longitudinal-study.md
+│       │   ├── m
+│       │   │   ├── madya.md
+│       │   │   ├── magic-mushrooms.md
+│       │   │   ├── maintenance.md
+│       │   │   ├── maladaptive.md
+│       │   │   ├── marginalization.md
+│       │   │   ├── masking.md
+│       │   │   ├── mass-incarceration.md
+│       │   │   ├── medicalisation.md
+│       │   │   ├── meditation.md
+│       │   │   ├── mediterranean-diet.md
+│       │   │   ├── mescaline.md
+│       │   │   ├── mesolimbic-system.md
+│       │   │   ├── meta-analysis.md
+│       │   │   ├── metabolism.md
+│       │   │   ├── metabolite.md
+│       │   │   ├── metacognition.md
+│       │   │   ├── methamphetamine.md
+│       │   │   ├── methanol.md
+│       │   │   ├── mindfulness.md
+│       │   │   ├── mishirabe.md
+│       │   │   ├── moderation.md
+│       │   │   ├── modernity.md
+│       │   │   ├── moral-psychology.md
+│       │   │   ├── moralism.md
+│       │   │   ├── morphinism.md
+│       │   │   ├── motivated-belief.md
+│       │   │   ├── mtf-monitoring-the-future.md
+│       │   │   └── mutual-aid.md
+│       │   ├── n
+│       │   │   ├── naikan.md
+│       │   │   ├── negative-reinforcement.md
+│       │   │   ├── neglect.md
+│       │   │   ├── neurasthenia.md
+│       │   │   ├── neurobiology.md
+│       │   │   ├── neuroeconomics.md
+│       │   │   ├── neuroplasticity.md
+│       │   │   ├── neuropsychology.md
+│       │   │   ├── neurotransmitter.md
+│       │   │   ├── nhopi-native-hawaiian-or-pacific-islanders.md
+│       │   │   ├── nimby.md
+│       │   │   ├── nitazenes.md
+│       │   │   ├── nitrous-oxide.md
+│       │   │   ├── norepinephrine.md
+│       │   │   ├── novel-psychoactive-substances-nps.md
+│       │   │   ├── nsduh-national-survey-on-drug-use-and-health.md
+│       │   │   ├── nutritionism.md
+│       │   │   └── nutritionist.md
+│       │   ├── o
+│       │   │   ├── obesity.md
+│       │   │   ├── oncology.md
+│       │   │   ├── opioid-treatment-program.md
+│       │   │   ├── opioid-use-disorders-oud.md
+│       │   │   ├── opium-wars.md
+│       │   │   ├── opium.md
+│       │   │   ├── over-the-counter-otc.md
+│       │   │   ├── overdose-prevention-site-ops.md
+│       │   │   └── overdose.md
+│       │   ├── p
+│       │   │   ├── painkillers.md
+│       │   │   ├── palliative-care.md
+│       │   │   ├── paranoia.md
+│       │   │   ├── parentification.md
+│       │   │   ├── pathologize.md
+│       │   │   ├── pcp-phencyclidine.md
+│       │   │   ├── peer-recovery.md
+│       │   │   ├── people-pleasing.md
+│       │   │   ├── peptides.md
+│       │   │   ├── perfectionism.md
+│       │   │   ├── permanent-supportive-housing-psh.md
+│       │   │   ├── person-first-language.md
+│       │   │   ├── personal-inventory.md
+│       │   │   ├── peyote.md
+│       │   │   ├── pharmacodynamics.md
+│       │   │   ├── pharmacogenetics.md
+│       │   │   ├── pharmacogenomics.md
+│       │   │   ├── pharmacokinetics.md
+│       │   │   ├── philopotes.md
+│       │   │   ├── php-partial-hospitalization-program.md
+│       │   │   ├── physician-health-program-php.md
+│       │   │   ├── pink-cloud-syndrome.md
+│       │   │   ├── pleasure-principle.md
+│       │   │   ├── pluralism.md
+│       │   │   ├── polysubstance.md
+│       │   │   ├── poppers.md
+│       │   │   ├── pornography.md
+│       │   │   ├── positive-reinforcement.md
+│       │   │   ├── positivism.md
+│       │   │   ├── postexposure-prophylaxis-pep.md
+│       │   │   ├── potency.md
+│       │   │   ├── potentiation.md
+│       │   │   ├── power-of-attorney.md
+│       │   │   ├── pragmatism.md
+│       │   │   ├── preexposure-prophylaxis-prep.md
+│       │   │   ├── prefrontal-cortex.md
+│       │   │   ├── prescription-drug-use-disorder-pdud.md
+│       │   │   ├── prevalence.md
+│       │   │   ├── primary-care-physician-pcp.md
+│       │   │   ├── prior-authorization.md
+│       │   │   ├── prognosis.md
+│       │   │   ├── prohibitionism.md
+│       │   │   ├── prolonged-grief-disorder-pgd.md
+│       │   │   ├── prosocial.md
+│       │   │   ├── prostitution.md
+│       │   │   ├── protective-factors.md
+│       │   │   ├── psilocybin.md
+│       │   │   ├── psychedelic.md
+│       │   │   ├── psychiatry.md
+│       │   │   ├── psychogenic.md
+│       │   │   ├── psychology.md
+│       │   │   ├── psychoneuroendicronology.md
+│       │   │   ├── psychoneuroimmunology.md
+│       │   │   ├── psychoneuropharmacology.md
+│       │   │   ├── psychopharmacology.md
+│       │   │   ├── psychosis.md
+│       │   │   ├── psychoterratic.md
+│       │   │   ├── psychotropics.md
+│       │   │   └── public-health-emergency-phe.md
+│       │   ├── q
+│       │   │   ├── quaaludes.md
+│       │   │   ├── qualitative.md
+│       │   │   ├── quality-adjusted-life-year.md
+│       │   │   ├── quantitative.md
+│       │   │   └── quinine.md
+│       │   ├── r
+│       │   │   ├── race.md
+│       │   │   ├── randomized-controlled-trials.md
+│       │   │   ├── reconsolidation.md
+│       │   │   ├── recovery-capital.md
+│       │   │   ├── recovery-oriented-care-roc.md
+│       │   │   ├── recovery-oriented-systems-of-care-rosc.md
+│       │   │   ├── recovery.md
+│       │   │   ├── redlining.md
+│       │   │   ├── rehab-riviera.md
+│       │   │   ├── rehab.md
+│       │   │   ├── relapse-prevention.md
+│       │   │   ├── relapse.md
+│       │   │   ├── release-of-information-roi.md
+│       │   │   ├── remission.md
+│       │   │   ├── resentment.md
+│       │   │   ├── residential-treatment.md
+│       │   │   ├── resilience.md
+│       │   │   ├── responsible-beverage-service-rbs.md
+│       │   │   ├── risk-factors.md
+│       │   │   ├── rock-bottom.md
+│       │   │   ├── romanticism.md
+│       │   │   └── rumination.md
+│       │   ├── s
+│       │   │   ├── safe-harbor.md
+│       │   │   ├── safe-sex.md
+│       │   │   ├── saloon.md
+│       │   │   ├── salvia.md
+│       │   │   ├── sanitarium.md
+│       │   │   ├── sapros.md
+│       │   │   ├── schema.md
+│       │   │   ├── scientification.md
+│       │   │   ├── screening-and-brief-intervention-sbi.md
+│       │   │   ├── screening.md
+│       │   │   ├── scrip-doctors.md
+│       │   │   ├── secondary-victims.md
+│       │   │   ├── sedative-hypnotic.md
+│       │   │   ├── segregation.md
+│       │   │   ├── self-control.md
+│       │   │   ├── self-deception.md
+│       │   │   ├── self-determination.md
+│       │   │   ├── self-esteem.md
+│       │   │   ├── self-image.md
+│       │   │   ├── self-worth.md
+│       │   │   ├── self.md
+│       │   │   ├── serotonin.md
+│       │   │   ├── sex.md
+│       │   │   ├── sexually-transmitted-infections-sti.md
+│       │   │   ├── shame.md
+│       │   │   ├── sharps.md
+│       │   │   ├── shi-jiu.md
+│       │   │   ├── skid-row.md
+│       │   │   ├── sle-sober-living-environment.md
+│       │   │   ├── slip.md
+│       │   │   ├── snuff.md
+│       │   │   ├── social-capital.md
+│       │   │   ├── social-determinants-of-health-sdoh.md
+│       │   │   ├── social-justice.md
+│       │   │   ├── solastalgia.md
+│       │   │   ├── soma.md
+│       │   │   ├── somaticism.md
+│       │   │   ├── spirits.md
+│       │   │   ├── spiritual-awakening.md
+│       │   │   ├── ssp-syringe-services-program.md
+│       │   │   ├── state-unintentional-drug-overdose-reporting-system-sudors.md
+│       │   │   ├── stereotype.md
+│       │   │   ├── sterilization.md
+│       │   │   ├── steroids.md
+│       │   │   ├── stimulant.md
+│       │   │   ├── stoicism.md
+│       │   │   ├── stress.md
+│       │   │   ├── subintentional-homicide.md
+│       │   │   ├── sublingual.md
+│       │   │   ├── substance-abuse.md
+│       │   │   ├── substance-misuse.md
+│       │   │   ├── substance-use-disorder.md
+│       │   │   ├── supervised-injection-facility-sif.md
+│       │   │   ├── suppository.md
+│       │   │   ├── sura.md
+│       │   │   ├── survival-mode.md
+│       │   │   ├── syncretic.md
+│       │   │   ├── syndrome.md
+│       │   │   └── syphilis.md
+│       │   ├── t
+│       │   │   ├── tabula-rasa.md
+│       │   │   ├── take-back-program.md
+│       │   │   ├── tctp-tobacco-containing-tobacco-products.md
+│       │   │   ├── tecato-gusano.md
+│       │   │   ├── teetotaler.md
+│       │   │   ├── teleheath.md
+│       │   │   ├── temperance.md
+│       │   │   ├── thc.md
+│       │   │   ├── therapeutic-entitlement.md
+│       │   │   ├── therapeutic-populism.md
+│       │   │   ├── three-martini-lunch.md
+│       │   │   ├── tolerance.md
+│       │   │   ├── tough-love.md
+│       │   │   ├── toxicology.md
+│       │   │   ├── transitional-housing.md
+│       │   │   ├── trauma-bonding.md
+│       │   │   ├── trauma-informed.md
+│       │   │   ├── trauma.md
+│       │   │   └── trigger.md
+│       │   ├── u
+│       │   │   └── utility.md
+│       │   ├── v
+│       │   │   ├── victim-mentality.md
+│       │   │   ├── voc-volatile-organic-compound.md
+│       │   │   └── vta-ventral-tegmental-area.md
+│       │   ├── w
+│       │   │   ├── whole-person-care.md
+│       │   │   ├── withdrawal.md
+│       │   │   ├── woodstock.md
+│       │   │   ├── workaholism.md
+│       │   │   └── wrap-around-services.md
+│       │   ├── y
+│       │   │   ├── yage-vine.md
+│       │   │   └── yoga.md
+│       │   └── z
+│       │       ├── z-drugs.md
+│       │       ├── zoopharmacognosy.md
+│       │       └── zyklon-b.md
+│       ├── helplines
+│       ├── literature
+│       │   ├── books
+│       │   │   ├── fiction
+│       │   │   │   ├── crime
+│       │   │   │   │   └── the-man-with-the-golden-arm-by-nelson-algren-1949.md
+│       │   │   │   ├── detective
+│       │   │   │   │   └── the-moonstone-a-romance-by-wilkie-collins-1868.md.md
+│       │   │   │   ├── didactic
+│       │   │   │   │   ├── allegories
+│       │   │   │   │   ├── devotional
+│       │   │   │   │   ├── dystopian
+│       │   │   │   │   ├── temperance
+│       │   │   │   │   │   ├── domestic
+│       │   │   │   │   │   │   └── the-glass-or-the-trials-of-helen-more-by-maria-lamas-1849.md
+│       │   │   │   │   │   ├── gothic
+│       │   │   │   │   │   │   └── franklin-evans-by-walt-whitman-1842.md
+│       │   │   │   │   │   ├── juvenile
+│       │   │   │   │   │   │   └── black-jack-and-other-temperance-tales-for-boys-and-girls-by-frances-e-reade-1884.md
+│       │   │   │   │   │   ├── washingtonian
+│       │   │   │   │   │   │   └── six-nights-with-the-washingtonians-by-timothy-shay-arthur-1842.md
+│       │   │   │   │   │   ├── confessions-of-a-decanter-by-clara-lucas-balfour-1861.md
+│       │   │   │   │   │   ├── sowing-and-reaping-a-temperance-story-by-frances-ellen-watkins-harper-1889.md
+│       │   │   │   │   │   ├── sowing-seeds-in-danny-by-nellie-mcclung-1908.md
+│       │   │   │   │   │   ├── ten-nights-in-a-bar-room-and-what-i-saw-there-by-timothy-shay-arthur-1854.md
+│       │   │   │   │   │   ├── the-mystery-of-edwin-drood-by-charles-dickens-1870.md
+│       │   │   │   │   │   ├── the-senators-son-or-the-trials-of-intemperance-by-metta-victoria-fuller-victor-1853.md
+│       │   │   │   │   │   ├── walter-woolfe-or-the-doom-of-the-drinker-by-thomas-dunn-english-1842.md
+│       │   │   │   │   │   └── white-jacket-by-herman-melville-1850.md
+│       │   │   │   │   └── utopian
+│       │   │   │   ├── fantasy
+│       │   │   │   │   ├── best-served-cold-by-joe-abercrombie-2009.md
+│       │   │   │   │   ├── the-green-bone-saga.md
+│       │   │   │   │   ├── the-poppy-war-by-rf-kuang-2018.md
+│       │   │   │   │   └── the-powder-mage-trilogy.md
+│       │   │   │   ├── historical
+│       │   │   │   │   ├── sea-of-poppies-by-amitav-ghosh-2008.md
+│       │   │   │   │   └── wandering-stars-by-tommy-orange-2024.md
+│       │   │   │   ├── horror
+│       │   │   │   │   ├── gothic
+│       │   │   │   │   │   ├── doctor-sleep-2013.md
+│       │   │   │   │   │   ├── ghost-eaters-clay-mcleod-chapman-2022.md
+│       │   │   │   │   │   ├── house-of-leaves.md
+│       │   │   │   │   │   ├── the-drawing-of-the-three.md
+│       │   │   │   │   │   ├── the-shining.md
+│       │   │   │   │   │   └── the-strange-case-of-dr-jekyll-and-mr-hyde.md
+│       │   │   │   │   ├── psychological
+│       │   │   │   │   │   └── misery-by-stephen-king.md
+│       │   │   │   │   ├── fiend-a-novel-2013.md
+│       │   │   │   │   ├── garden-of-fiends-tales-of-addiction-horror-2017.md
+│       │   │   │   │   ├── negative-space-2020-by-b-r-yeager.md
+│       │   │   │   │   └── the-hellbound-heart.md
+│       │   │   │   ├── philosophical
+│       │   │   │   │   ├── infinite-jest.md
+│       │   │   │   │   └── walden-two.md
+│       │   │   │   ├── psychological
+│       │   │   │   │   ├── black-river-orchard-by-chuck-wendig.md
+│       │   │   │   │   ├── queen-of-spades-by-tchaikovsky-1890.md
+│       │   │   │   │   ├── recovery.md
+│       │   │   │   │   ├── the-alcoholics-jim-thompson.md
+│       │   │   │   │   ├── the-gambler-by-fyodor-dostoevsky-1866.md
+│       │   │   │   │   └── under-the-volcano.md
+│       │   │   │   ├── realism
+│       │   │   │   │   ├── demon-copperhead-by-barbara-kingsolver-2022.md
+│       │   │   │   │   ├── jesus-son-by-denis-johnson-1992.md
+│       │   │   │   │   ├── junky-by-william-s-burroughs-1953.md
+│       │   │   │   │   ├── party-girl-a-comic-novel-about-addiction-and-recovery-by-anna-david-2024.md
+│       │   │   │   │   └── shuggie-bain-by-douglas-stuart-2020.md
+│       │   │   │   ├── science-fiction
+│       │   │   │   │   ├── a-scanner-darkly.md
+│       │   │   │   │   ├── naked-lunch.md
+│       │   │   │   │   ├── the-shining-girls-by-lauren-beukes-2013.md
+│       │   │   │   │   └── vurt-by-jeff-noon-1993.md
+│       │   │   │   ├── young-adult
+│       │   │   │   │   └── recovery-road.md
+│       │   │   │   └── the-lost-weekend.md
+│       │   │   ├── non-fiction
+│       │   │   │   ├── biographical
+│       │   │   │   │   ├── autobiographical
+│       │   │   │   │   │   ├── memoirs
+│       │   │   │   │   │   │   ├── 1600-1609
+│       │   │   │   │   │   │   │   └── tuzk-e-jahangiri-by-jahangir.md
+│       │   │   │   │   │   │   ├── 2000-2009
+│       │   │   │   │   │   │   │   └── drinking-a-love-story-by-caroline-knapp.md
+│       │   │   │   │   │   │   ├── beautiful-boy-a-fathers-journey-through-his-sons-addiction-2008-by-david-sheff.md.md
+│       │   │   │   │   │   │   ├── blackout-remembering-the-things-I-drank-to-forget.md
+│       │   │   │   │   │   │   ├── confessions-by-saint-augustine-of-hippo.md
+│       │   │   │   │   │   │   ├── doctor-judas-by-william-rosser-cobbe-1895.md
+│       │   │   │   │   │   │   ├── lonely-boy-tales-from-a-sex-pistol-by-steve-jones-2017.md
+│       │   │   │   │   │   │   ├── memoirs-of-an-addicted-brain-a-neuroscientist-examines-his-former-life-on-drugs-2011-by-marc-lewis.md
+│       │   │   │   │   │   │   ├── teenage-degenerate-a-memoir-that-explores-the-depths-of-methamphetamine-and-drug-addiction-2016-by-scott-c-sterling.md
+│       │   │   │   │   │   │   ├── the-addiction-manifesto-2018-by-jerry-weaver.md
+│       │   │   │   │   │   │   ├── the-basketball-diaries-1978-by-jim-carroll.md
+│       │   │   │   │   │   │   ├── the-weight-of-air-a-story-of-the-lies-about-addiction-and-the-truth-about-recovery.md
+│       │   │   │   │   │   │   ├── tweak-growing-up-on-methamphetamines.md
+│       │   │   │   │   │   │   ├── unwifeable-a-memoir.md
+│       │   │   │   │   │   │   └── we-all-fall-down-living-with-addiction.md
+│       │   │   │   │   │   └── the-hasheesh-eater-by-fitz-hugh-ludlow-1857.md
+│       │   │   │   │   ├── a-common-struggle-a-personal-journey-through-the-past-and-future-of-mental-illness-and-addiction.md
+│       │   │   │   │   └── mrs-d-is-going-without.md
+│       │   │   │   ├── cultural-commentary
+│       │   │   │   │   ├── 1980-1989
+│       │   │   │   │   │   └── constructive-drinking-perspectives-on-drink-from-anthropology-by-mary-douglas-1987.md
+│       │   │   │   │   ├── america-the-anxious-how-our-pursuit-of-happiness-is-creating-a-nation-of-nervous-wrecks.md
+│       │   │   │   │   ├── bright-sided-how-positive-thinking-is-undermining-america.md
+│       │   │   │   │   ├── chasing-the-scream-the-first-and-last-days-of-the-war-on-drugs-by-johann-hari-2015.md
+│       │   │   │   │   ├── dope-the-story-of-the-living-dead-1928.md
+│       │   │   │   │   ├── drink-the-intimate-relationship-between-women-and-alcohol-2013-by-anne-dowsett-johnston.md
+│       │   │   │   │   ├── happycracy.md
+│       │   │   │   │   ├── manufacturing-happy-citizens.md
+│       │   │   │   │   ├── therapy-culture-cultivating-vulnerability-in-an-uncertain-age.md
+│       │   │   │   │   └── triumph-of-the-therapeutic.md
+│       │   │   │   ├── history
+│       │   │   │   │   ├── ancient
+│       │   │   │   │   │   ├── egypt
+│       │   │   │   │   │   │   ├── ancient-egyptian-medicine-1996-by-john-f-nunn.md
+│       │   │   │   │   │   │   └── the-papyrus-ebers-ancient-egyptian-medicine-2021-by-cyril-p-bryan.md
+│       │   │   │   │   │   └── greece
+│       │   │   │   │   ├── international
+│       │   │   │   │   │   └── alcohol-psychiatry-and-society-comparative-and-transnational-perspectives-c-1700-1990s.md
+│       │   │   │   │   ├── mutual-aid
+│       │   │   │   │   │   ├── a-history-of-agnostics-in-aa.md
+│       │   │   │   │   │   ├── aa-comes-of-age.md
+│       │   │   │   │   │   └── writing-the-big-book-the-creation-of-aa-2019-by-william-h-schaberg.md
+│       │   │   │   │   ├── united-states
+│       │   │   │   │   │   ├── bad-habits-drinking-smoking-taking-drugs-gambling-sexual-misbehavior-and-swearing-in-american-history-by-john-chynoweth-buurnham-1992.md
+│       │   │   │   │   │   ├── dopesick-dealers-doctors-and-the-drug-company-that-addicted-america-by-beth-macy-2018.md
+│       │   │   │   │   │   ├── dreamland-the-true-tale-of-americas-opiate-epidemic-by-sam-quinones-2015.md
+│       │   │   │   │   │   └── forgotten-allies-the-oneida-indians-and-the-american-revolution-by-joseph-t-glatthaar-and-james-kirby-martin.md.md
+│       │   │   │   │   ├── addicts-who-survived-an-oral-history-of-narcotic-use-in-america-before-1965-by-david-t-courtwright-herman-joseph-and-don-des-jarlais-2012.md
+│       │   │   │   │   ├── dark-paradise-a-history-of-opiate-addiction-in-america-david-t-courtwright-2001.md
+│       │   │   │   │   ├── forces-of-habit-drugs-and-the-making-of-the-modern-world-by-david-courtwright-2001.md
+│       │   │   │   │   ├── gin-the-much-lamented-death-of-madame-geneva.md
+│       │   │   │   │   ├── pass-it-on.md
+│       │   │   │   │   ├── slaying-the-dragon-the-history-of-addiction-treatment-and-recovery-in-america.md
+│       │   │   │   │   ├── the-age-of-addiction-how-bad-habits-became-big-business-by-david-courtwright-2019.md
+│       │   │   │   │   ├── the-making-of-buddhist-modernism.md
+│       │   │   │   │   ├── the-untold-history-of-addiction-treatment-in-the-us.md
+│       │   │   │   │   ├── the-urge-our-history-of-addiction-by-carl-erik-fisher-2022.md
+│       │   │   │   │   └── violent-land-single-men-and-social-disorder-from-the-frontier-to-the-inner-city-david-t-courtwright-1998.md
+│       │   │   │   ├── monographs
+│       │   │   │   │   ├── 1540-1549
+│       │   │   │   │   │   └── an-inuective-ageinst-glotony-and-dronkennes.md
+│       │   │   │   │   ├── 1560-1569
+│       │   │   │   │   │   └── conversations-on-the-simples-drugs-and-medicinal-substances-of-india-by-garcia-de-orta-1563.md
+│       │   │   │   │   ├── 1570-1579
+│       │   │   │   │   │   └── a-delicate-diet-for-daintiemouthde-droonkardes-by-george-gascoigne-1576.md.md
+│       │   │   │   │   ├── 1600-1609
+│       │   │   │   │   │   └── a-counterblaste-to-tobacco.md
+│       │   │   │   │   ├── 1730-1739
+│       │   │   │   │   │   └── a-friendly-admonition-to-the-drinkers-of-gin-brandy-and-other-distilled-spirituous-liquors-by-stephen-hales-1734.md
+│       │   │   │   │   ├── 1770-1779
+│       │   │   │   │   │   └── the-mighty-destroyer-displayed-by-anthony-benezet-1774.md
+│       │   │   │   │   ├── 1790-1799
+│       │   │   │   │   │   └── an-inquiry-into-the-effects-of-spirituous-liquors-upon-the-human-body.md
+│       │   │   │   │   ├── 1800-1809
+│       │   │   │   │   │   ├── a-view-of-the-nervous-temperament-by-thomas-trotter-1808.md
+│       │   │   │   │   │   ├── essay-on-drunkenness-by-thomas-trotter-1804.md
+│       │   │   │   │   │   └── observations-on-the-means-of-preserving-the-health-of-soldiers-and-sailors-by-edward-cutbush-1808.md
+│       │   │   │   │   ├── 1820-1829
+│       │   │   │   │   │   ├── confessions-of-an-english-opium-eater-by-thomas-de-quincey-1821.md
+│       │   │   │   │   │   ├── six-sermons-the-nature-occasions-signs-evils-and-remedy-of-intemperance-by-lyman-beecher-1827.md
+│       │   │   │   │   │   └── the-anatomy-of-drunkenness-by-robert-macnish-1827.md
+│       │   │   │   │   ├── 1830-1839
+│       │   │   │   │   │   ├── a-philosophical-and-statistical-history-by-samuel-morewood-1838.md
+│       │   │   │   │   │   ├── an-address-delivered-before-the-washington-city-temperance-society-by-thomas-sewall-1830.md
+│       │   │   │   │   │   └── the-iniquities-of-the-opium-trade-with-china-by-algernon-sydney-thelwall-1839.md
+│       │   │   │   │   ├── 1840-1849
+│       │   │   │   │   │   └── on-the-preparations-of-the-indian-hemp-or-gunjah-by-william-brooke-oshaughnessy-1839.md
+│       │   │   │   │   ├── 1850-1859
+│       │   │   │   │   │   └── lectures-on-temperance-by-eliphalet-nott-1865.md
+│       │   │   │   │   ├── 1880-1889
+│       │   │   │   │   │   ├── opium-smoking-in-america-and-china-1882.md
+│       │   │   │   │   │   └── uber-coca-on-cocaine-1884.md
+│       │   │   │   │   ├── 1900-1909
+│       │   │   │   │   │   └── proceedings-of-the-society-for-the-study-of-inebriety.md
+│       │   │   │   │   ├── 1910-1919
+│       │   │   │   │   │   └── flexner-report.md
+│       │   │   │   │   ├── 1920-1929
+│       │   │   │   │   └── 1970-1979
+│       │   │   │   │       └── freedom-of-the-will-and-the-concept-of-a-person-by-harry-frankfurt-1971.md
+│       │   │   │   ├── philosophy
+│       │   │   │   │   └── what-would-you-do-alone-in-a-cage-with-nothing-but-cocaine.md
+│       │   │   │   ├── reference
+│       │   │   │   │   ├── everything-changes-help-for-families-of-newly-recovering-addicts-2021-by-beverly-conyers.md
+│       │   │   │   │   ├── the-drug-users-bible-2019-by-dominic-milton-trott.md.md
+│       │   │   │   │   └── the-forever-fight-on-drugs-alcohol-and-the-cycle-of-addiction.md
+│       │   │   │   ├── science
+│       │   │   │   │   ├── medical
+│       │   │   │   │   │   ├── heavy-drinking-by-herbert-fingarette-1988.md
+│       │   │   │   │   │   ├── the-broken-brain-by-nancy-c-andreasen-1984.md
+│       │   │   │   │   │   ├── the-natural-history-of-alcoholism-causes-patterns-and-paths-to-recovery.md
+│       │   │   │   │   │   ├── the-natural-history-of-alcoholism-revisited.md
+│       │   │   │   │   │   └── the-opium-problem-by-charles-e-terry-and-mildred-pellens-1928.md
+│       │   │   │   │   ├── policy-and-society
+│       │   │   │   │   │   ├── drug-use-for-grown-ups-chasing-liberty-in-the-land-of-fear.md
+│       │   │   │   │   │   └── high-price-a-neuroscientists-journey-of-self-discovery-that-challenges-everything-you-know-about-drugs.md
+│       │   │   │   │   ├── pop
+│       │   │   │   │   │   ├── the-abstinence-myth-a-new-approach-for-overcoming-addiction-without-shame-judgment-or-rules.md
+│       │   │   │   │   │   └── the-biology-of-desire-why-addiction-is-not-a-disease.md
+│       │   │   │   │   └── psychology-and-religion
+│       │   │   │   │       ├── belief-without-borders-inside-the-minds-of-the-spiritual-but-not-religious.md
+│       │   │   │   │       └── what-is-it-like-to-be-an-addict-by-owen-flanagan-2025.md
+│       │   │   │   ├── self-help
+│       │   │   │   │   ├── health-and-wellness
+│       │   │   │   │   │   └── healing-the-addicted-brain-2009-by-harold-c-urschel-iii.md
+│       │   │   │   │   ├── money-and-finance
+│       │   │   │   │   └── psychology-and-religion
+│       │   │   │   │       ├── buddhism
+│       │   │   │   │       │   ├── against-the-stream-a-buddhist-manual-for-spiritual-revolutionaries.md
+│       │   │   │   │       │   └── recovery-dharma.md
+│       │   │   │   │       ├── christianity
+│       │   │   │   │       │   ├── love-and-sex
+│       │   │   │   │       │   │   ├── singles
+│       │   │   │   │       │   │   │   └── dating-done-right-pursuing-relationships-on-purpose-by-crystal-renaud-2019.md
+│       │   │   │   │       │   │   └── women
+│       │   │   │   │       │   │       ├── 90-days-to-wholeness-a-porn-addiction-recovery-devotional-for-women.md
+│       │   │   │   │       │   │       ├── dirty-girls-come-clean-by-crystal-renaud-2011.md
+│       │   │   │   │       │   │       └── new-fruit-a-womans-guide-to-porn-recovery-by-crystal-renaud-day-and-lisa-eldred-2020.md
+│       │   │   │   │       │   └── addiction-and-virtue-beyond-the-models-of-disease-and-choice-strategic-initiatives-in-evangelical-theology.md
+│       │   │   │   │       ├── friends-and-family
+│       │   │   │   │       │   └── ill-quit-tomorrow.md
+│       │   │   │   │       ├── new-age
+│       │   │   │   │       │   ├── the-four-agreements.md
+│       │   │   │   │       │   ├── the-power-of-now-a-guide-to-spiritual-enlightenment.md
+│       │   │   │   │       │   └── zero-limits-the-secret-hawaiian-system-for-wealth-health-power-and-more.md
+│       │   │   │   │       ├── pop
+│       │   │   │   │       │   ├── codependent-no-more.md
+│       │   │   │   │       │   └── this-naked-mind.md
+│       │   │   │   │       └── twelve-step
+│       │   │   │   │           ├── conference-approved
+│       │   │   │   │           │   └── living-sober.md
+│       │   │   │   │           ├── independent
+│       │   │   │   │           │   ├── beyond-belief-agnostic-musings-for-12-step-life.md.md
+│       │   │   │   │           │   ├── codependent-no-more.md
+│       │   │   │   │           │   ├── the-common-sense-of-drinking.md
+│       │   │   │   │           │   └── the-little-book-a-collection-of-alternative-12-steps.md
+│       │   │   │   │           └── official
+│       │   │   │   │               ├── aa-for-the-older-alcoholic.md
+│       │   │   │   │               ├── alcoholics-anonymous-fascimile-first-printing-of-the-first-edition.md
+│       │   │   │   │               ├── alcoholics-anonymous.md
+│       │   │   │   │               ├── daily-reflections.md
+│       │   │   │   │               ├── it-works-how-and-why.md
+│       │   │   │   │               ├── just-for-today.md
+│       │   │   │   │               └── narcotics-anonymous.md
+│       │   │   │   ├── sociology
+│       │   │   │   │   └── coleman-report.md
+│       │   │   │   ├── textbooks
+│       │   │   │   │   ├── drug-addiction-mechanisms-in-the-brain.md
+│       │   │   │   │   ├── drug-set-and-setting-the-basis-for-controlled-intoxicant-use.md
+│       │   │   │   │   ├── drugs-addiction-and-the-brain.md
+│       │   │   │   │   └── the-asam-principles-of-addiction-medicine.md
+│       │   │   │   └── a-theory-of-system-justification-.md
+│       │   │   └── religious
+│       │   │       ├── christianity
+│       │   │       │   └── the-varieties-of-religious-experience.md
+│       │   │       └── hinduism
+│       │   ├── essays
+│       │   │   ├── an-opium-eater-in-america-by-william-blair-1842.md
+│       │   │   └── les-paradis-artificiels.md
+│       │   ├── journals
+│       │   │   ├── addictology.md
+│       │   │   ├── alcohol-clinical-and-experimental-research.md
+│       │   │   ├── american-journal-of-psychiatry.md
+│       │   │   ├── american-journal-of-public-health.md
+│       │   │   ├── annals-of-internal-medicine.md
+│       │   │   ├── apothecarys-cabinet.md
+│       │   │   ├── british-journal-of-addiction-1984.md
+│       │   │   ├── international-journal-of-drug-policy.md
+│       │   │   ├── journal-of-addiction-medicine.md
+│       │   │   ├── journal-of-counseling-and-development.md
+│       │   │   ├── journal-of-studies-on-alcohol-and-drugs.md
+│       │   │   ├── journal-of-the-american-medical-association.md
+│       │   │   ├── journal-of-the-history-of-biology.md
+│       │   │   ├── quarterly-journal-of-inebriety.md
+│       │   │   ├── quarterly-journal-of-studies-on-alcohol.md
+│       │   │   └── the-british-medical-journal.md
+│       │   ├── magazines
+│       │   │   ├── lifestyle
+│       │   │   │   ├── sobriety-lifestyle.md
+│       │   │   │   └── the-phoenix-spirit.md
+│       │   │   ├── professional
+│       │   │   │   ├── advances-in-addiction-and-recovery.md
+│       │   │   │   └── treatment-magazine.md
+│       │   │   ├── aa-grapevine.md
+│       │   │   ├── after.md
+│       │   │   ├── in-recovery-magazine.md
+│       │   │   ├── journey-magazine.md
+│       │   │   ├── recovery-today.md
+│       │   │   └── renew-magazine.md
+│       │   ├── plays
+│       │   │   ├── long-days-journey-into-night.md
+│       │   │   └── the-ten-kraters-of-eubulus.md
+│       │   ├── poetry
+│       │   │   ├── aksha-sukta.md
+│       │   │   ├── kubla-khan-or-a-vision-in-a-dream-by-samuel-taylor-coleridge-1816.md
+│       │   │   └── the-dream-songs.md
+│       │   ├── presentations
+│       │   │   ├── ted-talks
+│       │   │   │   └── the-simple-secret-of-being-happier.md
+│       │   │   └── drugs-brains-and-behavior-the-science-of-addiction.md
+│       │   ├── short-stories
+│       │   │   ├── the-black-cat-by-edgar-allan-poe-1843.md
+│       │   │   └── where-im-calling-from.md
+│       │   ├── studies
+│       │   │   ├── 1960-1969
+│       │   │   │   └── chronic-alcoholism-in-the-first-half-of-the-19th-century.md
+│       │   │   ├── 1990-1999
+│       │   │   │   └── images-of-the-twelve-step-model-and-sex-and-love-addiction-in-an-alcohol-intervention-group-for-black-women.md
+│       │   │   ├── 2010-2019
+│       │   │   │   ├── public-health-and-public-order-outcomes-associated-with-supervised-drug-consumption-facilities-a-systematic-review-2017.md
+│       │   │   │   └── supervised-injection-services-what-has-been-demonstrated-a-systematic-literature-review-2014.md
+│       │   │   ├── 2020-2029
+│       │   │   │   ├── how-did-investigations-into-spontaneous-human-combustion-influence-alcohol-medicine.md
+│       │   │   │   ├── nearly-one-third-of-primary-care-providers-do-not-view-medication-treatment-for-opioid-use-disorder-as-effective-2020.md
+│       │   │   │   └── supervised-injection-facilities-as-harm-reduction-a-systematic-review-2021.md
+│       │   │   ├── addiction-and-choice-theory-and-new-data.md
+│       │   │   ├── addiction-as-a-disorder-of-belief-2014.md
+│       │   │   ├── addiction-is-a-brain-disease-and-it-matters.md
+│       │   │   ├── alcohol-dependence-provisional-description-of-a-clinical-syndrome.md
+│       │   │   ├── drug-addiction-dysregulation-of-reward-and-allostasis.md
+│       │   │   ├── drug-addiction-updating-actions-to-habits-to-compulsions-ten-years-on.md
+│       │   │   ├── drug-dependence-a-chronic-medical-illness-implications-for-treatment-insurance-and-outcomes-evaluation-2000.md
+│       │   │   ├── dynamic-hospital-treatment-of-alcoholism.md
+│       │   │   ├── easy-as-happiness-pie-a-critical-evaluation-of-a-popular-model-of-the-determinants-of-well-being.md
+│       │   │   ├── effects-of-treatment-of-male-alcoholics-in-a-mental-hospital-a-follow-up-study.md
+│       │   │   ├── how-did-the-effects-of-alcohol-on-reproduction-become-scientifically-uninteresting.md
+│       │   │   ├── how-permanent-was-vietnam-drug-addiction.md
+│       │   │   ├── identifying-populations-with-high-opioid-use-disorder-public-stigma-results-from-a-multi-state-survey-2026.md
+│       │   │   ├── national-comorbidity-survey-ncs-1-1990-1992.md
+│       │   │   ├── national-comorbidity-survey-ncs-2-2001-2002.md
+│       │   │   ├── neural-mechanisms-of-addiction-the-role-of-reward-related-learning-and-memory.md
+│       │   │   ├── neurobiology-of-addiction-a-neurocircuitry-analysis.md
+│       │   │   ├── neurocircuitry-of-addiction.md
+│       │   │   ├── place-based-policies-for-shared-economic-growth.md
+│       │   │   ├── rat-park.md
+│       │   │   ├── spiritual-but-not-religious-beyond-binary-choices-in-the-study-of-religion.md
+│       │   │   ├── the-molecular-basis-of-drug-addiction-linking-epigenetic-to-synaptic-and-circuit-mechanisms.md
+│       │   │   ├── the-need-for-a-new-medical-model-a-challenge-for-biomedicine-1977.md
+│       │   │   ├── the-neural-basis-of-addiction-a-pathology-of-motivation-and-choice.md
+│       │   │   ├── towards-a-syndrome-model-of-addiction-multiple-expressions-common-etiology.md
+│       │   │   ├── we-do-recover-scientific-studies-on-narcotics-anonymous.md
+│       │   │   └── where-is-the-evidence-for-evidence-based-therapies.md
+│       │   ├── alcoholism-and-degeneracy-1911.md
+│       │   ├── know-your-rights-fact-sheet.md
+│       │   ├── medico-legal-aspects-of-inebriety-1905.md
+│       │   ├── the-control-of-the-inebriate-1905.md
+│       │   └── the-next-step-towards-a-better-life.md
+│       ├── marketplace
+│       │   ├── apparel-and-accessories
+│       │   │   ├── casual-and-comfortable
+│       │   │   │   ├── faith-factory.md
+│       │   │   │   ├── nawears.md
+│       │   │   │   ├── soberlands.md
+│       │   │   │   └── sobrlife.md
+│       │   │   ├── jewelry
+│       │   │   │   └── peter-stone-recovery-collection.md
+│       │   │   ├── premium
+│       │   │   │   └── sober-strong.md
+│       │   │   ├── streetwear
+│       │   │   │   ├── doing-it-sober.md
+│       │   │   │   ├── inspiring-sobriety.md
+│       │   │   │   ├── loosid-sober-shop.md
+│       │   │   │   ├── soberminds.md
+│       │   │   │   ├── sobervation.md
+│       │   │   │   └── sonder-mountain-apparel.md
+│       │   │   └── vintage-and-retro
+│       │   │       └── beyond-sober.md
+│       │   ├── bookstores
+│       │   │   ├── california
+│       │   │   │   └── the-latest-thing.md
+│       │   │   ├── new-york
+│       │   │   ├── choices-books-and-gifts.md
+│       │   │   ├── lifering-bookstore.md
+│       │   │   └── my-12-step-store.md
+│       │   ├── food-and-drinks
+│       │   │   ├── coffee
+│       │   │   │   ├── california
+│       │   │   │   │   ├── homeboy-bakery.md
+│       │   │   │   │   ├── homegirl-cafe.md
+│       │   │   │   │   └── restoration-roasters.md
+│       │   │   │   ├── colorado
+│       │   │   │   │   └── wagon-coffee.md
+│       │   │   │   ├── indiana
+│       │   │   │   │   └── sober-joe.md
+│       │   │   │   ├── kentucky
+│       │   │   │   │   └── dv8-kitchen.md
+│       │   │   │   ├── tennessee
+│       │   │   │   │   └── thistle-farms-cafe-and-marketplace.md
+│       │   │   │   ├── brainwashed-coffee.md
+│       │   │   │   ├── clean-slate-coffee-house.md
+│       │   │   │   ├── convict-coffee-company.md
+│       │   │   │   ├── greyston-bakery.md
+│       │   │   │   ├── pink-cloud-coffee.md
+│       │   │   │   └── sobrew.md
+│       │   │   ├── functional
+│       │   │   │   ├── hiyo.md
+│       │   │   │   ├── kin-euphorics.md
+│       │   │   │   ├── sentia-gaba-spirits.md
+│       │   │   │   └── soberish.md
+│       │   │   ├── non-alcoholic
+│       │   │   │   ├── bars-clubs-and-lounges
+│       │   │   │   │   ├── colorado
+│       │   │   │   │   │   └── awake.md
+│       │   │   │   │   └── texas
+│       │   │   │   │       └── sans-bar.md
+│       │   │   │   ├── athletic-brewing.md
+│       │   │   │   ├── BERO.md
+│       │   │   │   ├── cleanco.md
+│       │   │   │   ├── curious-elixirs.md
+│       │   │   │   ├── for-bitter-for-worse.md
+│       │   │   │   ├── ghia.md
+│       │   │   │   ├── seedlip.md
+│       │   │   │   ├── trejos-spirits.md
+│       │   │   │   └── wild-AF-brewing.md
+│       │   │   └── water
+│       │   │       └── sober-water.md
+│       │   ├── meeting-merchandise
+│       │   │   ├── united-states
+│       │   │   │   ├── california
+│       │   │   │   ├── oregon
+│       │   │   │   │   └── serenity-shop.md
+│       │   │   │   └── your-serenity-store.md
+│       │   │   ├── aa-medallion-store.md
+│       │   │   ├── recovery-shop.md
+│       │   │   ├── smart-recovery-shop.md
+│       │   │   └── the-token-shop.md
+│       │   ├── stationary
+│       │   └── technology
+│       │       ├── apps
+│       │       │   ├── journaling-and-reflections
+│       │       │   │   ├── i-am-sober.md
+│       │       │   │   ├── nomo.md
+│       │       │   │   ├── quitzilla.md
+│       │       │   │   └── recovery-box.md
+│       │       │   ├── open-source
+│       │       │   │   ├── nicotime-out.md
+│       │       │   │   ├── quitter.md
+│       │       │   │   └── sobriety.md
+│       │       │   └── social-networks
+│       │       │       ├── 7-cups.md
+│       │       │       ├── loosid.md
+│       │       │       ├── sober-grid.md
+│       │       │       └── sober-sidekick.md
+│       │       ├── devices
+│       │       │   ├── biofeedback
+│       │       │   ├── communication
+│       │       │   ├── dispenser
+│       │       │   ├── sleep
+│       │       │   └── testing
+│       │       ├── artificial-intelligence.md
+│       │       ├── club-soda.md
+│       │       ├── discord.md
+│       │       ├── hello-sunday-morning.md
+│       │       ├── reddit.md
+│       │       └── tempest.md
+│       ├── media
+│       │   ├── documentaries
+│       │   │   ├── cinema-verite
+│       │   │   │   ├── amy.md
+│       │   │   │   ├── black-tar-heroin-the-dark-end-of-the-street.md
+│       │   │   │   ├── dark-days.md
+│       │   │   │   ├── dope-sick-love.md
+│       │   │   │   ├── heroine.md
+│       │   │   │   ├── high-on-crack-street-lost-lives-in-lowell.md
+│       │   │   │   ├── ill-be-home-for-christmas-1984.md
+│       │   │   │   ├── juice-wrld-into-the-abyss.md
+│       │   │   │   ├── life-of-crime.md
+│       │   │   │   ├── louis-theroux-drinking-to-oblivion.md
+│       │   │   │   ├── metallica-some-kind-of-monster-2004.md
+│       │   │   │   ├── meth-storm.md
+│       │   │   │   ├── methadonia-2005.md
+│       │   │   │   ├── on-the-bowery-1956.md
+│       │   │   │   ├── oxyana.md
+│       │   │   │   ├── recovery-boys.md
+│       │   │   │   ├── streetwise-1984.md
+│       │   │   │   ├── the-addicts-wake.md
+│       │   │   │   └── through-a-blue-lens.md
+│       │   │   ├── expository
+│       │   │   │   ├── better-man.md
+│       │   │   │   ├── born-in-synanon.md
+│       │   │   │   ├── generation-found.md
+│       │   │   │   ├── hypernormalisation.md
+│       │   │   │   └── the-anonymous-people.md
+│       │   │   ├── investigative
+│       │   │   │   ├── 48-hours-on-crack-street-1986.md
+│       │   │   │   ├── moyers-on-addiction-close-to-home-1998.md
+│       │   │   │   ├── the-crime-of-the-century.md
+│       │   │   │   └── the-pharmacist.md
+│       │   │   └── meditate-and-destroy.md
+│       │   ├── games
+│       │   │   ├── alan-wake.md
+│       │   │   ├── bioshock.md
+│       │   │   ├── bloodborne.md
+│       │   │   ├── call-of-cthulhu.md
+│       │   │   ├── cyberpunk-2077.md
+│       │   │   ├── deadly-premonition.md
+│       │   │   ├── detroit-become-human.md
+│       │   │   ├── disco-elysium.md
+│       │   │   ├── dragon-age-inquisition.md
+│       │   │   ├── fallout.md
+│       │   │   ├── far-cry.md
+│       │   │   ├── firewatch.md
+│       │   │   ├── flappy-bird.md
+│       │   │   ├── getting-over-it.md
+│       │   │   ├── god-of-war.md
+│       │   │   ├── heavy-rain.md
+│       │   │   ├── lisa.md
+│       │   │   ├── max-payne.md
+│       │   │   ├── mouthwashing.md
+│       │   │   ├── pathologic-2.md
+│       │   │   ├── qwop.md
+│       │   │   ├── red-dead-redemption.md
+│       │   │   ├── silent-hill.md
+│       │   │   ├── the-elder-scrolls-iii-morrowind.md
+│       │   │   └── we-happy-few.md
+│       │   ├── movies
+│       │   │   ├── dramas-and-dramedies
+│       │   │   │   ├── adaptations
+│       │   │   │   │   └── the-last-weekend-1945.md
+│       │   │   │   ├── biographical
+│       │   │   │   │   ├── charlie-wilsons-war.md
+│       │   │   │   │   ├── gladiator-days-anatomy-of-a-prison-murder.md
+│       │   │   │   │   ├── the-basketball-diaries-1995.md
+│       │   │   │   │   └── the-fighter-2010.md
+│       │   │   │   ├── romantic
+│       │   │   │   │   ├── days-of-wine-and-roses-1962.md
+│       │   │   │   │   └── withdrawal-2025.md
+│       │   │   │   ├── sports
+│       │   │   │   │   ├── the-way-back.md
+│       │   │   │   │   └── two-for-the-money.md
+│       │   │   │   ├── 28-days.md
+│       │   │   │   ├── a-star-is-born-1937.md
+│       │   │   │   ├── a-star-is-born-1954.md
+│       │   │   │   ├── a-star-is-born.md
+│       │   │   │   ├── cracked-up-1987.md
+│       │   │   │   ├── leaving-las-vegas.md
+│       │   │   │   ├── requiem-for-a-dream.md
+│       │   │   │   ├── sid-and-nancy.md
+│       │   │   │   ├── smash-up-the-story-of-a-woman-1947.md
+│       │   │   │   ├── the-gambler.md
+│       │   │   │   ├── the-lighthouse.md
+│       │   │   │   ├── the-substance.md
+│       │   │   │   ├── the-whale.md
+│       │   │   │   ├── the-wolf-of-wall-street.md
+│       │   │   │   ├── trainspotting.md
+│       │   │   │   └── uncut-gems.md
+│       │   │   ├── exploitation
+│       │   │   │   └── reefer-madness-tell-your-children-1936.md
+│       │   │   ├── horror
+│       │   │   │   ├── 10-cloverfield-lane.md
+│       │   │   │   ├── doctor-sleep.md
+│       │   │   │   ├── hellraiser.md
+│       │   │   │   ├── resolution.md
+│       │   │   │   ├── smile-2.md
+│       │   │   │   ├── smile.md
+│       │   │   │   ├── talk-to-me.md
+│       │   │   │   ├── the-night-house.md
+│       │   │   │   └── the-shining.md
+│       │   │   └── noir
+│       │   │       ├── drunken-angel-1948.md
+│       │   │       └── the-man-with-the-golden-arm-1955.md
+│       │   ├── podcasts
+│       │   │   ├── art
+│       │   │   │   └── the-unruffled-podcast.md
+│       │   │   ├── comedy
+│       │   │   │   └── the-dopey-podcast.md
+│       │   │   ├── human-interest
+│       │   │   │   ├── intersectionality
+│       │   │   │   │   ├── only-one-in-the-room.md
+│       │   │   │   │   └── recovery-demystified.md
+│       │   │   │   ├── men
+│       │   │   │   │   └── brobriety.md
+│       │   │   │   ├── neurodivergence
+│       │   │   │   │   ├── neurospicy-sober.md
+│       │   │   │   │   └── we-recover-loudly-podcast.md
+│       │   │   │   ├── queer
+│       │   │   │   │   ├── gay-a-the-queer-sober-hero-show.md
+│       │   │   │   │   ├── no-matter-what-club.md
+│       │   │   │   │   ├── out-and-about-af.md
+│       │   │   │   │   ├── queer-sober-social-podcast.md
+│       │   │   │   │   ├── queer-spirit-podcast.md
+│       │   │   │   │   └── the-sober-gay.md
+│       │   │   │   ├── religious
+│       │   │   │   │   ├── buddhism
+│       │   │   │   │   └── christianity
+│       │   │   │   │       └── women
+│       │   │   │   │           └── sober-confessions-of-a-christian-woman.md
+│       │   │   │   ├── women
+│       │   │   │   │   ├── black-women
+│       │   │   │   │   │   └── sober-black-girls-club.md
+│       │   │   │   │   ├── gambling
+│       │   │   │   │   │   └── the-broke-girl-society-podcast.md
+│       │   │   │   │   ├── indigenous-women
+│       │   │   │   │   │   └── the-sobriety-circle.md
+│       │   │   │   │   ├── love-and-sex
+│       │   │   │   │   │   └── worth-recovery.md
+│       │   │   │   │   ├── moms
+│       │   │   │   │   │   ├── eternally-amy-podcast.md
+│       │   │   │   │   │   ├── mommy-sober-culture.md
+│       │   │   │   │   │   └── secrets-of-a-sober-mom.md
+│       │   │   │   │   ├── bee-sober.md
+│       │   │   │   │   ├── confident-sober-women.md
+│       │   │   │   │   ├── laughing-without-liquor.md
+│       │   │   │   │   ├── sharing-out-loud.md
+│       │   │   │   │   └── sober-sisters-talk.md
+│       │   │   │   ├── editing-our-drinking-and-our-lives.md
+│       │   │   │   ├── not-your-drinking-buddy.md
+│       │   │   │   ├── recovering-from-reality.md
+│       │   │   │   ├── recovery-elevator.md
+│       │   │   │   ├── recovery-happy-hour.md
+│       │   │   │   ├── recovery-rocks.md
+│       │   │   │   ├── recovery-unscripted.md
+│       │   │   │   ├── recoverycast.md
+│       │   │   │   ├── since-right-now.md
+│       │   │   │   ├── sober-awkward.md
+│       │   │   │   ├── sobercast.md
+│       │   │   │   ├── soberful.md
+│       │   │   │   ├── the-seltzer-squad.md
+│       │   │   │   └── the-shair-podcast.md
+│       │   │   ├── science
+│       │   │   │   ├── health
+│       │   │   │   │   ├── alternative
+│       │   │   │   │   │   └── sober-edge.md
+│       │   │   │   │   └── fitness
+│       │   │   │   │       └── yoga
+│       │   │   │   │           └── sober-yoga-girl.md
+│       │   │   │   ├── psychology
+│       │   │   │   │   └── the-addiction-psychologist.md
+│       │   │   │   ├── lets-talk-addiction-and-recovery-podcasts.md
+│       │   │   │   ├── neuro-pathways.md
+│       │   │   │   ├── recoverable.md
+│       │   │   │   ├── sober-powered.md
+│       │   │   │   ├── the-addicted-mind.md
+│       │   │   │   └── the-alcohol-problem-podcast.md
+│       │   │   ├── self-help-and-coaching
+│       │   │   │   ├── men
+│       │   │   │   │   └── that-sober-guy-podcast.md
+│       │   │   │   ├── women
+│       │   │   │   │   ├── moms
+│       │   │   │   │   │   ├── hopestream.md
+│       │   │   │   │   │   ├── mother-recovering.md
+│       │   │   │   │   │   └── the-sober-mom-life.md
+│       │   │   │   │   ├── professional
+│       │   │   │   │   │   ├── ambitious-addicts-podcast.md
+│       │   │   │   │   │   ├── hello-someday-podcast.md
+│       │   │   │   │   │   ├── sobriety-snippets-for-women-over-40.md
+│       │   │   │   │   │   └── the-unapologetic-woman-podcast.md
+│       │   │   │   │   ├── religious
+│       │   │   │   │   │   └── christian
+│       │   │   │   │   │       ├── catholic
+│       │   │   │   │   │       │   └── the-catholic-sobriety-podcast.md
+│       │   │   │   │   │       ├── love-and-sex
+│       │   │   │   │   │       │   └── she-recovery-podcast.md
+│       │   │   │   │   │       ├── beyond-the-booze.md
+│       │   │   │   │   │       ├── grateful-blessed-mess-podcast-emotional-sobriety-for-12-step-christian-women.md
+│       │   │   │   │   │       ├── set-free-sisterhood.md
+│       │   │   │   │   │       ├── sobriety-checkpoint.md
+│       │   │   │   │   │       └── your-bright-recovery.md
+│       │   │   │   │   ├── a-sober-girls-guide.md
+│       │   │   │   │   ├── rewired-sober.md
+│       │   │   │   │   ├── she-recovers-podcast.md
+│       │   │   │   │   ├── shine-within-with-gina-kunadian.md
+│       │   │   │   │   ├── take-a-break-from-drinking.md
+│       │   │   │   │   ├── the-bubble-hour.md
+│       │   │   │   │   └── unbottled-potential.md
+│       │   │   │   ├── addiction-unlimited-podcast.md
+│       │   │   │   └── sober-bliss-podcast.md
+│       │   │   ├── behavioral-health-today.md
+│       │   │   ├── no-alcohol-needed.md
+│       │   │   └── you-always-have-choices.md
+│       │   ├── shows
+│       │   │   ├── comedies
+│       │   │   │   ├── animated
+│       │   │   │   │   ├── archer.md
+│       │   │   │   │   └── futurama.md
+│       │   │   │   ├── arrested-development.md
+│       │   │   │   ├── its-always-sunny-in-philadelphia.md
+│       │   │   │   ├── loudermilk.md
+│       │   │   │   └── seinfeld.md
+│       │   │   ├── dramas-and-dramedies
+│       │   │   │   ├── young-adult
+│       │   │   │   │   └── recovery-road.md
+│       │   │   │   ├── bojack-horseman.md
+│       │   │   │   ├── breaking-bad.md
+│       │   │   │   ├── euphoria.md
+│       │   │   │   ├── house-md.md
+│       │   │   │   ├── house-of-cards.md
+│       │   │   │   ├── mad-men.md
+│       │   │   │   ├── mr-robot.md
+│       │   │   │   ├── narcos.md
+│       │   │   │   ├── orange-is-the-new-black.md
+│       │   │   │   ├── severance.md
+│       │   │   │   ├── shameless.md
+│       │   │   │   ├── succession.md
+│       │   │   │   ├── the-boys.md
+│       │   │   │   ├── the-gentlemen.md
+│       │   │   │   ├── the-sopranos.md
+│       │   │   │   ├── the-wire.md
+│       │   │   │   └── twin-peaks.md
+│       │   │   └── horror
+│       │   │       └── the-haunting-of-hill-house.md
+│       │   ├── songs
+│       │   │   ├── heroin-by-velvet-underground.md
+│       │   │   └── the-wolf.md
+│       │   └── websites
+│       │       ├── blogs
+│       │       │   ├── academia
+│       │       │   │   ├── higher-education
+│       │       │   │   │   └── center-for-dissemination-and-implementation-at-stanford-blog.md
+│       │       │   │   ├── digital-dispensary.md
+│       │       │   │   ├── noras-blog.md
+│       │       │   │   ├── recovery-review.md
+│       │       │   │   ├── sober-academics.md
+│       │       │   │   └── understanding-addiction.md
+│       │       │   ├── coaches
+│       │       │   │   └── sasha-tozzi.md
+│       │       │   ├── health-and-wellness
+│       │       │   │   ├── fit-recovery.md
+│       │       │   │   └── gray-area-drinking.md
+│       │       │   ├── lifestyle
+│       │       │   │   ├── mom
+│       │       │   │   │   └── ask-a-sober-person.md
+│       │       │   │   ├── ainsobriety.md
+│       │       │   │   ├── dont-tell-me-to-look-on-the-bright-side.md
+│       │       │   │   ├── love-story.md
+│       │       │   │   ├── mindfulness-elevated.md
+│       │       │   │   ├── she-recovers.md
+│       │       │   │   ├── sober-black-girls-club.md
+│       │       │   │   ├── sober-courage.md
+│       │       │   │   ├── sober-mom-life.md
+│       │       │   │   ├── sober-punks.md
+│       │       │   │   ├── tawny-lara.md
+│       │       │   │   ├── the-sober-glow.md
+│       │       │   │   ├── the-stoic-scientist.md
+│       │       │   │   ├── the-unruffled.md
+│       │       │   │   ├── unpickled.md
+│       │       │   │   └── untipsy-teacher.md
+│       │       │   ├── princeton-university-press
+│       │       │   │   └── should-we-embrace-addiction.md
+│       │       │   ├── psychology-today
+│       │       │   │   ├── happy-pie.md
+│       │       │   │   └── what-really-makes-you-a-happy-person.md
+│       │       │   ├── social-commentary
+│       │       │   │   └── recovering.md
+│       │       │   ├── alcoholics-anonymous-agnostica.md
+│       │       │   ├── cure-addiction-now-blog.md
+│       │       │   ├── the-heidelblog.md
+│       │       │   └── the-tattooed-buddha.md
+│       │       ├── platforms
+│       │       │   ├── tobacco-tactics.md
+│       │       │   └── zero-proof-nation.md
+│       │       └── for-a-state-of-happiness.md
+│       ├── news
+│       │   ├── 07-2026
+│       │   │   └── the-cities-that-said-yes-to-drugs-by-michael-powell-07-30-2026.md
+│       │   ├── 08-2015
+│       │   │   └── berks-opera-companys-faust-focuses-on-addiction-by-george-hatza-08-13-2015.md
+│       │   ├── data-breaches
+│       │   │   ├── aac-data-breach-2024.md
+│       │   │   └── nadap-server-breach-2026.md
+│       │   ├── fraud
+│       │   │   ├── body-brokering
+│       │   │   ├── deceptive-marketing
+│       │   │   ├── false-credentials
+│       │   │   ├── financial-asset
+│       │   │   ├── identity-theft
+│       │   │   ├── pass-through-labs
+│       │   │   ├── phantom-billing
+│       │   │   ├── prescription-diversion
+│       │   │   ├── unbundling
+│       │   │   └── upcoding
+│       │   ├── lawsuits
+│       │   │   ├── aac-data-breach-settlement-2026.md
+│       │   │   └── drug-an-alcohol-treatment-services-settlement-2026.md
+│       │   ├── mergers-and-acquisitions
+│       │   ├── misconduct
+│       │   │   ├── abuse-and-exploitation
+│       │   │   ├── discrimination
+│       │   │   └── wrongful-death
+│       │   ├── research
+│       │   └── stories
+│       │       └── 2026
+│       ├── organizations
+│       │   ├── activists-advocacy-and-aid
+│       │   │   ├── canada
+│       │   │   │   └── coast-mental-health-foundation.md
+│       │   │   ├── germany
+│       │   │   │   ├── blaues-kreuz.md
+│       │   │   │   ├── deutscher-verein-gegen-den-mibrauch-geistiger-getranke.md
+│       │   │   │   ├── guttempler.md
+│       │   │   │   └── kreuzbund.md
+│       │   │   ├── international
+│       │   │   │   └── maryknoll-mission.md
+│       │   │   ├── japan
+│       │   │   │   ├── aa-japan-general-service.md
+│       │   │   │   ├── nihon-kinshu-domei.md
+│       │   │   │   └── zen-nihon-danshu-renmei.md
+│       │   │   ├── mexico
+│       │   │   │   └── pro-vapeo-mexico.md
+│       │   │   ├── united-kingdom
+│       │   │   │   ├── addiction-recovery-arts-network.md
+│       │   │   │   └── portraits-of-recovery.md
+│       │   │   ├── united-states
+│       │   │   │   ├── alabama
+│       │   │   │   │   ├── addiction-prevention-coalition.md
+│       │   │   │   │   ├── alabama-alliance-for-recovery-residences.md
+│       │   │   │   │   ├── people-engaged-in-recovery.md
+│       │   │   │   │   ├── rural-addiction-prevention.md
+│       │   │   │   │   ├── vital-alabama.md
+│       │   │   │   │   └── wings-across-alabama.md
+│       │   │   │   ├── connecticut
+│       │   │   │   │   └── connecticut-community-for-addiction-recovery-ccar.md
+│       │   │   │   ├── illinois
+│       │   │   │   │   └── chicago-recovery-alliance.md
+│       │   │   │   ├── michigan
+│       │   │   │   │   └── jamie-daniels-foundation.md
+│       │   │   │   ├── new-york
+│       │   │   │   │   ├── drug-policy-alliance.md
+│       │   │   │   │   ├── new-york-peer-aids-education-coalition-nypaec.md
+│       │   │   │   │   └── onpoint-nyc.md
+│       │   │   │   ├── ohio
+│       │   │   │   │   └── heal-ohio.md
+│       │   │   │   ├── oregon
+│       │   │   │   │   ├── northwest-portland-area-indian-health-board.md
+│       │   │   │   │   └── the-peer-company.md
+│       │   │   │   ├── virginia
+│       │   │   │   │   └── the-mcshin-foundation.md
+│       │   │   │   ├── washington
+│       │   │   │   │   ├── dave-purchase-project.md
+│       │   │   │   │   └── tacoma-needle-exchange.md
+│       │   │   │   ├── advocates-for-opiod-recovery.md
+│       │   │   │   ├── against-the-stream.md
+│       │   │   │   ├── alliance-for-recovery-centered-organizations-arco.md
+│       │   │   │   ├── american-association-for-the-treatment-of-opioid-dependence-aatod.md
+│       │   │   │   ├── american-heart-association.md
+│       │   │   │   ├── american-mental-wellness-association.md
+│       │   │   │   ├── american-temperance-society.md
+│       │   │   │   ├── center-for-addiction-recovery-support.md
+│       │   │   │   ├── coalition-for-cannabis-policy-education-and-regulation.md
+│       │   │   │   ├── federation-of-state-medical-boards.md
+│       │   │   │   ├── good-samaritans.md
+│       │   │   │   ├── mothers-against-drunk-driving.md
+│       │   │   │   ├── national-alliance-for-recovery-residences.md
+│       │   │   │   ├── office-for-victims-of-crime.md
+│       │   │   │   ├── phoenix-house-foundation.md
+│       │   │   │   ├── recovery-advocacy-project.md
+│       │   │   │   ├── robert-deforde.md
+│       │   │   │   ├── shatterproof.md
+│       │   │   │   ├── sons-of-temperance.md
+│       │   │   │   ├── stop-the-addiction-fatality-epidemic.md
+│       │   │   │   ├── students-against-driving-drunk.md
+│       │   │   │   ├── the-temple-of-honor.md
+│       │   │   │   ├── us-conference-of-mayors-substance-use-disorder-prevention-and-recovery-services-task-force.md
+│       │   │   │   └── washington-temperance-society.md
+│       │   │   ├── coalition-for-whole-health.md
+│       │   │   ├── faces-and-voices-of-recovery.md
+│       │   │   ├── global-action-to-end-smoking.md
+│       │   │   ├── global-health-advocacy-incubator.md
+│       │   │   ├── legal-action-center.md
+│       │   │   ├── mental-health-liaison-group-mhlg.md
+│       │   │   ├── mobilize-recovery.md
+│       │   │   ├── national-black-harm-reduction-network.md
+│       │   │   ├── north-american-syringe-exchange-network.md
+│       │   │   ├── overdose-prevention-initiative.md
+│       │   │   ├── partnership-to-end-addiction.md
+│       │   │   ├── police-assisted-addiction-and-recovery-initiative.md
+│       │   │   ├── smart-approaches-to-marijuana.md
+│       │   │   └── voices-for-non-opioid-choices.md
+│       │   ├── art
+│       │   │   └── fallen-angels-dance-theatre.md
+│       │   ├── government
+│       │   │   ├── canada
+│       │   │   │   └── canadian-centre-on-substance-use-and-addiction.md
+│       │   │   ├── europe
+│       │   │   │   ├── european-union
+│       │   │   │   │   └── european-union-drugs-agency.md
+│       │   │   │   ├── united-kingdom
+│       │   │   │   └── european-monitoring-centre-for-drugs-and-drug-addiction-emcdda.md
+│       │   │   ├── new-york
+│       │   │   │   ├── office-of-addiction-services-and-supports.md
+│       │   │   │   └── opioid-settlement-fund-advisory-board.md
+│       │   │   ├── spain
+│       │   │   │   ├── salt-asylum.md
+│       │   │   │   ├── sant-boi-de-llobregat-asylum.md
+│       │   │   │   └── santa-isabel-national-asylum.md
+│       │   │   ├── united-kingdom
+│       │   │   │   └── national-health-service-nhs.md
+│       │   │   └── united-states
+│       │   │       ├── executive-branch
+│       │   │       │   └── presidents-commission-on-law-enforcement-and-administration-of-justice.md
+│       │   │       ├── oregon
+│       │   │       │   └── oregon-health-authority.md
+│       │   │       ├── addiction-technology-transfer-center-network.md
+│       │   │       ├── agency-for-healthcare-research-and-quality.md
+│       │   │       ├── centers-for-disease-control-and-prevention.md
+│       │   │       ├── drug-enforcement-agency-dea.md
+│       │   │       ├── food-and-drug-administration.md
+│       │   │       ├── national-center-for-advancing-translational-sciences.md
+│       │   │       ├── national-center-for-state-courts.md
+│       │   │       ├── office-of-national-drug-control-policy.md
+│       │   │       ├── opioid-response-network-orn.md
+│       │   │       └── the-congressional-addiction-treatment-and-recovery-caucus.md
+│       │   ├── hate-groups-gangs-and-terrorism
+│       │   │   └── ku-klux-klan.md
+│       │   ├── higher-education
+│       │   │   ├── italy
+│       │   │   │   └── university-of-catania
+│       │   │   │       └── center-of-excellence-for-the-acceleration-of-harm-reduction.md
+│       │   │   ├── united-kingdom
+│       │   │   │   ├── university-of-bath
+│       │   │   │   │   └── tobacco-control-research-group.md
+│       │   │   │   ├── university-of-birmingham
+│       │   │   │   │   └── alcohol-drugs-and-the-family-research-interest-group.md
+│       │   │   │   └── university-of-oxford
+│       │   │   │       ├── oxford-centre-for-neuroethics.md
+│       │   │   │       └── uehiro-oxford-institute.md
+│       │   │   └── united-states
+│       │   │       ├── alabama
+│       │   │       │   ├── auburn-university
+│       │   │       │   │   └── scampi-lab.md
+│       │   │       │   ├── university-of-alabama
+│       │   │       │   │   ├── alabama-drug-use-central-data-repository.md
+│       │   │       │   │   ├── center-for-substance-use-research-and-related-conditions.md
+│       │   │       │   │   └── collegiate-recovery-and-intervention-services.md
+│       │   │       │   ├── university-of-alabama-birmingham
+│       │   │       │   │   ├── center-for-addiction-and-pain-prevention-and-intervention-cappi.md
+│       │   │       │   │   └── uab-medicine-addiction-recovery-services.md
+│       │   │       │   └── alabama-community-college-system-innovation-center.md
+│       │   │       ├── arizona
+│       │   │       │   └── university-of-arizona
+│       │   │       │       └── comprehensive-center-for-pain-and-addiction.md
+│       │   │       ├── california
+│       │   │       │   ├── california-institute-of-technology
+│       │   │       │   │   ├── lester-research-group.md
+│       │   │       │   │   └── student-wellness-services-sws.md
+│       │   │       │   ├── stanford-university
+│       │   │       │   │   ├── office-of-substance-use-programs-education-and-resources-super.md
+│       │   │       │   │   ├── stanford-addiction-medicine-fellowship.md
+│       │   │       │   │   └── stanford-alumni-recovery-network-sarn.md
+│       │   │       │   └── university-of-southern-california
+│       │   │       │       └── institute-for-addiction-science.md
+│       │   │       ├── connecticut
+│       │   │       │   ├── university-of-connecticut
+│       │   │       │   │   ├── alcohol-research-center.md
+│       │   │       │   │   ├── center-for-addiction-science-and-innovation-casi.md
+│       │   │       │   │   └── uconn-recovery-community-urc.md
+│       │   │       │   └── yale-university
+│       │   │       │       └── yale-program-in-addiction-medicine.md
+│       │   │       ├── florida
+│       │   │       │   ├── florida-state-university
+│       │   │       │   │   ├── collegiate-recovery-program.md
+│       │   │       │   │   └── florida-center-for-prevention-research.md
+│       │   │       │   └── university-of-florida
+│       │   │       │       └── uf-health-florida-recovery-center.md
+│       │   │       ├── illinois
+│       │   │       │   ├── northwestern-university
+│       │   │       │   │   ├── hitsman-lab.md
+│       │   │       │   │   └── the-patel-lab.md
+│       │   │       │   ├── university-of-chicago
+│       │   │       │   │   ├── behavioral-and-substance-addiction-clinic.md
+│       │   │       │   │   ├── nida-t32-training-program.md
+│       │   │       │   │   └── student-recovery-group.md
+│       │   │       │   └── university-of-illinois-urbana-champaign.md
+│       │   │       │       ├── alcohol-and-drug-prevention-and-response-program.md
+│       │   │       │       ├── alcohol-research-lab.md
+│       │   │       │       ├── center-for-prevention-research-and-development-cprd.md
+│       │   │       │       └── harm-reduction-peers.md
+│       │   │       ├── kentucky
+│       │   │       │   └── university-of-kentucky
+│       │   │       │       └── neurobehavioral-systems-lab-nsl.md
+│       │   │       ├── maryland
+│       │   │       │   ├── johns-hopkins-university
+│       │   │       │   │   └── johns-hopkins-bayview-medical-center.md
+│       │   │       │   └── university-of-maryland
+│       │   │       │       ├── division-of-addiction-research-and-treatment.md
+│       │   │       │       └── kahlert-institute-for-addiction-medicine.md
+│       │   │       ├── massachusetts
+│       │   │       │   ├── brandeis-university
+│       │   │       │   │   └── opioid-policy-research-collaborative.md
+│       │   │       │   ├── harvard-university
+│       │   │       │   │   ├── cambridge-health-alliance.md
+│       │   │       │   │   ├── center-for-addiction-medicine.md
+│       │   │       │   │   ├── counseling-and-mental-health-services-camhs.md
+│       │   │       │   │   ├── harvard-undergraduate-psychedelics-club.md
+│       │   │       │   │   ├── harvard-university-health-services-huhs.md
+│       │   │       │   │   └── recovery-research-institute.md
+│       │   │       │   └── massachusetts-institute-of-technology
+│       │   │       │       ├── mcgovern-institute.md
+│       │   │       │       ├── office-of-community-development-and-substance-abuse.md
+│       │   │       │       └── sud-ventures-bootcamp.md
+│       │   │       ├── michigan
+│       │   │       │   ├── michigan-state-university
+│       │   │       │   │   ├── addiction-consortium-on-research-and-education-network-acorn.md
+│       │   │       │   │   ├── collegiate-recovery-community.md
+│       │   │       │   │   ├── michigan-collaborative-addiction-resources-and-education-system-mi-cares.md
+│       │   │       │   │   └── the-neuroscience-program.md
+│       │   │       │   └── university-of-michigan
+│       │   │       │       ├── addiction-center.md
+│       │   │       │       └── u-m-addiction-treatment-services-umats.md
+│       │   │       ├── new-jersey
+│       │   │       │   ├── princeton-university
+│       │   │       │   │   ├── princeton-overdose-prevention.md
+│       │   │       │   │   ├── umatter.md
+│       │   │       │   │   └── university-health-services.md
+│       │   │       │   └── rutgers-university
+│       │   │       │       ├── center-of-alcohol-and-substance-use-studies-cas.md
+│       │   │       │       └── rutgers-addiction-research-center.md
+│       │   │       ├── new-mexico
+│       │   │       │   ├── new-mexico-state-university
+│       │   │       │   └── university-of-new-mexico
+│       │   │       │       └── center-on-alcohol-substance-use-and-addictions-casaa.md
+│       │   │       ├── new-york
+│       │   │       │   ├── columbia-university
+│       │   │       │   │   ├── cannabis-research-laboratory.md
+│       │   │       │   │   ├── cocaine-research-laboratory.md
+│       │   │       │   │   ├── columbia-center-for-healing-of-opioid-and-other-substance-use-disorders.md
+│       │   │       │   │   ├── columbia-recovery-coalition.md
+│       │   │       │   │   ├── division-of-substance-use-disorders.md
+│       │   │       │   │   ├── gambling-disorders-clinic.md
+│       │   │       │   │   ├── martinez-lab.md
+│       │   │       │   │   ├── national-drug-abuse-clinical-trials-network.md
+│       │   │       │   │   ├── opioid-research-laboratory.md
+│       │   │       │   │   ├── substance-treatment-and-research-service.md
+│       │   │       │   │   └── womens-research-center.md
+│       │   │       │   └── new-york-university
+│       │   │       │       ├── collegiate-recovery-program-crp.md
+│       │   │       │       ├── nyu-grossman-school-of-medicine.md
+│       │   │       │       └── nyu-langone-health.md
+│       │   │       ├── north-carolina
+│       │   │       │   ├── duke-university
+│       │   │       │   └── university-of-north-carolina-chapel-hill
+│       │   │       │       └── carolina-recovery.md
+│       │   │       ├── pennsylvania
+│       │   │       │   ├── bucknell-university
+│       │   │       │   │   └── psychology-department.md
+│       │   │       │   ├── pennsylvania-state-university
+│       │   │       │   │   └── edna-bennett-pierce-prevention-research-center.md
+│       │   │       │   └── university-of-pennsylvania
+│       │   │       │       ├── center-for-addiction-medicine-and-policy.md
+│       │   │       │       ├── center-for-studies-of-addiction.md
+│       │   │       │       └── super-program.md
+│       │   │       ├── rhode-island
+│       │   │       │   ├── brown-university
+│       │   │       │   │   └── center-for-alcohol-and-addiction-studies-caas.md
+│       │   │       │   └── university-of-rhode-island
+│       │   │       │       ├── collegiate-recovery-program.md
+│       │   │       │       ├── counseling-center.md
+│       │   │       │       └── stress-lab.md
+│       │   │       ├── vermont
+│       │   │       │   └── university-of-vermont
+│       │   │       │       └── vermont-center-on-behavior-and-health.md
+│       │   │       ├── washington
+│       │   │       │   ├── university-of-washington
+│       │   │       │   │   ├── addictions-drug-and-alcohol-institute.md
+│       │   │       │   │   ├── center-for-advancing-addiction-health-services.md
+│       │   │       │   │   ├── center-for-community-engaged-drug-education-epidemiology-and-research.md
+│       │   │       │   │   ├── center-for-novel-therapeutics-in-addiction-psychiatry.md
+│       │   │       │   │   └── fetal-alcohol-and-drug-unit-fadu.md
+│       │   │       │   └── washington-state-university
+│       │   │       │       └── promoting-research-initiatives-in-substance-use-and-mental-health-prism-collaborative.md
+│       │   │       ├── washington-dc
+│       │   │       │   ├── american-university
+│       │   │       │   │   └── psychopharmacology-lab.md
+│       │   │       │   └── georgetown-university
+│       │   │       │       └── center-on-addiction-and-public-policy.md
+│       │   │       └── western-interstate-commission-for-higher-education-wiche.md
+│       │   ├── media
+│       │   │   ├── business-intelligence
+│       │   │   │   └── behavioral-health-business.md
+│       │   │   ├── corporate
+│       │   │   │   ├── cbs.md
+│       │   │   │   └── the-atlantic.md
+│       │   │   ├── independent-news
+│       │   │   │   ├── reporting-on-addiction.md
+│       │   │   │   └── the-fix.md
+│       │   │   └── non-profit
+│       │   │       └── national-public-radio.md
+│       │   ├── mutual-aid-and-peer-support
+│       │   │   ├── 12-step
+│       │   │   │   ├── alcoholics-anonymous.md
+│       │   │   │   ├── alcoholics-victorious.md
+│       │   │   │   ├── all-addicts-anonymous.md
+│       │   │   │   ├── anorexics-and-bulimics-anonymous.md
+│       │   │   │   └── quad-a-alcoholics-anonymous-for-atheists-and-agnostics-aaaa.md
+│       │   │   ├── friends-and-family
+│       │   │   │   ├── adult-children-of-alcoholics-and-dysfunctional-families.md
+│       │   │   │   ├── al-anon-family-groups.md
+│       │   │   │   ├── alateen.md
+│       │   │   │   └── birds-of-a-feather-al-anon.md
+│       │   │   ├── mental-health
+│       │   │   ├── professional
+│       │   │   │   ├── aviation-family-network-international.md
+│       │   │   │   └── birds-of-a-feather.md
+│       │   │   ├── religious
+│       │   │   │   ├── buddhist
+│       │   │   │   │   └── buddhist-recovery-network.md
+│       │   │   │   ├── christian
+│       │   │   │   │   ├── catholic
+│       │   │   │   │   │   ├── calix-society.md
+│       │   │   │   │   │   └── catholic-in-recovery.md
+│       │   │   │   │   ├── eastern-orthodox
+│       │   │   │   │   │   └── saint-anastasia-fellowship.md
+│       │   │   │   │   ├── latter-day-saints
+│       │   │   │   │   │   └── lds-addiction-recovery-program.md
+│       │   │   │   │   ├── alcoholics-for-christ.md
+│       │   │   │   │   ├── celebrate-recovery.md
+│       │   │   │   │   ├── christians-in-recovery.md
+│       │   │   │   │   └── recovery-alive.md
+│       │   │   │   ├── muslim
+│       │   │   │   │   ├── millati-islami.md
+│       │   │   │   │   └── muslim-recovery-network.md
+│       │   │   │   └── scientologist
+│       │   │   │       └── narconon.md
+│       │   │   ├── secular
+│       │   │   │   ├── japanese
+│       │   │   │   │   └── danshukai.md
+│       │   │   │   ├── women
+│       │   │   │   │   └── women-for-sobriety.md
+│       │   │   │   ├── hudolin-clubs.md
+│       │   │   │   ├── lifering-secular-recovery.md
+│       │   │   │   └── rational-recovery.md
+│       │   │   ├── chemically-dependent-anonymous.md
+│       │   │   ├── clergy-recovery-groups-from-the-american-anglican-council.md
+│       │   │   ├── clergy-recovery-network.md
+│       │   │   ├── clutterers-anonymous.md
+│       │   │   ├── co-dependents-anonymous.md
+│       │   │   ├── cocaine-anonymous.md
+│       │   │   ├── crystal-meth-anonymous.md
+│       │   │   ├── debtors-anonymous.md
+│       │   │   ├── dentists-concerned-for-dentists.md
+│       │   │   ├── depressed-anonymous.md
+│       │   │   ├── depression-and-bipolar-alliance.md
+│       │   │   ├── dialectical-behavioral-therapy-recovery-groups.md
+│       │   │   ├── drug-addicts-anonymous.md
+│       │   │   ├── dual-diagnosis-anonymous.md
+│       │   │   ├── dual-recovery-anonymous.md
+│       │   │   ├── eating-disorders-anonymous.md
+│       │   │   ├── eight-step-recovery.md
+│       │   │   ├── emotions-anonymous.md
+│       │   │   ├── families-anonymous.md
+│       │   │   ├── firefighters-helping-firefighters.md
+│       │   │   ├── first-responder-support-network.md
+│       │   │   ├── food-addicts-anonymous.md
+│       │   │   ├── food-addicts-in-recovery-anonymous.md
+│       │   │   ├── gal-aa.md
+│       │   │   ├── gam-anon.md
+│       │   │   ├── gamateen.md
+│       │   │   ├── gamblers-anonymous.md
+│       │   │   ├── gaming-addicts-anonymous.md
+│       │   │   ├── good-grief-network.md
+│       │   │   ├── hair-pullers-anonymous.md
+│       │   │   ├── harm-reduction-abstinence-and-moderation-hams.md
+│       │   │   ├── he-ara-awhina.md
+│       │   │   ├── heroin-anonymous.md
+│       │   │   ├── hoarders-com-support-groups.md
+│       │   │   ├── human-intervention-motivation-study.md
+│       │   │   ├── internet-and-technology-addicts-anonymous.md
+│       │   │   ├── invitation-to-change.md
+│       │   │   ├── jewish-alcoholics-chemically-dependent-persons-and-significant-others.md
+│       │   │   ├── life-recovery.md
+│       │   │   ├── love-addicts-anonymous.md
+│       │   │   ├── marijuana-anonymous.md
+│       │   │   ├── matrix-model.md
+│       │   │   ├── medication-assisted-recovery-anonymous.md
+│       │   │   ├── medicine-wheel-recovery.md
+│       │   │   ├── nar-anon-family-groups.md
+│       │   │   ├── narcotics-anonymous.md
+│       │   │   ├── neurotics-anonymous.md
+│       │   │   ├── nicotine-anonymous.md
+│       │   │   ├── nurses-peer-support-network.md
+│       │   │   ├── obsessive-skin-pickers-anonymous.md
+│       │   │   ├── online-gamers-anonymous.md
+│       │   │   ├── overcomers-outreach.md
+│       │   │   ├── overeaters-anonymous.md
+│       │   │   ├── pharmacists-recovery-network.md
+│       │   │   ├── pills-anonymous.md
+│       │   │   ├── porn-addicts-anonymous.md
+│       │   │   ├── pro-athletes-in-recovery.md
+│       │   │   ├── recovering-couples-anonymous.md
+│       │   │   ├── recovery-2-0.md
+│       │   │   ├── recovery-coaching.md
+│       │   │   ├── recovery-community-center.md
+│       │   │   ├── recovery-community-organization.md
+│       │   │   ├── recovery-dharma.md
+│       │   │   ├── recovery-international.md
+│       │   │   ├── reformers-unanimous.md
+│       │   │   ├── refuge-recovery.md
+│       │   │   ├── safe-project.md
+│       │   │   ├── secular-organizations-for-sobriety.md
+│       │   │   ├── sex-addicts-anonymous.md
+│       │   │   ├── sex-and-love-addicts-anonymous.md
+│       │   │   ├── sexaholics-anonymous.md
+│       │   │   ├── sexual-compulsives-anonymous.md
+│       │   │   ├── sexual-recovery-anonymous.md
+│       │   │   ├── she-recovers.md
+│       │   │   ├── shopaholics-anonymous.md
+│       │   │   ├── shoplifters-anonymous.md
+│       │   │   ├── smart-recovery-family-and-friends.md
+│       │   │   ├── smart-recovery.md
+│       │   │   ├── the-freedom-model.md
+│       │   │   ├── the-luckiest-club.md
+│       │   │   ├── the-phoenix.md
+│       │   │   ├── the-satanic-temple-sober-faction.md
+│       │   │   ├── underearners-anonymous.md
+│       │   │   ├── warrior-recovery.md
+│       │   │   └── wellbriety-movement.md
+│       │   ├── open-source
+│       │   │   └── code-for-recovery.md
+│       │   ├── philanthropic
+│       │   │   ├── adfam.md
+│       │   │   ├── bureau-of-social-hygeine.md
+│       │   │   ├── etheridge-foundation.md
+│       │   │   ├── peter-and-elizabeth-tower-foundation.md
+│       │   │   ├── the-kennedy-forum.md
+│       │   │   └── turn-2-foundation.md
+│       │   ├── platforms
+│       │   │   ├── the-nations-health.md
+│       │   │   └── the-sober-curator.md
+│       │   ├── private-companies
+│       │   │   ├── consultancies
+│       │   │   │   └── pinney-associates.md
+│       │   │   ├── corporations
+│       │   │   │   ├── anheuser-busch-inbev.md
+│       │   │   │   ├── bayer-corporation.md
+│       │   │   │   ├── harcourt-assessment.md
+│       │   │   │   ├── ligget-group.md
+│       │   │   │   ├── merck-and-co.md
+│       │   │   │   ├── merrell-dow.md
+│       │   │   │   ├── molson-coors.md
+│       │   │   │   ├── parke-davis-and-co.md
+│       │   │   │   ├── pearson.md
+│       │   │   │   ├── philip-morris.md
+│       │   │   │   ├── purdue-pharma.md
+│       │   │   │   ├── SABMiller.md
+│       │   │   │   ├── smith-kline-and-french-skf.md
+│       │   │   │   └── the-psychological-corporation.md
+│       │   │   ├── forensic-consultation
+│       │   │   │   └── forensic-addiction-and-psychiatric-services-llc.md
+│       │   │   ├── private-equity
+│       │   │   │   └── avesi-partners.md
+│       │   │   ├── venture-capital
+│       │   │   │   └── greymatter-capital.md
+│       │   │   └── compcare-corporation.md
+│       │   ├── professional
+│       │   │   ├── addiction-medicine
+│       │   │   │   ├── united-kingdom
+│       │   │   │   ├── united-states
+│       │   │   │   │   ├── california
+│       │   │   │   │   │   ├── california-association-of-dui-treatment-programs.md
+│       │   │   │   │   │   ├── california-consortium-of-addiction-programs-and-professionals.md
+│       │   │   │   │   │   └── california-society-of-addiction-medicine-csam.md
+│       │   │   │   │   ├── wisconsin
+│       │   │   │   │   │   └── wisconsin-society-of-addiction-medicine.md
+│       │   │   │   │   ├── american-society-of-addiction-medicine-asam.md
+│       │   │   │   │   ├── college-on-problems-of-drug-dependence.md
+│       │   │   │   │   └── naadac-the-association-of-addiction-professionals.md
+│       │   │   │   ├── international-society-of-addiction-medicine-isam.md
+│       │   │   │   └── international-society-of-substance-abuse-professionals-issup.md
+│       │   │   ├── cardiology
+│       │   │   ├── counseling
+│       │   │   │   └── national-association-for-alcoholism-and-drug-abuse-counselors.md
+│       │   │   ├── emergency-medicine
+│       │   │   │   └── bridge.md
+│       │   │   ├── entertainment
+│       │   │   │   └── writers-in-treatment.md
+│       │   │   ├── hiv-aids
+│       │   │   │   ├── national-alliance-for-hiv-education-and-workforce-development-nahewd.md
+│       │   │   │   └── national-alliance-of-state-and-territorial-aids-directors-nastad.md
+│       │   │   ├── leadership
+│       │   │   │   ├── national-association-of-state-alcohol-and-drug-agency-directors-nasadad.md
+│       │   │   │   └── national-judicial-college.md
+│       │   │   ├── osteopathy
+│       │   │   │   └── american-osteopathic-academy-of-addiction-medicine-aoaam.md
+│       │   │   ├── pediatrics
+│       │   │   │   └── american-academy-of-pediatrics.md
+│       │   │   ├── physicians
+│       │   │   │   ├── american-academy-of-family-physicians-aafp.md
+│       │   │   │   ├── american-college-of-emergency-physicians.md
+│       │   │   │   ├── association-of-american-indian-physicians-aaip.md
+│       │   │   │   └── coalition-on-physician-education-in-substance-use-disorders-cope.md
+│       │   │   ├── psychiatry
+│       │   │   │   ├── american-academy-of-addiction-psychiatry.md
+│       │   │   │   ├── american-academy-of-child-and-adolescent-psychiatry-aacap.md
+│       │   │   │   └── american-psychiatric-nurses-association-apna.md
+│       │   │   ├── scientists-and-researchers
+│       │   │   │   ├── american-association-for-the-advancement-of-science.md
+│       │   │   │   ├── association-for-multidisciplinary-education-and-research-in-substance-use-and-addiction.md
+│       │   │   │   └── international-doctors-for-addiction-research-society-idars.md
+│       │   │   ├── social-work
+│       │   │   │   └── national-association-of-social-workers-nasw.md
+│       │   │   ├── support
+│       │   │   │   └── international-doctors-in-alcoholics-anonymous-idaa.md
+│       │   │   ├── toxicology
+│       │   │   │   └── american-college-of-medical-toxicology.md
+│       │   │   ├── national-council-for-mental-wellbeing.md
+│       │   │   └── research-society-on-alcohol.md
+│       │   ├── providers
+│       │   │   ├── hospitals
+│       │   │   │   ├── india
+│       │   │   │   │   └── ranchi-institute-of-neuro-psychiatry-and-allied-sciences.md
+│       │   │   │   ├── japan
+│       │   │   │   │   ├── geshi-hospital.md
+│       │   │   │   │   ├── matsuzawa.md
+│       │   │   │   │   ├── national-kurihama-hospital.md
+│       │   │   │   │   ├── tokyo-metropolitan-mental-health-centre.md
+│       │   │   │   │   └── yokosuka-naval-hospital.md
+│       │   │   │   ├── prison-hospitals
+│       │   │   │   │   └── united-states-narcotic-farm.md
+│       │   │   │   ├── spain
+│       │   │   │   │   ├── nueva-belen-aslyum.md
+│       │   │   │   │   ├── salt-asylum.md
+│       │   │   │   │   ├── sant-boi-de-llobregat-asylum.md
+│       │   │   │   │   └── santa-isabel-national-asylum.md
+│       │   │   │   ├── united-king
+│       │   │   │   │   └── belmont-hospital.md
+│       │   │   │   └── united-states
+│       │   │   │       ├── oregon
+│       │   │   │       │   └── providence-milwaukie-hospital.md
+│       │   │   │       ├── bellevue-hospital.md
+│       │   │   │       ├── charles-b-towns-hospital.md
+│       │   │   │       └── long-beach-naval-hospital.md
+│       │   │   ├── networks
+│       │   │   │   ├── acadia-healthcare.md
+│       │   │   │   ├── american-addiction-centers.md
+│       │   │   │   ├── bradford-health-services.md
+│       │   │   │   └── universal-health-services-uhs.md
+│       │   │   ├── telehealth
+│       │   │   │   ├── affect-therapeutics.md
+│       │   │   │   ├── frontier-psychiatry.md
+│       │   │   │   ├── igntd.md
+│       │   │   │   └── ria-health.md
+│       │   │   ├── vendors
+│       │   │   │   ├── billing
+│       │   │   │   └── electronic-health-records
+│       │   │   │       └── qualifacts.md
+│       │   │   ├── bethesda-naval-hospital.md
+│       │   │   ├── boston-childrens-hospital-the-adolescent-substance-use-and-addiction-program-asap.md
+│       │   │   ├── boston-medical-center.md
+│       │   │   ├── derek-jeter-center.md
+│       │   │   ├── hastings-state-hospital.md
+│       │   │   ├── hazelden-foundation.md
+│       │   │   ├── keeley-institutes.md
+│       │   │   ├── mayo-clinic.md
+│       │   │   ├── menninger-clinic.md
+│       │   │   ├── murray-cure-institute.md
+│       │   │   ├── renascent-foundation.md
+│       │   │   ├── shadel-sanitarium.md
+│       │   │   ├── washingtonian-home.md
+│       │   │   ├── willmar-state-mental-hospital.md
+│       │   │   └── winter-va-hospital.md
+│       │   ├── research-and-education
+│       │   │   ├── greece
+│       │   │   │   └── athens-medical-society.md
+│       │   │   ├── international
+│       │   │   │   └── addiction-and-the-family-international-network-afinet.md
+│       │   │   ├── japan
+│       │   │   │   └── japanese-association-of-medical-sciences.md
+│       │   │   ├── united-states
+│       │   │   │   ├── alabama
+│       │   │   │   │   └── alabama-school-of-alcohol-and-other-drug-studies.md
+│       │   │   │   ├── california
+│       │   │   │   ├── maine
+│       │   │   │   │   └── adept-educational-institute-of-new-england.md
+│       │   │   │   ├── ohio
+│       │   │   │   │   └── cleveland-clinic.md
+│       │   │   │   ├── addiction-education-society.md
+│       │   │   │   ├── america-lung-association.md
+│       │   │   │   ├── american-association-for-the-study-and-cure-of-inebriety.md
+│       │   │   │   ├── american-hospital-association-ahs.md
+│       │   │   │   ├── american-institute-of-the-history-of-pharmacy-aihp.md
+│       │   │   │   ├── american-medical-association.md
+│       │   │   │   ├── american-psychological-association-apa.md
+│       │   │   │   ├── american-society-of-victimology-2003.md
+│       │   │   │   ├── american-sociological-association.md
+│       │   │   │   ├── rosenthal-center-for-addiction-studies.md
+│       │   │   │   └── society-for-addiction-psychology.md
+│       │   │   ├── american-journal-of-public-health.md
+│       │   │   ├── anxiety-and-depression-association-of-america.md
+│       │   │   ├── association-for-multidisciplinary-education-and-research-in-substance-use-and-addiction.md
+│       │   │   ├── c4-innovations.md
+│       │   │   ├── cicatelli-associations-inc.md
+│       │   │   ├── council-on-social-work-education-cswe.md
+│       │   │   ├── faces-and-voices-of-recovery-favor.md
+│       │   │   ├── fetal-alcohol-spectrum-disorders-study-group.md
+│       │   │   ├── international-council-on-alcohol-and-addictions-icaa.md
+│       │   │   ├── kettil-bruun-society-for-social-and-epidemiological-research-on-alcohol.md
+│       │   │   └── society-for-prevention-research.md
+│       │   ├── think-tanks
+│       │   │   └── manhattan-institute-for-policy-research.md
+│       │   ├── trade
+│       │   │   ├── distilled-spirits-council-of-the-united-states-discus.md
+│       │   │   └── international-center-for-alcohol-policies.md
+│       │   ├── health-resources-and-services-administration.md
+│       │   ├── indian-health-service.md
+│       │   ├── international-association-of-firefighters.md
+│       │   ├── international-certification-and-reciprocity-consortium-icrc.md
+│       │   ├── international-society-for-traumatic-stress-studies-istss.md
+│       │   ├── johnson-institute.md
+│       │   ├── keeley-institutes.md
+│       │   ├── lawyers-concerned-for-lawyers.md
+│       │   ├── national-academy-of-sciences.md
+│       │   ├── national-council-for-mental-wellbeing.md
+│       │   ├── national-institute-of-mental-health.md
+│       │   ├── national-institute-on-alcohol-abuse-and-alcoholism.md
+│       │   ├── national-institute-on-drug-abuse.md
+│       │   ├── national-institutes-of-health.md
+│       │   ├── substance-abuse-and-mental-health-services-administration.md
+│       │   ├── te-hiringa-mahara-mental-health-and-wellbeing-commission.md
+│       │   ├── the-american-society-of-addiction-nursing.md
+│       │   ├── the-center-of-addiction-and-faith.md
+│       │   ├── united-nations-office-on-drugs-and-crime.md
+│       │   ├── wisconsin-peer-alliance-for-nurses.md
+│       │   ├── world-health-organization.md
+│       │   └── yale-center-of-alcohol-studies.md
+│       ├── people
+│       │   ├── activists-advocacy-and-aid
+│       │   │   ├── harm-reduction
+│       │   │   │   ├── arnold-trebach.md
+│       │   │   │   ├── dave-purchase.md
+│       │   │   │   ├── donald-macpherson.md
+│       │   │   │   ├── edith-springer.md
+│       │   │   │   ├── ernest-drucker.md
+│       │   │   │   ├── ethan-nadelmann.md
+│       │   │   │   └── russell-newcombe.md
+│       │   │   ├── interventions
+│       │   │   │   └── vernon-johnson.md
+│       │   │   ├── religion-and-spirituality
+│       │   │   │   ├── alcoholics-anonymous
+│       │   │   │   │   ├── ada-halbeirch.md
+│       │   │   │   │   ├── angeliska-polacheck.md
+│       │   │   │   │   ├── anne-bingham.md
+│       │   │   │   │   ├── anne-smith.md
+│       │   │   │   │   ├── barry-leach.md
+│       │   │   │   │   ├── bernard-smith.md
+│       │   │   │   │   ├── charlie-polacheck.md
+│       │   │   │   │   ├── chuck-k.md
+│       │   │   │   │   ├── clarence-snyder.md
+│       │   │   │   │   ├── devoe-bingham.md
+│       │   │   │   │   ├── don-wilson.md
+│       │   │   │   │   ├── dr-bob-smith.md
+│       │   │   │   │   ├── henrietta-seiberling.md
+│       │   │   │   │   ├── henry-hellmuth.md
+│       │   │   │   │   ├── jim-burwell.md
+│       │   │   │   │   ├── john-k.md
+│       │   │   │   │   ├── john-yablon.md
+│       │   │   │   │   ├── lois-wilson.md
+│       │   │   │   │   ├── marty-mann.md
+│       │   │   │   │   ├── megan-d.md
+│       │   │   │   │   ├── nell-wing.md
+│       │   │   │   │   ├── nick-h.md
+│       │   │   │   │   ├── phyllis-york.md
+│       │   │   │   │   ├── rowland-hazard-iii.md
+│       │   │   │   │   ├── shawn-m.md
+│       │   │   │   │   ├── sister-ignatia-gavin.md
+│       │   │   │   │   ├── tom-powers.md
+│       │   │   │   │   ├── william-duncan-silkworth.md
+│       │   │   │   │   └── william-wilson.md
+│       │   │   │   ├── buddhism
+│       │   │   │   │   ├── mindfulness
+│       │   │   │   │   │   ├── alan-marlatt.md
+│       │   │   │   │   │   ├── jon-kabat-zinn.md
+│       │   │   │   │   │   ├── judson-brewer.md
+│       │   │   │   │   │   └── sarah-bowen.md
+│       │   │   │   │   ├── zen
+│       │   │   │   │   │   ├── bernie-glassman.md
+│       │   │   │   │   │   ├── charlotte-joko-beck.md
+│       │   │   │   │   │   └── norman-fischer.md
+│       │   │   │   │   ├── darren-littlejohn.md
+│       │   │   │   │   ├── josh-korda.md
+│       │   │   │   │   ├── kevin-griffin.md
+│       │   │   │   │   ├── noah-levine.md
+│       │   │   │   │   ├── valerie-mason-john.md
+│       │   │   │   │   └── yoshimoto-ishin.md
+│       │   │   │   ├── christianity
+│       │   │   │   │   ├── catholicism
+│       │   │   │   │   │   ├── father-joseph-martin.md
+│       │   │   │   │   │   ├── henri-nouwen.md
+│       │   │   │   │   │   ├── matthew-talbot.md
+│       │   │   │   │   │   ├── richard-rohr.md
+│       │   │   │   │   │   └── tanaka-michio.md
+│       │   │   │   │   ├── eastern-orthodoxy
+│       │   │   │   │   ├── evangelicalism
+│       │   │   │   │   │   ├── john-baker.md
+│       │   │   │   │   │   └── rick-warren.md
+│       │   │   │   │   ├── protestantism
+│       │   │   │   │   │   ├── anglican
+│       │   │   │   │   │   │   ├── episcopal
+│       │   │   │   │   │   │   │   └── charles-henry-brent.md
+│       │   │   │   │   │   │   └── robert-south.md
+│       │   │   │   │   │   ├── calvinism
+│       │   │   │   │   │   │   ├── presbyterianism
+│       │   │   │   │   │   │   │   └── samson-occom.md
+│       │   │   │   │   │   │   └── puritanism
+│       │   │   │   │   │   │       ├── henry-wingfield.md
+│       │   │   │   │   │   │       ├── john-downame.md
+│       │   │   │   │   │   │       └── jonathan-edwards.md
+│       │   │   │   │   │   └── lutheran
+│       │   │   │   │   ├── quakers
+│       │   │   │   │   │   └── anthony-benezet.md
+│       │   │   │   │   └── restorationism
+│       │   │   │   ├── indigenous-american
+│       │   │   │   │   └── lenni-lenape
+│       │   │   │   │       └── munsee
+│       │   │   │   │           ├── haudenosaunee-confederacy
+│       │   │   │   │           │   └── seneca
+│       │   │   │   │           │       └── handsome-lake.md
+│       │   │   │   │           └── neolin.md
+│       │   │   │   └── oxford-group
+│       │   │   │       ├── ebby-thacher.md
+│       │   │   │       └── frank-buchman.md
+│       │   │   ├── secular-recovery
+│       │   │   │   ├── jack-trimpey.md
+│       │   │   │   ├── james-christopher.md
+│       │   │   │   ├── joe-gerstein.md
+│       │   │   │   ├── tom-horvath.md
+│       │   │   │   ├── tom-jackson.md
+│       │   │   │   └── tom-mcnulty.md
+│       │   │   ├── sociopolitical
+│       │   │   │   └── barbara-ehrenreich.md
+│       │   │   ├── temperance
+│       │   │   │   ├── carry-nation.md
+│       │   │   │   ├── charles-b-towns.md
+│       │   │   │   ├── frances-willard.md
+│       │   │   │   ├── harry-j-anslinger.md
+│       │   │   │   ├── john-b-gough.md
+│       │   │   │   ├── lyman-beecher.md
+│       │   │   │   ├── neal-dow.md
+│       │   │   │   └── richmond-p-hobson.md
+│       │   │   ├── womens-recovery
+│       │   │   │   └── jean-kirkpatrick.md
+│       │   │   ├── dwight-anderson.md
+│       │   │   ├── edward-bernays.md
+│       │   │   ├── ethan-a-nadelmann.md
+│       │   │   ├── kassandra-frederique.md
+│       │   │   ├── pat-taylor.md
+│       │   │   └── tom-hill.md
+│       │   ├── artists
+│       │   │   ├── musicians
+│       │   │   │   ├── charlie-parker.md
+│       │   │   │   └── john-coltrane.md
+│       │   │   ├── painters
+│       │   │   │   ├── 1690-1699
+│       │   │   │   │   └── william-hogarth.md
+│       │   │   │   ├── 1850-1859
+│       │   │   │   │   └── vincent-van-gogh.md
+│       │   │   │   ├── 1880-1889
+│       │   │   │   │   └── pablo-picasso.md
+│       │   │   │   ├── 1900-1909
+│       │   │   │   │   └── francis-bacon.md
+│       │   │   │   ├── 1910-1919
+│       │   │   │   │   └── jackson-pollock.md
+│       │   │   │   ├── 1920-1929
+│       │   │   │   │   └── andy-warhol.md
+│       │   │   │   └── 1960-1969
+│       │   │   │       └── jean-michel-basquiat.md
+│       │   │   └── writers
+│       │   │       ├── 1500-1600
+│       │   │       │   ├── john-frith.md
+│       │   │       │   └── robert-burton.md
+│       │   │       ├── 1660-1669
+│       │   │       │   └── daniel-defoe.md
+│       │   │       ├── 1710-1719
+│       │   │       │   └── david-hume.md
+│       │   │       ├── 1770-1779
+│       │   │       │   └── sir-walter-scott.md
+│       │   │       ├── 1780-1789
+│       │   │       │   ├── lord-byron.md
+│       │   │       │   └── thomas-de-quincey.md
+│       │   │       ├── 1790-1799
+│       │   │       │   ├── honore-de-balzac.md
+│       │   │       │   ├── john-keats.md
+│       │   │       │   └── percy-bysshe-shelley.md
+│       │   │       ├── 1800-1809
+│       │   │       │   ├── edgar-allan-poe.md
+│       │   │       │   ├── elizabeth-barrett-browning.md
+│       │   │       │   └── victor-hugo.md
+│       │   │       ├── 1810-1819
+│       │   │       │   └── branwell-bronte.md
+│       │   │       ├── 1820-1829
+│       │   │       │   ├── charles-baudelaire.md
+│       │   │       │   ├── fyodor-dostoevsky.md
+│       │   │       │   └── wilkie-collins.md
+│       │   │       ├── 1850-1859
+│       │   │       │   └── oscar-wilde.md
+│       │   │       ├── 1870-1879
+│       │   │       │   └── jack-london.md
+│       │   │       ├── 1880-1889
+│       │   │       │   └── eugene-o-neill.md
+│       │   │       ├── 1890-1899
+│       │   │       │   ├── dorothy-parker.md
+│       │   │       │   ├── ernest-hemingway.md
+│       │   │       │   └── f-scott-fitzgerald.md
+│       │   │       ├── 1900-1909
+│       │   │       │   ├── ayn-rand.md
+│       │   │       │   ├── charles-jackson.md
+│       │   │       │   └── jean-paul-sartre.md
+│       │   │       ├── 1910-1919
+│       │   │       │   ├── dylan-thomas.md
+│       │   │       │   ├── herbert-huncke.md
+│       │   │       │   └── william-s-burroughs.md
+│       │   │       ├── 1920-1929
+│       │   │       │   └── jack-kerouac.md
+│       │   │       ├── 1950-1959
+│       │   │       │   ├── caroline-knapp.md
+│       │   │       │   └── michael-jay.md
+│       │   │       ├── 1960-1969
+│       │   │       │   └── david-foster-wallace.md
+│       │   │       ├── charles-dickens.md
+│       │   │       ├── john-berryman.md
+│       │   │       ├── john-cheever.md
+│       │   │       ├── lotta-dann.md
+│       │   │       ├── malcolm-lowry.md
+│       │   │       ├── nada-inada-horiuchi-shigeru.md
+│       │   │       ├── nic-sheff.md
+│       │   │       ├── raymond-carver.md
+│       │   │       ├── samuel-taylor-coleridge.md
+│       │   │       ├── sarah-hepola.md
+│       │   │       ├── stephen-king.md
+│       │   │       ├── william-faulkner.md
+│       │   │       └── winifred-black.md
+│       │   ├── celebrities-and-influencers
+│       │   │   ├── actors
+│       │   │   │   ├── 1810-1819
+│       │   │   │   │   └── john-bartholomew-gough.md
+│       │   │   │   ├── 1920-1929
+│       │   │   │   │   ├── judy-garland.md
+│       │   │   │   │   ├── marilyn-monroe.md
+│       │   │   │   │   └── tony-curtis.md
+│       │   │   │   ├── 1930-1939
+│       │   │   │   │   ├── anthony-hopkins.md
+│       │   │   │   │   ├── elizabeth-taylor.md
+│       │   │   │   │   ├── johnny-cash.md
+│       │   │   │   │   └── mary-tyler-moore.md
+│       │   │   │   ├── 1940-1949
+│       │   │   │   │   ├── danny-trejo.md
+│       │   │   │   │   ├── john-belushi.md
+│       │   │   │   │   ├── liza-minneli.md
+│       │   │   │   │   └── samuel-l-jackson.md
+│       │   │   │   ├── 1950-1959
+│       │   │   │   │   ├── carrie-fisher.md
+│       │   │   │   │   ├── clint-howard.md
+│       │   │   │   │   ├── dennis-quaid.md
+│       │   │   │   │   ├── john-goodman.md
+│       │   │   │   │   ├── mel-gibson.md
+│       │   │   │   │   └── robin-williams.md
+│       │   │   │   ├── 1960-1969
+│       │   │   │   │   ├── brad-pitt.md
+│       │   │   │   │   ├── charlie-sheen.md
+│       │   │   │   │   ├── chris-farley.md
+│       │   │   │   │   ├── gerard-butler.md
+│       │   │   │   │   ├── james-gandolfini.md
+│       │   │   │   │   ├── john-stamos.md
+│       │   │   │   │   ├── josh-brolin.md
+│       │   │   │   │   ├── kristin-davis.md
+│       │   │   │   │   ├── matthew-perry.md
+│       │   │   │   │   ├── philip-seymour-hoffman.md
+│       │   │   │   │   ├── rob-lowe.md
+│       │   │   │   │   └── robert-downey-jr.md
+│       │   │   │   ├── 1970-1979
+│       │   │   │   │   ├── ben-affleck.md
+│       │   │   │   │   ├── bradley-cooper.md
+│       │   │   │   │   ├── colin-farrell.md
+│       │   │   │   │   ├── dax-shepard.md
+│       │   │   │   │   ├── ewan-mcgregor.md
+│       │   │   │   │   ├── heath-ledger.md
+│       │   │   │   │   ├── jon-hamm.md
+│       │   │   │   │   ├── river-phoenix.md
+│       │   │   │   │   ├── rob-delaney.md
+│       │   │   │   │   ├── tobey-maguire.md
+│       │   │   │   │   └── tom-hardy.md
+│       │   │   │   ├── 1980-1989
+│       │   │   │   │   ├── cory-monteith.md
+│       │   │   │   │   ├── daniel-radcliffe.md
+│       │   │   │   │   ├── jamie-campbell-bower.md
+│       │   │   │   │   ├── jessica-simpson.md
+│       │   │   │   │   ├── lindsay-lohan.md
+│       │   │   │   │   ├── lucy-hale.md
+│       │   │   │   │   ├── macaulay-culkin.md
+│       │   │   │   │   └── zac-efron.md
+│       │   │   │   └── 1990-1999
+│       │   │   │       ├── angus-cloud.md
+│       │   │   │       └── tom-holland.md
+│       │   │   ├── athletes
+│       │   │   │   ├── baseball
+│       │   │   │   │   └── mickey-mantle.md
+│       │   │   │   ├── boxing
+│       │   │   │   │   └── dicky-eklund.md
+│       │   │   │   └── swimming
+│       │   │   │       └── michael-phelps.md
+│       │   │   ├── comedians
+│       │   │   │   ├── mark-lundholm.md
+│       │   │   │   └── richard-pryor.md
+│       │   │   ├── content-creators
+│       │   │   │   └── jean-mccarthy.md
+│       │   │   ├── directors
+│       │   │   │   ├── indie
+│       │   │   │   │   └── aaron-strand.md
+│       │   │   │   ├── akira-kurosawa.md
+│       │   │   │   └── mike-flanagan.md
+│       │   │   ├── models
+│       │   │   │   └── naomi-campbell.md
+│       │   │   ├── musicians
+│       │   │   │   ├── country
+│       │   │   │   │   ├── keith-urban.md
+│       │   │   │   │   └── tim-mcgraw.md
+│       │   │   │   ├── hip-hop
+│       │   │   │   │   └── mac-miller.md
+│       │   │   │   ├── jazz
+│       │   │   │   │   ├── billie-holiday.md
+│       │   │   │   │   └── red-rodney.md
+│       │   │   │   ├── metal
+│       │   │   │   │   ├── james-hetfield.md
+│       │   │   │   │   └── oli-sykes.md
+│       │   │   │   ├── pop
+│       │   │   │   │   ├── britney-spears.md
+│       │   │   │   │   ├── demi-lovato.md
+│       │   │   │   │   ├── ed-sheeran.md
+│       │   │   │   │   ├── elton-john.md
+│       │   │   │   │   ├── john-mayer.md
+│       │   │   │   │   ├── lana-del-rey-elizabeth-grant.md
+│       │   │   │   │   ├── miley-cyrus.md
+│       │   │   │   │   └── robbie-williams.md
+│       │   │   │   ├── r-and-b
+│       │   │   │   │   └── amy-winehouse.md
+│       │   │   │   ├── rap
+│       │   │   │   │   ├── eminem.md
+│       │   │   │   │   ├── juice-wrld.md
+│       │   │   │   │   ├── kid-cudi-scott-mescudi.md
+│       │   │   │   │   └── macklemore-ben-haggerty.md
+│       │   │   │   ├── rock
+│       │   │   │   │   ├── indie
+│       │   │   │   │   │   └── zachary-cole-smoth.md
+│       │   │   │   │   ├── punk-rock
+│       │   │   │   │   │   ├── sid-vicious.md
+│       │   │   │   │   │   └── steve-jones.md
+│       │   │   │   │   ├── chad-smith.md
+│       │   │   │   │   ├── dallas-taylor.md
+│       │   │   │   │   ├── johnny-rzeznik.md
+│       │   │   │   │   ├── kurt-cobain.md
+│       │   │   │   │   └── trent-reznor.md
+│       │   │   │   └── melissa-etheridge.md
+│       │   │   ├── drew-barrymore.md
+│       │   │   ├── eva-mendes.md
+│       │   │   ├── jamie-lee-curtis.md
+│       │   │   ├── joe-manganiello.md
+│       │   │   ├── kirsten-dunst.md
+│       │   │   └── russell-brand.md
+│       │   ├── clinicians
+│       │   │   ├── doctors
+│       │   │   │   ├── 1500-1600
+│       │   │   │   │   ├── garcia-de-orta.md
+│       │   │   │   │   └── william-bullein.md
+│       │   │   │   ├── 1600-1700
+│       │   │   │   │   ├── everard-maynwaringe.md
+│       │   │   │   │   ├── george-cheyne.md
+│       │   │   │   │   ├── herman-boerhaave.md
+│       │   │   │   │   └── thomas-sydenham.md
+│       │   │   │   ├── 1700-1709
+│       │   │   │   ├── 1710-1719
+│       │   │   │   │   └── william-cullen.md
+│       │   │   │   ├── 1730-1739
+│       │   │   │   │   └── john-fothergill.md
+│       │   │   │   ├── 1740-1749
+│       │   │   │   │   ├── benjamin-rush.md
+│       │   │   │   │   ├── jean-etienne-dominique-esquirol.md
+│       │   │   │   │   ├── john-coakley-lettsom.md
+│       │   │   │   │   └── philippe-pinel.md
+│       │   │   │   ├── 1760-1769
+│       │   │   │   │   └── thomas-trotter.md
+│       │   │   │   ├── 1770-1779
+│       │   │   │   │   └── carl-von-bruhl-cramer.md
+│       │   │   │   ├── 1800-1809
+│       │   │   │   │   └── magnus-huss.md
+│       │   │   │   ├── 1820-1829
+│       │   │   │   │   └── benjamin-ward-richardson.md
+│       │   │   │   ├── 1830-1839
+│       │   │   │   │   ├── cesare-lombroso.md
+│       │   │   │   │   ├── leslie-keeley.md
+│       │   │   │   │   └── norman-shanks-kerr.md
+│       │   │   │   ├── 1840-1849
+│       │   │   │   │   └── thomas-d-crothers.md
+│       │   │   │   ├── 1850-1859
+│       │   │   │   │   └── harry-hubbell-kane.md
+│       │   │   │   ├── 1880-1889
+│       │   │   │   │   └── jal-edulji-dhunjibhoy.md
+│       │   │   │   ├── 1920-1929
+│       │   │   │   │   └── norman-e-zinberg.md
+│       │   │   │   ├── abraham-adolf-baer.md
+│       │   │   │   ├── bobby-mukkamala.md
+│       │   │   │   ├── christoph-wilhelm-hufeland.md
+│       │   │   │   ├── gabor-mate.md
+│       │   │   │   ├── hamilton-wright.md
+│       │   │   │   ├── jeanette-m-tetrault.md
+│       │   │   │   ├── judy-chertok.md
+│       │   │   │   ├── mitchell-s-rosenthal.md
+│       │   │   │   ├── sarah-e-wakeman.md
+│       │   │   │   └── sharon-levy.md
+│       │   │   ├── psychiatrists-and-psychologists
+│       │   │   │   ├── japan
+│       │   │   │   │   ├── geshi-takamaro.md
+│       │   │   │   │   ├── kono-hiroaki.md
+│       │   │   │   │   ├── saito-satoru.md
+│       │   │   │   │   ├── suwaki-hiroshi.md
+│       │   │   │   │   └── tsukue-ichiro.md
+│       │   │   │   ├── spain
+│       │   │   │   │   └── juan-gine-y-partagas.md
+│       │   │   │   ├── andrew-saxon.md
+│       │   │   │   ├── jaroslav-skala.md
+│       │   │   │   ├── joseph-guislain.md
+│       │   │   │   ├── joshua-bierer.md
+│       │   │   │   ├── maxwell-jones.md
+│       │   │   │   ├── richard-j-rosenthal.md
+│       │   │   │   ├── ruth-fox.md
+│       │   │   │   ├── sh-foulkes.md
+│       │   │   │   ├── shannon-c-miller.md
+│       │   │   │   ├── vladimir-hudolin.md
+│       │   │   │   └── wilfred-bion.md
+│       │   │   ├── therapists
+│       │   │   │   ├── carl-jung.md
+│       │   │   │   ├── richard-rogers-peabody.md
+│       │   │   │   └── sigmund-freud.md
+│       │   │   └── walter-voegtlin.md
+│       │   ├── coaches-and-speakers
+│       │   │   ├── adi-jaffe.md
+│       │   │   └── tia-graham.md
+│       │   ├── developers
+│       │   │   └── jonathan-blow.md
+│       │   ├── industry-leaders
+│       │   │   ├── automotive
+│       │   │   │   └── leonard-firestone.md
+│       │   │   ├── aviation
+│       │   │   │   └── howard-hughes.md
+│       │   │   ├── groceries
+│       │   │   │   └── john-mackay.md
+│       │   │   └── pharmaceuticals
+│       │   │       └── sackler-family.md
+│       │   ├── journalists
+│       │   │   ├── beth-macy.md
+│       │   │   ├── bill-moyers.md
+│       │   │   ├── johann-eduard-hari.md
+│       │   │   ├── laura-lovett.md
+│       │   │   └── sam-quinones.md
+│       │   ├── military
+│       │   ├── philanthropists
+│       │   ├── politicians-and-policymakers
+│       │   │   ├── ancient-macedonia
+│       │   │   │   └── alexander-the-great.md
+│       │   │   ├── ancient-rome
+│       │   │   │   └── marcus-antonius-mark-antony.md
+│       │   │   ├── france
+│       │   │   │   └── 1530-1539
+│       │   │   │       └── jean-nicot-de-villemain.md
+│       │   │   ├── japan
+│       │   │   │   └── national-diet
+│       │   │   │       └── koro-mitsu.md
+│       │   │   ├── united-kingdom
+│       │   │   │   ├── england
+│       │   │   │   │   ├── 1550-1559
+│       │   │   │   │   │   └── sir-walter-raleigh.md
+│       │   │   │   │   ├── 1560-1569
+│       │   │   │   │   │   └── king-james-i.md
+│       │   │   │   │   └── joseph-livesey.md
+│       │   │   │   └── scotland
+│       │   │   ├── united-states
+│       │   │   │   ├── administration-officials
+│       │   │   │   │   ├── johnson
+│       │   │   │   │   │   └── daniel-patrick-moynihan.md
+│       │   │   │   │   ├── obama
+│       │   │   │   │   │   ├── keith-humphreys.md
+│       │   │   │   │   │   └── michael-botticelli.md
+│       │   │   │   │   └── trump
+│       │   │   │   │       ├── kathryn-burgum.md
+│       │   │   │   │       ├── larry-kudlow.md
+│       │   │   │   │       └── timothy-w-westlake.md
+│       │   │   │   ├── ambassadors
+│       │   │   │   ├── attorney-generals
+│       │   │   │   │   └── luther-martin.md
+│       │   │   │   ├── cabinet-members
+│       │   │   │   │   ├── alexander-hamilton.md
+│       │   │   │   │   ├── daniel-webster.md
+│       │   │   │   │   ├── harry-hopkins.md
+│       │   │   │   │   ├── marty-walsh.md
+│       │   │   │   │   ├── robert-f-kennedy-jr.md
+│       │   │   │   │   ├── robert-lansing.md
+│       │   │   │   │   ├── thomas-ewing.md
+│       │   │   │   │   └── william-w-belknap.md
+│       │   │   │   ├── colonial-authorities
+│       │   │   │   │   └── increase-mather.md
+│       │   │   │   ├── congressional-representatives
+│       │   │   │   │   ├── bob-ney.md
+│       │   │   │   │   ├── charles-wilson.md
+│       │   │   │   │   ├── jim-ramstad.md
+│       │   │   │   │   ├── john-boehner.md
+│       │   │   │   │   ├── patrick-kennedy.md
+│       │   │   │   │   ├── phil-crane.md
+│       │   │   │   │   ├── robert-bauman.md
+│       │   │   │   │   ├── trey-radel.md
+│       │   │   │   │   └── wilbur-mills.md
+│       │   │   │   ├── drug-czars
+│       │   │   │   │   └── jerome-h-jaffe.md
+│       │   │   │   ├── governors
+│       │   │   │   │   ├── ann-richards.md
+│       │   │   │   │   ├── benjamin-franklin.md
+│       │   │   │   │   ├── harold-hughes.md
+│       │   │   │   │   └── richard-thorndike-thorne.md
+│       │   │   │   ├── mayors
+│       │   │   │   │   ├── marion-barry.md
+│       │   │   │   │   ├── rudy-giuliani.md
+│       │   │   │   │   └── zohran-mamdani.md
+│       │   │   │   ├── new-york
+│       │   │   │   │   └── lawrence-coleman-kolb.md
+│       │   │   │   ├── presidents
+│       │   │   │   │   ├── andrew-johnson.md
+│       │   │   │   │   ├── franklin-pierce.md
+│       │   │   │   │   ├── george-w-bush.md
+│       │   │   │   │   ├── james-buchanan.md
+│       │   │   │   │   ├── lyndon-b-johnson.md
+│       │   │   │   │   ├── richard-nixon.md
+│       │   │   │   │   ├── ulysses-s-grant.md
+│       │   │   │   │   └── william-howard-taft.md
+│       │   │   │   ├── relatives
+│       │   │   │   │   ├── betty-ford.md
+│       │   │   │   │   ├── charles-adams.md
+│       │   │   │   │   ├── fred-trump-jr.md
+│       │   │   │   │   ├── hunter-biden.md
+│       │   │   │   │   └── john-payne-todd.md
+│       │   │   │   └── senators
+│       │   │   │       ├── herman-talmadge.md
+│       │   │   │       ├── john-tower.md
+│       │   │   │       ├── joseph-mccarthy.md
+│       │   │   │       └── ted-kennedy.md
+│       │   │   ├── dave-joyce.md
+│       │   │   ├── eva-sarah-moskowitz.md
+│       │   │   ├── patrick-joseph-kennedy-ii.md
+│       │   │   ├── paul-tonko.md
+│       │   │   └── rahul-gupta.md
+│       │   ├── researchers
+│       │   │   ├── anthropologists
+│       │   │   │   ├── elizabeth-f-s-roberts.md
+│       │   │   │   ├── jacqueline-leckie.md
+│       │   │   │   ├── mary-douglas.md
+│       │   │   │   └── simon-heap.md
+│       │   │   ├── biology
+│       │   │   │   └── jack-e-henningfield.md
+│       │   │   ├── chemistry
+│       │   │   │   ├── humphry-davy.md
+│       │   │   │   ├── nicolas-theodore-de-saussure.md
+│       │   │   │   └── thomas-brande.md
+│       │   │   ├── economists
+│       │   │   │   └── daniel-kahneman.md
+│       │   │   ├── history
+│       │   │   │   ├── adela-gjuricova.md
+│       │   │   │   ├── akira-hashimoto.md
+│       │   │   │   ├── andrew-wear.md
+│       │   │   │   ├── auguste-voisin.md
+│       │   │   │   ├── aurea-toxqui.md
+│       │   │   │   ├── christian-werkmeister.md
+│       │   │   │   ├── david-clemis.md
+│       │   │   │   ├── david-korostyshevsky.md
+│       │   │   │   ├── david-t-courtwright.md
+│       │   │   │   ├── deborah-toner.md
+│       │   │   │   ├── elizabeth-lane-furdell.md
+│       │   │   │   ├── eric-engstrom.md
+│       │   │   │   ├── erica-wald.md
+│       │   │   │   ├── gerard-sasges.md
+│       │   │   │   ├── gretchen-pierce.md
+│       │   │   │   ├── h-fischer-tine.md
+│       │   │   │   ├── heinrich-tappe.md
+│       │   │   │   ├── ivan-crozier.md
+│       │   │   │   ├── j-tschurenev.md
+│       │   │   │   ├── jasmin-brotz.md
+│       │   │   │   ├── jessica-warner.md
+│       │   │   │   ├── john-chynoweth-burnham.md
+│       │   │   │   ├── jonathan-reinarz.md
+│       │   │   │   ├── konstantinos-gkostinas.md
+│       │   │   │   ├── mauricio-becerra-rebolledo.md
+│       │   │   │   ├── nandini-bhattacharya.md
+│       │   │   │   ├── nina-s-studer.md
+│       │   │   │   ├── phil-withington.md
+│       │   │   │   ├── rebecca-wynter.md
+│       │   │   │   ├── ricardo-campos.md
+│       │   │   │   ├── roy-porter.md
+│       │   │   │   └── william-f-bynum.md
+│       │   │   ├── literature
+│       │   │   │   └── sawamura-eiichi.md
+│       │   │   ├── neuroscience
+│       │   │   │   ├── neurobehavioral
+│       │   │   │   │   ├── david-h-epstein.md
+│       │   │   │   │   ├── michael-a-bozarth.md
+│       │   │   │   │   └── michael-wesley.md
+│       │   │   │   ├── neurobiology
+│       │   │   │   │   ├── george-f-koob.md
+│       │   │   │   │   ├── marco-venniro.md
+│       │   │   │   │   ├── ruben-d-baler.md
+│       │   │   │   │   └── serge-h-ahmed.md
+│       │   │   │   ├── robert-heath.md
+│       │   │   │   ├── roy-a-wise.md
+│       │   │   │   └── yavin-shaham.md
+│       │   │   ├── pharmacology
+│       │   │   │   ├── gordon-alles.md
+│       │   │   │   ├── harvey-bernhardt-haag.md
+│       │   │   │   ├── james-alexander-waddell.md
+│       │   │   │   ├── neal-l-benowitz.md
+│       │   │   │   └── robert-yokel.md
+│       │   │   ├── philosophers
+│       │   │   │   ├── ethics
+│       │   │   │   │   ├── bioethics
+│       │   │   │   │   │   └── travis-rieder.md
+│       │   │   │   │   └── jeanette-kennett.md
+│       │   │   │   ├── law
+│       │   │   │   │   └── douglas-n-husak.md
+│       │   │   │   ├── science
+│       │   │   │   │   └── dominic-murphy.md
+│       │   │   │   ├── alfred-remen-mele.md
+│       │   │   │   ├── hanna-pickard.md
+│       │   │   │   ├── harry-frankfurt.md
+│       │   │   │   ├── herbert-fingarette.md
+│       │   │   │   ├── kent-dunnington.md
+│       │   │   │   └── neil-levy.md
+│       │   │   ├── policy
+│       │   │   │   ├── andrew-kolodny.md
+│       │   │   │   ├── charles-fain-lehman.md
+│       │   │   │   ├── james-nicholls.md
+│       │   │   │   └── regina-labelle.md
+│       │   │   ├── psychiatrists-and-psychologists
+│       │   │   │   ├── abraham-wikler.md
+│       │   │   │   ├── alan-i-leshner.md
+│       │   │   │   ├── auguste-forel.md
+│       │   │   │   ├── bf-skinner.md
+│       │   │   │   ├── bruce-k-alexander.md
+│       │   │   │   ├── carl-hart.md
+│       │   │   │   ├── edward-l-thorndike.md
+│       │   │   │   ├── emil-kraepelin.md
+│       │   │   │   ├── james-c-coyne.md
+│       │   │   │   ├── james-mckeen-cattell.md
+│       │   │   │   ├── james-morris.md
+│       │   │   │   ├── james-olds.md
+│       │   │   │   ├── james-orford.md
+│       │   │   │   ├── judith-grisel.md
+│       │   │   │   ├── markus-heilig.md
+│       │   │   │   ├── mat-savelli.md
+│       │   │   │   ├── mukasa-hiroshi.md
+│       │   │   │   ├── nancy-c-andreasen.md
+│       │   │   │   ├── nick-haslam.md
+│       │   │   │   ├── nicolas-rasmussen.md
+│       │   │   │   ├── nora-d-volkow.md
+│       │   │   │   ├── richard-von-krafft-ebing.md
+│       │   │   │   ├── sakaki-hajime.md
+│       │   │   │   ├── steven-edward-hyman.md
+│       │   │   │   ├── wilhelm-wundt.md
+│       │   │   │   └── william-james.md
+│       │   │   ├── religious-studies
+│       │   │   │   └── katja-rakow.md
+│       │   │   ├── social-work
+│       │   │   │   └── christine-flynn-saulnier.md
+│       │   │   ├── sociologists
+│       │   │   │   ├── alfred-vierkandt.md
+│       │   │   │   ├── james-samuel-coleman.md
+│       │   │   │   ├── peter-conrad.md
+│       │   │   │   ├── philip-rieff.md
+│       │   │   │   └── werner-sombart.md
+│       │   │   ├── translational
+│       │   │   │   └── stephen-higgins.md
+│       │   │   ├── barry-j-everitt.md
+│       │   │   ├── charles-sanders-pierce.md
+│       │   │   ├── clark-l-hull.md
+│       │   │   ├── e-morton-jellinek.md
+│       │   │   ├── erik-jacobsen.md
+│       │   │   ├── ivan-pavlov.md
+│       │   │   ├── john-b-watson.md
+│       │   │   ├── karl-friston.md
+│       │   │   ├── kent-berridge.md
+│       │   │   ├── linda-farris-kurtz.md
+│       │   │   ├── neal-e-miller.md
+│       │   │   ├── peter-milner.md
+│       │   │   ├── pierre-janet.md
+│       │   │   ├── seyyed-nassir-ghaemi.md
+│       │   │   ├── stanton-peele.md
+│       │   │   ├── terry-robinson.md
+│       │   │   ├── trevor-w-robbins.md
+│       │   │   └── william-james.md
+│       │   ├── sailors
+│       │   │   └── rodrigo-de-jerez.md
+│       │   ├── adela-maria-isvoranu.md
+│       │   ├── benedict-augustin-morel.md
+│       │   ├── betty-ford.md
+│       │   ├── charles-albert-shadel.md
+│       │   ├── claudia-van-borkulo.md
+│       │   ├── courtenay-baylor.md
+│       │   ├── daniel-anderson.md
+│       │   ├── denny-borsboom.md
+│       │   ├── derek-bolton.md
+│       │   ├── donald-robinaugh.md
+│       │   ├── eiko-fried.md
+│       │   ├── gene-m-heyman.md
+│       │   ├── george-alexander-stach.md
+│       │   ├── ippei-mizuhara.md
+│       │   ├── jean-joseph-rossi-jr.md
+│       │   ├── jolanda-kossakowski.md
+│       │   ├── karl-jaspers.md
+│       │   ├── kenneth-s-kendler.md
+│       │   ├── khadi-a-oluwatoyin.md
+│       │   ├── mohammed-abouelleil-rashed.md
+│       │   ├── nelson-bradley.md
+│       │   ├── pat-bracken.md
+│       │   ├── phil-thomas.md
+│       │   ├── quentin-huys.md
+│       │   ├── richard-peabody.md
+│       │   ├── roger-c.md
+│       │   ├── sanneke-de-haan.md
+│       │   ├── sister-mary-leo-kammeier.md
+│       │   ├── thomas-davison-crothers.md
+│       │   ├── virginia-berridge.md
+│       │   ├── walter-lyle-voegtlin.md
+│       │   ├── william-frederick-bynum.md
+│       │   └── william-wilson-bill-w.md
+│       ├── policy
+│       │   ├── bans
+│       │   │   ├── decriminalization.md
+│       │   │   ├── prohibition.md
+│       │   │   ├── war-on-drugs.md
+│       │   │   └── wartime-prohibition-act.md
+│       │   ├── civil-rights
+│       │   │   └── americans-with-disabilities-act.md
+│       │   ├── education-and-training
+│       │   │   └── training-and-technical-assistance.md
+│       │   ├── harm-reduction
+│       │   │   ├── good-samaritan.md
+│       │   │   ├── naloxone.md
+│       │   │   ├── needle-exchange.md
+│       │   │   ├── safe-supply.md
+│       │   │   ├── supervised-consumption.md
+│       │   │   └── syringe-services-programs.md
+│       │   ├── international
+│       │   │   ├── 1900-1909
+│       │   │   │   └── international-opium-commission-of-1909.md
+│       │   │   └── 1910-1919
+│       │   │       └── first-international-opium-convention-1912.md
+│       │   ├── japan
+│       │   │   └── national-diet
+│       │   │       └── drunkenness-prevention-act.md
+│       │   ├── mandatory-minimums
+│       │   │   └── rockefeller-drug-laws.md
+│       │   ├── ottoman-empire
+│       │   │   └── sultan-murad-iv.md
+│       │   ├── past-disasters
+│       │   ├── prevention
+│       │   │   ├── education
+│       │   │   │   ├── dare.md
+│       │   │   │   ├── drug-and-alcohol-abuse-prevention-program.md
+│       │   │   │   └── drug-free-schools-and-communities-act.md
+│       │   │   └── school-education.md
+│       │   ├── public-health
+│       │   │   └── housing-first.md
+│       │   ├── reintegration
+│       │   │   ├── contingency-management.md
+│       │   │   └── place-based-policies.md
+│       │   ├── spain
+│       │   │   └── law-of-beneficence-1849.md
+│       │   ├── united-kingdom
+│       │   │   ├── england
+│       │   │   │   └── act-for-the-repressing-of-the-odious-and-loathsom-sin-of-drunkenness-1606.md
+│       │   │   └── scotland
+│       │   ├── united-states
+│       │   │   ├── 1840-1849
+│       │   │   │   ├── drug-importation-act-of-1848.md
+│       │   │   │   ├── license-cases-1847.md
+│       │   │   │   └── thurlow-v-massachusetts-1847.md
+│       │   │   ├── 1860-1869
+│       │   │   │   └── pervear-v-massachusetts-1867.md
+│       │   │   ├── 1870-1879
+│       │   │   │   └── bartemeyer-v-iowa-1878.md
+│       │   │   ├── 1880-1889
+│       │   │   │   ├── beer-company-v-massachusetts-1880.md
+│       │   │   │   ├── bowman-v-chicago-and-northwestern-railway-co-1886.md
+│       │   │   │   ├── foster-v-kansas-1880.md
+│       │   │   │   └── mugler-v-kansas-1887.md
+│       │   │   ├── 1890-1899
+│       │   │   │   ├── crowley-v-christensen-1890.md
+│       │   │   │   ├── in-re-rahrer-1891.md
+│       │   │   │   ├── leisy-v-hardin-1890.md
+│       │   │   │   └── vance-v-wa-vandercook-1898.md
+│       │   │   ├── 1900-1909
+│       │   │   │   ├── american-express-co-v-iowa-1905.md
+│       │   │   │   ├── pabst-brewing-co-v-crenshaw-1905.md
+│       │   │   │   ├── pure-food-and-drug-act-of-1906.md
+│       │   │   │   ├── shanghai-opium-commission-of-1909.md
+│       │   │   │   └── smoking-opium-exclusion-act-of-1909.md
+│       │   │   ├── 1910-1919
+│       │   │   │   ├── food-and-fuel-control-act-lever-act-of-1917.md
+│       │   │   │   ├── harrison-narcotics-tax-act-of-1914.md
+│       │   │   │   ├── international-conference-on-opium-of-1911.md
+│       │   │   │   ├── purity-extract-and-tonic-co-v-lynch-1912.md
+│       │   │   │   ├── rainey-committee-1918.md
+│       │   │   │   ├── the-volstead-act.md
+│       │   │   │   ├── united-states-v-jin-fuey-moy-1916.md
+│       │   │   │   ├── wartime-prohibition-act-1918.md
+│       │   │   │   ├── webb-kenyon-act-of-1913.md
+│       │   │   │   └── webb-v-united-states-1919.md
+│       │   │   ├── 1920-1929
+│       │   │   │   ├── federal-narcotics-control-board-of-prohibition-unit.md
+│       │   │   │   ├── linder-v-united-states-1925.md
+│       │   │   │   ├── narcotics-drugs-import-and-export-act-of-1922.md
+│       │   │   │   └── porter-narcotic-farm-act-of-1929.md
+│       │   │   ├── 1930-1939
+│       │   │   │   ├── federal-bureau-of-narcotics-fbn-1930.md
+│       │   │   │   ├── marijuana-tax-act-of-1937.md
+│       │   │   │   └── uniform-state-narcotics-act-of-1932.md
+│       │   │   ├── 1940-1949
+│       │   │   │   └── opium-poppy-control-act-of-1942.md
+│       │   │   ├── 1950-1959
+│       │   │   │   ├── boggs-act-of-1951.md
+│       │   │   │   ├── durham-humphrey-amendment-1951.md
+│       │   │   │   ├── interdepartmental-committee-on-narcotics-of-1951.md
+│       │   │   │   └── narcotic-control-act-of-1956.md
+│       │   │   ├── 1960-1969
+│       │   │   │   ├── community-mental-health-centers-act-of-1963.md
+│       │   │   │   ├── drug-abuse-control-amendments-of-1965.md
+│       │   │   │   ├── narcotic-addict-rehabilitation-act-of-1966.md
+│       │   │   │   ├── powell-v-texas-1968.md
+│       │   │   │   ├── presidents-advisory-commission-on-narcotics-and-drug-abuse-of-1962.md
+│       │   │   │   └── robinson-v-california-1962.md
+│       │   │   ├── 1970-1979
+│       │   │   │   ├── alcohol-and-drug-abuse-education-amendments-of-1978.md
+│       │   │   │   ├── comprehensive-substance-abuse-act-of-1970.md
+│       │   │   │   ├── controlled-substances-act-csa-1970.md
+│       │   │   │   ├── drug-abuse-office-and-treatment-act-of-1972.md
+│       │   │   │   ├── drug-abuse-treatment-and-control-amendment-of-1974.md
+│       │   │   │   ├── drug-abuse-treatment-and-control-amendment-of-1978.md
+│       │   │   │   ├── heroin-trafficking-act-of-1973.md
+│       │   │   │   ├── hughes-act-1970.md
+│       │   │   │   ├── identification-and-treatment-of-drug-and-alcohol-dependent-persons-in-the-armed-forces-1971.md
+│       │   │   │   ├── marshall-v-united-states-1974.md
+│       │   │   │   ├── methadone-control-act-of-1973.md
+│       │   │   │   └── veterans-health-administration-department-of-defense-clinical-practice-guidelines-for-the-management-of-substance-use-disorders-in-the-primary-care-setting-2001.md
+│       │   │   ├── 1980-1989
+│       │   │   │   ├── analogue-designer-drug-act-of-1984.md
+│       │   │   │   ├── anti-drug-abuse-act-of-1986.md
+│       │   │   │   ├── crime-control-act-of-1984.md
+│       │   │   │   ├── drug-offenders-act-of-1984.md
+│       │   │   │   ├── omnibus-drug-abuse-act-of-1988.md
+│       │   │   │   ├── traynor-v-turnage-1988.md
+│       │   │   │   └── victims-of-crime-act-1984.md
+│       │   │   ├── 1990-1999
+│       │   │   │   ├── comprehensive-methamphetamine-control-act-of-1996.md
+│       │   │   │   ├── master-settlement-agreement-1998.md
+│       │   │   │   ├── office-of-national-drug-control-policy-reauthorization-act-of-1998.md
+│       │   │   │   ├── personal-responsibility-and-word-reauthorization-act-of-1996.md
+│       │   │   │   ├── the-drug-free-communities-act-of-1997.md
+│       │   │   │   ├── the-media-campaign-act-of-1998.md
+│       │   │   │   ├── violence-against-women-act-1994.md
+│       │   │   │   └── violent-crime-control-and-law-enforcement-act-of-1994.md
+│       │   │   ├── 2000-2009
+│       │   │   │   ├── combat-methamphetamine-epidemic-act-of-2005-cmea.md
+│       │   │   │   ├── drug-addiction-treatment-act-of-2000.md
+│       │   │   │   ├── ecstacy-anti-proliferation-act-of-2000.md
+│       │   │   │   ├── family-smoking-prevention-and-tobacco-control-act-2009.md
+│       │   │   │   ├── gonzales-v-oregon-2006.md
+│       │   │   │   ├── gonzales-v-raich-2005.md
+│       │   │   │   ├── illicit-drug-anti-proliferation-act-of-2003.md
+│       │   │   │   ├── justice-for-all-act-of-2004.md
+│       │   │   │   ├── kimbrough-v-united-states-2007.md
+│       │   │   │   ├── lytle-v-doyle-2003.md
+│       │   │   │   ├── office-of-national-drug-control-policy-reauthorization-act-of-2006.md
+│       │   │   │   ├── ryan-haight-online-pharmacy-consumer-protection-act-of-2008.md
+│       │   │   │   └── vulnerability-to-ecstacy-act-of-2002.md
+│       │   │   ├── 2010-2019
+│       │   │   │   ├── 21st-century-cures-act.md
+│       │   │   │   ├── comprehensive-addiction-recovery-act-cara-2016.md
+│       │   │   │   ├── first-step-act-of-2018.md
+│       │   │   │   ├── florida-v-jardines-2013.md
+│       │   │   │   ├── interdict-act-of-2018.md
+│       │   │   │   ├── support-for-patients-and-communities-act.md
+│       │   │   │   └── the-fair-sentencing-act-of-2010.md
+│       │   │   ├── 2020-2029
+│       │   │   │   ├── affordable-and-safe-prescription-drug-importation-act-of-2025.md
+│       │   │   │   ├── borden-v-united-states-2021.md
+│       │   │   │   ├── concepcion-v-united-states-2022.md
+│       │   │   │   ├── harrington-v-purdue-pharma-lp-2024.md
+│       │   │   │   ├── ruan-v-united-states-2022.md
+│       │   │   │   └── united-states-v-hemani-2026.md
+│       │   │   ├── california
+│       │   │   │   ├── 1870-1879
+│       │   │   │   │   └── san-francisco-opium-den-ordinance-of-1875.md
+│       │   │   │   ├── 1880-1889
+│       │   │   │   │   ├── 1887-california-scientific-temperance-instruction-law.md
+│       │   │   │   │   └── section-307-of-the-california-penal-code.md
+│       │   │   │   └── 1960-1969
+│       │   │   │       └── victims-of-violent-crimes-act-1965.md
+│       │   │   ├── pennsylvania
+│       │   │   └── Section-319-of-the-Public-Health-Service-Act.md
+│       │   ├── vatican
+│       │   │   ├── 1590-1599
+│       │   │   │   └── pope-urban-vii.md
+│       │   │   └── 1620-1629
+│       │   │       └── pope-urban-viii.md
+│       │   ├── 1970-comprehensive-alcohol-abuse-and-alcoholism-prevention-act.md
+│       │   ├── aids-education-and-training-centers-aetc.md
+│       │   ├── defence-of-the-realm-act.md
+│       │   ├── image.png
+│       │   ├── index.html
+│       │   ├── mental-health-parity-and-addiction-act.md
+│       │   ├── proposition-64.md
+│       │   └── uk-inebriates-act.md
+│       └── treatment
+│           ├── diseases-disorders-and-disabilities
+│           │   ├── neurocognitive-disorders
+│           │   │   ├── delirium-tremens-dts.md
+│           │   │   ├── hallucinogen-persisting-perception-disorder-hppd.md
+│           │   │   ├── major-neurocognitive-disorder-dementia.md
+│           │   │   ├── marchiafava-bignami-disease.md
+│           │   │   ├── mild-neurocognitive-disorder.md
+│           │   │   └── wernicke-korsakoff-syndrome.md
+│           │   ├── neurodevelopmental-disorders
+│           │   │   ├── communication-disorders
+│           │   │   │   ├── language-disorders
+│           │   │   │   │   └── developmental-language-disorder-dld.md
+│           │   │   │   └── speech-disorders
+│           │   │   │       ├── speech-sound-disorders
+│           │   │   │       │   ├── articulation-disorders
+│           │   │   │       │   └── phonemic-disorders
+│           │   │   │       └── voice-disorders
+│           │   │   ├── attention-deficit-hyperactivity-disorder.md
+│           │   │   ├── autism-spectrum-disorder.md
+│           │   │   ├── intellectual-development-disorder.md
+│           │   │   └── language-disorder.md
+│           │   ├── oncological
+│           │   ├── personality-disorders
+│           │   │   ├── avoidant-personality-disorder.md
+│           │   │   ├── borderline-personality-disorder.md
+│           │   │   ├── dependent-personality-disorder.md
+│           │   │   ├── histrionic-personality-disorder.md
+│           │   │   ├── narcissistic-personality-disorder.md
+│           │   │   ├── obsessive-compulsive-personality-disorder.md
+│           │   │   ├── paranoid-personality-disorder.md
+│           │   │   ├── schizoid-personality-disorder.md
+│           │   │   └── schizotypal-personality-disorder.md
+│           │   ├── psychiatric-and-psychological
+│           │   │   ├── behavioral-and-functional
+│           │   │   │   ├── disruptive-and-conduct-disorders
+│           │   │   │   │   ├── antisocial-personality-disorder.md
+│           │   │   │   │   ├── conduct-disorder.md
+│           │   │   │   │   ├── intermittent-explosive-disorder.md
+│           │   │   │   │   ├── kleptomania.md
+│           │   │   │   │   ├── oppositional-defiant-disorder-odd.md
+│           │   │   │   │   └── pyromania.md
+│           │   │   │   ├── eating-disorders
+│           │   │   │   │   ├── anorexia-nervosa.md
+│           │   │   │   │   ├── avoidant-restrictive-food-intake-disorder.md
+│           │   │   │   │   ├── binge-eating-disorder.md
+│           │   │   │   │   ├── bulimia-nervosa.md
+│           │   │   │   │   ├── diabulimia.md
+│           │   │   │   │   ├── night-eating-syndrome.md
+│           │   │   │   │   ├── orthorexia-nervosa.md
+│           │   │   │   │   ├── pica.md
+│           │   │   │   │   ├── purging-disorder.md
+│           │   │   │   │   └── rumination-disorder.md
+│           │   │   │   └── substance-use-disorders
+│           │   │   │       ├── alcohol-use-disorder.md
+│           │   │   │       ├── benzodiazepine-use-disorder.md
+│           │   │   │       ├── cannabis-use-disorder.md
+│           │   │   │       ├── cocaine-use-disorder.md
+│           │   │   │       ├── gambling-disorder.md
+│           │   │   │       ├── gaming-disorder.md
+│           │   │   │       ├── hallucinogen-use-disorder.md
+│           │   │   │       ├── inhalant-use-disorder.md
+│           │   │   │       ├── methamphetamine-use-disorder.md
+│           │   │   │       ├── nicotine-dependence.md
+│           │   │   │       ├── opioid-use-disorder.md
+│           │   │   │       ├── oxycontin.md
+│           │   │   │       ├── sedative-use-disorder.md
+│           │   │   │       └── stimulant-use-disorder.md
+│           │   │   ├── emotional-and-mood
+│           │   │   │   ├── anxiety-disorders
+│           │   │   │   │   ├── phobias
+│           │   │   │   │   │   └── agoraphobia.md
+│           │   │   │   │   ├── generalized-anxiety-disorder.md
+│           │   │   │   │   ├── panic-disorder.md
+│           │   │   │   │   ├── selective-mutism.md
+│           │   │   │   │   ├── separation-anxiety-disorder.md
+│           │   │   │   │   └── social-anxiety-disorder.md
+│           │   │   │   ├── bipolar-and-related-disorders
+│           │   │   │   │   ├── bipolar-i-disorder.md
+│           │   │   │   │   ├── bipolar-ii-disorder.md
+│           │   │   │   │   └── cyclothymic-disorder.md
+│           │   │   │   ├── depressive-disorders
+│           │   │   │   │   ├── disruptive-mood-dysregulation-disorder-dmdd.md
+│           │   │   │   │   ├── major-depressive-disorder.md
+│           │   │   │   │   ├── persistent-depressive-disorder-dysthymia.md
+│           │   │   │   │   ├── premenstrual-dysphoric-disorder.md
+│           │   │   │   │   └── seasonal-affective-disorder.md
+│           │   │   │   └── obsessive-compulsive-and-related-disorders
+│           │   │   │       ├── body-dysmorphic-disorder-bdd.md
+│           │   │   │       ├── excoriation.md
+│           │   │   │       ├── hoarding-disorder.md
+│           │   │   │       ├── obsessive-compulsive-disorder.md
+│           │   │   │       └── trichotillomania.md
+│           │   │   └── perceptual-and-reality
+│           │   │       ├── dissociative-disorders
+│           │   │       │   ├── depersonalization-derealization-disorder.md
+│           │   │       │   ├── dissociative-amnesia.md
+│           │   │       │   ├── dissociative-identity-disorder.md
+│           │   │       │   └── other-specified-dissociative-disorder-osdd.md
+│           │   │       ├── schizoaffective-disorder.md
+│           │   │       ├── schizophrenia.md
+│           │   │       ├── schizophreniform-disorder.md
+│           │   │       └── schizotypal-personality-disorder.md
+│           │   ├── systemic
+│           │   │   ├── cardiovascular
+│           │   │   │   ├── acute-myocardial-infarction
+│           │   │   │   │   ├── accelerated-atherosclerosis.md
+│           │   │   │   │   ├── aortic-dissection.md
+│           │   │   │   │   └── coronary-vasospasm.md
+│           │   │   │   ├── arrhythmias
+│           │   │   │   │   ├── acute-atrial-fibrillation.md
+│           │   │   │   │   ├── qt-prolongation.md
+│           │   │   │   │   └── ventricular-tachycardia.md
+│           │   │   │   ├── infections
+│           │   │   │   │   ├── endocarditis.md
+│           │   │   │   │   └── suppurative-thrombophlebitis.md
+│           │   │   │   ├── cardiomyopathy.md
+│           │   │   │   ├── hypertension.md
+│           │   │   │   ├── myocardial-fibrosis.md
+│           │   │   │   └── myocarditis.md
+│           │   │   ├── craniofacial
+│           │   │   │   ├── bruxism.md
+│           │   │   │   ├── palatal-perforation.md
+│           │   │   │   ├── periodontal-disease.md
+│           │   │   │   ├── rampant-caries.md
+│           │   │   │   └── xerostomia.md
+│           │   │   ├── dermatological
+│           │   │   │   ├── abscesses.md
+│           │   │   │   ├── cellulitis.md
+│           │   │   │   ├── excoriation.md
+│           │   │   │   ├── necrotizing-fasciitis.md
+│           │   │   │   ├── pruritis.md
+│           │   │   │   └── stevens-johnson-syndrome.md
+│           │   │   ├── gastrointestinal
+│           │   │   │   ├── esophageal-varices.md
+│           │   │   │   └── gastroesophageal-reflux-disease-gerd.md
+│           │   │   ├── hematological
+│           │   │   │   ├── macrocytic-anemia.md
+│           │   │   │   └── thrombocytopenia.md
+│           │   │   ├── hepatic
+│           │   │   │   ├── cirrhosis.md
+│           │   │   │   ├── fatty-liver-disease-steatosis.md
+│           │   │   │   └── hepatitis.md
+│           │   │   ├── immunological
+│           │   │   │   ├── autoimmune
+│           │   │   │   ├── immunosuppression.md
+│           │   │   │   └── systemic-sepsis.md
+│           │   │   ├── metabolic
+│           │   │   │   ├── adrenal-insufficiency.md
+│           │   │   │   ├── hypercortisolemia.md
+│           │   │   │   ├── hypogonadism.md
+│           │   │   │   └── type-2-diabetes.md
+│           │   │   ├── musculoskeletal
+│           │   │   │   ├── myopathy.md
+│           │   │   │   ├── osteomyelitis.md
+│           │   │   │   ├── osteopenia.md
+│           │   │   │   ├── osteoporosis.md
+│           │   │   │   ├── rhabdomyolysis.md
+│           │   │   │   └── septic-arthritis.md
+│           │   │   ├── neurological
+│           │   │   │   ├── peripheral-neuropathy.md
+│           │   │   │   └── toxic-leukoencephalopathy.md
+│           │   │   ├── ophthalmic
+│           │   │   │   ├── endophthalmitis.md
+│           │   │   │   ├── keratitis.md
+│           │   │   │   ├── optic-neuropathy.md
+│           │   │   │   ├── retinal-vascular-occlusion.md
+│           │   │   │   └── talcom-retinopathy.md
+│           │   │   ├── pancreatic
+│           │   │   │   └── pancreatitis.md
+│           │   │   ├── renal
+│           │   │   │   ├── acute-kidney-injury.md
+│           │   │   │   ├── chronic-kidney-disease.md
+│           │   │   │   └── glomerulonephritis.md
+│           │   │   ├── reproductive-and-perinatal
+│           │   │   │   ├── fetal-alcohol-syndrome-fas.md
+│           │   │   │   ├── intrauterine-growth-restriction-iugr.md
+│           │   │   │   ├── neonatal-withdrawal-syndrome.md
+│           │   │   │   └── placental-abruptions.md
+│           │   │   └── respiratory
+│           │   │       ├── acute-eosinophilic-hypersensitivity-pneumonitis.md
+│           │   │       ├── atelectasis.md
+│           │   │       ├── bronchitis.md
+│           │   │       ├── central-apnea.md
+│           │   │       ├── chronic-obstructive-pulmonary-disease-copd.md
+│           │   │       ├── emphysema.md
+│           │   │       ├── pneumonia.md
+│           │   │       ├── pulmonary-edema.md
+│           │   │       ├── pulmonary-emboli.md
+│           │   │       ├── pulmonary-fibrosis.md
+│           │   │       └── refractory-asthma.md
+│           │   └── co-occurring-disorders.md
+│           ├── medications
+│           │   ├── anticonvulsants
+│           │   ├── antidepressants
+│           │   │   ├── atypical
+│           │   │   │   ├── bupropion.md
+│           │   │   │   ├── mirtazapine.md
+│           │   │   │   ├── nefazodone.md
+│           │   │   │   ├── trazodone.md
+│           │   │   │   ├── vilazodone.md
+│           │   │   │   └── vortioxetine.md
+│           │   │   ├── norephinephrine-dopamine-reuptake-inhibitors-ndris.md
+│           │   │   ├── selective-serotonin-reuptake-inhibitors-ssris
+│           │   │   │   ├── citalopram.md
+│           │   │   │   ├── escitalopram.md
+│           │   │   │   ├── fluoxetine.md
+│           │   │   │   ├── fluvoxamine.md
+│           │   │   │   ├── paroxetine.md
+│           │   │   │   └── sertraline.md
+│           │   │   ├── serotonin-norephinephrine-reuptake-inhibitors-snris
+│           │   │   ├── tetracyclic
+│           │   │   └── tricyclic
+│           │   │       ├── amitriptyline.md
+│           │   │       ├── clomipramine.md
+│           │   │       ├── desipramine.md
+│           │   │       ├── doxepin.md
+│           │   │       ├── imipramine.md
+│           │   │       └── nortriptyline.md
+│           │   ├── antihistamines
+│           │   ├── antipsychotics
+│           │   │   ├── atypical
+│           │   │   │   ├── aripiprazole.md
+│           │   │   │   ├── brexpiprazole.md
+│           │   │   │   ├── cariprazine.md
+│           │   │   │   ├── clozapine.md
+│           │   │   │   ├── lurasidone.md
+│           │   │   │   ├── olanzapine.md
+│           │   │   │   ├── paliperidone.md
+│           │   │   │   ├── quetiapine.md
+│           │   │   │   ├── risperidone.md
+│           │   │   │   └── ziprasidone.md
+│           │   │   └── typical
+│           │   │       ├── chlorpromazine.md
+│           │   │       ├── fluphenazine.md
+│           │   │       ├── haloperidol.md
+│           │   │       ├── perphenazine.md
+│           │   │       └── thiothixene.md
+│           │   ├── anxiolytics
+│           │   ├── barbiturates
+│           │   ├── benzodiazepines
+│           │   │   ├── alprazolam.md
+│           │   │   ├── benzodiazepine.md
+│           │   │   ├── chlordiazepoxide.md
+│           │   │   ├── clonazepam.md
+│           │   │   ├── diazepam.md
+│           │   │   ├── lorazepam.md
+│           │   │   ├── midazolam.md
+│           │   │   ├── oxazepam.md
+│           │   │   └── temazepam.md
+│           │   ├── beta-blockers
+│           │   │   ├── atenolol.md
+│           │   │   ├── bisoprolol.md
+│           │   │   ├── carvedilol.md
+│           │   │   ├── esmolol.md
+│           │   │   ├── labetalol.md
+│           │   │   ├── metoprolol.md
+│           │   │   ├── nadolol.md
+│           │   │   ├── nebivolol.md
+│           │   │   └── propanolol.md
+│           │   ├── gabapentinoids
+│           │   │   ├── gabapentin.md
+│           │   │   └── pregabalin.md
+│           │   ├── hypnotics
+│           │   ├── narcotics
+│           │   │   ├── buprenorphine.md
+│           │   │   ├── codeine.md
+│           │   │   ├── fentanyl.md
+│           │   │   ├── hydrocodone.md
+│           │   │   ├── hydromorphone.md
+│           │   │   ├── meperidine.md
+│           │   │   ├── methadone.md
+│           │   │   ├── morphine.md
+│           │   │   ├── oxycodone.md
+│           │   │   ├── oxycontin.md
+│           │   │   ├── oxymorphone.md
+│           │   │   ├── tapentadol.md
+│           │   │   └── tramadol.md
+│           │   ├── opioid-agonists
+│           │   │   ├── mitragynine.md
+│           │   │   └── nitazenes.md
+│           │   ├── opioid-antagonists
+│           │   │   ├── naloxone.md
+│           │   │   └── naltrexone.md
+│           │   ├── stimulants
+│           │   │   ├── amphetamines
+│           │   │   │   ├── adderall.md
+│           │   │   │   ├── adzenys.md
+│           │   │   │   ├── desoxyn.md
+│           │   │   │   ├── dexedrine.md
+│           │   │   │   ├── evekeo.md
+│           │   │   │   ├── mydayis.md
+│           │   │   │   ├── vyvanse.md
+│           │   │   │   └── zenzedi.md
+│           │   │   ├── anorexiants
+│           │   │   ├── eugeroics
+│           │   │   └── methylphenidates
+│           │   ├── acamprosate.md
+│           │   ├── buprenorphine.md
+│           │   ├── cyanamide.md
+│           │   ├── disulfiram.md
+│           │   ├── gold-cures.md
+│           │   ├── methadone.md
+│           │   ├── naltrexone.md
+│           │   ├── phenobarbital.md
+│           │   └── three-day-liquor-cures.md
+│           ├── models
+│           │   ├── actor-critic-model.md
+│           │   ├── addiction-as-dislocation-theory.md
+│           │   ├── alcohol-as-a-family-disease.md
+│           │   ├── allostatic-model.md
+│           │   ├── anhedonia-driven-relapse-framework.md
+│           │   ├── anosognosia-model.md
+│           │   ├── behavioral-economic-demand-elasticity-model.md
+│           │   ├── biopsychosocial-cultural-framework.md
+│           │   ├── biopsychosocial-model.md
+│           │   ├── choice-theory.md
+│           │   ├── cognitive-flexibility-deficit-model.md
+│           │   ├── competing-neurobehavioral-decision-systems-cnds.md
+│           │   ├── compulsive-decision-making.md
+│           │   ├── conflict-monitoring-failure-model.md
+│           │   ├── degeneration-theory.md
+│           │   ├── developmental-learning-model.md
+│           │   ├── disease-model.md
+│           │   ├── distress-amplification-model.md
+│           │   ├── dual-system-breakdown-model.md
+│           │   ├── eco-social-framework.md
+│           │   ├── enactive-model.md
+│           │   ├── enactive-modernization.md
+│           │   ├── executive-dysfunction.md
+│           │   ├── expected-utility-degradation-model.md
+│           │   ├── expected-value-of-control-theory.md
+│           │   ├── gating-system-failure-model.md
+│           │   ├── habit-caching-model.md
+│           │   ├── hyperbolic-delay-discounting-model.md
+│           │   ├── impaired-response-inhibition-and-salience-attribution.md
+│           │   ├── incentive-sensitization-theory.md
+│           │   ├── insula-driven-interoceptive-hijack.md
+│           │   ├── interoceptive-predictive-coding-model.md
+│           │   ├── invariant-prediction-error-model.md
+│           │   ├── massachusetts-model.md
+│           │   ├── mechanistic-property-realism.md
+│           │   ├── melioration-model-of-breakdown.md
+│           │   ├── melioration-theory.md
+│           │   ├── minimal-disease-model.md
+│           │   ├── minnesota-model.md
+│           │   ├── moral-model.md
+│           │   ├── motivational-model.md
+│           │   ├── multi-level-causal-networks.md
+│           │   ├── neural-systems-of-reinforcement.md
+│           │   ├── opponent-process-theory.md
+│           │   ├── over-consolidation-model-of-memory.md
+│           │   ├── patchy-reductionism.md
+│           │   ├── postpsychiatry.md
+│           │   ├── prefrontal-hypofrontality-model.md
+│           │   ├── prime-theory.md
+│           │   ├── rational-addiction-with-melioration-model.md
+│           │   ├── rational-choice-model.md
+│           │   ├── rational-choice-under-imperfect-information-model.md
+│           │   ├── redish-td-model.md
+│           │   ├── reinforcement-learning.md
+│           │   ├── risk-insensitivity-drift-model.md
+│           │   ├── self-medication-hypothesis.md
+│           │   ├── social-identity-model-of-recovery.md
+│           │   ├── somatic-marker-hypothesis.md
+│           │   ├── strong-disease-model.md
+│           │   ├── structural-dissociation-model.md
+│           │   ├── synaptic-plasticity-model-of-habituation.md
+│           │   ├── temperance-model.md
+│           │   ├── unit-elasticity-strategy-model.md
+│           │   └── whole-person-modeling.md
+│           ├── procedures
+│           │   ├── activities
+│           │   ├── detoxification
+│           │   │   └── medication-for-opioid-use-disorder-moud.md
+│           │   ├── imaging
+│           │   │   └── positron-emission-tomography-pet.md
+│           │   ├── organizational
+│           │   │   └── kurihama-method.md
+│           │   └── therapies
+│           │       ├── gene-therapy
+│           │       │   └── aav2-hgdnf-vta-infusion.md
+│           │       ├── medical-nutritional-therapy
+│           │       │   └── ciwa-ar-thiamine-repletion.md
+│           │       ├── occupational-therapy
+│           │       ├── pharmacotherapy
+│           │       │   └── medication-for-opioid-use-disorder-moud.md
+│           │       ├── physiotherapy
+│           │       │   └── kogun.md
+│           │       ├── psychotherapy
+│           │       │   ├── cognitive-behavioral-therapy-for-substance-use.md
+│           │       │   ├── cognitive-processing-therapy.md
+│           │       │   ├── community-reinforcement-and-family-training.md
+│           │       │   ├── community-reinforcement-approach.md
+│           │       │   ├── contingency-management.md
+│           │       │   ├── dialectical-behavioral-therapy.md
+│           │       │   ├── harm-reduction-in-psychotherapy.md
+│           │       │   ├── harm-reduction-works.md
+│           │       │   ├── medication-assisted-recovery.md
+│           │       │   ├── mindfulness-based-relapse-prevention-mbrp.md
+│           │       │   ├── mindfulness-oriented-recovery-enhancement.md
+│           │       │   ├── motivational-enhancement-therapy.md
+│           │       │   ├── motivational-interviewing.md
+│           │       │   ├── naikan.md
+│           │       │   ├── positive-psychology.md
+│           │       │   ├── sleep-hygiene-education.md
+│           │       │   └── the-sinclair-method.md
+│           │       ├── somatic-therapy
+│           │       │   └── transcranial
+│           │       │       ├── auricular-vagus-nerve-stimulation-devices.md
+│           │       │       ├── deep-brain-stimulation-dbs.md
+│           │       │       ├── transcranial-alternating-current-stimulation-tacs.md
+│           │       │       ├── transcranial-direct-current-stimulation-tdcs.md
+│           │       │       ├── transcranial-magnetic-stimulation-tms.md
+│           │       │       └── vagus-nerve-stimulation-vns.md
+│           │       ├── speech-language-therapy
+│           │       └── exposure-and-response-prevention-erp.md
+│           ├── programs
+│           │   ├── athletes-recovery.md
+│           │   ├── guiding-recovery-of-women-grow.md
+│           │   └── recovery-through-movement.md
+│           └── snake-oil
+│               ├── bichloride-gold.md
+│               ├── hay-litchfield-antidote.md
+│               └── white-star-secret-liquor-cure.md
+├── sitemap_generator.py
+└── word_counter.py

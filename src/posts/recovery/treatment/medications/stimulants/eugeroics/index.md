@@ -1,0 +1,5 @@
+---
+title: Eugeroics
+---
+
+# Eugeroics

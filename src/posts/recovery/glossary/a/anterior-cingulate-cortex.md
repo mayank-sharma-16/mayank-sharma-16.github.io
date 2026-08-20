@@ -1,3 +1,6 @@
 ---
-
+title: Anterior Cingulate Cortex (ACC)
 ---
+
+# Overview
+The anterior cingulate cortext (ACC) is a part of the brain involved in decision-making, reward anticipation, and impulse control, all of which factor into substance use disorders. After chronic substance use, the gray matter involved in detecting harmful decisions can atrophy while the regions that process negative emotions can become hyperactive. The combination leads to difficulty in associating the choice to use a substance with harm while also feeling strong urges to seek relief to strong negative emotions. The neurotransmitter glutamate is used to communicate with the striatum that facilitates habit-formation through reward processing, and chronic substance use disrupts the glutamate receptors so that the habits associated with compulsive substance use solidify. When processing a substance, the ACC is hyperactivated, and when resisting compulsions to use again, the ACC is hypoactivated. Over time, the ACC reassigns salience, or the perceived significance, from natural survival needs and long-term goals to addictive substances or processes that provide a strong reward. 

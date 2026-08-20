@@ -1,0 +1,5 @@
+---
+title: Discrimination
+---
+
+# Discrimination

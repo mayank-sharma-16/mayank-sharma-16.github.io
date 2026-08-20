@@ -1,8 +1,0 @@
-nav {
-    display: flex;
-    flex-direction: row;
-}
-
-nav a {
-    margin-right: 15px;
-}

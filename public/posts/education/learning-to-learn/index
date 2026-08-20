@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>$title$</title>
+        <link rel="stylesheet" href="/style.css">
+    </head>
+
+    <body>
+        <header>
+            <h1>MankNotes</h1>
+            <h3> Hi, my name is Mayank. Friends call me Mank. This is where I leave my notes. So this is MankNotes. </h3>
+            <nav>
+                <h3> <a href="/about">About</a></h3>
+                <h3> <a href="/directory">Directory</a> </h3>
+                <h3> <a href="/education">Education</a></h3>
+                <h3> <a href="/rants">Rants</a></h3>
+                <h3> <a href="/recovery">Recovery</a></h3>
+                <h3> <a href="/reviews">Reviews</a></h3>
+                <h3> <a href="/notes-to-mank">Notes to Mank</a></h3>
+            </nav>
+            <hr>
+        </header>
+
+        <main>
+            <h3> Education / Learning to Learn </h3>
+            <a href="/education/learning-to-learn/meta-learning">Meta-Learning</a>
+            <a href="/education/learning-to-learn/towards-an-intelligible-conversation-about-intelligence">Towards an Intelligible Conversation on Intelligence</a>
+            <a href="/education/learning-to-learn/a-history-of-re-education">A History of Re-Education</a>
+            <a href="/education/learning-to-learn/smart-goals">SMART Goals</a>
+
+        </main>
+
+        <footer>
+            <hr>
+                Copyright 2026
+        </footer>
+    </body>
+
+</html>
