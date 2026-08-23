@@ -11,5 +11,3 @@ Cognitive scientists and neuroscientists usually reject radical behaviorism, arg
 
 # Commentary
 I'm a big fan of behavioral interventions like [[contingency-management|Contingency Management (CM)]] and [[behavioral-activation|Behavioral Activation (BA)]], and I've expressed criticism of cognitive therapies, but I wouldn't classify my thoughts as anything resembling radical behaviorism. I really enjoy exploring psychological and neurological models, not just for the sake of intellectual completeness but also because I find it intuitively uncomfortable to treat our internal worlds as black boxes.
-
-<!-- gregory alan isakoff -->
