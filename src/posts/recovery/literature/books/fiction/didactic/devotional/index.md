@@ -1,5 +1,0 @@
----
-title: Devotional
----
-
-# Devotional

@@ -1,0 +1,20 @@
+---
+title: Axiom
+---
+
+# Overview
+An axiom is a proposition that serves as a starting premise for a line of reasoning or argumentation. 
+
+# Commentary
+Kurt Godel's Incompleteness Theorem is thrown around a lot in lay debate contexts, which I myself am guilty of, and I don't have strong foundations in the philosophy of math to comment too heavily on it, but the high-level consequences of it are very relevant to the limitations of logical reasoning. 
+
+In short, Godel proved that a formal system cannot prove its own consistency, so any set of axioms we propose as a logical system cannot end up proving its own validity. At some point, we are forced to rely on some concept akin to intuition or faith in order to arrive at our axioms from which we can then construct a system that we vet for consistency and completeness. I found this revelation to be impactful on a personal level. 
+
+Rebecca Goldstein, a philosopher who wrote the biography *Incompleteness: The Proof and Paradox of Kurt Godel*, noted that Godel himself hated a mechanistic view of the world that distilled everything into rational algorithmic processes. Human intuition was often approached as either random noise or an evolutionary development, stemming from a combination of genetic predispositions and environmental conditioning to approximate rationality. My own background skews heavily towards the computations of intelligence; to me, this intuition is fundamentally what separates a machine from a sentient organism. A computer can only detect the logical blind spots that its programmed axioms permit it to explore, whereas a human can use intuition to detect a failing in logic even before they can articulate the logical proof or rationale for exploring it.
+
+Alan Watts, a philosopher who occupies a space in popular counter-cultural movements that sought to reconcile New Age spiritual mysticism with Western scientific revelations, has frequently invoked and consequently popularized Godel's Incompleteness Theorem in public discourse. Watts criticizes the "Western" impulse to "define and conquer" the world by placing new concepts within the bounds of a familiar hyperrationalist system that neutralizes intuition, mysticism, and subjective expression as immeasurable byproducts of a messy organic brain. I've made many of the same criticisms myself. It leads to reductionism that deflates the nuances of new ideas. 
+
+For instance, Western cultures are highly predicated on the moral-psychology of Abrahamic religions that affirm strong dualistic binaries, such as Heaven against Hell, sacred against profane, good against evil, etc. When we examine Eastern belief systems like those of Hindu sects through this lens, the notion of *devas* and *asuras* collapses into "angels" and "demons," which is radically different. Within Hindu cosmology, devas and asuras are born of the same father and different mothers, with the former representing a transcendental presence of harmony through unity and the latter representing a materialist presence of chaos through division. The moral-psychology of sorting the world into good and bad is itself an ideology associated with the asuras. Yet, both are required to continue the motion of the cycles that sustain the universe as it exists. 
+
+In axiomatic terms, Abrahamic moral-psychology posits the existence of a definite good and definite evil locked in a moral war. Hindu moral-psychology posits order and chaos as inherent parts of the universe and the self, such that destruction of the agents of chaos is a destruction of the self, so self-discipline and evolution are necessary to navigate these conflicting forces. The goal is not thus to kill off one's ego the way one would want to kill off the compulsion to "sin," but to understand the ego's purpose in driving one's actions while ensuring it adheres to a higher purpose than its own satisfaction. This sounds abstract, but it directly influences how we see concepts like punishment, justice, retribution, change, repression, and other threads that compose our daily moral fabrics.
+

@@ -1,5 +1,0 @@
----
-title: Buddhism
----
-
-# Buddhism

@@ -1,3 +1,0 @@
----
-title: Betel Nut
----

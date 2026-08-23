@@ -1,5 +1,0 @@
----
-title: Anorexiants
----
-
-# Anorexiants

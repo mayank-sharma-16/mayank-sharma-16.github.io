@@ -1,5 +1,0 @@
----
-title: Stationary
----
-
-# Stationary

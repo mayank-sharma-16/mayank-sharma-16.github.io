@@ -1,5 +1,0 @@
----
-title: Lutheran
----
-
-# Lutheran

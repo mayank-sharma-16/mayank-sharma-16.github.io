@@ -1,3 +1,0 @@
----
-title: Armchair Expert
----

@@ -1,5 +1,0 @@
----
-title: Greece
----
-
-# Greece

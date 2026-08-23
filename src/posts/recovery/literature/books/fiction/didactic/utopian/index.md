@@ -1,5 +1,0 @@
----
-title: Utopian
----
-
-# Utopian

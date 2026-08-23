@@ -1,5 +1,0 @@
----
-title: Anxiolytics
----
-
-# Anxiolytics

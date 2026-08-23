@@ -1,5 +1,0 @@
----
-title: Restorationism
----
-
-# Restorationism

@@ -1,5 +1,0 @@
----
-title: California
----
-
-# California

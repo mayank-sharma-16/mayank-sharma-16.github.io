@@ -1,5 +1,0 @@
----
-title: Philanthropists
----
-
-# Philanthropists
