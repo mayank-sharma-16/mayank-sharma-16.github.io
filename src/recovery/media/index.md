@@ -14,6 +14,7 @@ title: Media
 
 ## Recently Modified
 
+- [Regression](/recovery/media/movies/psychological-thrillers/regression)
 - [Warriors](/recovery/media/movies/horror/warriors)
 - [Talk To Me](/recovery/media/movies/horror/talk-to-me)
 - [The Haunting In Connecticut](/recovery/media/movies/horror/the-haunting-in-connecticut)
@@ -33,4 +34,3 @@ title: Media
 - [Flappy Bird](/recovery/media/games/flappy-bird)
 - [Getting Over It](/recovery/media/games/getting-over-it)
 - [10 Cloverfield Lane](/recovery/media/movies/horror/10-cloverfield-lane)
-- [Severance](/recovery/media/shows/dramas-and-dramedies/severance)

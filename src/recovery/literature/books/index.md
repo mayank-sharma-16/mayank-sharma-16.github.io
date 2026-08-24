@@ -10,6 +10,9 @@ title: Books
 
 ## Recently Modified
 
+- [Chasing The Scream The First And Last Da](/recovery/literature/books/non-fiction/cultural-commentary/chasing-the-scream-the-first-and-last-da)
+- [Righteous Dopefiend](/recovery/literature/books/non-fiction/policy/righteous-dopefiend)
+- [The Shock Doctrine](/recovery/literature/books/non-fiction/policy/the-shock-doctrine)
 - [The Man With The Golden Arm By Nelson Algren 1949](/recovery/literature/books/fiction/crime/the-man-with-the-golden-arm-by-nelson-algren-1949)
 - [Six Nights With The Washingtonians By Ti](/recovery/literature/books/fiction/didactic/temperance/washingtonian/six-nights-with-the-washingtonians-by-ti)
 - [Black Jack And Other Temperance Tales Fo](/recovery/literature/books/fiction/didactic/temperance/juvenile/black-jack-and-other-temperance-tales-fo)
@@ -27,6 +30,3 @@ title: Books
 - [Junky By William S Burroughs 1953](/recovery/literature/books/fiction/realism/junky-by-william-s-burroughs-1953)
 - [Drinking A Love Story By Caroline Knapp](/recovery/literature/books/non-fiction/biographical/autobiographical/memoirs/2000-2009/drinking-a-love-story-by-caroline-knapp)
 - [What Would You Do Alone In A Cage With N](/recovery/literature/books/non-fiction/philosophy/what-would-you-do-alone-in-a-cage-with-n)
-- [The Broken Brain By Nancy C Andreasen 1984](/recovery/literature/books/non-fiction/science/medical/the-broken-brain-by-nancy-c-andreasen-1984)
-- [A Philosophical And Statistical History ](/recovery/literature/books/non-fiction/monographs/1830-1839/a-philosophical-and-statistical-history)
-- [A Theory Of System Justification ](/recovery/literature/books/non-fiction/a-theory-of-system-justification)

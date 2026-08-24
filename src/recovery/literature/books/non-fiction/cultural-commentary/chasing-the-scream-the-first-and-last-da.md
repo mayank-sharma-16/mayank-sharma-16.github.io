@@ -1,3 +1,5 @@
 ---
-title: Chasing the Scream - The First and Last Days of the War on Drugs by Johann Hari (2015)
+title: "Chasing the Scream: The First and Last Days of the War on Drugs"
+author: Johann Hari 
+pulished: 2015
 ---

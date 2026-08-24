@@ -9,6 +9,7 @@ title: Non Fiction
 - [History](/recovery/literature/books/non-fiction/history)
 - [Monographs](/recovery/literature/books/non-fiction/monographs)
 - [Philosophy](/recovery/literature/books/non-fiction/philosophy)
+- [Policy](/recovery/literature/books/non-fiction/policy)
 - [Reference](/recovery/literature/books/non-fiction/reference)
 - [Science](/recovery/literature/books/non-fiction/science)
 - [Self Help](/recovery/literature/books/non-fiction/self-help)
@@ -18,6 +19,9 @@ title: Non Fiction
 
 ## Recently Modified
 
+- [Chasing The Scream The First And Last Da](/recovery/literature/books/non-fiction/cultural-commentary/chasing-the-scream-the-first-and-last-da)
+- [Righteous Dopefiend](/recovery/literature/books/non-fiction/policy/righteous-dopefiend)
+- [The Shock Doctrine](/recovery/literature/books/non-fiction/policy/the-shock-doctrine)
 - [Confessions Of An English Opium Eater](/recovery/literature/books/non-fiction/monographs/1820-1829/confessions-of-an-english-opium-eater)
 - [The Four Agreements](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/new-age/the-four-agreements)
 - [The French Connection](/recovery/literature/books/non-fiction/true-crime/the-french-connection)
@@ -35,9 +39,6 @@ title: Non Fiction
 - [Dope The Story Of The Living Dead 1928](/recovery/literature/books/non-fiction/cultural-commentary/dope-the-story-of-the-living-dead-1928)
 - [The Opium Problem By Charles E Terry And](/recovery/literature/books/non-fiction/science/medical/the-opium-problem-by-charles-e-terry-and)
 - [Doctor Judas By William Rosser Cobbe 1895](/recovery/literature/books/non-fiction/biographical/autobiographical/memoirs/doctor-judas-by-william-rosser-cobbe-1895)
-- [Coleman Report](/recovery/literature/books/non-fiction/sociology/coleman-report)
-- [Lonely Boy Tales From A Sex Pistol By Steve Jones 2017](/recovery/literature/books/non-fiction/biographical/autobiographical/memoirs/lonely-boy-tales-from-a-sex-pistol-by-steve-jones-2017)
-- [The Hasheesh Eater By Fitz Hugh Ludlow 1857](/recovery/literature/books/non-fiction/biographical/autobiographical/the-hasheesh-eater-by-fitz-hugh-ludlow-1857)
 
 ## Pages
 

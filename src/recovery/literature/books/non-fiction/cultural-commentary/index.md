@@ -8,9 +8,9 @@ title: Cultural Commentary
 
 ## Recently Modified
 
+- [Chasing The Scream The First And Last Da](/recovery/literature/books/non-fiction/cultural-commentary/chasing-the-scream-the-first-and-last-da)
 - [Dope The Story Of The Living Dead 1928](/recovery/literature/books/non-fiction/cultural-commentary/dope-the-story-of-the-living-dead-1928)
 - [Constructive Drinking Perspectives On Dr](/recovery/literature/books/non-fiction/cultural-commentary/1980-1989/constructive-drinking-perspectives-on-dr)
-- [Chasing The Scream The First And Last Da](/recovery/literature/books/non-fiction/cultural-commentary/chasing-the-scream-the-first-and-last-da)
 - [Drink The Intimate Relationship Between ](/recovery/literature/books/non-fiction/cultural-commentary/drink-the-intimate-relationship-between)
 - [Triumph Of The Therapeutic](/recovery/literature/books/non-fiction/cultural-commentary/triumph-of-the-therapeutic)
 - [Therapy Culture Cultivating Vulnerabilit](/recovery/literature/books/non-fiction/cultural-commentary/therapy-culture-cultivating-vulnerabilit)

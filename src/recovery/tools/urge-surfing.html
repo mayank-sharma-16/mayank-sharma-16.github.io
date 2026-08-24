@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Urge Surfing</title>
+<link rel="stylesheet" href="urge-surfing.css">
+</head>
+<body>
+<div class="app">
+  <header>
+    <div>
+      <h1>Urge Surfing</h1>
+      <p class="muted">Notice the urge. Stay with it. Watch it change.</p>
+    </div>
+    <div class="actions">
+      <button id="newBtn">New session</button>
+      <button id="historyBtn">Saved sessions</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel timer-panel">
+      <div class="timer" id="timer">15:00</div>
+      <div class="timer-actions">
+        <button id="startBtn" class="primary">Start</button>
+        <button id="add5Btn">+5 min</button>
+        <button id="pauseBtn">Pause</button>
+        <button id="endBtn">End session</button>
+      </div>
+      <div class="progress"><div id="progress"></div></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Current urge</h2>
+        <span id="lastRating" class="muted">No rating yet</span>
+      </div>
+      <div class="rating-buttons" id="ratingButtons"></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Urge over time</h2>
+        <span id="ratingCount" class="muted">0 ratings</span>
+      </div>
+      <canvas id="urgeChart"></canvas>
+    </section>
+
+    <section class="panel task-panel">
+      <div class="panel-head">
+        <h2>Try this</h2>
+        <button id="nextTaskBtn">Another</button>
+      </div>
+      <div id="task" class="task"></div>
+    </section>
+
+    <section class="panel">
+      <h2>Reflection</h2>
+      <textarea id="note" placeholder="Optional: What are you noticing right now?"></textarea>
+    </section>
+  </main>
+</div>
+
+<div class="modal-backdrop" id="historyModal">
+  <div class="modal">
+    <div class="panel-head">
+      <h2>Saved urge sessions</h2>
+      <button data-close="historyModal">×</button>
+    </div>
+    <div id="history"></div>
+    <div class="modal-foot">
+      <button id="exportAllBtn">Export all</button>
+      <button data-close="historyModal">Close</button>
+    </div>
+  </div>
+</div>
+
+<script src="urge-surfing.js"></script>
+</body>
+</html>

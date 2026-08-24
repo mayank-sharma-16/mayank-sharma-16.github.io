@@ -16,6 +16,10 @@ title: Literature
 
 ## Recently Modified
 
+- [Anarchy And Alcohol](/recovery/literature/essays/anarchy-and-alcohol)
+- [Chasing The Scream The First And Last Da](/recovery/literature/books/non-fiction/cultural-commentary/chasing-the-scream-the-first-and-last-da)
+- [Righteous Dopefiend](/recovery/literature/books/non-fiction/policy/righteous-dopefiend)
+- [The Shock Doctrine](/recovery/literature/books/non-fiction/policy/the-shock-doctrine)
 - [The Man With The Golden Arm By Nelson Algren 1949](/recovery/literature/books/fiction/crime/the-man-with-the-golden-arm-by-nelson-algren-1949)
 - [Six Nights With The Washingtonians By Ti](/recovery/literature/books/fiction/didactic/temperance/washingtonian/six-nights-with-the-washingtonians-by-ti)
 - [Addictology](/recovery/literature/journals/addictology)
@@ -32,10 +36,6 @@ title: Literature
 - [Confessions Of An English Opium Eater](/recovery/literature/books/non-fiction/monographs/1820-1829/confessions-of-an-english-opium-eater)
 - [The Four Agreements](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/new-age/the-four-agreements)
 - [Brave New World](/recovery/literature/books/fiction/science-fiction/brave-new-world)
-- [The French Connection](/recovery/literature/books/non-fiction/true-crime/the-french-connection)
-- [The Neuroethics Of Addiction](/recovery/literature/books/non-fiction/philosophy/the-neuroethics-of-addiction)
-- [The Biology Of Desire Why Addiction Is Not A Disease](/recovery/literature/books/non-fiction/science/pop/the-biology-of-desire-why-addiction-is-not-a-disease)
-- [The Urge Our History Of Addiction By Car](/recovery/literature/books/non-fiction/history/the-urge-our-history-of-addiction-by-car)
 
 ## Pages
 

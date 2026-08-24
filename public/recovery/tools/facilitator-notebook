@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recovery Session Notes</title>
+
+  <link rel="stylesheet" href="facilitator-notebook.css">
+</head>
+
+<body>
+  <div class="app">
+
+    <header class="no-print">
+      <div>
+        <h1>Recovery Session Notes</h1>
+        <div class="muted">Local-only facilitator session notebook</div>
+      </div>
+
+      <div class="actions">
+        <button id="newSessionBtn" class="primary">
+          New session
+        </button>
+
+        <button id="exportBtn">Export current session</button>
+        <button id="exportAllBtn">Export all sessions</button>
+
+      </div>
+    </header>
+
+    <div id="app"></div>
+
+  </div>
+
+  <!-- Generic entry modal -->
+  <div class="modal-backdrop" id="entryModal">
+    <div class="modal">
+
+      <div class="modal-head">
+        <h2 id="entryTitle">Add entry</h2>
+        <button data-close-modal="entryModal">×</button>
+      </div>
+
+      <div class="modal-body" id="entryBody"></div>
+
+      <div class="modal-foot">
+        <button data-close-modal="entryModal">
+          Cancel
+        </button>
+
+        <button class="primary" id="saveEntryBtn">
+          Save entry
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Feelings modal -->
+  <div class="modal-backdrop" id="feelingsModal">
+    <div class="modal">
+
+      <div class="modal-head">
+        <h2>Feeling</h2>
+        <button data-close-modal="feelingsModal">×</button>
+      </div>
+
+      <div class="modal-body">
+
+        <div class="wheel">
+
+          <div class="wheel-row">
+            <button class="joy" data-feeling="Joy">Joy</button>
+            <button class="sad" data-feeling="Sadness">Sadness</button>
+            <button class="anger" data-feeling="Anger">Anger</button>
+          </div>
+
+          <div class="wheel-row">
+            <button class="fear" data-feeling="Fear">Fear</button>
+            <button class="core" data-feeling="Calm">Calm</button>
+            <button class="disgust" data-feeling="Disgust">Disgust</button>
+          </div>
+
+          <div class="wheel-row">
+            <button class="surprise" data-feeling="Surprise">
+              Surprise
+            </button>
+          </div>
+
+        </div>
+
+        <div id="selectedFeeling" class="selected-feeling"></div>
+
+        <div class="field-spacer">
+          <label for="feelingDetail">
+            Specific feeling / optional note
+          </label>
+
+          <input
+            id="feelingDetail"
+            placeholder="e.g. overwhelmed, hopeful, frustrated"
+          >
+        </div>
+
+      </div>
+
+      <div class="modal-foot">
+        <button data-close-modal="feelingsModal">
+          Cancel
+        </button>
+
+        <button class="primary" id="saveFeelingBtn">
+          Save feeling
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- New session modal -->
+  <div class="modal-backdrop" id="sessionModal">
+    <div class="modal">
+
+      <div class="modal-head">
+        <h2>New session</h2>
+        <button data-close-modal="sessionModal">×</button>
+      </div>
+
+      <div class="modal-body">
+
+        <div class="form-grid">
+
+          <div class="field">
+            <label for="sessionDate">Date</label>
+            <input id="sessionDate" type="date">
+          </div>
+
+          <div class="field">
+            <label for="sessionFacilitator">Facilitator</label>
+            <input id="sessionFacilitator">
+          </div>
+
+          <div class="field full">
+            <label for="sessionName">Group / session name</label>
+            <input
+              id="sessionName"
+              placeholder="Recovery group"
+            >
+          </div>
+
+          <div class="field full">
+            <label for="sessionTopic">Session topic</label>
+            <input
+              id="sessionTopic"
+              placeholder="Optional"
+            >
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="modal-foot">
+        <button data-close-modal="sessionModal">
+          Cancel
+        </button>
+
+        <button class="primary" id="createSessionBtn">
+          Create session
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="facilitator-notebook.js"></script>
+</body>
+</html>

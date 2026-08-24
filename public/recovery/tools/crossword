@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Recovery Crossword</title>
+<link rel="stylesheet" href="crossword.css">
+</head>
+<body>
+<main class="tool">
+  <header>
+    <h1>Recovery Crossword</h1>
+    <p>Match the terms to their definitions.</p>
+    <button id="newPuzzle">New puzzle</button>
+  </header>
+
+  <section class="layout">
+    <div class="panel">
+      <div id="grid" class="grid"></div>
+    </div>
+
+    <aside class="panel">
+      <h2>Clues</h2>
+      <div id="clues"></div>
+    </aside>
+  </section>
+
+  <div id="message"></div>
+</main>
+
+<script src="crossword.js"></script>
+</body>
+</html>

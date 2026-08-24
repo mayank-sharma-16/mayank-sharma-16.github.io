@@ -1,0 +1,490 @@
+{
+  "generatedAt": "2026-08-23T17:33:33.255Z",
+  "terms": [
+    {
+      "term": "A Disease Like Any Other",
+      "clue": "_____\" is a common phrase used in mental health advocacy as an argument that mental health diagnoses should be treated the same as physical ailments. Marty Mann, one of the earlier female members of Alcoholics Anonymous, founded the National Committee for Education on Alcoholism to launch a public relations campaign that argued alcoholism is a \"disease like any other\" as well. At the time, stigma from the public and medical community alike made it harder for those struggling with substance use disorders to be seen as patients in need of medical help, from hospitals and government institutions alike. Ironically, the actual A.A. recovery philosophy assumes that alcohol use disorders are not like other disease and require a spiritual awakening to a Higher Power.",
+      "source": "src/recovery/glossary/a-disease-like-any-other.md"
+    },
+    {
+      "term": "A Priori",
+      "clue": "_____\" refers to knowledge or justifications that exist prior to experience or empirical evidence, generally achieved through deductive reasoning.",
+      "source": "src/recovery/glossary/a-priori.md"
+    },
+    {
+      "term": "Ableism",
+      "clue": "_____ is bias or discrimination against people who are labeled or self-identify as having a disability.",
+      "source": "src/recovery/glossary/ableism.md"
+    },
+    {
+      "term": "Aboulia",
+      "clue": "_____ is a medical condition where someone has a severe lack of will or drive that impacts their ability to act, speak, or even make independent choices. Causes can include brain injuries or strokes, neurodegenerative diseases like frontotemporal dementia, or other anomalies like tumors.",
+      "source": "src/recovery/glossary/aboulia.md"
+    },
+    {
+      "term": "Abstinence Violation Effect (AVE)",
+      "clue": "An Abstinence Violation Effect (AVE) refers to the negative emotions someone feels after they've been inconsistent with some rule, goal, or commitment.",
+      "source": "src/recovery/glossary/abstinence-violation-effect-ave.md"
+    },
+    {
+      "term": "Absurdism",
+      "clue": "_____ is a tradition of existential philosophy popularized by Albert Camus that argues people should live passionately in defiance of an ultimate meaningless universe. Rather than becoming a nihilist who stops living life because they see no meaning it or creating your own meaning as a substitute, Camus argued you should accept the meaninglessness and live your life without seeking a grand purpose.",
+      "source": "src/recovery/glossary/absurdism.md"
+    },
+    {
+      "term": "Abuse",
+      "clue": "_____ generally refers to using a position or tool in a way that it wasn't intended to be used, often in the context of someone having power or influence that they use to harm someone else.",
+      "source": "src/recovery/glossary/abuse.md"
+    },
+    {
+      "term": "Accessibility",
+      "clue": "_____ refers to the ability for resources to be accessed. It might sound self-explanatory, but the nuances of _____ can raise complex issues around design tradeoffs when managing resources. Some studies find that only 5% of websites comply with the Web Content _____ Guidelines (WCAG) designed to wrap around standards derived from the American Disabilities Act. When it comes to substance use disorders, a lot of people aren't even informed about what they can request as accommodations, either for a substance use disorder in non-treatment contexts or other disabilities in a treatment context.",
+      "source": "src/recovery/glossary/accessibility.md"
+    },
+    {
+      "term": "Accidental Poisoning",
+      "clue": "_____\" generally refers to the unintentional ingestion of a substance or amount of a substance that produces unwanted, and generally negative, outcomes.",
+      "source": "src/recovery/glossary/accidental-poisoning.md"
+    },
+    {
+      "term": "Accountability",
+      "clue": "_____ in its everyday sense refers to the ability to render judgment based on someone's actions. Holding the government accountable means allowing the voters to judge their actions for transparency and competence to decide if power should change hands. Holding a teenager accountable for curfew means judging their adherence to it with consequences for a lack of compliance.",
+      "source": "src/recovery/glossary/accountability.md"
+    },
+    {
+      "term": "Actor-Network Theory (ANT)",
+      "clue": "Actor-Network Theory (ANT) is a social theory that posits that social phenomena are the result of a network relationships between interacting entities rather than dividing the world into a material reality and a social reality.",
+      "source": "src/recovery/glossary/actor-network-theory.md"
+    },
+    {
+      "term": "Acute Stress Disorder (ASD)",
+      "clue": "Acute Stress Disorder (ASD) is a short-term mental health condition that generally develops in the first month after experiencing or learning about a traumatic event. Symptoms include anxiety, intrusive thoughts, avoidance, and dissociative symptoms that interfere with the activities of daily life.",
+      "source": "src/recovery/glossary/acute-stress-disorder-asd.md"
+    },
+    {
+      "term": "Adaptive Coping",
+      "clue": "_____\" refers to the pattern of choosing methods to manage suffering or problems that are better than the alternatives. Someone who feels mild anxiety in social settings might have a drink to loosen up at a networking event, which could be considered adaptive in an environment where extroverted behavior is the expectation and drinking is the norm. If that same person continues drinking after work to deal with any anxiety they have about their career and future, we might begin categorizing that as a \"maladaptive behavior\" instead.",
+      "source": "src/recovery/glossary/adaptive-coping.md"
+    },
+    {
+      "term": "Adaptive Treatment Strategy",
+      "clue": "An _____ (ATS) involves tuning treatment plans based on a patient's history of responses to previous treatments. Chronic diseases and health conditions that require ongoing management and long-term coordination implicitly follow an ATS, but some patients may also have an explicitly specified ATS.",
+      "source": "src/recovery/glossary/adaptive-treatment-strategy.md"
+    },
+    {
+      "term": "Adderall",
+      "clue": "_____ is a central nervous system (CNS) stimulant that uses mixed amphetamine salts to increase dopamine and norepinephrine levels in the brain. It's most commonly used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy, usually through improving focus and impulse control. In the United States, _____ is classified as a Schedule II drug as it has high potential for becoming part of a substance use disorder, so it requires a prescription for controlled doses that stabilize chemistry rather than producing a high. Even if taken exactly as prescribed, over a long period of time, the body can adapt to it so that sudden cessation leads to withdrawal symptoms like fatigue and depression.",
+      "source": "src/recovery/glossary/adderall.md"
+    },
+    {
+      "term": "Addicere",
+      "clue": "From classical Latin, _____ meant roughly \"to be given over\" and was used in the context of someone being given over to a creditor as a slave to pay off their debts. It also was used in the context of divination to reveal the will of gods as a means of describing the strong devotion it took to perfom augury rituals. In its simplest uses, it could just mean to have a strong preference towards something.",
+      "source": "src/recovery/glossary/addicere.md"
+    },
+    {
+      "term": "Addictive Personality",
+      "clue": "An \"_____\" is an informal collection of traits that are considered to place someone at a high risk of developing an addiction. These might include a strong preference for novelty-seeking and risk-taking behaviors, high emotional sensitivity that can compel a desire for immediate relief, or alignment with high-stress roles in professional and personal lives.",
+      "source": "src/recovery/glossary/addictive-personality.md"
+    },
+    {
+      "term": "Adenosine",
+      "clue": "_____ is one of the four components of RNA and forms _____ triphosphate (ATP) as the main source of energy in human cells. It directly interacts with dopamine pathways and reward circuits in our brains, which can be disrupted through chronic substance use. _____ can function as a kind of \"brake\" for excessive dopamine signaling, so if it depletes in the course of a dopamine surge from a substance or process, its receptors become desensitized as well. Once dopamine flows without breaks from _____, the brain reduces overall dopamine receptors to protect itself, which then lowers the brain's baseline dopamine production. This leads to dampened rewards experienced from daily life while fueling cravings for more of the addictive substance or process.",
+      "source": "src/recovery/glossary/adenosine.md"
+    },
+    {
+      "term": "Adjustment Disorder",
+      "clue": "Adjustment disorders refer to a pattern of atypical strong reactions to changes or events that usually involve intense stress. Someone might find that they begin to feel depressed or act unusually reckless. Separation anxiety is one way that adjustment disorders can manifest, particularly in children.",
+      "source": "src/recovery/glossary/adjustment-disorder.md"
+    },
+    {
+      "term": "Adolescence",
+      "clue": "_____\" refers to a transitional stage of development between childhood and adulthood, suggesting that a process of \"maturing\" has started. The World Health Organization formally defines the age range for _____ as between 10 to 19 years old, but studies show that the brain continues significant development that impacts independence and judgment into the 20s.",
+      "source": "src/recovery/glossary/adolescence.md"
+    },
+    {
+      "term": "Adverse Childhood Experience (ACE)",
+      "clue": "Adverse Childhood Experiences (ACEs) are events or situations experienced by minors that could potentially have caused trauma or other lingering effects that impact one's health and wellbeing.",
+      "source": "src/recovery/glossary/adverse-childhood-experience-ace.md"
+    },
+    {
+      "term": "Aerosol",
+      "clue": "A mixture of either liquid or solid particles suspended in a gas.",
+      "source": "src/recovery/glossary/aerosol.md"
+    },
+    {
+      "term": "Affect",
+      "clue": "In the context of psychology, \"_____\" refers to the observable external expressions of someone's internal emotional and mental state. That can mean facial expressions, body language, tone of voice, etc.",
+      "source": "src/recovery/glossary/affect.md"
+    },
+    {
+      "term": "Affective World",
+      "clue": "_____\" (also referred to as \"affective landscape\", \"affective environment\", and \"Umwelt\") describes the subjective emotional filter through which every piece of reality is interpreted.",
+      "source": "src/recovery/glossary/affective-world.md"
+    },
+    {
+      "term": "Agape",
+      "clue": "_____ is a Greek word that refers to an ultimate form of love that's unconditional and self-sacrificial. Within Christian scriptures and philosophical literature, _____ is used to describe God's unconditional love for humanity that humans should aspire to practice for each other.",
+      "source": "src/recovery/glossary/agape.md"
+    },
+    {
+      "term": "Ageism",
+      "clue": "_____ refers to prejudices or biases against older adults that can lead to discrimination. Unlike most other prejudices around immutable characteristics, all healthy adults eventually experience some degree of _____ over time.",
+      "source": "src/recovery/glossary/ageism.md"
+    },
+    {
+      "term": "Agency",
+      "clue": "_____\" refers to the capacity to act. In everyday terms, we might use _____ to describe an individual's autonomy.",
+      "source": "src/recovery/glossary/agency.md"
+    },
+    {
+      "term": "Agitation",
+      "clue": "_____\" in everyday use refers to a state of restlessness, tension, and nervousness or excitement. However, the term has clinical significance as well that can feel much stronger than the casual use of it you might be more familiar with.",
+      "source": "src/recovery/glossary/agitation.md"
+    },
+    {
+      "term": "Agonist",
+      "clue": "An _____ is a molecule that mimics the behavior of a bodily compound as it binds to cell receptors and triggers a biological response.",
+      "source": "src/recovery/glossary/agonist.md"
+    },
+    {
+      "term": "Ahimsa",
+      "clue": "_____ comes from Sanskrit and means \"non-harming\" and is commonly translated as \"nonviolence,\" though it refers to forms of harm beyond just physical violence.",
+      "source": "src/recovery/glossary/ahimsa.md"
+    },
+    {
+      "term": "Akathisia",
+      "clue": "_____ refers to a severe restlessness that produces an uncontrollable urge to move around, such as pacing, rocking, fidgeting, or constant shifting.",
+      "source": "src/recovery/glossary/akathisia.md"
+    },
+    {
+      "term": "Akrasia",
+      "clue": "_____ is sometimes translated as a lack of self-control, but it specifically is used in a situation where one intentionally acts against their own judgment. In active addiction, for example, someone may have complete understanding of all the consequences of using a substance again and have a sincere desire not to, but a craving might be so overwhelming that they give in.",
+      "source": "src/recovery/glossary/akrasia.md"
+    },
+    {
+      "term": "Alcohol, Tobacco, and Other Drugs (ATOD)",
+      "clue": "Alcohol, Tobacco, and Other Drugs (ATOD) was a designation that emerged in the 1980s to capture emerging trends in neuroscientific studies that showed alcohol, nicotine, and other substances shared biological mechanisms that impacted the brain's reward system. In 1985, the American Public Health Association (APHA) officially created an Alcohol, Tobacco, and Other Drugs Section that repeated terms like \"chemical dependency\" and \"substance abuse.\" The phrase was intentionally crafted to explicitly categorize alcohol and tobacco as drugs and tackle the assumption that legal and illicit substances were inherently different.",
+      "source": "src/recovery/glossary/alcohol-tobacco-and-other-drugs-atod.md"
+    },
+    {
+      "term": "Alcoholism",
+      "clue": "_____ refers to the compulsive and habitual consumption of alcohol in spite of worsening consequences, health or social.",
+      "source": "src/recovery/glossary/alcoholism.md"
+    },
+    {
+      "term": "Alexithymia",
+      "clue": "_____ literally translates from Greek as \"a lack of words for emotions,\" coined in 1973 by the Greek-American psychiatrist Peter Sifneos. A similar description of a phenomenon had been created by earlier French clinical psychoanalysts like Pierre Marty who noticed some patients presented with physical illnesses but couldn't articulate their internal emotional reactions to it, instead speaking almost entirely in literal operational terms (\"pensée opératoire\"). Sifneos similarly observed that some patients struggled immensely with traditional psychotherapy that came to a standstill if emotions couldn't be identified and processed.",
+      "source": "src/recovery/glossary/alexithymia.md"
+    },
+    {
+      "term": "Alignment",
+      "clue": "_____\" as a concept has wide applicability in psychology, self-help, spirituality and religion, and recovery circles. In general, it refers to bringing different components of an overall system into coordinated functionality. Some examples include _____ of mind-body-soul, of internal values with external behaviors, and of oneself with one's environment.",
+      "source": "src/recovery/glossary/alignment.md"
+    },
+    {
+      "term": "Allostasis",
+      "clue": "_____ is the active process through which the body anticipates changes and adjusts itself in an effort to maintain stability. As the body undergoes perceived changes in its environment, the brain constantly adjusts hormones, neurotransmitters, and signals throughout the nervous system. For instance, when exercising or physically working, the body raises its blood pressure to ensure it can keep up with the increased pace of activity.",
+      "source": "src/recovery/glossary/allostasis.md"
+    },
+    {
+      "term": "Allostatic Load",
+      "clue": "_____\" refers to the cumulative damage the body experiences as a result of chronic stress, often measured by blood pressure, cortisol levels, cholesterol, blood sugar, and inflammation. These can manifest in everyday life as increased symptoms of anxiety or depression, higher risk of heart disease and diabetes, and persistent fatigue.",
+      "source": "src/recovery/glossary/allostatic-load.md"
+    },
+    {
+      "term": "Ambivalence",
+      "clue": "_____ refers to the state of holding mixed feelings or thoughts, though it is often incorrectly used to mean \"indifferent\" rather than \"conflicted.\" For instance, one might really love their family but also experience a lot of stress talking to them, which means that the idea of interacting with them can feel conflicting. Another common example is wanting to quit a job that feels unbearable but also finding the financial instability of unemployment unbearable.",
+      "source": "src/recovery/glossary/ambivalence.md"
+    },
+    {
+      "term": "American Indians and Alaska Natives (AIAN)",
+      "clue": "American Indians and Alaska Natives\" (AIAN) is a demographic category defined by U.S. federal government standards as \" having origins in any of the original peoples of North and South America (including Central America), and who maintains tribal affiliation or community attachment.",
+      "source": "src/recovery/glossary/aian-american-indians-and-alaska-natives.md"
+    },
+    {
+      "term": "Amnesia",
+      "clue": "_____ is a loss of memory or information connected to physical or psychological trauma. Contrary to stereotypical media portrayals of _____, it is not associated with a huge change in personality, identity, or intelligence. _____ tends to be categorized as either retrograde _____, meaning memory loss before the date of a traumatic event, or anterograde _____, meaning an inability to form new memories for long-term use. More specific labels can be used as well: transient global _____ for a sudden onset of temporary memory loss, dissociative _____ associated with stress and loss of personal information, childhood _____ over recalling memories of early life (which isn't uncommon), and post-traumatic _____ after some kind of damaging neurological event leads to disorientation and confusion. It is also possible for someone to experience a combination of these or for _____ to present in a complex form that operates at different layers.",
+      "source": "src/recovery/glossary/amnesia.md"
+    },
+    {
+      "term": "Amor Fati",
+      "clue": "_____\" translates from Latin to \"love of fate,\" reflecting an attitude of embracing everything that happens in life whether it involves pleasure or pain. It's a phrase that invokes a lifestyle of radical acceptance of the world in order to empower oneself into action every moment.",
+      "source": "src/recovery/glossary/amor-fati.md"
+    },
+    {
+      "term": "Analgesia",
+      "clue": "Analgesics are compounds that relieve the experience of pain while maintaining consciousness. Anesthetics cause the loss of consciousness, so while anesthetics are routinely used in surgery, analgesics are used to address pain in a more ordinary daily context. Colloquially, analgesics are referred to as \"painkillers,\" and they can come in the form of opioids, NSAIDs, and acetaminophen so they have the potential to be addicted.",
+      "source": "src/recovery/glossary/analgesia.md"
+    },
+    {
+      "term": "Anhedonia",
+      "clue": "_____ is the state of being unable to experience happiness or joy. This is in sometimes conflated with alexithymia, which is the inability to articulate the emotions someone might be experiencing. Someone with alexithymia might physically feel a fast heartbeat but not be aware if it's fear or excitement. Someone with _____ doesn't feel reward or pleasure when engaging with activities that ordinarily give people pleasure, like spending time with loved ones or eating their favorite food. It can be tied to depression or trauma, which means it can be temporary. In fact, in cases of severe depression, both can occur such that someone can neither experience happiness nor realize that they don't experience happiness.",
+      "source": "src/recovery/glossary/anhedonia.md"
+    },
+    {
+      "term": "Anorexia Nervosa",
+      "clue": "_____ is an eating disorder in which someone restricts their consumption of sustenance leading to a low enough body weight that health issues can arise. This can be a result of an extreme fear of gaining weight, often fueled by body dysmorphia in which someone can persistently feel overweight or in possession of too much fat even while presenting as skinny or seeing metrics establishing that they're underweight. Anorexia has the second-highest death rate of any mental health condition, with the first being opioid overdose, as the malnutrition and mental distress associated with it can lead to fatal heart conditions and a high occurrence of suicide. It can also lead to a cessation in menstruation.",
+      "source": "src/recovery/glossary/anorexia-nervosa.md"
+    },
+    {
+      "term": "Answerability",
+      "clue": "_____ in philosophical discourse refers to the responsibility an agent has in providing rational justifications for their actions. For instance, an animal can't articulate a reason for its actions, so even though we can attribute actions to it and deliver consequences as a form of accountability to learn from, so it might not make sense to assign moral responsibility to it. Similarly, a toddler can't provide a moral justification or reason for their actions as they lack the cognitive ability to consider abstract ethical principles, even if they can understand agency and consequences. Of course, there are plenty of grey areas and subjective evaluations when we apply this to adults who have at some point had the capacity to evaluate ethical principles.",
+      "source": "src/recovery/glossary/answerability.md"
+    },
+    {
+      "term": "Antagonist",
+      "clue": "Antagonists are substances that block or reduce the body's biological response by binding to cell receptors to stop other chemicals from binding to it, applicable to both natural chemicals produced by the body as well as external chemicals called agonists. In some cases, antagonists can displace chemicals already in the body to prevent ongoing reactions. Beta-blockers are a form of antagonists that block adrenaline from increasing blood pressure and straining the heart. Antihistamines, as the name suggests, block histamine receptors to reduce the itching and swelling that accompany allergic reactions.",
+      "source": "src/recovery/glossary/antagonist.md"
+    },
+    {
+      "term": "Anterior Cingulate Cortex (ACC)",
+      "clue": "The anterior cingulate cortext (ACC) is a part of the brain involved in decision-making, reward anticipation, and impulse control, all of which factor into substance use disorders. After chronic substance use, the gray matter involved in detecting harmful decisions can atrophy while the regions that process negative emotions can become hyperactive. The combination leads to difficulty in associating the choice to use a substance with harm while also feeling strong urges to seek relief to strong negative emotions. The neurotransmitter glutamate is used to communicate with the striatum that facilitates habit-formation through reward processing, and chronic substance use disrupts the glutamate receptors so that the habits associated with compulsive substance use solidify. When processing a substance, the ACC is hyperactivated, and when resisting compulsions to use again, the ACC is hypoactivated. Over time, the ACC reassigns salience, or the perceived significance, from natural survival needs and long-term goals to addictive substances or processes that provide a strong reward.",
+      "source": "src/recovery/glossary/anterior-cingulate-cortex.md"
+    },
+    {
+      "term": "Antidepressants",
+      "clue": "_____ are a class of medications that target the production of monoamine neurotransmitters like serotonin, norepinephrine, and dopamine which are thought to be associated with depression and anxiety.",
+      "source": "src/recovery/glossary/antidepressants.md"
+    },
+    {
+      "term": "Antisocial",
+      "clue": "_____\" in the context of psychology and psychiatry refers to a pattern of disregard for the rights and wellbeing of others. While it might be used casually to refer to introverted dispositions or self-isolating behavior, the [[diagnostic-and-statistical-manual-of-mental-disorders|*Diagnostic and Statistical Manual of Mental Disorders*]] lays out specific criteria for _____ Personality Disorder that manifest before the age of 15 outside of episodic co-occurring disorders:",
+      "source": "src/recovery/glossary/antisocial.md"
+    },
+    {
+      "term": "Antitoxic",
+      "clue": "_____\" refers to compounds and processes that act to neutralize something identified as toxic.",
+      "source": "src/recovery/glossary/antitoxic.md"
+    },
+    {
+      "term": "Anxiety",
+      "clue": "The [[american-psychological-association| American Psychological Association]] defines _____ as \"an emotion characterized by apprehension and somatic symptoms of tension in which an individual anticipates impending danger, catastrophe, or misfortune. The body often mobilizes itself to meet the perceived threat: Muscles become tense, breathing is faster, and the heart beats more rapidly.",
+      "source": "src/recovery/glossary/anxiety.md"
+    },
+    {
+      "term": "Anxious Attachment",
+      "clue": "_____ is a type of attachment style in developmental and relational psychology that's characterized by deep fears of rejection or abandonment. This can result in seeking constant validation or reassurance in the desire for close intimacy, observed through overthinking, people-pleasing, low self-esteem, and \"clingy\" behaviors. _____ styles are often thought to develop out of inconsistent or unpredictable attitudes from caregivers in childhood. Children who observe sudden swings between warm and cold treatment from their parents or guardians can end up insecure in their attachments without constant temperature checks.",
+      "source": "src/recovery/glossary/anxious-attachment.md"
+    },
+    {
+      "term": "Apatheia",
+      "clue": "_____\" is a term that originates from ancient Greek Stoic philosophy in which one's state of mind is undisturbed by passionate temptations. While the current term \"apathy\" seems derived from \"_____\", \"apathy\" has a connotation centered around negative indifference while \"_____\" is closer to stability and composure.",
+      "source": "src/recovery/glossary/apatheia.md"
+    },
+    {
+      "term": "Applied Behavior Analysis (ABA)",
+      "clue": "Applied Behavior Analysis (ABA) is a discipline that studies the way behaviors are learned and reinforced by one's environment, especially as a form of therapy. It's commonly used with developmental disorders or autism spectrum disorder (ASD) as an evidence-backed modality that involves positive reinforcement to reward desired behaviors while reducing undesirable ones.",
+      "source": "src/recovery/glossary/applied-behavior-analysis.md"
+    },
+    {
+      "term": "Armchair Expert",
+      "clue": "An _____ is someone who has no training or experience in a particular subject but provides commentary or critique as if one does. It's why I try to emphasize that I have no inherent qualification that makes me better than anyone else at interpreting the evidence I look like, and I characterize my work as a series of amateur and opinionated literature surveys.",
+      "source": "src/recovery/glossary/armchair-expert.md"
+    },
+    {
+      "term": "Assay",
+      "clue": "An _____ refers to a laboratory test used to measure the presence of some target, such as a drug, protein, or cell.",
+      "source": "src/recovery/glossary/assay.md"
+    },
+    {
+      "term": "Assertive Communication",
+      "clue": "_____ refers to expressing yourself clearly without passively downplaying your boundaries or aggressively imposing your needs on others.",
+      "source": "src/recovery/glossary/assertive-communication.md"
+    },
+    {
+      "term": "Ataraxia",
+      "clue": "_____\" is an ancient Greek term that translates roughly to \"lack of disturbance,\" so \"tranquility\" and \"equanimity\" are often used as the translations. Different Greek philosophies interpreted _____ differently, with Stoic philosophers like Seneca often using it interchangeably with \"apathaeia\" though Epicurean philosophers would challenge that.",
+      "source": "src/recovery/glossary/ataraxia.md"
+    },
+    {
+      "term": "Atman",
+      "clue": "_____ is a Sanskrit word referring to a true inner core of a living being upon which temporary aspects of existence like body, mind, and ego are constructed. Within most Hindu theology and cosmology, the _____ is immortal and is reborn into cycles of living, usually until the realization of one's true nature liberates oneself into unity with Brahman, or the ultimate reality.",
+      "source": "src/recovery/glossary/atman.md"
+    },
+    {
+      "term": "Attachment Theory",
+      "clue": "_____ refers to a framework of understanding the way our development influences our attachments within relationships. While the conventional formulation of _____ tends to separate styles into secure, anxious, avoidant, and anxious-avoidant with a strong emphasis on childhood development, modern researchers tend to see anxiety and avoidance as continuous spectrums subject to neuroplasticity. That means healthy relationships and positive experiences can help adults achieve \"earned security\" in their connections with others. Modern psychologists have also moved away from centering the relationship between infants and mothers to include all family members, community caregivers, peer groups, and early romantic engagements as having influence over the dimensions to attachment.",
+      "source": "src/recovery/glossary/attachment-theory.md"
+    },
+    {
+      "term": "Attention",
+      "clue": "_____\" is one of those terms that suffers from being used so often that it has numerous definitions put forward by different institutions.",
+      "source": "src/recovery/glossary/attention.md"
+    },
+    {
+      "term": "Attention-Deficit Hyperactivity Disorder (ADHD)",
+      "clue": "Attention Deficit Hyperactivity Disorder (ADHD) is widely defined as a neurodevelopment disorder that impacts executive function and makes it difficult to sustain attention, regulate emotions, and manage impulsivity. In most cases, ADHD is genetic with a heritability rate of 80%, thought it has sometimes been observed to occur in adults who experience traumatic brain injuries (TBIs). Diagnosing ADHD can be difficult since many other disorders can be responsible for symptoms that include impulsivity and difficulty maintaining focus.",
+      "source": "src/recovery/glossary/attention-deficit-hyperactivity-disorder.md"
+    },
+    {
+      "term": "Attributability",
+      "clue": "With addiction, the debate around _____ centers on whether chronic substance use as a disease impairs judgment enough for addictive behaviors to no longer be attributable to someone's core character, comparable to a brain injury or dementia. Most with a substance use disorder genuinely want to quit and live a sober life, but they struggle with cravings and withdrawals intensely enough that they also struggle to align their behaviors and intentions. A few may not have any desire to quit or have any regard for the consequences of using, even if it affects others or could lead to their own death.",
+      "source": "src/recovery/glossary/attributability.md"
+    },
+    {
+      "term": "Avoidance",
+      "clue": "_____ in a psychological context is a coping mechanism where someone either acts or fails to act in a way that evades an unwanted experience. In the short-term, this serves as a coping mechanism that provides immediate relief in response to a distressing encounter, but in the long-term, this can end up reinforcing _____ as a reaction instead of addressing the roots of triggers.",
+      "source": "src/recovery/glossary/avoidance.md"
+    },
+    {
+      "term": "Avoidant Attachment",
+      "clue": "_____ refers to a style of [[attachment-theory|attachment]] that's characterized by hyper-independence when encountering stress or the prospect of emotional intimacy. Historically, under conventional attachment theory frameworks, the _____ style is thought to emerge from a pattern of neglect or rejection from caregivers in response to a child's needs, leading the child to believe they must handle their difficulties themselves in order to maintain a relationship.",
+      "source": "src/recovery/glossary/avoidant-attachment.md"
+    },
+    {
+      "term": "Axiom",
+      "clue": "An _____ is a proposition that serves as a starting premise for a line of reasoning or argumentation.",
+      "source": "src/recovery/glossary/axiom.md"
+    },
+    {
+      "term": "Barbiturate",
+      "clue": "Barbitutares are a class of nervous system depressants that have a sedative-hypnotic effect inducing relaxation and drowsiness. They were commonly used in the past to address anxiety disorders and insomnia but have since been replaced with safer alternatives like benzodiazepines. Barbiturates are considered to have a high risk of addiction, severe withdrawal if stopped suddenly, and overdose. Phenobarbital is the example that's usually most familiar to people as a medication to address seizures. Pentobarbital is sometimes used in veterinary medicine.",
+      "source": "src/recovery/glossary/barbiturate.md"
+    },
+    {
+      "term": "Bath Salts",
+      "clue": "_____\" actually have nothing to do with baths. They refer to a class of stimulants called synthetic cathinones derived from the khat shrub that grows in East Africa and southern Arabia. Manfacturers that were intending to evade drug enforcement laws disingenuously marketed their products as \"_____\" so that they could argue they were never intended for consumption. Some cathinones have been approved as medication, such as bupropion which you might recognize as Wellbutrin, which can treat Major Depressive Disorder (MDD) and nicotine cravings. Ongoing research is attempting to see if bupropion can address stimulant use disorder too.",
+      "source": "src/recovery/glossary/bath-salts.md"
+    },
+    {
+      "term": "Bed Sores",
+      "clue": "_____ are injuries to the skin and underlying tissue that result from being stationary in a single position for a long period of time. The constant weight applied to a single area can constrict blood flow, and certain postures can lead to skin and bones being slid in opposite directions. In extreme cases, it can lead to deep sores and wounds that expose muscle, tendons, and/or bone. This can be seen in some people with substance use disorders as heavy intoxication or compulsive processes like gaming lead to fixed positions for hours or even days. Other conditions like severe depressive withdrawal can also lead to someone lying in bed for similar lengths of time. Malnutrition and substances that constrict blood vessels can increase the risk of developing sores as well.",
+      "source": "src/recovery/glossary/bed-sores.md"
+    },
+    {
+      "term": "Bedside Manner",
+      "clue": "_____\" refers to empathetic communication skills that clinicians exercise to build trust with patients. Historically, the stigma around substance use disorders has led to an assumption that punitive measures must be taken to correct someone's behavior. Recent studies show that labeling substance use as \"substance abuse\" is still associated with less empathy and more punitive attitudes in a clinical setting. Despite what the latest research has shown, a prevalent prejudice is that pain and suffering are just par for substance use and even a component of successful recovery. This can be completely counterproductive as people with substance use disorders and co-occurring conditions face enormous stigma that discourages seeking treatment or efforts to recover. Patients fearing stigma can underreport symptoms or avoid seeking care out of fear of judgment or punitive medical practices.",
+      "source": "src/recovery/glossary/bedside-manner.md"
+    },
+    {
+      "term": "Behavioral Economics",
+      "clue": "_____\" is a field that incorporates psychology into economic theories and models instead of assuming humans are purely rational actors. It accepts as a constraint the fact that humans have limited time, information, and resources to make decisions, so they often settle for what seems \"good enough\" rather than finding the optimal choice. Even when we try to optimize, we might arrive at a \"good enough\" assumption of the optimal path. We also have a litany of biases at work, such as loss aversion that treats negative experiences as more impactful than positive ones or cognitive shortcuts like stereotypes.",
+      "source": "src/recovery/glossary/behavioral-economics.md"
+    },
+    {
+      "term": "Behavioral Neurology",
+      "clue": "_____ is a field concerned with the impacts of physical brain changes on memory, thinking patterns, emotional processing, and external behavior. Dementias like Alzheimer's disease are among the most common conditions addressed by behavioral neurologists, though they deal with all kinds of incidents ranging from strokes to traumatic brain injuries (TBIs) to diseases responsible for sudden personality changes.",
+      "source": "src/recovery/glossary/behavioral-neurology.md"
+    },
+    {
+      "term": "Behaviorism",
+      "clue": "_____\" within psychological circles generally refers to an approach to understanding humans through an examination of their behavioral outcomes.",
+      "source": "src/recovery/glossary/behaviorism.md"
+    },
+    {
+      "term": "Bender",
+      "clue": "_____\" is colloquially used to refer to an extended period of substance use in which someone is almost perpetually under the influence. For chronic substance users, benders can last from days to weeks to months.",
+      "source": "src/recovery/glossary/bender.md"
+    },
+    {
+      "term": "Benzedrine",
+      "clue": "_____ was the brand name for the first commercially successful synthetic stimulant in the world.",
+      "source": "src/recovery/glossary/benzedrine.md"
+    },
+    {
+      "term": "Betel Nut",
+      "clue": "Betel nuts are seeds of a palm tree species called *Areca catechu* that are chewed as a recreational stimulant. It's the fourth most commonly used substance associated with addiction in the world after alcohol, nicotine, and caffeine. That might be surprising to many in cultures driven by Western trends, but it's used with relative regularity in South Asian nations and the Pacific islands, particularly for special occasions and local traditions. The market for it is localized and decentralized unlike tobacco, which has massive multinational conglomerates lobbying against regulations.",
+      "source": "src/recovery/glossary/betel-nut.md"
+    },
+    {
+      "term": "Bigotry of Low Expectations",
+      "clue": "The \"_____\" is an oft-repeated phrase that argues that having different expectations for minority groups who have been historically discriminated against is itself a form of discrimination that assumes they are bound to perform worse than their peers. It's heavily politically charged, with many arguing that it's used in bad faith against diversity initiatives that factor the skills developed under socioeconomic hardship into someone's evaluation.",
+      "source": "src/recovery/glossary/bigotry-of-low-expectations.md"
+    },
+    {
+      "term": "Binge Drinking",
+      "clue": "_____ is used casually to refer to a period of heavy drinking, but the National Institute on Alcohol Abuse and Alcoholism (NIAAA) defines it specifically as drinking enough alcohol to raise blood alcohol concentration (BAC) to 0.08% or higher. That's also the standard legal limit for driving in the United States. For the average person, this means consuming 4-5 standard drinks in the span of roughly two hours. Anecdotally, a lot of people I've met who actively drink overestimate the amount needed before it's considered _____, or only use the term \"_____\" in the context of \"problem drinking\" rather than the \"weekend warrior\" routine.",
+      "source": "src/recovery/glossary/binge-drinking.md"
+    },
+    {
+      "term": "Biohacking",
+      "clue": "_____\" is a marketing term that refers to commercialized health trends which repackage health and wellness paradigms with the aesthetics of sophisticated technical optimization.",
+      "source": "src/recovery/glossary/biohacking.md"
+    },
+    {
+      "term": "Biopsychosocial Models (BPSM)",
+      "clue": "Biopsychosocial models emerged as health models that consider the connection of biological, psychological, and social dimensions to someone's lived experiences. It was first advocated for within modern medicine by George Engel in 1977, and it has steadily grown in interest and adoption since. In comparison to the biomedical model that preceded it which prefers mechanistic physiology as the mode of analysis for health, the biopsychosocial model is a more holistic iteration that emphasizes the connection between different angles to life. It's especially beneficial when managing chronic health issues or conditions that are difficult to precisely define like substances use disorders that can impact multiple areas of life without standard discrete solutions.",
+      "source": "src/recovery/glossary/biopsychosocial-models.md"
+    },
+    {
+      "term": "Black Market",
+      "clue": "Black markets are exchanges for products and services that have been outlawed by a state entity.",
+      "source": "src/recovery/glossary/black-market.md"
+    },
+    {
+      "term": "Black-and-White Thinking",
+      "clue": "In clinical settings, _____ refers to a type of cognitive distortion where someone thinks in extremes or polar opposites. For example, they might define success on an exam by achieving 100% and anything less to be a failure, or they might go between wanting to break up with a significant other to putting them on a pedestal.",
+      "source": "src/recovery/glossary/black-and-white-thinking.md"
+    },
+    {
+      "term": "Blackout",
+      "clue": "A _____ is a period of time in which someone might appear to be functional but is failing to transfer any short-term experiences into their long-term memories, so they have no recollection of what happened during the _____.",
+      "source": "src/recovery/glossary/blackout.md"
+    },
+    {
+      "term": "Block Grant",
+      "clue": "Block grants\" in the United States refers to a form of federal funding for programs that delivers money to state governments rather than directly to individual citizens. In theory, this means each state can use the funds to design a program for their unique needs instead of hoping a federal program can manage to fit everyone's needs. In practice, this can lead to an extremely uneven distribution of services as each _____ then has to go through each state's own political bureaucracies before reaching the taxpayer at the end.",
+      "source": "src/recovery/glossary/block-grant.md"
+    },
+    {
+      "term": "Blood Alcohol Concentration (BAC)",
+      "clue": "Blood alcohol concentration (BAC) measures the amount of alcohol someone has consumed by testing the weight-to-volume ratio within their body's bloodstream. 0.08 grams per 100 milliliters, or 0.08%, is generally the legal limit for driving in the United States, which is reached on average after 4 standard drinks defined as 14 grams of pure alcohol, though of course this varies enormously by each individual's unique body composition. Body mass can make a huge difference, as well as biological sex since women generally have lower levels of enzymes to process alcohol than men of similar body mass.",
+      "source": "src/recovery/glossary/blood-alcohol-concentration.md"
+    },
+    {
+      "term": "Bodhi",
+      "clue": "_____\" is a Sanskrit term that roughly means \"enlightenment.\" Buddhist traditions generally conceive of _____ as a state free of suffering and endless cycles of rebirth through achieving an enlightened understanding of an impermanent reality and one's self, or not-self, within it. The Buddha is said to have attained _____ when meditating and contemplating reality under a fig tree. It is also used as a first name as an auspicious appeal to the wisdom gained from enlightenment.",
+      "source": "src/recovery/glossary/bodhi.md"
+    },
+    {
+      "term": "Bodhicitta",
+      "clue": "_____ is a Sanskrit word composed of [[bodhi|bodhi]], meaning \"enlightenment,\" and citta, roughly referring to \"heart-mind\" or \"consciousness,\" so combined, it means \"the heart-mind of enlightenment.\" While attaining bodhi as an awakening to the reality of non-duality is the goal of many Buddhist traditions, _____ is the mindset to cultivate in the process which breeds compassion for the suffering of all sentient beings.",
+      "source": "src/recovery/glossary/bodhicitta.md"
+    },
+    {
+      "term": "Bodhisattva",
+      "clue": "A _____ is a Buddhist practitioner who has taken a commitment to delay their own liberation through enlightenment into Nirvana until every other living being has also been able to achieve this liberation. This generally involves taking a vow to demonstrate that one has cultivated [[bodhicitta|bodhicitta]], or the heart-mind of an enlightened being.",
+      "source": "src/recovery/glossary/bodhisattva.md"
+    },
+    {
+      "term": "Boredom",
+      "clue": "Despite _____ being a universal experience that extends even beyond humans to other species, researchers and clinicians have historically neglected to create a consensus around its definition. In 2012, John Eastwood was part of a team that proposed a framework in a journal called *Perspectives on Psychological Science*:",
+      "source": "src/recovery/glossary/boredom.md"
+    },
+    {
+      "term": "Borrachos",
+      "clue": "_____\" translates to \"drunkards\" in Spanish, referring either to a group of people who are actively drunk a group of people who are generally heavy drinkers.",
+      "source": "src/recovery/glossary/borrachos.md"
+    },
+    {
+      "term": "Confession",
+      "clue": "The concept of a _____ is much deeper than just sharing a secret with someone, which is how we commonly speak of it.",
+      "source": "src/recovery/glossary/confession.md"
+    },
+    {
+      "term": "Contingency Management",
+      "clue": "Over three decades of research into _____ interventions has shown that it routinely outperforms Cognitive-Behavioral Therapy and 12-step facilitation models. It is the gold standard for stimulant use disorders, which have no FDA-approved medications. Adding CM to Medication for Opioid Use Disorder (MOUD) protocols substantially improves cigarette use, medication adherence, illicit opioid use, polysubstance use, and therapy attendance. Even after the external rewards stop, those who completed a _____ program were significantly more likely to maintain long-term abstinence.",
+      "source": "src/recovery/glossary/contingency-management.md"
+    },
+    {
+      "term": "Falsifiable",
+      "clue": "_____ refers to the ability for a proposition to be tested and shown to be false.",
+      "source": "src/recovery/glossary/falsifiable.md"
+    },
+    {
+      "term": "Passive-Aggressive",
+      "clue": "_____\" refers to a communication style in which someone doesn't explicitly articulate how they feel while still acting or saying things that suggest they have negative opinions or feelings. Critically, the term did not originate from academic or research circles, but instead emerged in the context of compliance to orders in the United States military.",
+      "source": "src/recovery/glossary/passive-aggressive.md"
+    },
+    {
+      "term": "Rorschach Test",
+      "clue": "I'm not stuck in here with you. You're stuck in here with me.",
+      "source": "src/recovery/glossary/rorschach-test.md"
+    },
+    {
+      "term": "Viagra",
+      "clue": "According to current medical consensus, _____ is not physically addictive, but it is possible to develop a psychological dependence on it such that lacking it can contribute to anxiety and performance issues. Stopping the medication does not cause physical sickness, and sildenafil, the active ingredient, doesn't activate the same pathways in the brain's reward center as substances associated with addiction normally do.",
+      "source": "src/recovery/glossary/viagra.md"
+    }
+  ]
+}

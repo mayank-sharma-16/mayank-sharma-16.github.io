@@ -8,10 +8,12 @@ title: Movies
 - [Exploitation](/recovery/media/movies/exploitation)
 - [Horror](/recovery/media/movies/horror)
 - [Noir](/recovery/media/movies/noir)
+- [Psychological Thrillers](/recovery/media/movies/psychological-thrillers)
 - [Science Fiction](/recovery/media/movies/science-fiction)
 
 ## Recently Modified
 
+- [Regression](/recovery/media/movies/psychological-thrillers/regression)
 - [Warriors](/recovery/media/movies/horror/warriors)
 - [Talk To Me](/recovery/media/movies/horror/talk-to-me)
 - [The Haunting In Connecticut](/recovery/media/movies/horror/the-haunting-in-connecticut)
@@ -31,4 +33,3 @@ title: Movies
 - [Drunken Angel 1948](/recovery/media/movies/noir/drunken-angel-1948)
 - [Smash Up The Story Of A Woman 1947](/recovery/media/movies/dramas-and-dramedies/smash-up-the-story-of-a-woman-1947)
 - [Days Of Wine And Roses 1962](/recovery/media/movies/dramas-and-dramedies/romantic/days-of-wine-and-roses-1962)
-- [The Last Weekend 1945](/recovery/media/movies/dramas-and-dramedies/adaptations/the-last-weekend-1945)
