@@ -9,4 +9,5 @@ title: Metaphysics
 
 ## Recently Modified
 
+- [Strange Loops](/metaphysics/glossary/strange-loops)
 - [Brahman](/metaphysics/glossary/brahman)

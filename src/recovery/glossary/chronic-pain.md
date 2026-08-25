@@ -1,3 +1,8 @@
 ---
 title: Chronic Pain
 ---
+
+# Overview
+Chronic pain is generally defined as pain that continues for over three months even after an injury has healed or illness has subsided. Often, it results from modifications to the nervous system that causes the brain to continuously perceive pain. The same neuroplasticity that the brain uses to learn and heal from mental health conditions also allows for the brain to misinterpret harmless input or mild discomfort as extreme pain. Unfortunately, the brain can also end up interpreting this pain as a stressor that triggers chronic fight-or-flight modes, so that the problems of chronic pain are closely interwoven with the problems of chronic stress. The prefrontal cortex, responsible for decision-making and self-control, can produce brain fog.
+
+Many who suffer from chronic pain turn to substance use to self-medicate and seek relief, which can quickly become a vicious cycle as the additional pains and brain changes of chronic substance use or dependence exacerbate the initial symptoms of distress. Opioids that are prescribed for chronic pain can increase sensitivity to it, called hyperalgesia, through inflammation and changes to the spinal cord's chemistry. Naturally this might cause someone to consume even more opioids to manage that which then further increases sensitivity. Recent research shows that individuals with a genetic predisposition to developing substance use disorders also have genetic variations that can predispose them to chronic pain.

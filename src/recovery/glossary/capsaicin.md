@@ -1,3 +1,6 @@
 ---
 title: Capsaicin
 ---
+
+# Overview
+Capsaicin is a natural compound found in chili peppers that creates the sensation of spice and heat by interacting with receptors in our tongue's nerves designed to detect temperature. The brain interprets this as a physical burn and releases endorphins and dopamine to counteract the perceived discomfort, which can create a "natural high." Much like substances, regularly eating foods high in capsaicin desensitizes the pain receptors, spicier foods are required to achieve the same sensations and release of endorphins and dopamine. The craving for this type of sensation is associated with thrill-seeking and sometimes referred to as "benign masochism." Fortunately though, capsaicin doesn't alter the dopamine-associated reward pathways in the brain that produce the cravings and compulsions associated with substance use disorder. Also, within a single sitting, consuming too much capsaicin can lead to vomiting and intense burning that stop intake and offset the pleasure, and there are no physical withdrawals associated with suddenly stopping.

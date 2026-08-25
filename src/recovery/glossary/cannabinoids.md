@@ -1,0 +1,8 @@
+---
+title: Cannabinoids
+---
+
+# Overview
+Cannabinoids are a group of chemical compounds that interact with the body's endocannabinoid system, which is involved in the regulation of mood, sleep, and appetite. Phytocannabinoids are derived from the cannabis plant and include the psychoactive THC responsible for producing a high when consumed and CBD which is not considered intoxicating. Endocannabinoids are made naturally by the body. Synthetic cannabinoids can be manufactured in labs to interact with the endocannabinoid system in ways that might strengthen or weaken its influence, or produce unpredictable side effects as any manufactured drug might. 
+
+The cannabis plant itself remains illegal at the federal level in the United States, but the Food and Drug Administration (FDA) has approved a few prescription drugs that are derived from cannabinoids. Epidiolex is based in CBD, Cannabidiol, which is extracted from the plant and can treat serious disorders known to cause seizures. Marinol and Syndros are synthetic cannabinoids using THC that can treat nausea and appetite loss found in patients undergoing chemotherapy or managing AIDS. Cesamet is a synthetic cannabinoid similar to THC in structure that can also be used for nausea and vomiting caused by chemotherapy. Over-the-counter cannabinoid products are still illegal, and they lack the same regulatory oversight and testing regimes applied to prescription cannabinoids.

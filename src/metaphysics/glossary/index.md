@@ -4,6 +4,7 @@ title: Glossary
 
 ## Recently Modified
 
+- [Strange Loops](/metaphysics/glossary/strange-loops)
 - [Brahman](/metaphysics/glossary/brahman)
 
 ## Pages
@@ -27,7 +28,7 @@ title: Glossary
 <span class="alphabet-letter alphabet-letter-disabled">P</span>
 <span class="alphabet-letter alphabet-letter-disabled">Q</span>
 <span class="alphabet-letter alphabet-letter-disabled">R</span>
-<span class="alphabet-letter alphabet-letter-disabled">S</span>
+<a class="alphabet-letter" href="#letter-s">S</a>
 <span class="alphabet-letter alphabet-letter-disabled">T</span>
 <span class="alphabet-letter alphabet-letter-disabled">U</span>
 <span class="alphabet-letter alphabet-letter-disabled">V</span>
@@ -82,3 +83,8 @@ html {
 ### B
 
 - [Brahman](/metaphysics/glossary/brahman)
+
+<a id="letter-s"></a>
+### S
+
+- [Strange Loops](/metaphysics/glossary/strange-loops)
