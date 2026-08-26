@@ -4,11 +4,13 @@ title: Education
 
 ## Folders
 
+- [Glossary](/education/glossary)
 - [Learning To Learn](/education/learning-to-learn)
 - [Subjects](/education/subjects)
 
 ## Recently Modified
 
+- [Cognitive Load](/education/glossary/cognitive-load)
 - [A History Of Re Education](/education/learning-to-learn/a-history-of-re-education)
 - [Buddhist Modernism](/education/subjects/religion-philosophy-and-spirituality/buddhist-modernism)
 - [Smart Goals](/education/learning-to-learn/smart-goals)

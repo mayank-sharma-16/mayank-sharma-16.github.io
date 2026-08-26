@@ -1,3 +1,12 @@
 ---
 title: Disability
 ---
+
+# Overview
+The definition of "disability" has been fluid relative to social expectations of the archetypal "standard person." 
+
+Some models arguing for a biomedical framework of disability that supposes some type of medical functioning is "standard" and that deviations from that level might manifest as a disability. For instance, someone who frequently has panic attacks more often than the average person might be considered to have a panic disorder that we can label as a "disability." 
+
+Others argue that disabilities are constructed socially through expectations. Someone who experiences panic attacks may have a nervous system that's more sensitive than others, but they may not agree that it's disabling as much as an appropriate reaction from someone with a unique nervous system. They might argue it's only being seen as a disability because the norms of our particular society discourage negative expressions of emotions. If someone never had a panic attack in their entire life, or even has a limited emotional bandwidth that prevents them from feeling strong panic, we might not consider that a pathology that needs to be addressed at all. Yet, we could argue that the inability to experience the full range of emotions that include panic is a form of disability, and that it has consequences in terms of reducing the empathy someone is capable of tapping into when communicating with others. 
+
+Substance use disorders have recently begun to be considered disabilities, not just because someone is "disabled" from using substances like others, but because there are substantial changes to the brain's decision-making and reward pathways that permanently change how someone might process things. Many anthropologists and scientists have objected to reducing substance use patterns to a pathologized disorder, as many cultures have drinking patterns that might meet the criteria for substance use disorder by American medical standards but aren't pathologized. When substances are part of traditions and rituals, people might consume large quantities of them without the typical negative consequences associated with losing inhibition, and their time spent sober might be improved through their experiences intoxicated. In that sense, substance use disorders are substantially different than someone who has lost limbs and requires a wheelchair to restore mobility.

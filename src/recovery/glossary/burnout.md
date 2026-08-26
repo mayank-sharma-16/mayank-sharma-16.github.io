@@ -23,6 +23,9 @@ This narrowly interprets burnout, at least in a clinical context, to a work-rela
 
 The CDC goes on to identify "similar yet different strain conditions to distinguish from burnout" that include fatigue, boredom, loneliness, engagement, moral distress, moral injury, and compassion fatigue. [^1]
 
+# History and Etymology
+The term "burnout" in the context of psychology was coined by Herbert Freudenberger in 1974 while identifying fatigue that persisted beyond normal exhaustion and systemically occurred in organizations. 
+
 # Links
 [^0] [[https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases|Burn-out an "occupational phenomenon": International Classification of Diseases]]
 

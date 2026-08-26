@@ -15,7 +15,7 @@ Strange loops are circular paths found in hierarchies where moving in any direct
 
 - Our brains build a symbol called "I" through thoughts; the "I" feels like it's the thing that controls what the brain thinks about. Any attempt to understand our own consciousness is arguably an approximation of our own approximation.
 
-<a href="src\metaphysics\glossary\mickey-mouse-strange-loop.webp">
+<img src="src\metaphysics\glossary\mickey-mouse-strange-loop.webp" alt="https://preview.redd.it/well-golly-mickey-v0-sr79sdicmh271.jpg?auto=webp&s=c65fa1a4edc9b31b6c7f131992c398a026312d39">
 
 # History and Etymology
 The term "strange loop" was popularized by Douglas Hofstadter in *Godel, Escher, Bach* and *I Am a Strange Loop*.

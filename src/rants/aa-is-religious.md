@@ -98,7 +98,7 @@ I like to imagine there's a bit of exasperation behind "We are unable to agree w
 
 The very concept of a Higher Power is fundamentally religious. You just can't do a program based on the premise of having a theistic idea of a Higher Power in a dualistic reality without that theistic premise being part of the bottom line. The 12 steps run through a cycle of sin, confession, repentance, divine grace, spiritual awakening, and proselytization. That's a feature of the program and why it can work for those who follow certain faiths, and also why it can be deeply alienating to others. Kerr didn't really develop the free will argument much further, but we can at least see that there are reasons even those following a monotheistic faith might feel alienated by the premises of AA.
 
-# Kewsick Tent Revivalism
+# Keswick Tent Revivalism
 I was being a little generous by leading with court case excerpts that examined the literature and practices at face value. If we look at the history, it's very hard to figure out when exactly in the development of this program it became spiritual rather than religious.
 
 Jessie Penn-Lewis was born in 1861 South Wales to a Calvinist Methodist family. Her grandfather was a minister, and her mother worked in the temperance movement. At 19, she married William Penn-Lewis, who claimed a lineage to the William Penn who founded Pennsylvania as a Quaker. She had a leadership position in a temperance movement chapter and the Young Women's Christian Association (YWCA) in Richmond through the Holy Trinity Church. 

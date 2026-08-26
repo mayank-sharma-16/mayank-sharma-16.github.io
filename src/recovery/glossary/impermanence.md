@@ -1,3 +1,8 @@
 ---
 title: Impermanence
 ---
+
+# Overview
+Impermanence is a central organizing principle of many non-Western religions that posit that everything in the universe is in a constant state of change. Western religions are heavily based around Abrahamic moral-psychology that posits definite good and evil, and often an objective arbiter to judge that good and evil (i.e. God). Hindu cosmology generally holds that time is cyclical, so even cosmic forces like devas and asuras have beginnings and endings; the only permanent thing is Brahman as the ultimate reality that serves as the substrate for all things. Buddhism practices a radical version of impermanence in which nothing, not the self nor the universe, can be safely treated as a permanent fixture of the universe. In both cases, the construct of an ego is assumed to be an impermanent illusion constructed to interface with the universe, in contrast to say, a discrete permanent soul that carries a single identity with it. 
+
+The principles of impermanence are a central part of Recovery Dharma and Refuge Recovery, which are Buddhist-derived peer recovery groups. Many participants report feeling a sense of comfort of knowing that if all things are impermanent, that includes their suffering and the harms they may feel responsible for in the past. Being attached to the past is a form of permanence in which one contracts one's self by defining it through an image that no longer exists. Even our memories are actively reconstructed and reconsolidated each time we access them, so our real attachment is to the image that results rather than an objective recollection of the past.
