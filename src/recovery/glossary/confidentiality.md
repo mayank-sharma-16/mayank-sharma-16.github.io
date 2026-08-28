@@ -3,6 +3,7 @@ title: Confidentiality
 ---
 
 # Overview
+According to the American Sociological Association (ASA), "confidentally generally means that private information about an individual will not be shared without his or her consent."
 
 # Commentary
 Honestly, I don't really believe that any policy about confidentiality is really confidential. 
