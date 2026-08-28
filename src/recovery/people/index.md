@@ -20,6 +20,7 @@ title: People
 
 ## Recently Modified
 
+- [Aaron Bornstein](/recovery/people/researchers/neuroscience/aaron-bornstein)
 - [Hayden Panettiere](/recovery/people/celebrities-and-influencers/actors/1980-1989/hayden-panettiere)
 - [George Pettey](/recovery/people/clinicians/doctors/1850-1859/george-pettey)
 - [Thomas De Quincey](/recovery/people/artists/writers/1780-1789/thomas-de-quincey)
@@ -39,7 +40,6 @@ title: People
 - [George Ainslie](/recovery/people/researchers/psychiatrists-and-psychologists/george-ainslie)
 - [Pascal Boyer](/recovery/people/researchers/anthropologists/pascal-boyer)
 - [Serge H Ahmed](/recovery/people/researchers/neuroscience/neurobiology/serge-h-ahmed)
-- [Mark Lundholm](/recovery/people/celebrities-and-influencers/comedians/mark-lundholm)
 
 ## Pages
 

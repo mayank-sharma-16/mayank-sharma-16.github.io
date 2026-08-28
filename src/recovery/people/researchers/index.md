@@ -22,6 +22,7 @@ title: Researchers
 
 ## Recently Modified
 
+- [Aaron Bornstein](/recovery/people/researchers/neuroscience/aaron-bornstein)
 - [Richard Herrnstein](/recovery/people/researchers/psychiatrists-and-psychologists/richard-herrnstein)
 - [Laura Nasrallah](/recovery/people/researchers/religious-studies/laura-nasrallah)
 - [Leon Festinger](/recovery/people/researchers/psychiatrists-and-psychologists/social-psychology/leon-festinger)
@@ -41,7 +42,6 @@ title: Researchers
 - [Jeanette Kennett](/recovery/people/researchers/philosophers/ethics/jeanette-kennett)
 - [Herbert Fingarette](/recovery/people/researchers/philosophers/herbert-fingarette)
 - [Dominic Murphy](/recovery/people/researchers/philosophers/science/dominic-murphy)
-- [David H Epstein](/recovery/people/researchers/neuroscience/neurobehavioral/david-h-epstein)
 
 ## Pages
 

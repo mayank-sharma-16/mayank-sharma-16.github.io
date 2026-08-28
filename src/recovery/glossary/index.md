@@ -4,26 +4,26 @@ title: Glossary
 
 ## Recently Modified
 
-- [Brief Alcohol Screening And Intervention](/recovery/glossary/brief-alcohol-screening-and-intervention)
-- [Brownout](/recovery/glossary/brownout)
-- [Burnout](/recovery/glossary/burnout)
-- [California Sober](/recovery/glossary/california-sober)
-- [Catatonia](/recovery/glossary/catatonia)
-- [Catharsis](/recovery/glossary/catharsis)
-- [Cathinones](/recovery/glossary/cathinones)
-- [Catnip](/recovery/glossary/catnip)
-- [Character Defects](/recovery/glossary/character-defects)
-- [Chemical Imbalance](/recovery/glossary/chemical-imbalance)
-- [Chinatown](/recovery/glossary/chinatown)
-- [Chloroform](/recovery/glossary/chloroform)
-- [Chronic Disease](/recovery/glossary/chronic-disease)
-- [Circular Inference](/recovery/glossary/circular-inference)
-- [Clinical Decision Support System](/recovery/glossary/clinical-decision-support-system)
-- [Co Occurring Disorders](/recovery/glossary/co-occurring-disorders)
-- [Coca](/recovery/glossary/coca)
-- [Codependence](/recovery/glossary/codependence)
-- [Cognitive Capacity](/recovery/glossary/cognitive-capacity)
+- [Early Maladaptive Schemas](/recovery/glossary/early-maladaptive-schemas)
+- [Core Beliefs](/recovery/glossary/core-beliefs)
+- [Confession](/recovery/glossary/confession)
+- [Confidentiality](/recovery/glossary/confidentiality)
+- [Continuum Of Care](/recovery/glossary/continuum-of-care)
+- [Brief Core Schema Scales](/recovery/glossary/brief-core-schema-scales)
+- [Evaluative Beliefs Scale](/recovery/glossary/evaluative-beliefs-scale)
+- [Convulsions](/recovery/glossary/convulsions)
+- [Contaminant](/recovery/glossary/contaminant)
+- [Consumerism](/recovery/glossary/consumerism)
 - [Consent](/recovery/glossary/consent)
+- [Confirmation Bias](/recovery/glossary/confirmation-bias)
+- [Concentration](/recovery/glossary/concentration)
+- [Computational Psychiatry](/recovery/glossary/computational-psychiatry)
+- [Compulsion](/recovery/glossary/compulsion)
+- [Comorbidities](/recovery/glossary/comorbidities)
+- [Community Trials](/recovery/glossary/community-trials)
+- [Community Based Participatory Action Research Cbpar](/recovery/glossary/community-based-participatory-action-research-cbpar)
+- [Cognitive Reframing](/recovery/glossary/cognitive-reframing)
+- [Cold Intimacies](/recovery/glossary/cold-intimacies)
 
 ## Pages
 
@@ -48,7 +48,7 @@ title: Glossary
 <a class="alphabet-letter" href="#letter-r">R</a>
 <a class="alphabet-letter" href="#letter-s">S</a>
 <a class="alphabet-letter" href="#letter-t">T</a>
-<a class="alphabet-letter" href="#letter-u">U</a>
+<span class="alphabet-letter alphabet-letter-disabled">U</span>
 <a class="alphabet-letter" href="#letter-v">V</a>
 <a class="alphabet-letter" href="#letter-w">W</a>
 <span class="alphabet-letter alphabet-letter-disabled">X</span>
@@ -101,12 +101,10 @@ html {
 ### A
 
 - [A Disease Like Any Other](/recovery/glossary/a-disease-like-any-other)
-- [A Priori](/recovery/glossary/a-priori)
 - [Ableism](/recovery/glossary/ableism)
 - [Aboulia](/recovery/glossary/aboulia)
 - [Abstinence](/recovery/glossary/abstinence)
 - [Abstinence Violation Effect Ave](/recovery/glossary/abstinence-violation-effect-ave)
-- [Absurdism](/recovery/glossary/absurdism)
 - [Abundance Mindset](/recovery/glossary/abundance-mindset)
 - [Abuse](/recovery/glossary/abuse)
 - [Accessibility](/recovery/glossary/accessibility)
@@ -133,12 +131,10 @@ html {
 - [Aerosol](/recovery/glossary/aerosol)
 - [Affect](/recovery/glossary/affect)
 - [Affective World](/recovery/glossary/affective-world)
-- [Agape](/recovery/glossary/agape)
 - [Ageism](/recovery/glossary/ageism)
 - [Agency](/recovery/glossary/agency)
 - [Agitation](/recovery/glossary/agitation)
 - [Agonist](/recovery/glossary/agonist)
-- [Ahimsa](/recovery/glossary/ahimsa)
 - [Aian American Indians And Alaska Natives](/recovery/glossary/aian-american-indians-and-alaska-natives)
 - [Akathisia](/recovery/glossary/akathisia)
 - [Akrasia](/recovery/glossary/akrasia)
@@ -150,7 +146,6 @@ html {
 - [Allostatic Load](/recovery/glossary/allostatic-load)
 - [Ambivalence](/recovery/glossary/ambivalence)
 - [Amnesia](/recovery/glossary/amnesia)
-- [Amor Fati](/recovery/glossary/amor-fati)
 - [Analgesia](/recovery/glossary/analgesia)
 - [Analog](/recovery/glossary/analog)
 - [Anekantavada](/recovery/glossary/anekantavada)
@@ -172,15 +167,12 @@ html {
 - [Armchair Expert](/recovery/glossary/armchair-expert)
 - [Assay](/recovery/glossary/assay)
 - [Assertive Communication](/recovery/glossary/assertive-communication)
-- [Ataraxia](/recovery/glossary/ataraxia)
-- [Atman](/recovery/glossary/atman)
 - [Attachment Theory](/recovery/glossary/attachment-theory)
 - [Attention](/recovery/glossary/attention)
 - [Attention Deficit Hyperactivity Disorder](/recovery/glossary/attention-deficit-hyperactivity-disorder)
 - [Attributability](/recovery/glossary/attributability)
 - [Avoidance](/recovery/glossary/avoidance)
 - [Avoidant Attachment](/recovery/glossary/avoidant-attachment)
-- [Axiom](/recovery/glossary/axiom)
 - [Ayahuasca](/recovery/glossary/ayahuasca)
 
 <a id="letter-b"></a>
@@ -205,15 +197,13 @@ html {
 - [Blackout](/recovery/glossary/blackout)
 - [Block Grant](/recovery/glossary/block-grant)
 - [Blood Alcohol Concentration](/recovery/glossary/blood-alcohol-concentration)
-- [Bodhi](/recovery/glossary/bodhi)
-- [Bodhicitta](/recovery/glossary/bodhicitta)
-- [Bodhisattva](/recovery/glossary/bodhisattva)
 - [Boredom](/recovery/glossary/boredom)
 - [Borrachos](/recovery/glossary/borrachos)
 - [Boundaries](/recovery/glossary/boundaries)
 - [Brain Fog](/recovery/glossary/brain-fog)
 - [Breathalyzer](/recovery/glossary/breathalyzer)
 - [Brief Alcohol Screening And Intervention](/recovery/glossary/brief-alcohol-screening-and-intervention)
+- [Brief Core Schema Scales](/recovery/glossary/brief-core-schema-scales)
 - [Brief Motivational Intervention](/recovery/glossary/brief-motivational-intervention)
 - [Brownout](/recovery/glossary/brownout)
 - [Bulimia Nervosa](/recovery/glossary/bulimia-nervosa)
@@ -227,13 +217,13 @@ html {
 - [Caffeine](/recovery/glossary/caffeine)
 - [California Sober](/recovery/glossary/california-sober)
 - [Cannabinoids](/recovery/glossary/cannabinoids)
+- [Cannabis Used As Treatment](/recovery/glossary/cannabis-used-as-treatment)
 - [Capsaicin](/recovery/glossary/capsaicin)
 - [Carcinogen](/recovery/glossary/carcinogen)
 - [Caregiving](/recovery/glossary/caregiving)
 - [Case Management](/recovery/glossary/case-management)
 - [Catatonia](/recovery/glossary/catatonia)
 - [Category Error](/recovery/glossary/category-error)
-- [Catharsis](/recovery/glossary/catharsis)
 - [Cathinones](/recovery/glossary/cathinones)
 - [Catnip](/recovery/glossary/catnip)
 - [Central Nervous System](/recovery/glossary/central-nervous-system)
@@ -268,7 +258,6 @@ html {
 - [Confession](/recovery/glossary/confession)
 - [Confidentiality](/recovery/glossary/confidentiality)
 - [Confirmation Bias](/recovery/glossary/confirmation-bias)
-- [Conscientization](/recovery/glossary/conscientization)
 - [Consent](/recovery/glossary/consent)
 - [Consumerism](/recovery/glossary/consumerism)
 - [Contaminant](/recovery/glossary/contaminant)
@@ -277,19 +266,18 @@ html {
 - [Convulsions](/recovery/glossary/convulsions)
 - [Core Beliefs](/recovery/glossary/core-beliefs)
 - [Corporate Induced Disorder](/recovery/glossary/corporate-induced-disorder)
-- [Corporate Social Responsibility Csr](/recovery/glossary/corporate-social-responsibility-csr)
+- [Corporate Political Activities](/recovery/glossary/corporate-political-activities)
+- [Corporate Social Responsibility](/recovery/glossary/corporate-social-responsibility)
 - [Cosmology](/recovery/glossary/cosmology)
 - [Cost Benefit Analysis](/recovery/glossary/cost-benefit-analysis)
 - [Cost Effectiveness Analysis](/recovery/glossary/cost-effectiveness-analysis)
 - [Counseling](/recovery/glossary/counseling)
-- [Cpa Corporate Political Activities](/recovery/glossary/cpa-corporate-political-activities)
 - [Crack Baby](/recovery/glossary/crack-baby)
 - [Crack Cocaine](/recovery/glossary/crack-cocaine)
 - [Crank](/recovery/glossary/crank)
 - [Crisis Centers](/recovery/glossary/crisis-centers)
 - [Cross Reaction](/recovery/glossary/cross-reaction)
 - [Cross Talk](/recovery/glossary/cross-talk)
-- [Cuat Cannabis Used As Treatment](/recovery/glossary/cuat-cannabis-used-as-treatment)
 
 <a id="letter-d"></a>
 ### D
@@ -318,7 +306,6 @@ html {
 - [Determinism](/recovery/glossary/determinism)
 - [Detoxification](/recovery/glossary/detoxification)
 - [Deviant](/recovery/glossary/deviant)
-- [Dharma](/recovery/glossary/dharma)
 - [Diabetes](/recovery/glossary/diabetes)
 - [Diagnostic And Statistical Manual Of Mental Disorders](/recovery/glossary/diagnostic-and-statistical-manual-of-mental-disorders)
 - [Diet Pills](/recovery/glossary/diet-pills)
@@ -349,6 +336,7 @@ html {
 <a id="letter-e"></a>
 ### E
 
+- [Early Maladaptive Schemas](/recovery/glossary/early-maladaptive-schemas)
 - [Eating Disorder Ed](/recovery/glossary/eating-disorder-ed)
 - [Ecstacy](/recovery/glossary/ecstacy)
 - [Eddd Electronic Drug Delivery Devices](/recovery/glossary/eddd-electronic-drug-delivery-devices)
@@ -361,7 +349,6 @@ html {
 - [Emotional Flashback](/recovery/glossary/emotional-flashback)
 - [Emotional Sobriety](/recovery/glossary/emotional-sobriety)
 - [Empathy](/recovery/glossary/empathy)
-- [Empiricism](/recovery/glossary/empiricism)
 - [Employee Assistance Program Eap](/recovery/glossary/employee-assistance-program-eap)
 - [Enabling](/recovery/glossary/enabling)
 - [Endocannabinoids](/recovery/glossary/endocannabinoids)
@@ -381,10 +368,10 @@ html {
 - [Eugenics](/recovery/glossary/eugenics)
 - [Eupatheiai](/recovery/glossary/eupatheiai)
 - [Euphoria](/recovery/glossary/euphoria)
+- [Evaluative Beliefs Scale](/recovery/glossary/evaluative-beliefs-scale)
 - [Evidence Based Intervention](/recovery/glossary/evidence-based-intervention)
 - [Excoriation Disorder](/recovery/glossary/excoriation-disorder)
 - [Executive Dysfunction](/recovery/glossary/executive-dysfunction)
-- [Existentialism](/recovery/glossary/existentialism)
 - [Exogenous](/recovery/glossary/exogenous)
 - [Expected Value](/recovery/glossary/expected-value)
 - [Explanandum](/recovery/glossary/explanandum)
@@ -396,8 +383,6 @@ html {
 <a id="letter-f"></a>
 ### F
 
-- [Fallacy](/recovery/glossary/fallacy)
-- [Falsifiable](/recovery/glossary/falsifiable)
 - [Family Based Treatment](/recovery/glossary/family-based-treatment)
 - [Fascism](/recovery/glossary/fascism)
 - [Fatigue](/recovery/glossary/fatigue)
@@ -489,13 +474,11 @@ html {
 - [Iatrogenic](/recovery/glossary/iatrogenic)
 - [Im Intramuscular](/recovery/glossary/im-intramuscular)
 - [Impairment](/recovery/glossary/impairment)
-- [Impermanence](/recovery/glossary/impermanence)
 - [Imposter Syndrome](/recovery/glossary/imposter-syndrome)
 - [Impulsivity](/recovery/glossary/impulsivity)
 - [Industrialism](/recovery/glossary/industrialism)
 - [Inebriety](/recovery/glossary/inebriety)
 - [Inflammation](/recovery/glossary/inflammation)
-- [Informed Consent](/recovery/glossary/informed-consent)
 - [Inner Child](/recovery/glossary/inner-child)
 - [Inner City](/recovery/glossary/inner-city)
 - [Inner Work](/recovery/glossary/inner-work)
@@ -503,7 +486,6 @@ html {
 - [Insanity](/recovery/glossary/insanity)
 - [Insomnia](/recovery/glossary/insomnia)
 - [Intellectualization](/recovery/glossary/intellectualization)
-- [Intelligence](/recovery/glossary/intelligence)
 - [Intensive Outpatient Program Iop](/recovery/glossary/intensive-outpatient-program-iop)
 - [Intentionality](/recovery/glossary/intentionality)
 - [Interconnectedness](/recovery/glossary/interconnectedness)
@@ -523,15 +505,12 @@ html {
 - [Joan Vollmer](/recovery/glossary/joan-vollmer)
 - [Junkies](/recovery/glossary/junkies)
 - [Juridical Image](/recovery/glossary/juridical-image)
-- [Just World](/recovery/glossary/just-world)
 - [Justice Involved Individual](/recovery/glossary/justice-involved-individual)
 
 <a id="letter-k"></a>
 ### K
 
 - [Kalos](/recovery/glossary/kalos)
-- [Kantian](/recovery/glossary/kantian)
-- [Karma](/recovery/glossary/karma)
 - [Kava](/recovery/glossary/kava)
 - [Ketamine](/recovery/glossary/ketamine)
 - [Kinship](/recovery/glossary/kinship)
@@ -585,10 +564,8 @@ html {
 - [Mental Status Examination](/recovery/glossary/mental-status-examination)
 - [Mescaline](/recovery/glossary/mescaline)
 - [Mesolimbic System](/recovery/glossary/mesolimbic-system)
-- [Meta Analysis](/recovery/glossary/meta-analysis)
 - [Metabolism](/recovery/glossary/metabolism)
 - [Metabolite](/recovery/glossary/metabolite)
-- [Metacognition](/recovery/glossary/metacognition)
 - [Methamphetamine](/recovery/glossary/methamphetamine)
 - [Methanol](/recovery/glossary/methanol)
 - [Metta](/recovery/glossary/metta)
@@ -598,7 +575,6 @@ html {
 - [Mistakes Were Made](/recovery/glossary/mistakes-were-made)
 - [Moderation](/recovery/glossary/moderation)
 - [Modernity](/recovery/glossary/modernity)
-- [Moksha](/recovery/glossary/moksha)
 - [Mood Congruence](/recovery/glossary/mood-congruence)
 - [Mood Stabilizer](/recovery/glossary/mood-stabilizer)
 - [Mood Swing](/recovery/glossary/mood-swing)
@@ -622,7 +598,6 @@ html {
 - [Narrative Therapy](/recovery/glossary/narrative-therapy)
 - [Negative Reinforcement](/recovery/glossary/negative-reinforcement)
 - [Neglect](/recovery/glossary/neglect)
-- [Neti Neti](/recovery/glossary/neti-neti)
 - [Neurasthenia](/recovery/glossary/neurasthenia)
 - [Neuroadaptation](/recovery/glossary/neuroadaptation)
 - [Neuroanatomy](/recovery/glossary/neuroanatomy)
@@ -668,7 +643,6 @@ html {
 - [Panexperientialism](/recovery/glossary/panexperientialism)
 - [Parable](/recovery/glossary/parable)
 - [Paradox](/recovery/glossary/paradox)
-- [Parallelism](/recovery/glossary/parallelism)
 - [Paranoia](/recovery/glossary/paranoia)
 - [Parentification](/recovery/glossary/parentification)
 - [Passive Aggressive](/recovery/glossary/passive-aggressive)
@@ -695,7 +669,6 @@ html {
 - [Picoeconomics](/recovery/glossary/picoeconomics)
 - [Pink Cloud Syndrome](/recovery/glossary/pink-cloud-syndrome)
 - [Pleasure Principle](/recovery/glossary/pleasure-principle)
-- [Pluralism](/recovery/glossary/pluralism)
 - [Polysubstance](/recovery/glossary/polysubstance)
 - [Poppers](/recovery/glossary/poppers)
 - [Pornography](/recovery/glossary/pornography)
@@ -705,9 +678,6 @@ html {
 - [Potency](/recovery/glossary/potency)
 - [Potentiation](/recovery/glossary/potentiation)
 - [Power Of Attorney](/recovery/glossary/power-of-attorney)
-- [Pragmatism](/recovery/glossary/pragmatism)
-- [Prajna](/recovery/glossary/prajna)
-- [Predestination](/recovery/glossary/predestination)
 - [Preexposure Prophylaxis Prep](/recovery/glossary/preexposure-prophylaxis-prep)
 - [Prefrontal Cortex](/recovery/glossary/prefrontal-cortex)
 - [Prescription Drug Use Disorder Pdud](/recovery/glossary/prescription-drug-use-disorder-pdud)
@@ -723,7 +693,6 @@ html {
 - [Prosocial](/recovery/glossary/prosocial)
 - [Prostitution](/recovery/glossary/prostitution)
 - [Protective Factors](/recovery/glossary/protective-factors)
-- [Providence](/recovery/glossary/providence)
 - [Psilocybin](/recovery/glossary/psilocybin)
 - [Psychedelic](/recovery/glossary/psychedelic)
 - [Psychiatry](/recovery/glossary/psychiatry)
@@ -743,7 +712,6 @@ html {
 <a id="letter-q"></a>
 ### Q
 
-- [Qi](/recovery/glossary/qi)
 - [Quaaludes](/recovery/glossary/quaaludes)
 - [Qualitative](/recovery/glossary/qualitative)
 - [Quality Adjusted Life Year](/recovery/glossary/quality-adjusted-life-year)
@@ -792,7 +760,6 @@ html {
 - [Sanitarium](/recovery/glossary/sanitarium)
 - [Sapros](/recovery/glossary/sapros)
 - [Schema](/recovery/glossary/schema)
-- [Scientification](/recovery/glossary/scientification)
 - [Scorekeeping](/recovery/glossary/scorekeeping)
 - [Screen Affect](/recovery/glossary/screen-affect)
 - [Screening](/recovery/glossary/screening)
@@ -819,15 +786,11 @@ html {
 - [Sex](/recovery/glossary/sex)
 - [Sexually Transmitted Infections Sti](/recovery/glossary/sexually-transmitted-infections-sti)
 - [Shadow Work](/recovery/glossary/shadow-work)
-- [Shalom](/recovery/glossary/shalom)
 - [Shame](/recovery/glossary/shame)
 - [Sharps](/recovery/glossary/sharps)
 - [Shi Jiu](/recovery/glossary/shi-jiu)
-- [Silver Bullet](/recovery/glossary/silver-bullet)
 - [Simpliciter](/recovery/glossary/simpliciter)
-- [Simulacrum](/recovery/glossary/simulacrum)
 - [Singularity](/recovery/glossary/singularity)
-- [Skepticism](/recovery/glossary/skepticism)
 - [Skid Row](/recovery/glossary/skid-row)
 - [Sle Sober Living Environment](/recovery/glossary/sle-sober-living-environment)
 - [Slip](/recovery/glossary/slip)
@@ -850,7 +813,6 @@ html {
 - [Sterilization](/recovery/glossary/sterilization)
 - [Steroids](/recovery/glossary/steroids)
 - [Stimulant](/recovery/glossary/stimulant)
-- [Stoicism](/recovery/glossary/stoicism)
 - [Stress](/recovery/glossary/stress)
 - [Subintentional Homicide](/recovery/glossary/subintentional-homicide)
 - [Sublingual](/recovery/glossary/sublingual)
@@ -863,7 +825,6 @@ html {
 - [Surgeon General](/recovery/glossary/surgeon-general)
 - [Survival Mode](/recovery/glossary/survival-mode)
 - [Synchronicity](/recovery/glossary/synchronicity)
-- [Syncretic](/recovery/glossary/syncretic)
 - [Syndrome](/recovery/glossary/syndrome)
 - [Synthetic Interdisciplinarity](/recovery/glossary/synthetic-interdisciplinarity)
 - [Syphilis](/recovery/glossary/syphilis)
@@ -871,7 +832,6 @@ html {
 <a id="letter-t"></a>
 ### T
 
-- [Tabula Rasa](/recovery/glossary/tabula-rasa)
 - [Take Back Program](/recovery/glossary/take-back-program)
 - [Tat Tvam Asi](/recovery/glossary/tat-tvam-asi)
 - [Tctp Tobacco Containing Tobacco Products](/recovery/glossary/tctp-tobacco-containing-tobacco-products)
@@ -899,12 +859,6 @@ html {
 - [Truism](/recovery/glossary/truism)
 - [Twelve Step Facilitation](/recovery/glossary/twelve-step-facilitation)
 - [Twelve Steps](/recovery/glossary/twelve-steps)
-
-<a id="letter-u"></a>
-### U
-
-- [Ubermensch](/recovery/glossary/ubermensch)
-- [Utility](/recovery/glossary/utility)
 
 <a id="letter-v"></a>
 ### V
@@ -945,6 +899,5 @@ html {
 ### Z
 
 - [Z Drugs](/recovery/glossary/z-drugs)
-- [Zen](/recovery/glossary/zen)
 - [Zoopharmacognosy](/recovery/glossary/zoopharmacognosy)
 - [Zyklon B](/recovery/glossary/zyklon-b)

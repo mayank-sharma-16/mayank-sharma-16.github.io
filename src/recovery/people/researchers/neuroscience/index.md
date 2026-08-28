@@ -9,6 +9,7 @@ title: Neuroscience
 
 ## Recently Modified
 
+- [Aaron Bornstein](/recovery/people/researchers/neuroscience/aaron-bornstein)
 - [Cindy Wyvell](/recovery/people/researchers/neuroscience/neurobehavioral/cindy-wyvell)
 - [Serge H Ahmed](/recovery/people/researchers/neuroscience/neurobiology/serge-h-ahmed)
 - [David H Epstein](/recovery/people/researchers/neuroscience/neurobehavioral/david-h-epstein)
@@ -24,7 +25,7 @@ title: Neuroscience
 ## Pages
 
 <div class="alphabet-bar">
-<span class="alphabet-letter alphabet-letter-disabled">A</span>
+<a class="alphabet-letter" href="#letter-a">A</a>
 <span class="alphabet-letter alphabet-letter-disabled">B</span>
 <span class="alphabet-letter alphabet-letter-disabled">C</span>
 <span class="alphabet-letter alphabet-letter-disabled">D</span>
@@ -92,6 +93,11 @@ html {
   scroll-behavior: smooth;
 }
 </style>
+
+<a id="letter-a"></a>
+### A
+
+- [Aaron Bornstein](/recovery/people/researchers/neuroscience/aaron-bornstein)
 
 <a id="letter-r"></a>
 ### R

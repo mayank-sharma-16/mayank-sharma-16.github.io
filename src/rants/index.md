@@ -4,9 +4,10 @@ title: Rants
 
 ## Recently Modified
 
+- [Goofy Shit](/rants/goofy-shit)
+- [Aa Is Religious](/rants/aa-is-religious)
 - [Word Choice](/rants/word-choice)
 - [The Psychology Of Revolutionaries](/rants/the-psychology-of-revolutionaries)
-- [Goofy Shit](/rants/goofy-shit)
 - [Animal Addiction](/rants/animal-addiction)
 - [Kill The New Age Spirit](/rants/kill-the-new-age-spirit)
 - [Losing Language Models](/rants/losing-language-models)
@@ -17,7 +18,6 @@ title: Rants
 - [Good Quotes](/rants/good-quotes)
 - [On Decency In Health Policy](/rants/on-decency-in-health-policy)
 - [Wikipedia Is Not A Good Source](/rants/wikipedia-is-not-a-good-source)
-- [Aa Is Religious](/rants/aa-is-religious)
 
 ## Pages
 
