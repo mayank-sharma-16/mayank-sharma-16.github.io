@@ -3,6 +3,4 @@ title: Crisis Centers
 ---
 
 # Overview
-
-# Commentary
-You should be careful with crisis centers. 
+Crisis centers in the context of substance use generally refer to Crisis Stabilization Units (CSUs) and Behavioral Health Urgent Care Centers (BHUCCs), which are designed to address individuals experiencing psychological or physical distress as a result of substance use or other mental health disorders. They tend to be a response to the failures of a system that only provides Emergency Rooms (ERs) and incarceration as pathways for someone whose substance use requires urgent intervention. Instead, crisis centers operate from a "No Wrong Door" mindset that specialize in triage for mental and behavioral health crises. While modern science and clinical practice has come a long way towards seeing substance use disorders as a legitimate health issue with evidence-backed interventions available, that doesn't always translate to effective implementations, whether because of stigma, lack of resources, or outdated training. Crisis centers dedicated to providing these interventions can bridge critical care gaps in communities. For alcohol, which is commonly available and presents one of the highest risks of fatal withdrawals, and opioids, for which highly effective pharmacological interventions exist, these centers can be literal life-savers that are far more cost-effective than ER visits or engagement with the criminal justice system.  

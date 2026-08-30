@@ -1,0 +1,49 @@
+---
+title: The Lost Weekend (1945)
+---
+
+*"Nat, are you ever scared when you wake up? So scared, the sweat starts out of you, huh? No, not you. With you, it's simple. The alarm clock goes off, you open your eyes, brush your teeth, and ready the Daily Mirror. That's all. You ever lie in your bed, looking at the window? A little daylight's coming through, and you start to wonder. Is it getting lighter? Is it getting darker? Is it dawn or is it dusk? That's a terrifying problem, Nat. Because if it's dawn, you're dead. The bars are closed, the liquor stores don't open until 9:00. And you can't last until 9:00! Or it may be Sunday. That's the worst. No liquor stores at all, and you guys wouldn't open a bar until 1:00. Why?"* 
+
+*"Because we gotta go to church once in a while. That's why.*" 
+
+"*Yeah, when a guy needs it most."*
+
+Replace 9:00 AM with 6:00 AM and a bar with a food delivery app, and you could hear this exact sentiment from alcoholics in 2026.
+
+# Overview
+*The Lost Weekend* is one of the earliest films ever made to treat alcoholism as a sickness rather than a pure moral failing or a punchline. As an adaptation of the novel [[fiction/the-lost-weekend|*The Lost Weekend*]], it features Don Birman as an out-of-work self-proclaimed writer who struggles with alcoholism. 
+
+After years of scraping by with a stagnant career and brotherly benefactor, and a stay at a mental hospital of some kind following episodes of suicidal intentions, Don attempts to straighten himself out for the sake of a budding romance with one Helen St. James. By the time we meet Don, he claims to have been sober for ten days but is anxious to find a way to keep drinking for a weekend trip with his brother, only to end up drinking before it even begins and losing the weekend to a bender. Yet, even after his brother, the bartender at his local haunt, and his landlady have all written him off as better off dead, Helen persists in her faith that Don can recover.
+
+(Note: I've mentioned elsewhere that the language of "the alcoholic" and "the disease of alcoholism" have been phased out of scientific literature and serious scholarship in favor of terms like "substance use disorder," but it feels distractingly anachronistic to not use the terms that the movie thinks in.)
+
+# Commentary
+I watched this movie shortly after seeing *Spider-Man: Brand New Day (2026)* in theatres, and I found myself unexpectedly but pleasantly engaged with a movie that had no access to the digital tools and artistry that captured the scale of New York City from a spider's-eye view. Instead, we get an almost claustrophobic series of encounters with Don and the dark shadows of his life, whose encroachment into brighter beacons is depicted through chiaroscuro typical of the time. Whether Don is at the bar begging for drinks or writhing between pleasure and pain while the shadows of iron bars are cast over him in other scenes, we get to feel trapped in them alongside him. 
+
+The movie remains grounded as a character study for an archetypal alcoholic going through the familiar beats of a bender: just wanting a bottle around as mental relief that a drink isn't impossible, planning a few drinks around obligations, drinking far more than a few drinks, giving up on the idea of sobriety, stealing and lying and cheating once the money runs out, commitment to a medical institution, [[delirium-tremens|delirium tremens]], the rock bottom of suicidal despair, and a decision to stay alive and attempt sobriety again after a loved one refuses to believe that they are condemned to a life of useless selfishness. 
+
+In many modern addiction and recovery media, seeking medical help and peer recovery groups like Alcoholics Anonymous (AA) is interpreted as a substantial turning point or even resolution in the narrative arc. Given the explosive growth of AA and their media campaigns in the decades following this movie's release, Don's story is one that has no such third party to intervene as authorities with a remedy. In fact, the movie affords almost no attention to institutional actors except to quickly write off the marketed cures and frame "alcoholic wards" as little more than an overgrown drunk tank managed by apathetic and condescending staff. The slices of the historical institutional attitudes toward alcoholism and addiction are unambiguously depressing and gritty. Where this makes the story more compelling to me is that it leaves us entirely with the non-professional connections of loved ones, and in that, I include the conventional wisdom that only an addict can reach another addict. In a genuinely touching moment, realizing that Don has begun planning his suicide after contemplating a life of delirious drinking, Helen breaks from the pattern of everyone else who gave up on Don to announce: "I'd rather have you drunk than dead." 
+
+Granted, Helen is written almost entirely as a prop for Don to mistreat as evidence of the depravity of his addiction, and the other prominent female side character Gloria is almost entirely a prop to represent the tempting allures of the city's passionate nightlife. Together, they represent an externalized Madonna-Whore duality for Don that corresponds to his internalized duality in the style of Jekyll-and-Hyde, which he terms Don the Writer and Don the Drunk. As such, when Don's self-image collapses entirely into Don the Drunk, Helen serves as a corrective force to coax him back to Don the Writer. Still, the acting conveys a sincere sentiment felt by many whose loved ones have been in the throes of dysfunctional alcoholism and addiction: that even the messiest, most self-destructive version of them is preferable to the idea of their death. I for one was touched, which I found surprising given how fucking annoying a lot of addicts are and how often "I hope you relapse" crosses my mind.
+
+I don't find Bojack Horseman to be that interesting of a show to discuss from the perspective of alcoholism, but I couldn't help but think about the artistic rendering of the visions and hallucinations of benders in the show as intense and existentially crippling. This isn't to say that people don't see equivalently insane experiences in real life after chronic drug use. However, *The Lost Weekend* comes from an era that seemed less driven towards absurdity to convey its impact, so the DTs we see are simple agonies rather than extravagant catastrophes that unpack new layers of meaning from the subconscious. Don's visions are limited to seeing a rat chew its way out of the walls only to be preyed on immediately by a bat; obviously, symbolizing Don the Drunk devouring Don the Writer after an attempt to break free of a life of quiet desperation.
+
+Also, I was a little disappointed when I couldn't find any evidence of an homage to Don Birman in the character of Don Draper [[mad-men|Mad Men]].
+
+Also, they could've dialed it back on the theremin. Maybe it's a side effect of living in 2026 after the theremin been a meme for decades, but it still adds a cartoonishly spooky dimension to some of the ridiculous faces Don makes in drunken stupors. Upon a cursory search for movie's contemporary critics, I found a 1945 review in *The Nation* from James Agee that touches on the sound design:
+
+*"A few minutes of dead-silent pantomime (without music, please!) of deadly weakness, in hangover, for instance, might have made definitive a good deal that is here only sketched; it should be the kind of weakness in which it is virtually unbearable to lift a hand, and for some reason necessary to do much more than that. Much of the wrestling of minds and moods too, I suspect, could have been registered from outside, through lines, business, mere close-up, and posture: Chaplin, after all, has made incredibly complicated things articulate in pantomime... Sound and light peculiarities could have been impacted in the film and track by appropriate, dry exaggerations. A knocking radiator, an abrupt auto horn, coupled with the right kind of playing, might have told the audience as much in an instant as an hour of pure objectivity could"*
+
+And, amusingly, he takes a parting shot at the liquor industry who were not necessarily fans of movies that warned about the dangers of consuming their products:
+
+*"I undershtand that liquor interesh: innerish intereshtsh are rather worried about thish film. Thash tough."*
+
+For context, Allied Liquor Industries, an American trade organization for the liquor industry, had formally launched a campaign to suppress the film and invoked the specter of Prohibition as a political enemy who would use the film as propaganda. The Schenley Distiller's Corporation had offered Paramount $5 million to buy the film's negative and burn it to prevent distribution. Yes, the same Paramount that's now being driven into the ground by the Ellison failson. When the pressure campaigns failed and the movie became a hit, House of Seagram attempted to pivot their strategy by praising the movie with a new slogan: "some men shouldn't drink!" Billy Wilder joked that if he had been offered the $5 million directly, he would've taken it.
+
+# Notable Quotes
+
+*"Love is the hardest thing in the world to write about. It's so simple, you gotta catch it through details. Like the early morning sunlight hitting the grey tin of the rain spout in front of her house. The ringing of a telephone that sounds like Beethoven's 'Pastoral.' A letter scribbled on her office stationery you carry in your pocket because it smells like all the lilacs in Ohio."* 
+
+*"And out there in that great, big concrete jungle, I wonder how many others there are like me. Poor, bedevilled guys on fire with thirst, such comical figures to the rest of the world as they stagger blindly towards another binge, another bender, another spree."*
+
+*"We're both trying, Don. You're trying not to drink, and I'm trying not to love you."*

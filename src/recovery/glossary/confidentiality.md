@@ -6,7 +6,7 @@ title: Confidentiality
 According to the American Sociological Association (ASA), "confidentally generally means that private information about an individual will not be shared without his or her consent."
 
 # Commentary
-Honestly, I don't really believe that any policy about confidentiality is really confidential. 
+Honestly, I don't really believe that any policy about confidentiality can really be trusted to be confidential. 
 
 Alcoholics Anonymous is explicit that communication in groups is not legally privileged in any way and relies on the trust of the fellowship, many of which resemble high school cliques in terms of gossip and drama. 
 

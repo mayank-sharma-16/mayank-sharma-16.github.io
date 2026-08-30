@@ -9,4 +9,4 @@ slug: recovery/depictions/novels/the-lost-weekend
 
 Still, to his credit, Jackson did maintain sobriety for extended periods of time. He joined Alcoholics Anonymous in 1953, eventually going on to speak to large audiences about his experience with alcoholism.
 
-In 1945, the book was adapted into an Oscar winning film.
+In 1945, the book was adapted into an [[adaptations/the-lost-weekend|Oscar winning film.]]
