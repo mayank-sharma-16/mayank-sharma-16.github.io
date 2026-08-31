@@ -100,3 +100,24 @@ Always wear shower slippers in a treatment facility. IYKYK.
 
 # Case Fourteen
 This one is only barely relevant, but I figure with how much TV everyone watches as a mind-numbing sober activity, it's worth a mention. There is perhaps no quicker way to make a movie seem ridiculous than casting models to play an ugly outcast. If you watch enough D-tier garbage on Amazon Prime, it can really start breaking your immersion.
+
+# Case Fifteen
+There's a Round Table Pizza in Lake Forest, California that, for some reason, provokes the strangest racist rants from people. I haven't been there a single time without experiencing someone having something of a manic breakdown over racist conspiracies. 
+
+The first time, some kid in his 20s was losing his mind over the concept of interracial marriage as he couldn't understand why someone didn't want kids that didn't look like they did. He then launched into a pseudoscientific rant about how scientists can infer your race based on your skeletal structure so that "race is bone deep, not just skin deep, man." 
+
+For the record, that's not what the science says. What researchers have actually found is that humans have undergone natural selection based on the locations they live in, so that we can make an educated guess about what part of the world one's ancestors might be from based on some physical characteristics. For instance, someone with narrower nasal openings is more likely to be from a population that lived in cold, dry climates while wider openings correspond to warm, humid climates. So, we might guess that someone with the narrower openings is more likely to be from the region of present-day Norway than present-day Venezuela. That's it. That's the entire finding, which should be unsurprising to anyone who learned the first thing about Darwin's observations of local wildlife at the Galapagos Islands in 1835. The researchers are tracking geographic correlates, not anything comparable to racial essentialism. In fact, genetic studies consistently show that there is more genetic and physical diversity within racial groups than between them.
+
+Yet, this kid insisted he knew a lot about this science, so much so that he was regularly asked "are you a neo-Nazi or something?" He did not actually clarify that he wasn't, he just laughed at the question being asked of him. One gets the sense that he was all too unfortunately inspired by TikTok edgelords. And also, he claimed to be white while also claiming to be descended from Italians. Apparently his research did not inform him that Italians were not considered white or equals to Northern Europeans and Anglo-Saxon tribes for centuries, and many still do not consider them as such. In the American South, Italian immigrants experienced segregation and lynchings alongside Black Americans, not to the same degree but for the same underlying reasons. FDR's politics and calls for national unity in WWII moved the needle and brought Italian-Americans into the fold of White suburban neighborhoods distinct from Black and brown communities. 
+
+My armchair psychologist headcanon is that his insistence that he inherited great White traits from his mother is compensation for not having inherited enough traits from his father to feel masculine. It's a shame, he'd make a halfway decent femboy if he just gave in.
+
+The second racist rant didn't go on as long but was equally passionate. A gentleman took great issue with how "the Jews own everything. A Jew owns PornHub, a Jew owns OnlyFans-"
+
+One kid interrupted to save this gentleman from himself: "you mean Israeli billionaires right? There's a difference between a government and everyday people."
+
+Alas, the gentleman did not take the helping hand. "I mean it's all Jews, there's always a Jew in charge behind the scenes."
+
+The anti-Semitism isn't remotely surprising, but the gentleman's emphasis on porn kind of was. Does he imagine that a secret cabal of Jews are trying to get Americans addicted to porn to decrease the birth rate as part of the White Genocide conspiracies? Is he speaking out of sexual frustration and dissatisfaction with his own porn habits? Is he upset about the rejection he received when he tried asking out a young woman half his age? All of a sudden, I'm no longer sympathetic to his complaints that his ex-wife moved across the country with their daughter.
+
+People like this are why I cannot stomach the AA standards about having no opinion on outside issues. I am not opening up about the intergenerational trauma and structural differences in my lived experiences resulting from colonialism, imperialism, racism, and xenophobia in a room with people like that. And if I'm perfectly honest, I don't much care to keep them sober either when their sobriety directly contributes to movements that produce the trauma that makes sobriety harder for others. If they insist on making recovery a zero-sum game, I insist on meeting that energy.
