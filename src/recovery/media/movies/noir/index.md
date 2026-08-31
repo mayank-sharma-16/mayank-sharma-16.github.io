@@ -5,7 +5,9 @@ title: Noir
 ## Recently Modified
 
 - [The French Connection](/recovery/media/movies/noir/the-french-connection)
+
 - [Drunken Angel 1948](/recovery/media/movies/noir/drunken-angel-1948)
+
 - [The Man With The Golden Arm 1955](/recovery/media/movies/noir/the-man-with-the-golden-arm-1955)
 
 ## Pages
@@ -89,4 +91,5 @@ html {
 ### T
 
 - [The French Connection](/recovery/media/movies/noir/the-french-connection)
+
 - [The Man With The Golden Arm 1955](/recovery/media/movies/noir/the-man-with-the-golden-arm-1955)

@@ -6,6 +6,8 @@ title: 1880 1889
 
 - [Jal Edulji Dhunjibhoy](/recovery/people/clinicians/doctors/1880-1889/jal-edulji-dhunjibhoy)
 
+J.E. Dhunjibhoy pioneering Indian psychiatrist whose work as superintendent at the Ranchi Indian Mental Hospital is still celebrated for achieving one of the lowest mortality rates among mental hospitals and publishing research on drug consumption patterns.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### J
 
 - [Jal Edulji Dhunjibhoy](/recovery/people/clinicians/doctors/1880-1889/jal-edulji-dhunjibhoy)
+
+J.E. Dhunjibhoy pioneering Indian psychiatrist whose work as superintendent at the Ranchi Indian Mental Hospital is still celebrated for achieving one of the lowest mortality rates among mental hospitals and publishing research on drug consumption patterns.

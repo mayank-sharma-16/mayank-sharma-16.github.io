@@ -5,8 +5,11 @@ title: 1880 1889
 ## Recently Modified
 
 - [Bowman V Chicago And Northwestern Railway Co 1886](/recovery/policy/united-states/1880-1889/bowman-v-chicago-and-northwestern-railway-co-1886)
+
 - [Foster V Kansas 1880](/recovery/policy/united-states/1880-1889/foster-v-kansas-1880)
+
 - [Beer Company V Massachusetts 1880](/recovery/policy/united-states/1880-1889/beer-company-v-massachusetts-1880)
+
 - [Mugler V Kansas 1887](/recovery/policy/united-states/1880-1889/mugler-v-kansas-1887)
 
 ## Pages
@@ -85,6 +88,7 @@ html {
 ### B
 
 - [Beer Company V Massachusetts 1880](/recovery/policy/united-states/1880-1889/beer-company-v-massachusetts-1880)
+
 - [Bowman V Chicago And Northwestern Railway Co 1886](/recovery/policy/united-states/1880-1889/bowman-v-chicago-and-northwestern-railway-co-1886)
 
 <a id="letter-f"></a>

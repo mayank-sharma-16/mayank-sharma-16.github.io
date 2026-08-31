@@ -5,17 +5,29 @@ title: Narcotics
 ## Recently Modified
 
 - [Meperidine](/recovery/treatment/medications/narcotics/meperidine)
+
 - [Tapentadol](/recovery/treatment/medications/narcotics/tapentadol)
+
 - [Tramadol](/recovery/treatment/medications/narcotics/tramadol)
+
 - [Buprenorphine](/recovery/treatment/medications/narcotics/buprenorphine)
+
 - [Methadone](/recovery/treatment/medications/narcotics/methadone)
+
 - [Fentanyl](/recovery/treatment/medications/narcotics/fentanyl)
+
 - [Codeine](/recovery/treatment/medications/narcotics/codeine)
+
 - [Oxymorphone](/recovery/treatment/medications/narcotics/oxymorphone)
+
 - [Hydromorphone](/recovery/treatment/medications/narcotics/hydromorphone)
+
 - [Hydrocodone](/recovery/treatment/medications/narcotics/hydrocodone)
+
 - [Oxycodone](/recovery/treatment/medications/narcotics/oxycodone)
+
 - [Morphine](/recovery/treatment/medications/narcotics/morphine)
+
 - [Oxycontin](/recovery/treatment/medications/narcotics/oxycontin)
 
 ## Pages
@@ -109,24 +121,30 @@ html {
 ### H
 
 - [Hydrocodone](/recovery/treatment/medications/narcotics/hydrocodone)
+
 - [Hydromorphone](/recovery/treatment/medications/narcotics/hydromorphone)
 
 <a id="letter-m"></a>
 ### M
 
 - [Meperidine](/recovery/treatment/medications/narcotics/meperidine)
+
 - [Methadone](/recovery/treatment/medications/narcotics/methadone)
+
 - [Morphine](/recovery/treatment/medications/narcotics/morphine)
 
 <a id="letter-o"></a>
 ### O
 
 - [Oxycodone](/recovery/treatment/medications/narcotics/oxycodone)
+
 - [Oxycontin](/recovery/treatment/medications/narcotics/oxycontin)
+
 - [Oxymorphone](/recovery/treatment/medications/narcotics/oxymorphone)
 
 <a id="letter-t"></a>
 ### T
 
 - [Tapentadol](/recovery/treatment/medications/narcotics/tapentadol)
+
 - [Tramadol](/recovery/treatment/medications/narcotics/tramadol)

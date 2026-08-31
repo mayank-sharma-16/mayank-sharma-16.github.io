@@ -5,8 +5,16 @@ title: University Of Alabama
 ## Recently Modified
 
 - [Alabama Drug Use Central Data Repository](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama/alabama-drug-use-central-data-repository)
+
+https://opioidcdr.ua.edu/
+
 - [Center For Substance Use Research And Related Conditions](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama/center-for-substance-use-research-and-related-conditions)
+
+https://csurrc.ua.edu/contact-us/
+
 - [Collegiate Recovery And Intervention Services](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama/collegiate-recovery-and-intervention-services)
+
+https://cris.sl.ua.edu/
 
 ## Pages
 
@@ -85,8 +93,15 @@ html {
 
 - [Alabama Drug Use Central Data Repository](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama/alabama-drug-use-central-data-repository)
 
+https://opioidcdr.ua.edu/
+
 <a id="letter-c"></a>
 ### C
 
 - [Center For Substance Use Research And Related Conditions](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama/center-for-substance-use-research-and-related-conditions)
+
+https://csurrc.ua.edu/contact-us/
+
 - [Collegiate Recovery And Intervention Services](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama/collegiate-recovery-and-intervention-services)
+
+https://cris.sl.ua.edu/

@@ -6,6 +6,8 @@ title: Open Source
 
 - [Code For Recovery](/recovery/organizations/open-source/code-for-recovery)
 
+https://code4recovery.org https://github.com/code4recovery
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Code For Recovery](/recovery/organizations/open-source/code-for-recovery)
+
+https://code4recovery.org https://github.com/code4recovery

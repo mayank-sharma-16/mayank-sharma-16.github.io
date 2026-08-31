@@ -6,6 +6,8 @@ title: Conference Approved
 
 - [Living Sober](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/conference-approved/living-sober)
 
+https://www.aa.org/sites/default/files/2024-10/b-7livingsober1-17updated10-2024.pdf
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### L
 
 - [Living Sober](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/conference-approved/living-sober)
+
+https://www.aa.org/sites/default/files/2024-10/b-7livingsober1-17updated10-2024.pdf

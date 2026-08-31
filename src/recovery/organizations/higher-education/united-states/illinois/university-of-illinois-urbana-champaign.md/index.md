@@ -5,9 +5,20 @@ title: University Of Illinois Urbana Champaign
 ## Recently Modified
 
 - [Alcohol Research Lab](/recovery/organizations/higher-education/united-states/illinois/university-of-illinois-urbana-champaign/alcohol-research-lab)
+
+https://www.alcoholresearchlab.com/
+
 - [Center For Prevention Research And Development Cprd](/recovery/organizations/higher-education/united-states/illinois/university-of-illinois-urbana-champaign/center-for-prevention-research-and-development-cprd)
+
+https://cprd.illinois.edu/
+
 - [Alcohol And Drug Prevention And Response Program](/recovery/organizations/higher-education/united-states/illinois/university-of-illinois-urbana-champaign/alcohol-and-drug-prevention-and-response-program)
+
+https://odos.illinois.edu/alcohol-and-drug-program
+
 - [Harm Reduction Peers](/recovery/organizations/higher-education/united-states/illinois/university-of-illinois-urbana-champaign/harm-reduction-peers)
+
+https://counselingcenter.illinois.edu/get-involved/harm-reduction-peers
 
 ## Pages
 
@@ -85,14 +96,23 @@ html {
 ### A
 
 - [Alcohol And Drug Prevention And Response Program](/recovery/organizations/higher-education/united-states/illinois/university-of-illinois-urbana-champaign/alcohol-and-drug-prevention-and-response-program)
+
+https://odos.illinois.edu/alcohol-and-drug-program
+
 - [Alcohol Research Lab](/recovery/organizations/higher-education/united-states/illinois/university-of-illinois-urbana-champaign/alcohol-research-lab)
+
+https://www.alcoholresearchlab.com/
 
 <a id="letter-c"></a>
 ### C
 
 - [Center For Prevention Research And Development Cprd](/recovery/organizations/higher-education/united-states/illinois/university-of-illinois-urbana-champaign/center-for-prevention-research-and-development-cprd)
 
+https://cprd.illinois.edu/
+
 <a id="letter-h"></a>
 ### H
 
 - [Harm Reduction Peers](/recovery/organizations/higher-education/united-states/illinois/university-of-illinois-urbana-champaign/harm-reduction-peers)
+
+https://counselingcenter.illinois.edu/get-involved/harm-reduction-peers

@@ -5,11 +5,27 @@ title: Official
 ## Recently Modified
 
 - [Alcoholics Anonymous](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/alcoholics-anonymous)
+
+I can sound very critical about A.A., but it's only in response to the tone set by the How It Works section that's read at the beginning of every meeting. If any enthusiastic newcomer is taken aback by the language about people being born too naturally dishonest to work the program, I want them to know there are people promoting other paths to recovery. They don't have to decide between active…
+
 - [Aa For The Older Alcoholic](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/aa-for-the-older-alcoholic)
+
+https://www.aa.org/sites/default/files/literature/assets/p-22_AAfortheOlderAA.pdf
+
 - [Alcoholics Anonymous Fascimile First Pri](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/alcoholics-anonymous-fascimile-first-pri)
+
+For those who aren't in the book collectors niche, a "fascimile edition" is an exact reproduction of the first edition a book was printed in. https://www.aa.org/node/9076
+
 - [Just For Today](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/just-for-today)
+
+Just for Today describes itself as a daily meditation book that's derived from the literature and practices of Narcotics Anonymous, which is derived from Alcoholics Anonymous, which is derived from the Oxford Group, which is derived from Higher Life Theology in English Protestant tent revivalist movements. I argue AA is religious, not just spiritual, and you can find a discussion about that here.…
+
 - [It Works How And Why](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/it-works-how-and-why)
+
+Look, if you're going to call your book "It Works," you're going to have to be ready for someone to ask "Does It?"
+
 - [Daily Reflections](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/daily-reflections)
+
 - [Narcotics Anonymous](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/narcotics-anonymous)
 
 ## Pages
@@ -88,8 +104,16 @@ html {
 ### A
 
 - [Aa For The Older Alcoholic](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/aa-for-the-older-alcoholic)
+
+https://www.aa.org/sites/default/files/literature/assets/p-22_AAfortheOlderAA.pdf
+
 - [Alcoholics Anonymous](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/alcoholics-anonymous)
+
+I can sound very critical about A.A., but it's only in response to the tone set by the How It Works section that's read at the beginning of every meeting. If any enthusiastic newcomer is taken aback by the language about people being born too naturally dishonest to work the program, I want them to know there are people promoting other paths to recovery. They don't have to decide between active…
+
 - [Alcoholics Anonymous Fascimile First Pri](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/alcoholics-anonymous-fascimile-first-pri)
+
+For those who aren't in the book collectors niche, a "fascimile edition" is an exact reproduction of the first edition a book was printed in. https://www.aa.org/node/9076
 
 <a id="letter-d"></a>
 ### D
@@ -101,10 +125,14 @@ html {
 
 - [It Works How And Why](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/it-works-how-and-why)
 
+Look, if you're going to call your book "It Works," you're going to have to be ready for someone to ask "Does It?"
+
 <a id="letter-j"></a>
 ### J
 
 - [Just For Today](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/official/just-for-today)
+
+Just for Today describes itself as a daily meditation book that's derived from the literature and practices of Narcotics Anonymous, which is derived from Alcoholics Anonymous, which is derived from the Oxford Group, which is derived from Higher Life Theology in English Protestant tent revivalist movements. I argue AA is religious, not just spiritual, and you can find a discussion about that here.…
 
 <a id="letter-n"></a>
 ### N

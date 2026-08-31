@@ -6,6 +6,8 @@ title: 1770 1779
 
 - [Carl Von Bruhl Cramer](/recovery/people/clinicians/doctors/1770-1779/carl-von-bruhl-cramer)
 
+In 1819, Carl von Bruhl-Cramer coined the term "Trunksucht" which can be translated as "drink obsession." The concept of addiction as a disease was not a scientific consensus at the time, so under a moral model, the term "lasterhaft" existed to describe someone prone to indulging sinful vices.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Carl Von Bruhl Cramer](/recovery/people/clinicians/doctors/1770-1779/carl-von-bruhl-cramer)
+
+In 1819, Carl von Bruhl-Cramer coined the term "Trunksucht" which can be translated as "drink obsession." The concept of addiction as a disease was not a scientific consensus at the time, so under a moral model, the term "lasterhaft" existed to describe someone prone to indulging sinful vices.

@@ -5,10 +5,19 @@ title: Streetwear
 ## Recently Modified
 
 - [Soberminds](/recovery/marketplace/apparel-and-accessories/streetwear/soberminds)
+
+https://sobermindslifestyle.com/
+
 - [Loosid Sober Shop](/recovery/marketplace/apparel-and-accessories/streetwear/loosid-sober-shop)
+
+https://getloosid.com/#:~:text=All%20Collections%20%20Sober%20Tees.%20Clean%20Tees.,Phone%20Cases.%20Coasters.%20Mousepads.%20Magnets.%20%20Coins.
+
 - [Inspiring Sobriety](/recovery/marketplace/apparel-and-accessories/streetwear/inspiring-sobriety)
+
 - [Doing It Sober](/recovery/marketplace/apparel-and-accessories/streetwear/doing-it-sober)
+
 - [Sonder Mountain Apparel](/recovery/marketplace/apparel-and-accessories/streetwear/sonder-mountain-apparel)
+
 - [Sobervation](/recovery/marketplace/apparel-and-accessories/streetwear/sobervation)
 
 ## Pages
@@ -98,9 +107,15 @@ html {
 
 - [Loosid Sober Shop](/recovery/marketplace/apparel-and-accessories/streetwear/loosid-sober-shop)
 
+https://getloosid.com/#:~:text=All%20Collections%20%20Sober%20Tees.%20Clean%20Tees.,Phone%20Cases.%20Coasters.%20Mousepads.%20Magnets.%20%20Coins.
+
 <a id="letter-s"></a>
 ### S
 
 - [Soberminds](/recovery/marketplace/apparel-and-accessories/streetwear/soberminds)
+
+https://sobermindslifestyle.com/
+
 - [Sobervation](/recovery/marketplace/apparel-and-accessories/streetwear/sobervation)
+
 - [Sonder Mountain Apparel](/recovery/marketplace/apparel-and-accessories/streetwear/sonder-mountain-apparel)

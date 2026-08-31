@@ -6,6 +6,8 @@ title: 1560 1569
 
 - [King James I](/recovery/people/politicians-and-policymakers/united-kingdom/england/1560-1569/king-james-i)
 
+He hated tobacco so much, he instituted a four thousand percent tax hike to discourage its use.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### K
 
 - [King James I](/recovery/people/politicians-and-policymakers/united-kingdom/england/1560-1569/king-james-i)
+
+He hated tobacco so much, he instituted a four thousand percent tax hike to discourage its use.

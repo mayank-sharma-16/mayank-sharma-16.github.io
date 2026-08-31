@@ -5,10 +5,23 @@ title: Harvard University
 ## Recently Modified
 
 - [Cambridge Health Alliance](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/cambridge-health-alliance)
+
+https://www.divisiononaddiction.org/
+
 - [Center For Addiction Medicine](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/center-for-addiction-medicine)
+
+https://www.mghaddictionmedicine.com/
+
 - [Harvard University Health Services Huhs](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/harvard-university-health-services-huhs)
+
 - [Recovery Research Institute](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/recovery-research-institute)
+
+https://giving.massgeneral.org/stories/the-recovery-research-institute-a-trusted-resource-on-addiction-issues
+
 - [Harvard Undergraduate Psychedelics Club](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/harvard-undergraduate-psychedelics-club)
+
+https://www.instagram.com/harvardundergradpsychedelics/?hl=en https://linktr.ee/harvardpsychedelics
+
 - [Counseling And Mental Health Services Camhs](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/counseling-and-mental-health-services-camhs)
 
 ## Pages
@@ -87,16 +100,27 @@ html {
 ### C
 
 - [Cambridge Health Alliance](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/cambridge-health-alliance)
+
+https://www.divisiononaddiction.org/
+
 - [Center For Addiction Medicine](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/center-for-addiction-medicine)
+
+https://www.mghaddictionmedicine.com/
+
 - [Counseling And Mental Health Services Camhs](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/counseling-and-mental-health-services-camhs)
 
 <a id="letter-h"></a>
 ### H
 
 - [Harvard Undergraduate Psychedelics Club](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/harvard-undergraduate-psychedelics-club)
+
+https://www.instagram.com/harvardundergradpsychedelics/?hl=en https://linktr.ee/harvardpsychedelics
+
 - [Harvard University Health Services Huhs](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/harvard-university-health-services-huhs)
 
 <a id="letter-r"></a>
 ### R
 
 - [Recovery Research Institute](/recovery/organizations/higher-education/united-states/massachusetts/harvard-university/recovery-research-institute)
+
+https://giving.massgeneral.org/stories/the-recovery-research-institute-a-trusted-resource-on-addiction-issues

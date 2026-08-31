@@ -4,13 +4,24 @@ title: Romantic
 
 ## Recently Modified
 
+- [A Star Is Born 1937](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born-1937)
+
+A Star Is Born has been remade three times in 1954, 1976, and 2018, the latest of which is still in the memory of contemporary pop culture as a musical. The original was not a musical though, and instead was centrally inspired on a 1932 film called What Price Hollywood? that also featured a mentor in the show business industry whose decline from alcoholism coincides with a contrasting success…
+
 - [Withdrawal 2025](/recovery/media/movies/dramas-and-dramedies/romantic/withdrawal-2025)
+
+A story of a young couple going through withdrawals together, shaped by Aaron Strand's own experience with substance use.
+
 - [Days Of Wine And Roses 1962](/recovery/media/movies/dramas-and-dramedies/romantic/days-of-wine-and-roses-1962)
+
+- [A Star Is Born 1954](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born-1954)
+
+- [A Star Is Born](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born)
 
 ## Pages
 
 <div class="alphabet-bar">
-<span class="alphabet-letter alphabet-letter-disabled">A</span>
+<a class="alphabet-letter" href="#letter-a">A</a>
 <span class="alphabet-letter alphabet-letter-disabled">B</span>
 <span class="alphabet-letter alphabet-letter-disabled">C</span>
 <a class="alphabet-letter" href="#letter-d">D</a>
@@ -79,6 +90,17 @@ html {
 }
 </style>
 
+<a id="letter-a"></a>
+### A
+
+- [A Star Is Born](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born)
+
+- [A Star Is Born 1937](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born-1937)
+
+A Star Is Born has been remade three times in 1954, 1976, and 2018, the latest of which is still in the memory of contemporary pop culture as a musical. The original was not a musical though, and instead was centrally inspired on a 1932 film called What Price Hollywood? that also featured a mentor in the show business industry whose decline from alcoholism coincides with a contrasting success…
+
+- [A Star Is Born 1954](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born-1954)
+
 <a id="letter-d"></a>
 ### D
 
@@ -88,3 +110,5 @@ html {
 ### W
 
 - [Withdrawal 2025](/recovery/media/movies/dramas-and-dramedies/romantic/withdrawal-2025)
+
+A story of a young couple going through withdrawals together, shaped by Aaron Strand's own experience with substance use.

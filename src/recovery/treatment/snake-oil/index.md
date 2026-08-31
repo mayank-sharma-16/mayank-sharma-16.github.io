@@ -5,8 +5,16 @@ title: Snake Oil
 ## Recently Modified
 
 - [Hay Litchfield Antidote](/recovery/treatment/snake-oil/hay-litchfield-antidote)
+
+Beef gall, eel skin, codfish, milk, cow's urine, and alcohol. As a solution to cure cravings for alcohol.
+
 - [Bichloride Gold](/recovery/treatment/snake-oil/bichloride-gold)
+
+When in doubt, just inject gold into your veins.
+
 - [White Star Secret Liquor Cure](/recovery/treatment/snake-oil/white-star-secret-liquor-cure)
+
+This was really just a bunch of cocaine capsules
 
 ## Pages
 
@@ -85,12 +93,18 @@ html {
 
 - [Bichloride Gold](/recovery/treatment/snake-oil/bichloride-gold)
 
+When in doubt, just inject gold into your veins.
+
 <a id="letter-h"></a>
 ### H
 
 - [Hay Litchfield Antidote](/recovery/treatment/snake-oil/hay-litchfield-antidote)
 
+Beef gall, eel skin, codfish, milk, cow's urine, and alcohol. As a solution to cure cravings for alcohol.
+
 <a id="letter-w"></a>
 ### W
 
 - [White Star Secret Liquor Cure](/recovery/treatment/snake-oil/white-star-secret-liquor-cure)
+
+This was really just a bunch of cocaine capsules

@@ -5,7 +5,12 @@ title: Art And Media
 ## Recently Modified
 
 - [Addiction Recovery Arts Network Conference](/recovery/events/conferences/art-and-media/addiction-recovery-arts-network-conference)
+
+In 2023, Dr. Cathy Sloan at the University of West London organized the Addiction Recovery Arts Network to bring together arts recovery organizations. From Sloan: "“Recovery Arts can be a very effective conduit for expressing and developing recovery identities. They enable the sharing of lived experience either directly, through autobiographical work, or indirectly, through exploring themes…
+
 - [Reel Recovery Film Festival And Symposium](/recovery/events/conferences/art-and-media/reel-recovery-film-festival-and-symposium)
+
+The REEL Recovery Film Festival & Symposium is hosted by Writers in Treatment and features documentaries, short films, and feature-length movies that explore addiction and treatment with the goal of reducing stigma. It was co-founded in 2008 by Leonard Buschel and Robert Downey Sr. https://reelrecoveryfilmfestival.org/
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Addiction Recovery Arts Network Conference](/recovery/events/conferences/art-and-media/addiction-recovery-arts-network-conference)
 
+In 2023, Dr. Cathy Sloan at the University of West London organized the Addiction Recovery Arts Network to bring together arts recovery organizations. From Sloan: "“Recovery Arts can be a very effective conduit for expressing and developing recovery identities. They enable the sharing of lived experience either directly, through autobiographical work, or indirectly, through exploring themes…
+
 <a id="letter-r"></a>
 ### R
 
 - [Reel Recovery Film Festival And Symposium](/recovery/events/conferences/art-and-media/reel-recovery-film-festival-and-symposium)
+
+The REEL Recovery Film Festival & Symposium is hosted by Writers in Treatment and features documentaries, short films, and feature-length movies that explore addiction and treatment with the goal of reducing stigma. It was co-founded in 2008 by Leonard Buschel and Robert Downey Sr. https://reelrecoveryfilmfestival.org/

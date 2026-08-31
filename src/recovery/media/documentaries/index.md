@@ -11,24 +11,49 @@ title: Documentaries
 ## Recently Modified
 
 - [Hypernormalisation](/recovery/media/documentaries/expository/hypernormalisation)
+
+Adam Curtis' basic thesis behind the documentary is that the world became too complex for the institutions of power to actually manage, so they instead turned to managing the simpler narratives that set the parameters for reality, namely the feelings and mindsets at the atomized individual level. Hypernormalisation refers to the way everyone can clearly see reality is broken, but changing the…
+
 - [Born In Synanon](/recovery/media/documentaries/expository/born-in-synanon)
+
+To everyone who says Alcoholics Anonymous (AA) is a cult, you have not yet seen Synanon.
+
 - [Moyers On Addiction Close To Home 1998](/recovery/media/documentaries/investigative/moyers-on-addiction-close-to-home-1998)
+
+A 5 part documentary series aired in 1998 and produced by Bill Moyers after his son William Cope Moyers finally maintained abstinence in 1994.
+
 - [48 Hours On Crack Street 1986](/recovery/media/documentaries/investigative/48-hours-on-crack-street-1986)
+
 - [The Addicts Wake](/recovery/media/documentaries/cinema-verite/the-addicts-wake)
+
 - [Methadonia 2005](/recovery/media/documentaries/cinema-verite/methadonia-2005)
+
 - [Ill Be Home For Christmas 1984](/recovery/media/documentaries/cinema-verite/ill-be-home-for-christmas-1984)
+
 - [Streetwise 1984](/recovery/media/documentaries/cinema-verite/streetwise-1984)
+
 - [On The Bowery 1956](/recovery/media/documentaries/cinema-verite/on-the-bowery-1956)
+
 - [Amy](/recovery/media/documentaries/cinema-verite/amy)
+
 - [Louis Theroux Drinking To Oblivion](/recovery/media/documentaries/cinema-verite/louis-theroux-drinking-to-oblivion)
+
 - [Metallica Some Kind Of Monster 2004](/recovery/media/documentaries/cinema-verite/metallica-some-kind-of-monster-2004)
+
 - [Better Man](/recovery/media/documentaries/expository/better-man)
+
 - [Juice Wrld Into The Abyss](/recovery/media/documentaries/cinema-verite/juice-wrld-into-the-abyss)
+
 - [High On Crack Street Lost Lives In Lowell](/recovery/media/documentaries/cinema-verite/high-on-crack-street-lost-lives-in-lowell)
+
 - [Black Tar Heroin The Dark End Of The Street](/recovery/media/documentaries/cinema-verite/black-tar-heroin-the-dark-end-of-the-street)
+
 - [Heroine](/recovery/media/documentaries/cinema-verite/heroine)
+
 - [Meth Storm](/recovery/media/documentaries/cinema-verite/meth-storm)
+
 - [Oxyana](/recovery/media/documentaries/cinema-verite/oxyana)
+
 - [Through A Blue Lens](/recovery/media/documentaries/cinema-verite/through-a-blue-lens)
 
 ## Pages
@@ -107,3 +132,5 @@ html {
 ### M
 
 - [Meditate And Destroy](/recovery/media/documentaries/meditate-and-destroy)
+
+Note: The subject of the documentary is Noah Levine, who has since been involved in sexual misconduct allegations through his leadership role at Against the Stream (ATS) and teaching role with Spirit Rock Meditation Center. ATS later dissolved and Spirit Rock revoked his license to teach. No criminal charges appear to have been filed concerning any of the allegations, and Levine denies any…

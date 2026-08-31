@@ -15,25 +15,54 @@ title: Celebrities And Influencers
 ## Recently Modified
 
 - [Hayden Panettiere](/recovery/people/celebrities-and-influencers/actors/1980-1989/hayden-panettiere)
+
 - [Mark Lundholm](/recovery/people/celebrities-and-influencers/comedians/mark-lundholm)
+
+From performances inside San Quentin State Prison to performing for President Gerald Ford and President Donald Trump (then just a businessman hosting galas), Mark Lundholm has made a comedy career from the lessons learned through his past struggles with addiction and dysfunctional relationships. I once called him a "fucktard" to his face, and then I got a free copy of his book Shortcuts: Better…
+
 - [Melissa Etheridge](/recovery/people/celebrities-and-influencers/musicians/melissa-etheridge)
+
+Melissa Etheridge's son, Beckett Cypher, died of an opioid overdose in 2020 following four years of struggling with substance use after an accident at 17 led to a painkiller addiction. Etheridge founded the Etheridge Foundation, which funds studies into treatments for opioid use disorder (OUD). They are also the group behind the R.I.S.E (Research, Innovation, Science, and Education) Summit in…
+
 - [Aaron Strand](/recovery/people/celebrities-and-influencers/directors/indie/aaron-strand)
+
+Director of Withdrawal (2025), a movie shaped by Aaron Strand's experiences with addiction and recovery himself.
+
 - [Zachary Cole Smoth](/recovery/people/celebrities-and-influencers/musicians/rock/indie/zachary-cole-smoth)
+
 - [Akira Kurosawa](/recovery/people/celebrities-and-influencers/directors/akira-kurosawa)
+
 - [Clint Howard](/recovery/people/celebrities-and-influencers/actors/1950-1959/clint-howard)
+
 - [Elizabeth Taylor](/recovery/people/celebrities-and-influencers/actors/1930-1939/elizabeth-taylor)
+
 - [Johnny Cash](/recovery/people/celebrities-and-influencers/actors/1930-1939/johnny-cash)
+
 - [Tony Curtis](/recovery/people/celebrities-and-influencers/actors/1920-1929/tony-curtis)
+
 - [Mary Tyler Moore](/recovery/people/celebrities-and-influencers/actors/1930-1939/mary-tyler-moore)
+
 - [Liza Minneli](/recovery/people/celebrities-and-influencers/actors/1940-1949/liza-minneli)
+
 - [Red Rodney](/recovery/people/celebrities-and-influencers/musicians/jazz/red-rodney)
+
 - [Richard Pryor](/recovery/people/celebrities-and-influencers/comedians/richard-pryor)
+
 - [Kurt Cobain](/recovery/people/celebrities-and-influencers/musicians/rock/kurt-cobain)
+
 - [Sid Vicious](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/sid-vicious)
+
 - [Steve Jones](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/steve-jones)
+
 - [John Bartholomew Gough](/recovery/people/celebrities-and-influencers/actors/1810-1819/john-bartholomew-gough)
+
 - [Dallas Taylor](/recovery/people/celebrities-and-influencers/musicians/rock/dallas-taylor)
+
+Drummer for CSNY
+
 - [Johnny Rzeznik](/recovery/people/celebrities-and-influencers/musicians/rock/johnny-rzeznik)
+
+Frontman of the Goo Goo Dolls, who estimates that he tried about 50 times to get sober before it held. https://medium.com/@J.S.Matkowski/the-disease-of-loneliness-johnny-rzezniks-50-attempts-at-sobriety-9e339b726d21
 
 ## Pages
 
@@ -121,6 +150,7 @@ html {
 ### J
 
 - [Jamie Lee Curtis](/recovery/people/celebrities-and-influencers/jamie-lee-curtis)
+
 - [Joe Manganiello](/recovery/people/celebrities-and-influencers/joe-manganiello)
 
 <a id="letter-k"></a>

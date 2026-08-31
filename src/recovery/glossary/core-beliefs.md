@@ -23,9 +23,11 @@ In 1991, a study published in *Psychology Bulletin* found evidence that depressi
 
 *"We thus find little convincing support for causal hypotheses of cognitive theory, but at the same time it would be premature to abandon them. For example, the idea that dysfunctional beliefs are stable rests uneasily beside the findings from research on remitted depressives, and longitudinal research has generally not supported the onset hypothesis. Given that most of these studies have not used procedures suitable for printing latent beliefs, though, the hypotheses remain viable. Similarly, initial studies have yielded inconsistent results concerning hypothesized interactions between personality modes and specific stressors in predicting depression recurrence."*
 
-This is one of the reasons I remain highly skeptical of positive psychology and New Age spirituality that attributes an almost magical power to optimistic mindsets that allegedly manifest outcomes through intentionality alone.
+This is one of the reasons I remain highly skeptical of positive psychology and New Age spirituality that attributes an almost magical power to optimistic mindsets that allegedly manifest outcomes through intentionality alone. While a patient might still be able to make better or healthier choices as a result of therapeutic discussions,  
 
-In 1995, Michael Mahoney published *Cognitive and Constructive Psychotherapies: Theory, Research, and Practice*, in which he took issue with the theoretical foundations of CBT as reducing humans with "crude computationalism" into flowcharts of thoughts and emotions instead of adopting a fluid, holistic perspective of how humans assemble experiences into schemas.
+In 1995, Michael Mahoney published *Cognitive and Constructive Psychotherapies: Theory, Research, and Practice*, in which he took issue with the theoretical foundations of CBT as reducing humans with "crude computationalism" into flowcharts of thoughts and emotions instead of adopting a fluid, holistic perspective of how humans assemble experiences into schemas. One of Beck's students Jeffrey Young argued that the concept of "core beliefs" was an intellectualized oversimplification of what he termed Early Maladaptive Schemas (EMS), which were too ingrained to be addressed through pointing out logical errors or irrationality.
+
+More recently, trauma-informed critiques from those like Bessel van der Kolk, author of *The Body Keeps the Score*, argue that core beliefs stem from deeply ingrained memories of experiences that have been reinforced through the nervous system each time it was reconsolidated.
 
 # Links
 [^0]: [[https://psycnet.apa.org/record/2025-97781-001|The structure of self-related core beliefs.]]

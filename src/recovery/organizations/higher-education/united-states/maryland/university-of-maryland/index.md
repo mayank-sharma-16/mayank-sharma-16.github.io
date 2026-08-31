@@ -5,7 +5,12 @@ title: University Of Maryland
 ## Recently Modified
 
 - [Kahlert Institute For Addiction Medicine](/recovery/organizations/higher-education/united-states/maryland/university-of-maryland/kahlert-institute-for-addiction-medicine)
+
+Marco Venniro, Associate Director https://kahlertinstitute.umaryland.edu/
+
 - [Division Of Addiction Research And Treatment](/recovery/organizations/higher-education/united-states/maryland/university-of-maryland/division-of-addiction-research-and-treatment)
+
+Jerome Jaffe, once Nixon's Drug Czar who expanded the use of methadone, detoxification programs, and therapeutic communities.
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Division Of Addiction Research And Treatment](/recovery/organizations/higher-education/united-states/maryland/university-of-maryland/division-of-addiction-research-and-treatment)
 
+Jerome Jaffe, once Nixon's Drug Czar who expanded the use of methadone, detoxification programs, and therapeutic communities.
+
 <a id="letter-k"></a>
 ### K
 
 - [Kahlert Institute For Addiction Medicine](/recovery/organizations/higher-education/united-states/maryland/university-of-maryland/kahlert-institute-for-addiction-medicine)
+
+Marco Venniro, Associate Director https://kahlertinstitute.umaryland.edu/

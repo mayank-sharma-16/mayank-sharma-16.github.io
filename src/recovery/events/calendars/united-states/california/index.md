@@ -5,8 +5,16 @@ title: California
 ## Recently Modified
 
 - [Events Orange County Intergroup Association](/recovery/events/calendars/united-states/california/events-orange-county-intergroup-association)
+
+https://www.oc-aa.org/events/
+
 - [Southern California Region Of Narcotics Anonymous](/recovery/events/calendars/united-states/california/southern-california-region-of-narcotics-anonymous)
+
+https://todayna.org/todaynawp/activities/
+
 - [Orange County Area Activities](/recovery/events/calendars/united-states/california/orange-county-area-activities)
+
+https://orangecountyna.org/ocwp/activities/
 
 ## Pages
 
@@ -85,12 +93,18 @@ html {
 
 - [Events Orange County Intergroup Association](/recovery/events/calendars/united-states/california/events-orange-county-intergroup-association)
 
+https://www.oc-aa.org/events/
+
 <a id="letter-o"></a>
 ### O
 
 - [Orange County Area Activities](/recovery/events/calendars/united-states/california/orange-county-area-activities)
 
+https://orangecountyna.org/ocwp/activities/
+
 <a id="letter-s"></a>
 ### S
 
 - [Southern California Region Of Narcotics Anonymous](/recovery/events/calendars/united-states/california/southern-california-region-of-narcotics-anonymous)
+
+https://todayna.org/todaynawp/activities/

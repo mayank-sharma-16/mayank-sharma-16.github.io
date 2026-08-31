@@ -5,7 +5,12 @@ title: United Kingdom
 ## Recently Modified
 
 - [Portraits Of Recovery](/recovery/organizations/activists-advocacy-and-aid/united-kingdom/portraits-of-recovery)
+
+https://portraitsofrecovery.org.uk/
+
 - [Addiction Recovery Arts Network](/recovery/organizations/activists-advocacy-and-aid/united-kingdom/addiction-recovery-arts-network)
+
+https://recovery-arts.org/about-ara-network/
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Addiction Recovery Arts Network](/recovery/organizations/activists-advocacy-and-aid/united-kingdom/addiction-recovery-arts-network)
 
+https://recovery-arts.org/about-ara-network/
+
 <a id="letter-p"></a>
 ### P
 
 - [Portraits Of Recovery](/recovery/organizations/activists-advocacy-and-aid/united-kingdom/portraits-of-recovery)
+
+https://portraitsofrecovery.org.uk/

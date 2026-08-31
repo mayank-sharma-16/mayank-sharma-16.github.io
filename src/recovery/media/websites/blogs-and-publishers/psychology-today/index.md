@@ -5,7 +5,12 @@ title: Psychology Today
 ## Recently Modified
 
 - [What Really Makes You A Happy Person](/recovery/media/websites/blogs-and-publishers/psychology-today/what-really-makes-you-a-happy-person)
+
+"According to a popular idea about the science of happiness, 10% of the variance in happiness in a given population is due to life circumstances (age, nationality, sex, race/ethnicity, and income); 50% is due to genetics; and 40% remains under our direct control. These numbers have been repeated in countless journal articles and books, and discussed as fact in college courses around the world."…
+
 - [Happy Pie](/recovery/media/websites/blogs-and-publishers/psychology-today/happy-pie)
+
+"Note that the 40 percent allocation to intentional activity is a value obtained by the method of subtraction. If we assume that 50 percent of all variation in happiness is genetic, that 10 percent is circumstantial, that intentional action is the only remaining source of variation, and that the estimates are free of error, then the remaining 40 percent must be attributable to intentional action.…
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Happy Pie](/recovery/media/websites/blogs-and-publishers/psychology-today/happy-pie)
 
+"Note that the 40 percent allocation to intentional activity is a value obtained by the method of subtraction. If we assume that 50 percent of all variation in happiness is genetic, that 10 percent is circumstantial, that intentional action is the only remaining source of variation, and that the estimates are free of error, then the remaining 40 percent must be attributable to intentional action.…
+
 <a id="letter-w"></a>
 ### W
 
 - [What Really Makes You A Happy Person](/recovery/media/websites/blogs-and-publishers/psychology-today/what-really-makes-you-a-happy-person)
+
+"According to a popular idea about the science of happiness, 10% of the variance in happiness in a given population is due to life circumstances (age, nationality, sex, race/ethnicity, and income); 50% is due to genetics; and 40% remains under our direct control. These numbers have been repeated in countless journal articles and books, and discussed as fact in college courses around the world."…

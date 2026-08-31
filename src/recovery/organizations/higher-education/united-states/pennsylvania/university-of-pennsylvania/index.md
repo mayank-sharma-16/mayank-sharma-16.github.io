@@ -5,8 +5,16 @@ title: University Of Pennsylvania
 ## Recently Modified
 
 - [Center For Addiction Medicine And Policy](/recovery/organizations/higher-education/united-states/pennsylvania/university-of-pennsylvania/center-for-addiction-medicine-and-policy)
+
+Judy Chertok, Associate Professor and Director of Addiction Medicine https://penncamp.org/
+
 - [Center For Studies Of Addiction](/recovery/organizations/higher-education/united-states/pennsylvania/university-of-pennsylvania/center-for-studies-of-addiction)
+
+https://www.med.upenn.edu/csa/addiction_research.html
+
 - [Super Program](/recovery/organizations/higher-education/united-states/pennsylvania/university-of-pennsylvania/super-program)
+
+https://wellness.upenn.edu/wellbeing-initiatives/super-program-substance-use-prevention-education-and-recovery
 
 ## Pages
 
@@ -84,9 +92,16 @@ html {
 ### C
 
 - [Center For Addiction Medicine And Policy](/recovery/organizations/higher-education/united-states/pennsylvania/university-of-pennsylvania/center-for-addiction-medicine-and-policy)
+
+Judy Chertok, Associate Professor and Director of Addiction Medicine https://penncamp.org/
+
 - [Center For Studies Of Addiction](/recovery/organizations/higher-education/united-states/pennsylvania/university-of-pennsylvania/center-for-studies-of-addiction)
+
+https://www.med.upenn.edu/csa/addiction_research.html
 
 <a id="letter-s"></a>
 ### S
 
 - [Super Program](/recovery/organizations/higher-education/united-states/pennsylvania/university-of-pennsylvania/super-program)
+
+https://wellness.upenn.edu/wellbeing-initiatives/super-program-substance-use-prevention-education-and-recovery

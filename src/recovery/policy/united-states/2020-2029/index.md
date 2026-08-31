@@ -5,11 +5,17 @@ title: 2020 2029
 ## Recently Modified
 
 - [Mainstreaming Addiction Treatment Act 2023](/recovery/policy/united-states/2020-2029/mainstreaming-addiction-treatment-act-2023)
+
 - [Concepcion V United States 2022](/recovery/policy/united-states/2020-2029/concepcion-v-united-states-2022)
+
 - [Borden V United States 2021](/recovery/policy/united-states/2020-2029/borden-v-united-states-2021)
+
 - [Harrington V Purdue Pharma Lp 2024](/recovery/policy/united-states/2020-2029/harrington-v-purdue-pharma-lp-2024)
+
 - [Ruan V United States 2022](/recovery/policy/united-states/2020-2029/ruan-v-united-states-2022)
+
 - [United States V Hemani 2026](/recovery/policy/united-states/2020-2029/united-states-v-hemani-2026)
+
 - [Affordable And Safe Prescription Drug Im](/recovery/policy/united-states/2020-2029/affordable-and-safe-prescription-drug-im)
 
 ## Pages

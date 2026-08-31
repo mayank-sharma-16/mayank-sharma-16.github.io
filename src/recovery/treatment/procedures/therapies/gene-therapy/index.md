@@ -6,6 +6,8 @@ title: Gene Therapy
 
 - [Aav2 Hgdnf Vta Infusion](/recovery/treatment/procedures/therapies/gene-therapy/aav2-hgdnf-vta-infusion)
 
+https://www.insideprecisionmedicine.com/news-and-features/gene-therapy-shows-potential-as-treatment-for-serious-alcohol-addiction/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [Aav2 Hgdnf Vta Infusion](/recovery/treatment/procedures/therapies/gene-therapy/aav2-hgdnf-vta-infusion)
+
+https://www.insideprecisionmedicine.com/news-and-features/gene-therapy-shows-potential-as-treatment-for-serious-alcohol-addiction/

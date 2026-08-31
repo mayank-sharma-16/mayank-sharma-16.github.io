@@ -28,24 +28,47 @@ title: United States
 ## Recently Modified
 
 - [Mainstreaming Addiction Treatment Act 2023](/recovery/policy/united-states/2020-2029/mainstreaming-addiction-treatment-act-2023)
+
 - [Hughes Act 1970](/recovery/policy/united-states/1970-1979/hughes-act-1970)
+
+It created the National Institute on Alcohol Abuse and Alcoholism (NIAAA).
+
 - [Section 319 Of The Public Health Service Act](/recovery/policy/united-states/section-319-of-the-public-health-service-act)
+
+In 2017, under Section 319 of the Public Health Service Act, President Trump declared a public health emergency over the opioid crisis.
+
 - [Identification And Treatment Of Drug And](/recovery/policy/united-states/1970-1979/identification-and-treatment-of-drug-and)
+
 - [Justice For All Act Of 2004](/recovery/policy/united-states/2000-2009/justice-for-all-act-of-2004)
+
 - [Violence Against Women Act 1994](/recovery/policy/united-states/1990-1999/violence-against-women-act-1994)
+
 - [Victims Of Crime Act 1984](/recovery/policy/united-states/1980-1989/victims-of-crime-act-1984)
+
 - [Victims Of Violent Crimes Act 1965](/recovery/policy/united-states/california/1960-1969/victims-of-violent-crimes-act-1965)
+
 - [Veterans Health Administration Departmen](/recovery/policy/united-states/1970-1979/veterans-health-administration-departmen)
+
 - [Controlled Substances Act Csa 1970](/recovery/policy/united-states/1970-1979/controlled-substances-act-csa-1970)
+
 - [Family Smoking Prevention And Tobacco Control Act 2009](/recovery/policy/united-states/2000-2009/family-smoking-prevention-and-tobacco-control-act-2009)
+
 - [Master Settlement Agreement 1998](/recovery/policy/united-states/1990-1999/master-settlement-agreement-1998)
+
 - [Purity Extract And Tonic Co V Lynch 1912](/recovery/policy/united-states/1910-1919/purity-extract-and-tonic-co-v-lynch-1912)
+
 - [American Express Co V Iowa 1905](/recovery/policy/united-states/1900-1909/american-express-co-v-iowa-1905)
+
 - [Pabst Brewing Co V Crenshaw 1905](/recovery/policy/united-states/1900-1909/pabst-brewing-co-v-crenshaw-1905)
+
 - [Leisy V Hardin 1890](/recovery/policy/united-states/1890-1899/leisy-v-hardin-1890)
+
 - [Vance V Wa Vandercook 1898](/recovery/policy/united-states/1890-1899/vance-v-wa-vandercook-1898)
+
 - [In Re Rahrer 1891](/recovery/policy/united-states/1890-1899/in-re-rahrer-1891)
+
 - [Crowley V Christensen 1890](/recovery/policy/united-states/1890-1899/crowley-v-christensen-1890)
+
 - [Bowman V Chicago And Northwestern Railway Co 1886](/recovery/policy/united-states/1880-1889/bowman-v-chicago-and-northwestern-railway-co-1886)
 
 ## Pages
@@ -124,3 +147,5 @@ html {
 ### S
 
 - [Section 319 Of The Public Health Service Act](/recovery/policy/united-states/section-319-of-the-public-health-service-act)
+
+In 2017, under Section 319 of the Public Health Service Act, President Trump declared a public health emergency over the opioid crisis.

@@ -5,9 +5,13 @@ title: Typical
 ## Recently Modified
 
 - [Thiothixene](/recovery/treatment/medications/antipsychotics/typical/thiothixene)
+
 - [Perphenazine](/recovery/treatment/medications/antipsychotics/typical/perphenazine)
+
 - [Fluphenazine](/recovery/treatment/medications/antipsychotics/typical/fluphenazine)
+
 - [Chlorpromazine](/recovery/treatment/medications/antipsychotics/typical/chlorpromazine)
+
 - [Haloperidol](/recovery/treatment/medications/antipsychotics/typical/haloperidol)
 
 ## Pages

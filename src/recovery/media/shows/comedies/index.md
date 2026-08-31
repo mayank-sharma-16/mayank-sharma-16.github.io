@@ -9,10 +9,15 @@ title: Comedies
 ## Recently Modified
 
 - [Futurama](/recovery/media/shows/comedies/animated/futurama)
+
 - [Archer](/recovery/media/shows/comedies/animated/archer)
+
 - [Seinfeld](/recovery/media/shows/comedies/seinfeld)
+
 - [Its Always Sunny In Philadelphia](/recovery/media/shows/comedies/its-always-sunny-in-philadelphia)
+
 - [Arrested Development](/recovery/media/shows/comedies/arrested-development)
+
 - [Loudermilk](/recovery/media/shows/comedies/loudermilk)
 
 ## Pages

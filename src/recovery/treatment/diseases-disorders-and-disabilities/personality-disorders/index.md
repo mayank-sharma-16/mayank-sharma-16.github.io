@@ -5,13 +5,21 @@ title: Personality Disorders
 ## Recently Modified
 
 - [Obsessive Compulsive Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/obsessive-compulsive-personality-disorder)
+
 - [Dependent Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/dependent-personality-disorder)
+
 - [Avoidant Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/avoidant-personality-disorder)
+
 - [Narcissistic Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/narcissistic-personality-disorder)
+
 - [Histrionic Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/histrionic-personality-disorder)
+
 - [Borderline Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/borderline-personality-disorder)
+
 - [Schizotypal Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/schizotypal-personality-disorder)
+
 - [Schizoid Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/schizoid-personality-disorder)
+
 - [Paranoid Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/paranoid-personality-disorder)
 
 ## Pages
@@ -125,4 +133,5 @@ html {
 ### S
 
 - [Schizoid Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/schizoid-personality-disorder)
+
 - [Schizotypal Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/personality-disorders/schizotypal-personality-disorder)

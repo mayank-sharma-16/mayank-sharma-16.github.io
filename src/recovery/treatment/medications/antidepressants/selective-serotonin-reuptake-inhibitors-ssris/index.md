@@ -5,10 +5,15 @@ title: Selective Serotonin Reuptake Inhibitors Ssris
 ## Recently Modified
 
 - [Fluvoxamine](/recovery/treatment/medications/antidepressants/selective-serotonin-reuptake-inhibitors-ssris/fluvoxamine)
+
 - [Paroxetine](/recovery/treatment/medications/antidepressants/selective-serotonin-reuptake-inhibitors-ssris/paroxetine)
+
 - [Citalopram](/recovery/treatment/medications/antidepressants/selective-serotonin-reuptake-inhibitors-ssris/citalopram)
+
 - [Escitalopram](/recovery/treatment/medications/antidepressants/selective-serotonin-reuptake-inhibitors-ssris/escitalopram)
+
 - [Fluoxetine](/recovery/treatment/medications/antidepressants/selective-serotonin-reuptake-inhibitors-ssris/fluoxetine)
+
 - [Sertraline](/recovery/treatment/medications/antidepressants/selective-serotonin-reuptake-inhibitors-ssris/sertraline)
 
 ## Pages
@@ -97,6 +102,7 @@ html {
 ### F
 
 - [Fluoxetine](/recovery/treatment/medications/antidepressants/selective-serotonin-reuptake-inhibitors-ssris/fluoxetine)
+
 - [Fluvoxamine](/recovery/treatment/medications/antidepressants/selective-serotonin-reuptake-inhibitors-ssris/fluvoxamine)
 
 <a id="letter-p"></a>

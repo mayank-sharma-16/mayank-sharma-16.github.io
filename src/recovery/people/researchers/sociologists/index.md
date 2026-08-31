@@ -5,10 +5,16 @@ title: Sociologists
 ## Recently Modified
 
 - [James Samuel Coleman](/recovery/people/researchers/sociologists/james-samuel-coleman)
+
 - [Werner Sombart](/recovery/people/researchers/sociologists/werner-sombart)
+
 - [Alfred Vierkandt](/recovery/people/researchers/sociologists/alfred-vierkandt)
+
 - [Peter Conrad](/recovery/people/researchers/sociologists/peter-conrad)
+
 - [Philip Rieff](/recovery/people/researchers/sociologists/philip-rieff)
+
+https://compass.onlinelibrary.wiley.com/doi/10.1111/rec3.12074
 
 ## Pages
 
@@ -96,7 +102,10 @@ html {
 ### P
 
 - [Peter Conrad](/recovery/people/researchers/sociologists/peter-conrad)
+
 - [Philip Rieff](/recovery/people/researchers/sociologists/philip-rieff)
+
+https://compass.onlinelibrary.wiley.com/doi/10.1111/rec3.12074
 
 <a id="letter-w"></a>
 ### W

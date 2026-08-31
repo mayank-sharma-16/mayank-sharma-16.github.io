@@ -6,6 +6,8 @@ title: Vintage And Retro
 
 - [Beyond Sober](/recovery/marketplace/apparel-and-accessories/vintage-and-retro/beyond-sober)
 
+https://www.beyond-sober.com/clothing
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### B
 
 - [Beyond Sober](/recovery/marketplace/apparel-and-accessories/vintage-and-retro/beyond-sober)
+
+https://www.beyond-sober.com/clothing

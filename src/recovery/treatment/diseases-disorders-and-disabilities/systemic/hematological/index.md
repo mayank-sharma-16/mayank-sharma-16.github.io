@@ -5,6 +5,7 @@ title: Hematological
 ## Recently Modified
 
 - [Macrocytic Anemia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/hematological/macrocytic-anemia)
+
 - [Thrombocytopenia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/hematological/thrombocytopenia)
 
 ## Pages

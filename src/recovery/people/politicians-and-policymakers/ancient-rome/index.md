@@ -6,6 +6,8 @@ title: Ancient Rome
 
 - [Marcus Antonius Mark Antony](/recovery/people/politicians-and-policymakers/ancient-rome/marcus-antonius-mark-antony)
 
+The guy wrote a whole book defending his drinking habits after he was called out for throwing up repeatedly during official events. Come on.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### M
 
 - [Marcus Antonius Mark Antony](/recovery/people/politicians-and-policymakers/ancient-rome/marcus-antonius-mark-antony)
+
+The guy wrote a whole book defending his drinking habits after he was called out for throwing up repeatedly during official events. Come on.

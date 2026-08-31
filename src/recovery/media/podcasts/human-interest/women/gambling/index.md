@@ -6,6 +6,8 @@ title: Gambling
 
 - [The Broke Girl Society Podcast](/recovery/media/podcasts/human-interest/women/gambling/the-broke-girl-society-podcast)
 
+https://thebrokegirlsociety.com/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### T
 
 - [The Broke Girl Society Podcast](/recovery/media/podcasts/human-interest/women/gambling/the-broke-girl-society-podcast)
+
+https://thebrokegirlsociety.com/

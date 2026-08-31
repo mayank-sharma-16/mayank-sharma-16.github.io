@@ -9,8 +9,13 @@ title: Prevention
 ## Recently Modified
 
 - [Drug And Alcohol Abuse Prevention Program](/recovery/policy/prevention/education/drug-and-alcohol-abuse-prevention-program)
+
 - [Dare](/recovery/policy/prevention/education/dare)
+
+So, DARE doesn't really work. Sorry. It turns out telling kids not to do something doesn't actually make them not do it. Some studies have found that DARE and its updated model Keepin' it REAL are actually associated with an increase in drug use. This was more pronounced in suburban youth too, suggesting that the program actually provided a normalized introduction to drugs as a cultural element…
+
 - [Drug Free Schools And Communities Act](/recovery/policy/prevention/education/drug-free-schools-and-communities-act)
+
 - [School Education](/recovery/policy/prevention/school-education)
 
 ## Pages

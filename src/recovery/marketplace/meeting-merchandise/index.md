@@ -9,10 +9,25 @@ title: Meeting Merchandise
 ## Recently Modified
 
 - [Serenity Shop](/recovery/marketplace/meeting-merchandise/united-states/oregon/serenity-shop)
+
+https://www.serenityshop.com/
+
 - [Aa Medallion Store](/recovery/marketplace/meeting-merchandise/aa-medallion-store)
+
+https://aamedallionstore.com/
+
 - [The Token Shop](/recovery/marketplace/meeting-merchandise/the-token-shop)
+
+https://www.thetokenshop.com/
+
 - [Recovery Shop](/recovery/marketplace/meeting-merchandise/recovery-shop)
+
+https://www.recoveryshop.com/
+
 - [Smart Recovery Shop](/recovery/marketplace/meeting-merchandise/smart-recovery-shop)
+
+https://shop.smartrecovery.org/
+
 - [Your Serenity Store](/recovery/marketplace/meeting-merchandise/united-states/your-serenity-store)
 
 ## Pages
@@ -92,17 +107,25 @@ html {
 
 - [Aa Medallion Store](/recovery/marketplace/meeting-merchandise/aa-medallion-store)
 
+https://aamedallionstore.com/
+
 <a id="letter-r"></a>
 ### R
 
 - [Recovery Shop](/recovery/marketplace/meeting-merchandise/recovery-shop)
+
+https://www.recoveryshop.com/
 
 <a id="letter-s"></a>
 ### S
 
 - [Smart Recovery Shop](/recovery/marketplace/meeting-merchandise/smart-recovery-shop)
 
+https://shop.smartrecovery.org/
+
 <a id="letter-t"></a>
 ### T
 
 - [The Token Shop](/recovery/marketplace/meeting-merchandise/the-token-shop)
+
+https://www.thetokenshop.com/

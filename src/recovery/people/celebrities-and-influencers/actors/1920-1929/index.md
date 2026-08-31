@@ -5,7 +5,9 @@ title: 1920 1929
 ## Recently Modified
 
 - [Tony Curtis](/recovery/people/celebrities-and-influencers/actors/1920-1929/tony-curtis)
+
 - [Marilyn Monroe](/recovery/people/celebrities-and-influencers/actors/1920-1929/marilyn-monroe)
+
 - [Judy Garland](/recovery/people/celebrities-and-influencers/actors/1920-1929/judy-garland)
 
 ## Pages

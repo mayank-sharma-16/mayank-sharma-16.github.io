@@ -6,6 +6,8 @@ title: Social Psychology
 
 - [Leon Festinger](/recovery/people/researchers/psychiatrists-and-psychologists/social-psychology/leon-festinger)
 
+Leon Festinger was a social psychologist most known for articulating cognitive dissonance theory and social comparison theory in modern clinical psychology.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### L
 
 - [Leon Festinger](/recovery/people/researchers/psychiatrists-and-psychologists/social-psychology/leon-festinger)
+
+Leon Festinger was a social psychologist most known for articulating cognitive dissonance theory and social comparison theory in modern clinical psychology.

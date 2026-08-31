@@ -5,8 +5,13 @@ title: Spain
 ## Recently Modified
 
 - [Salt Asylum](/recovery/organizations/providers/hospitals/spain/salt-asylum)
+
+Salt Asylu in Girona, Spain
+
 - [Nueva Belen Aslyum](/recovery/organizations/providers/hospitals/spain/nueva-belen-aslyum)
+
 - [Sant Boi De Llobregat Asylum](/recovery/organizations/providers/hospitals/spain/sant-boi-de-llobregat-asylum)
+
 - [Santa Isabel National Asylum](/recovery/organizations/providers/hospitals/spain/santa-isabel-national-asylum)
 
 ## Pages
@@ -90,5 +95,9 @@ html {
 ### S
 
 - [Salt Asylum](/recovery/organizations/providers/hospitals/spain/salt-asylum)
+
+Salt Asylu in Girona, Spain
+
 - [Sant Boi De Llobregat Asylum](/recovery/organizations/providers/hospitals/spain/sant-boi-de-llobregat-asylum)
+
 - [Santa Isabel National Asylum](/recovery/organizations/providers/hospitals/spain/santa-isabel-national-asylum)

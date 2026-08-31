@@ -5,10 +5,17 @@ title: Harm Reduction
 ## Recently Modified
 
 - [Syringe Services Programs](/recovery/policy/harm-reduction/syringe-services-programs)
+
+title: Syringe Services Programs (SSPs) slug: recovery/policy/harm-reduction/syringe-services-programs
+
 - [Good Samaritan](/recovery/policy/harm-reduction/good-samaritan)
+
 - [Supervised Consumption](/recovery/policy/harm-reduction/supervised-consumption)
+
 - [Safe Supply](/recovery/policy/harm-reduction/safe-supply)
+
 - [Naloxone](/recovery/policy/harm-reduction/naloxone)
+
 - [Needle Exchange](/recovery/policy/harm-reduction/needle-exchange)
 
 ## Pages
@@ -92,11 +99,16 @@ html {
 ### N
 
 - [Naloxone](/recovery/policy/harm-reduction/naloxone)
+
 - [Needle Exchange](/recovery/policy/harm-reduction/needle-exchange)
 
 <a id="letter-s"></a>
 ### S
 
 - [Safe Supply](/recovery/policy/harm-reduction/safe-supply)
+
 - [Supervised Consumption](/recovery/policy/harm-reduction/supervised-consumption)
+
 - [Syringe Services Programs](/recovery/policy/harm-reduction/syringe-services-programs)
+
+title: Syringe Services Programs (SSPs) slug: recovery/policy/harm-reduction/syringe-services-programs

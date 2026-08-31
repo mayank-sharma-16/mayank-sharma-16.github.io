@@ -10,8 +10,13 @@ title: Bookstores
 ## Recently Modified
 
 - [My 12 Step Store](/recovery/marketplace/bookstores/my-12-step-store)
+
 - [The Latest Thing](/recovery/marketplace/bookstores/california/the-latest-thing)
+
 - [Lifering Bookstore](/recovery/marketplace/bookstores/lifering-bookstore)
+
+https://lifering.org/bookstore/
+
 - [Choices Books And Gifts](/recovery/marketplace/bookstores/choices-books-and-gifts)
 
 ## Pages
@@ -95,6 +100,8 @@ html {
 ### L
 
 - [Lifering Bookstore](/recovery/marketplace/bookstores/lifering-bookstore)
+
+https://lifering.org/bookstore/
 
 <a id="letter-m"></a>
 ### M

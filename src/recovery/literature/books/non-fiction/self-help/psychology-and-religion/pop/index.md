@@ -5,7 +5,10 @@ title: Pop
 ## Recently Modified
 
 - [Codependent No More](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/pop/codependent-no-more)
+
 - [This Naked Mind](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/pop/this-naked-mind)
+
+https://thisnakedmind.com/
 
 ## Pages
 
@@ -88,3 +91,5 @@ html {
 ### T
 
 - [This Naked Mind](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/pop/this-naked-mind)
+
+https://thisnakedmind.com/

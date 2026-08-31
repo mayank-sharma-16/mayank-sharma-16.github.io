@@ -5,8 +5,16 @@ title: New York University
 ## Recently Modified
 
 - [Collegiate Recovery Program Crp](/recovery/organizations/higher-education/united-states/new-york/new-york-university/collegiate-recovery-program-crp)
+
+https://www.nyu.edu/students/wellbeing/wellbeing-initiatives/substance-use/recovery/collegiate-recovery-program.html
+
 - [Nyu Grossman School Of Medicine](/recovery/organizations/higher-education/united-states/new-york/new-york-university/nyu-grossman-school-of-medicine)
+
+https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/comparative-effectiveness-decision-science/section-tobacco-alcohol-drug-use/education/substance-use-research-education-training-program
+
 - [Nyu Langone Health](/recovery/organizations/higher-education/united-states/new-york/new-york-university/nyu-langone-health)
+
+https://med.nyu.edu/departments-institutes/psychiatry/research/substance-use-disorder
 
 ## Pages
 
@@ -85,8 +93,15 @@ html {
 
 - [Collegiate Recovery Program Crp](/recovery/organizations/higher-education/united-states/new-york/new-york-university/collegiate-recovery-program-crp)
 
+https://www.nyu.edu/students/wellbeing/wellbeing-initiatives/substance-use/recovery/collegiate-recovery-program.html
+
 <a id="letter-n"></a>
 ### N
 
 - [Nyu Grossman School Of Medicine](/recovery/organizations/higher-education/united-states/new-york/new-york-university/nyu-grossman-school-of-medicine)
+
+https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/comparative-effectiveness-decision-science/section-tobacco-alcohol-drug-use/education/substance-use-research-education-training-program
+
 - [Nyu Langone Health](/recovery/organizations/higher-education/united-states/new-york/new-york-university/nyu-langone-health)
+
+https://med.nyu.edu/departments-institutes/psychiatry/research/substance-use-disorder

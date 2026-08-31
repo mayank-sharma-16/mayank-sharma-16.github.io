@@ -6,6 +6,8 @@ title: Princeton University Press
 
 - [Should We Embrace Addiction](/recovery/media/websites/blogs-and-publishers/princeton-university-press/should-we-embrace-addiction)
 
+You might have guessed that the title is a bit sensationalist; "Should we embrace addicts?" sounds less controversial, doesn't it? That's what Elizabeth F.S. Roberts actually suggests here though, and it's a reasonable challenge to the hyperindividualism that's become standard in America. As she says: "In the United States, a predominantly Protestant nation, which preaches individuality, we…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### S
 
 - [Should We Embrace Addiction](/recovery/media/websites/blogs-and-publishers/princeton-university-press/should-we-embrace-addiction)
+
+You might have guessed that the title is a bit sensationalist; "Should we embrace addicts?" sounds less controversial, doesn't it? That's what Elizabeth F.S. Roberts actually suggests here though, and it's a reasonable challenge to the hyperindividualism that's become standard in America. As she says: "In the United States, a predominantly Protestant nation, which preaches individuality, we…

@@ -11,16 +11,27 @@ title: Cardiovascular
 ## Recently Modified
 
 - [Suppurative Thrombophlebitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/infections/suppurative-thrombophlebitis)
+
 - [Endocarditis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/infections/endocarditis)
+
 - [Hypertension](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/hypertension)
+
 - [Aortic Dissection](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/acute-myocardial-infarction/aortic-dissection)
+
 - [Accelerated Atherosclerosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/acute-myocardial-infarction/accelerated-atherosclerosis)
+
 - [Coronary Vasospasm](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/acute-myocardial-infarction/coronary-vasospasm)
+
 - [Qt Prolongation](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/arrhythmias/qt-prolongation)
+
 - [Ventricular Tachycardia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/arrhythmias/ventricular-tachycardia)
+
 - [Acute Atrial Fibrillation](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/arrhythmias/acute-atrial-fibrillation)
+
 - [Myocardial Fibrosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/myocardial-fibrosis)
+
 - [Myocarditis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/myocarditis)
+
 - [Cardiomyopathy](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/cardiomyopathy)
 
 ## Pages
@@ -109,4 +120,5 @@ html {
 ### M
 
 - [Myocardial Fibrosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/myocardial-fibrosis)
+
 - [Myocarditis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/myocarditis)

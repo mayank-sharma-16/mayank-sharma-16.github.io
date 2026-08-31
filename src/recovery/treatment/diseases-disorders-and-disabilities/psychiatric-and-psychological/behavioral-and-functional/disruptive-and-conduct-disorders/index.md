@@ -5,10 +5,15 @@ title: Disruptive And Conduct Disorders
 ## Recently Modified
 
 - [Kleptomania](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/disruptive-and-conduct-disorders/kleptomania)
+
 - [Pyromania](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/disruptive-and-conduct-disorders/pyromania)
+
 - [Antisocial Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/disruptive-and-conduct-disorders/antisocial-personality-disorder)
+
 - [Intermittent Explosive Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/disruptive-and-conduct-disorders/intermittent-explosive-disorder)
+
 - [Conduct Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/disruptive-and-conduct-disorders/conduct-disorder)
+
 - [Oppositional Defiant Disorder Odd](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/disruptive-and-conduct-disorders/oppositional-defiant-disorder-odd)
 
 ## Pages

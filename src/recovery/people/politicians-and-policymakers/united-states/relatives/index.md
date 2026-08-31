@@ -5,9 +5,17 @@ title: Relatives
 ## Recently Modified
 
 - [Fred Trump Jr](/recovery/people/politicians-and-policymakers/united-states/relatives/fred-trump-jr)
+
+President Trump cites the unfortunate early death of his brother Fred in his own claim to abstinence from drinking and drugs.
+
 - [Hunter Biden](/recovery/people/politicians-and-policymakers/united-states/relatives/hunter-biden)
+
+Possibly one of the most famous addicts alive right now.
+
 - [Betty Ford](/recovery/people/politicians-and-policymakers/united-states/relatives/betty-ford)
+
 - [John Payne Todd](/recovery/people/politicians-and-policymakers/united-states/relatives/john-payne-todd)
+
 - [Charles Adams](/recovery/people/politicians-and-policymakers/united-states/relatives/charles-adams)
 
 ## Pages
@@ -97,10 +105,14 @@ html {
 
 - [Fred Trump Jr](/recovery/people/politicians-and-policymakers/united-states/relatives/fred-trump-jr)
 
+President Trump cites the unfortunate early death of his brother Fred in his own claim to abstinence from drinking and drugs.
+
 <a id="letter-h"></a>
 ### H
 
 - [Hunter Biden](/recovery/people/politicians-and-policymakers/united-states/relatives/hunter-biden)
+
+Possibly one of the most famous addicts alive right now.
 
 <a id="letter-j"></a>
 ### J

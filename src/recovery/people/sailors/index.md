@@ -6,6 +6,8 @@ title: Sailors
 
 - [Rodrigo De Jerez](/recovery/people/sailors/rodrigo-de-jerez)
 
+Wikipedia said it best: "He is credited with being the first European smoker." Jerez started smoking tobacco after a Taino settlement in Cuba introduced the practice to him. He attempted to introduce it in Europe, but he was accused of sinful consortations with the Devil when the sight of exhaling smoke frightened his home town. He was arrested and detained for seven years. By the time he was…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### R
 
 - [Rodrigo De Jerez](/recovery/people/sailors/rodrigo-de-jerez)
+
+Wikipedia said it best: "He is credited with being the first European smoker." Jerez started smoking tobacco after a Taino settlement in Cuba introduced the practice to him. He attempted to introduce it in Europe, but he was accused of sinful consortations with the Devil when the sight of exhaling smoke frightened his home town. He was arrested and detained for seven years. By the time he was…

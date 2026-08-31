@@ -5,7 +5,11 @@ title: Poetry
 ## Recently Modified
 
 - [Kubla Khan Or A Vision In A Dream By Sam](/recovery/literature/poetry/kubla-khan-or-a-vision-in-a-dream-by-sam)
+
+It's literally a drug-induced imagining of a place he never visited.
+
 - [Aksha Sukta](/recovery/literature/poetry/aksha-sukta)
+
 - [The Dream Songs](/recovery/literature/poetry/the-dream-songs)
 
 ## Pages
@@ -89,6 +93,8 @@ html {
 ### K
 
 - [Kubla Khan Or A Vision In A Dream By Sam](/recovery/literature/poetry/kubla-khan-or-a-vision-in-a-dream-by-sam)
+
+It's literally a drug-induced imagining of a place he never visited.
 
 <a id="letter-t"></a>
 ### T

@@ -5,9 +5,15 @@ title: Science Fiction
 ## Recently Modified
 
 - [Brave New World](/recovery/literature/books/fiction/science-fiction/brave-new-world)
+
+I've often thought of Aldous Huxley as the bastard child of H.P. Lovecraft and Carl Jung, conceived in a pile of experimental psychedelics. You can find a lot of Huxley's anxieties about a changing world reflected in Brave New World, from the commercial commodification of art and culture as a form of mental dissociation through consumption to the concerns about European genetic pools…
+
 - [The Shining Girls By Lauren Beukes 2013](/recovery/literature/books/fiction/science-fiction/the-shining-girls-by-lauren-beukes-2013)
+
 - [Vurt By Jeff Noon 1993](/recovery/literature/books/fiction/science-fiction/vurt-by-jeff-noon-1993)
+
 - [A Scanner Darkly](/recovery/literature/books/fiction/science-fiction/a-scanner-darkly)
+
 - [Naked Lunch](/recovery/literature/books/fiction/science-fiction/naked-lunch)
 
 ## Pages
@@ -91,6 +97,8 @@ html {
 ### B
 
 - [Brave New World](/recovery/literature/books/fiction/science-fiction/brave-new-world)
+
+I've often thought of Aldous Huxley as the bastard child of H.P. Lovecraft and Carl Jung, conceived in a pile of experimental psychedelics. You can find a lot of Huxley's anxieties about a changing world reflected in Brave New World, from the commercial commodification of art and culture as a form of mental dissociation through consumption to the concerns about European genetic pools…
 
 <a id="letter-n"></a>
 ### N

@@ -6,6 +6,8 @@ title: Law
 
 - [Douglas N Husak](/recovery/people/researchers/philosophers/law/douglas-n-husak)
 
+Douglas Husak is a Distinguished Professor of Philosophy at Rutgers University. Drugs and Rights (1992) Legalize This! The Case for Decriminalizing Drugs (2002) The Legalization of Drugs (For and Against) (2005)
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### D
 
 - [Douglas N Husak](/recovery/people/researchers/philosophers/law/douglas-n-husak)
+
+Douglas Husak is a Distinguished Professor of Philosophy at Rutgers University. Drugs and Rights (1992) Legalize This! The Case for Decriminalizing Drugs (2002) The Legalization of Drugs (For and Against) (2005)

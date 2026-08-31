@@ -5,15 +5,25 @@ title: Respiratory
 ## Recently Modified
 
 - [Pneumonia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/pneumonia)
+
 - [Atelectasis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/atelectasis)
+
 - [Central Apnea](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/central-apnea)
+
 - [Pulmonary Edema](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/pulmonary-edema)
+
 - [Pulmonary Emboli](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/pulmonary-emboli)
+
 - [Refractory Asthma](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/refractory-asthma)
+
 - [Acute Eosinophilic Hypersensitivity Pneumonitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/acute-eosinophilic-hypersensitivity-pneumonitis)
+
 - [Pulmonary Fibrosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/pulmonary-fibrosis)
+
 - [Chronic Obstructive Pulmonary Disease Copd](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/chronic-obstructive-pulmonary-disease-copd)
+
 - [Bronchitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/bronchitis)
+
 - [Emphysema](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/emphysema)
 
 ## Pages
@@ -92,6 +102,7 @@ html {
 ### A
 
 - [Acute Eosinophilic Hypersensitivity Pneumonitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/acute-eosinophilic-hypersensitivity-pneumonitis)
+
 - [Atelectasis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/atelectasis)
 
 <a id="letter-b"></a>
@@ -103,6 +114,7 @@ html {
 ### C
 
 - [Central Apnea](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/central-apnea)
+
 - [Chronic Obstructive Pulmonary Disease Copd](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/chronic-obstructive-pulmonary-disease-copd)
 
 <a id="letter-e"></a>
@@ -114,8 +126,11 @@ html {
 ### P
 
 - [Pneumonia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/pneumonia)
+
 - [Pulmonary Edema](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/pulmonary-edema)
+
 - [Pulmonary Emboli](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/pulmonary-emboli)
+
 - [Pulmonary Fibrosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/respiratory/pulmonary-fibrosis)
 
 <a id="letter-r"></a>

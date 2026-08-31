@@ -5,11 +5,28 @@ title: Queer
 ## Recently Modified
 
 - [Queer Spirit Podcast](/recovery/media/podcasts/human-interest/queer/queer-spirit-podcast)
+
+https://queerhealingjourneys.com/podcast/
+
 - [The Sober Gay](/recovery/media/podcasts/human-interest/queer/the-sober-gay)
+
+https://podcasts.apple.com/us/podcast/the-sober-gay/id1513855433
+
 - [Queer Sober Social Podcast](/recovery/media/podcasts/human-interest/queer/queer-sober-social-podcast)
+
+https://open.spotify.com/show/7aCRQfiksJ9WFZdx8SXhD8
+
 - [No Matter What Club](/recovery/media/podcasts/human-interest/queer/no-matter-what-club)
+
+https://podcasts.apple.com/us/podcast/no-matter-what-club/id1796211058
+
 - [Gay A The Queer Sober Hero Show](/recovery/media/podcasts/human-interest/queer/gay-a-the-queer-sober-hero-show)
+
+https://podcasts.apple.com/us/podcast/gay-a-the-queer-sober-hero-show/id1573245865
+
 - [Out And About Af](/recovery/media/podcasts/human-interest/queer/out-and-about-af)
+
+https://podcasts.apple.com/us/podcast/out-and-about-af/id1824871656
 
 ## Pages
 
@@ -88,23 +105,36 @@ html {
 
 - [Gay A The Queer Sober Hero Show](/recovery/media/podcasts/human-interest/queer/gay-a-the-queer-sober-hero-show)
 
+https://podcasts.apple.com/us/podcast/gay-a-the-queer-sober-hero-show/id1573245865
+
 <a id="letter-n"></a>
 ### N
 
 - [No Matter What Club](/recovery/media/podcasts/human-interest/queer/no-matter-what-club)
+
+https://podcasts.apple.com/us/podcast/no-matter-what-club/id1796211058
 
 <a id="letter-o"></a>
 ### O
 
 - [Out And About Af](/recovery/media/podcasts/human-interest/queer/out-and-about-af)
 
+https://podcasts.apple.com/us/podcast/out-and-about-af/id1824871656
+
 <a id="letter-q"></a>
 ### Q
 
 - [Queer Sober Social Podcast](/recovery/media/podcasts/human-interest/queer/queer-sober-social-podcast)
+
+https://open.spotify.com/show/7aCRQfiksJ9WFZdx8SXhD8
+
 - [Queer Spirit Podcast](/recovery/media/podcasts/human-interest/queer/queer-spirit-podcast)
+
+https://queerhealingjourneys.com/podcast/
 
 <a id="letter-t"></a>
 ### T
 
 - [The Sober Gay](/recovery/media/podcasts/human-interest/queer/the-sober-gay)
+
+https://podcasts.apple.com/us/podcast/the-sober-gay/id1513855433

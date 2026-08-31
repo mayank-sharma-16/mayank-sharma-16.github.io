@@ -5,10 +5,15 @@ title: 1950 1959
 ## Recently Modified
 
 - [Clint Howard](/recovery/people/celebrities-and-influencers/actors/1950-1959/clint-howard)
+
 - [Dennis Quaid](/recovery/people/celebrities-and-influencers/actors/1950-1959/dennis-quaid)
+
 - [John Goodman](/recovery/people/celebrities-and-influencers/actors/1950-1959/john-goodman)
+
 - [Mel Gibson](/recovery/people/celebrities-and-influencers/actors/1950-1959/mel-gibson)
+
 - [Carrie Fisher](/recovery/people/celebrities-and-influencers/actors/1950-1959/carrie-fisher)
+
 - [Robin Williams](/recovery/people/celebrities-and-influencers/actors/1950-1959/robin-williams)
 
 ## Pages
@@ -87,6 +92,7 @@ html {
 ### C
 
 - [Carrie Fisher](/recovery/people/celebrities-and-influencers/actors/1950-1959/carrie-fisher)
+
 - [Clint Howard](/recovery/people/celebrities-and-influencers/actors/1950-1959/clint-howard)
 
 <a id="letter-d"></a>

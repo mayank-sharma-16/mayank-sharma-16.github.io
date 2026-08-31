@@ -5,10 +5,15 @@ title: Musculoskeletal
 ## Recently Modified
 
 - [Rhabdomyolysis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/musculoskeletal/rhabdomyolysis)
+
 - [Myopathy](/recovery/treatment/diseases-disorders-and-disabilities/systemic/musculoskeletal/myopathy)
+
 - [Osteomyelitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/musculoskeletal/osteomyelitis)
+
 - [Septic Arthritis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/musculoskeletal/septic-arthritis)
+
 - [Osteopenia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/musculoskeletal/osteopenia)
+
 - [Osteoporosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/musculoskeletal/osteoporosis)
 
 ## Pages
@@ -92,7 +97,9 @@ html {
 ### O
 
 - [Osteomyelitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/musculoskeletal/osteomyelitis)
+
 - [Osteopenia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/musculoskeletal/osteopenia)
+
 - [Osteoporosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/musculoskeletal/osteoporosis)
 
 <a id="letter-r"></a>

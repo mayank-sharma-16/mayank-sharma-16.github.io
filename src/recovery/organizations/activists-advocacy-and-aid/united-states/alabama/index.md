@@ -5,11 +5,28 @@ title: Alabama
 ## Recently Modified
 
 - [Alabama Alliance For Recovery Residences](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/alabama-alliance-for-recovery-residences)
+
+https://alrad.info/aarr
+
 - [Rural Addiction Prevention](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/rural-addiction-prevention)
+
+https://www.rapnow.org/
+
 - [Vital Alabama](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/vital-alabama)
+
+https://vitalalabama.com/
+
 - [Addiction Prevention Coalition](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/addiction-prevention-coalition)
+
+https://apcbham.org/
+
 - [Wings Across Alabama](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/wings-across-alabama)
+
+https://wingsacrossal.org/about-us/
+
 - [People Engaged In Recovery](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/people-engaged-in-recovery)
+
+https://peopleengagedinrecovery.org/
 
 ## Pages
 
@@ -87,24 +104,37 @@ html {
 ### A
 
 - [Addiction Prevention Coalition](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/addiction-prevention-coalition)
+
+https://apcbham.org/
+
 - [Alabama Alliance For Recovery Residences](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/alabama-alliance-for-recovery-residences)
+
+https://alrad.info/aarr
 
 <a id="letter-p"></a>
 ### P
 
 - [People Engaged In Recovery](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/people-engaged-in-recovery)
 
+https://peopleengagedinrecovery.org/
+
 <a id="letter-r"></a>
 ### R
 
 - [Rural Addiction Prevention](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/rural-addiction-prevention)
+
+https://www.rapnow.org/
 
 <a id="letter-v"></a>
 ### V
 
 - [Vital Alabama](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/vital-alabama)
 
+https://vitalalabama.com/
+
 <a id="letter-w"></a>
 ### W
 
 - [Wings Across Alabama](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/wings-across-alabama)
+
+https://wingsacrossal.org/about-us/

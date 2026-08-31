@@ -5,8 +5,11 @@ title: Metabolic
 ## Recently Modified
 
 - [Hypercortisolemia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/metabolic/hypercortisolemia)
+
 - [Adrenal Insufficiency](/recovery/treatment/diseases-disorders-and-disabilities/systemic/metabolic/adrenal-insufficiency)
+
 - [Hypogonadism](/recovery/treatment/diseases-disorders-and-disabilities/systemic/metabolic/hypogonadism)
+
 - [Type 2 Diabetes](/recovery/treatment/diseases-disorders-and-disabilities/systemic/metabolic/type-2-diabetes)
 
 ## Pages
@@ -90,6 +93,7 @@ html {
 ### H
 
 - [Hypercortisolemia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/metabolic/hypercortisolemia)
+
 - [Hypogonadism](/recovery/treatment/diseases-disorders-and-disabilities/systemic/metabolic/hypogonadism)
 
 <a id="letter-t"></a>

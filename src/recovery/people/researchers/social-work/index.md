@@ -6,6 +6,8 @@ title: Social Work
 
 - [Christine Flynn Saulnier](/recovery/people/researchers/social-work/christine-flynn-saulnier)
 
+https://www.researchgate.net/profile/ChristineFlynnSaulnier/publication/284961032ImagesoftheTwelve-StepModelandSexandLoveAddictioninanAlcoholInterventionGroupforBlackWomen/links/56e2fe3408ae98445c1b269b/Images-of-the-Twelve-Step-Model-and-Sex-and-Love-Addiction-in-an-Alcohol-Intervention-Group-for-Black-Women.pdf
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Christine Flynn Saulnier](/recovery/people/researchers/social-work/christine-flynn-saulnier)
+
+https://www.researchgate.net/profile/ChristineFlynnSaulnier/publication/284961032ImagesoftheTwelve-StepModelandSexandLoveAddictioninanAlcoholInterventionGroupforBlackWomen/links/56e2fe3408ae98445c1b269b/Images-of-the-Twelve-Step-Model-and-Sex-and-Love-Addiction-in-an-Alcohol-Intervention-Group-for-Black-Women.pdf

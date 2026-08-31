@@ -11,11 +11,29 @@ title: Alabama
 ## Recently Modified
 
 - [Scampi Lab](/recovery/organizations/higher-education/united-states/alabama/auburn-university/scampi-lab)
+
+https://scampi.auburn.edu/currently-recruiting-studies/
+
 - [Alabama Drug Use Central Data Repository](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama/alabama-drug-use-central-data-repository)
+
+https://opioidcdr.ua.edu/
+
 - [Center For Substance Use Research And Related Conditions](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama/center-for-substance-use-research-and-related-conditions)
+
+https://csurrc.ua.edu/contact-us/
+
 - [Center For Addiction And Pain Prevention](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama-birmingham/center-for-addiction-and-pain-prevention)
+
+https://sites.uab.edu/cappi/
+
 - [Uab Medicine Addiction Recovery Services](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama-birmingham/uab-medicine-addiction-recovery-services)
+
+https://www.uabmedicine.org/specialties/uab-medicine-addiction-recovery-services/
+
 - [Collegiate Recovery And Intervention Services](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama/collegiate-recovery-and-intervention-services)
+
+https://cris.sl.ua.edu/
+
 - [Alabama Community College System Innovation Center](/recovery/organizations/higher-education/united-states/alabama/alabama-community-college-system-innovation-center)
 
 ## Pages

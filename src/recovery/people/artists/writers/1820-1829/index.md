@@ -5,8 +5,12 @@ title: 1820 1829
 ## Recently Modified
 
 - [Charles Baudelaire](/recovery/people/artists/writers/1820-1829/charles-baudelaire)
+
 - [Wilkie Collins](/recovery/people/artists/writers/1820-1829/wilkie-collins)
+
 - [Fyodor Dostoevsky](/recovery/people/artists/writers/1820-1829/fyodor-dostoevsky)
+
+He literally wrote The Gambler (1866) in 26 days in order to make enough money to pay off his gambling debts and promptly continue gambling.
 
 ## Pages
 
@@ -89,6 +93,8 @@ html {
 ### F
 
 - [Fyodor Dostoevsky](/recovery/people/artists/writers/1820-1829/fyodor-dostoevsky)
+
+He literally wrote The Gambler (1866) in 26 days in order to make enough money to pay off his gambling debts and promptly continue gambling.
 
 <a id="letter-w"></a>
 ### W

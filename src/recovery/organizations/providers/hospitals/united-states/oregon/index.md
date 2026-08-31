@@ -6,6 +6,8 @@ title: Oregon
 
 - [Providence Milwaukie Hospital](/recovery/organizations/providers/hospitals/united-states/oregon/providence-milwaukie-hospital)
 
+August 2026 https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### P
 
 - [Providence Milwaukie Hospital](/recovery/organizations/providers/hospitals/united-states/oregon/providence-milwaukie-hospital)
+
+August 2026 https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths

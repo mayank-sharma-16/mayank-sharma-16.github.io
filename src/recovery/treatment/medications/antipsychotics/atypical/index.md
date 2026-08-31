@@ -5,14 +5,23 @@ title: Atypical
 ## Recently Modified
 
 - [Aripiprazole](/recovery/treatment/medications/antipsychotics/atypical/aripiprazole)
+
 - [Paliperidone](/recovery/treatment/medications/antipsychotics/atypical/paliperidone)
+
 - [Brexpiprazole](/recovery/treatment/medications/antipsychotics/atypical/brexpiprazole)
+
 - [Cariprazine](/recovery/treatment/medications/antipsychotics/atypical/cariprazine)
+
 - [Lurasidone](/recovery/treatment/medications/antipsychotics/atypical/lurasidone)
+
 - [Clozapine](/recovery/treatment/medications/antipsychotics/atypical/clozapine)
+
 - [Ziprasidone](/recovery/treatment/medications/antipsychotics/atypical/ziprasidone)
+
 - [Quetiapine](/recovery/treatment/medications/antipsychotics/atypical/quetiapine)
+
 - [Olanzapine](/recovery/treatment/medications/antipsychotics/atypical/olanzapine)
+
 - [Risperidone](/recovery/treatment/medications/antipsychotics/atypical/risperidone)
 
 ## Pages
@@ -101,6 +110,7 @@ html {
 ### C
 
 - [Cariprazine](/recovery/treatment/medications/antipsychotics/atypical/cariprazine)
+
 - [Clozapine](/recovery/treatment/medications/antipsychotics/atypical/clozapine)
 
 <a id="letter-l"></a>

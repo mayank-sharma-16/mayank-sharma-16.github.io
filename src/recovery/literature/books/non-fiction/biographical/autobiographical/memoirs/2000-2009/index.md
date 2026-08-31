@@ -6,6 +6,8 @@ title: 2000 2009
 
 - [Drinking A Love Story By Caroline Knapp](/recovery/literature/books/non-fiction/biographical/autobiographical/memoirs/2000-2009/drinking-a-love-story-by-caroline-knapp)
 
+"Alcohol is everywhere in your life, omnipresent, and you’re both aware and unaware of it almost all the time; all you know is you’d die without it, and there is no simple reason why this happens, no single moment, no physiological event that pushes a heavy drinker across a concrete line into alcoholism. It’s a slow, gradual, insidious, elusive becoming"
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### D
 
 - [Drinking A Love Story By Caroline Knapp](/recovery/literature/books/non-fiction/biographical/autobiographical/memoirs/2000-2009/drinking-a-love-story-by-caroline-knapp)
+
+"Alcohol is everywhere in your life, omnipresent, and you’re both aware and unaware of it almost all the time; all you know is you’d die without it, and there is no simple reason why this happens, no single moment, no physiological event that pushes a heavy drinker across a concrete line into alcoholism. It’s a slow, gradual, insidious, elusive becoming"

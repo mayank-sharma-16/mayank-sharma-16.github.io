@@ -6,6 +6,8 @@ title: Pharmacotherapy
 
 - [Medication For Opioid Use Disorder Moud](/recovery/treatment/procedures/therapies/pharmacotherapy/medication-for-opioid-use-disorder-moud)
 
+https://nida.nih.gov/research-topics/medications-opioid-use-disorder https://harmreduction.org/issues/facts/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### M
 
 - [Medication For Opioid Use Disorder Moud](/recovery/treatment/procedures/therapies/pharmacotherapy/medication-for-opioid-use-disorder-moud)
+
+https://nida.nih.gov/research-topics/medications-opioid-use-disorder https://harmreduction.org/issues/facts/

@@ -5,8 +5,15 @@ title: Neurobiology
 ## Recently Modified
 
 - [Serge H Ahmed](/recovery/people/researchers/neuroscience/neurobiology/serge-h-ahmed)
+
+Currently at the University of Bordeaux in France, Serge Ahmend is a neuroscientist with expertise in animal experiments. Imbalance between drug and non-drug reward availability: A major risk factor for addiction (2005) https://www.sciencedirect.com/science/article/abs/pii/S0014299905009659 "I review evidence showing that this apparent vulnerability results in large part from the lack of positive…
+
 - [Marco Venniro](/recovery/people/researchers/neuroscience/neurobiology/marco-venniro)
+
+Marco Venniro is an Associate Professor at the University of Maryland, specifically an Associate Director of Education and Training within the Kahlert Institute for Addiction Medicine. https://www.medschool.umaryland.edu/profiles/venniro-marco/ Volitional social interaction prevents drug addiction in rat models (2018) "Addiction treatment has not been appreciably improved by neuroscientific…
+
 - [George F Koob](/recovery/people/researchers/neuroscience/neurobiology/george-f-koob)
+
 - [Ruben D Baler](/recovery/people/researchers/neuroscience/neurobiology/ruben-d-baler)
 
 ## Pages
@@ -91,6 +98,8 @@ html {
 
 - [Marco Venniro](/recovery/people/researchers/neuroscience/neurobiology/marco-venniro)
 
+Marco Venniro is an Associate Professor at the University of Maryland, specifically an Associate Director of Education and Training within the Kahlert Institute for Addiction Medicine. https://www.medschool.umaryland.edu/profiles/venniro-marco/ Volitional social interaction prevents drug addiction in rat models (2018) "Addiction treatment has not been appreciably improved by neuroscientific…
+
 <a id="letter-r"></a>
 ### R
 
@@ -100,3 +109,5 @@ html {
 ### S
 
 - [Serge H Ahmed](/recovery/people/researchers/neuroscience/neurobiology/serge-h-ahmed)
+
+Currently at the University of Bordeaux in France, Serge Ahmend is a neuroscientist with expertise in animal experiments. Imbalance between drug and non-drug reward availability: A major risk factor for addiction (2005) https://www.sciencedirect.com/science/article/abs/pii/S0014299905009659 "I review evidence showing that this apparent vulnerability results in large part from the lack of positive…

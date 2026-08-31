@@ -6,6 +6,8 @@ title: Public Health
 
 - [Housing First](/recovery/policy/public-health/housing-first)
 
+Housing First is one of the most direct and effective ways to solve homelessness: give people housing. Permanent and not conditional on solving other health issues or commitment to an institution first. As the National Alliance to End Homelessness states, Housing First is an approach that prioritizes providing permanent housing to people experiencing homelessness, thus ending their homelessness…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### H
 
 - [Housing First](/recovery/policy/public-health/housing-first)
+
+Housing First is one of the most direct and effective ways to solve homelessness: give people housing. Permanent and not conditional on solving other health issues or commitment to an institution first. As the National Alliance to End Homelessness states, Housing First is an approach that prioritizes providing permanent housing to people experiencing homelessness, thus ending their homelessness…

@@ -5,8 +5,11 @@ title: 1940 1949
 ## Recently Modified
 
 - [Liza Minneli](/recovery/people/celebrities-and-influencers/actors/1940-1949/liza-minneli)
+
 - [John Belushi](/recovery/people/celebrities-and-influencers/actors/1940-1949/john-belushi)
+
 - [Samuel L Jackson](/recovery/people/celebrities-and-influencers/actors/1940-1949/samuel-l-jackson)
+
 - [Danny Trejo](/recovery/people/celebrities-and-influencers/actors/1940-1949/danny-trejo)
 
 ## Pages

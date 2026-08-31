@@ -6,6 +6,8 @@ title: Business Intelligence
 
 - [Behavioral Health Business](/recovery/organizations/media/business-intelligence/behavioral-health-business)
 
+https://bhbusiness.com/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### B
 
 - [Behavioral Health Business](/recovery/organizations/media/business-intelligence/behavioral-health-business)
+
+https://bhbusiness.com/

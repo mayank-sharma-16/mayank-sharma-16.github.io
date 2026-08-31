@@ -5,9 +5,13 @@ title: Japan
 ## Recently Modified
 
 - [Tokyo Metropolitan Mental Health Centre](/recovery/organizations/providers/hospitals/japan/tokyo-metropolitan-mental-health-centre)
+
 - [Geshi Hospital](/recovery/organizations/providers/hospitals/japan/geshi-hospital)
+
 - [Yokosuka Naval Hospital](/recovery/organizations/providers/hospitals/japan/yokosuka-naval-hospital)
+
 - [National Kurihama Hospital](/recovery/organizations/providers/hospitals/japan/national-kurihama-hospital)
+
 - [Matsuzawa](/recovery/organizations/providers/hospitals/japan/matsuzawa)
 
 ## Pages

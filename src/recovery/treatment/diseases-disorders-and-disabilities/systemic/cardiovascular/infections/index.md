@@ -5,6 +5,7 @@ title: Infections
 ## Recently Modified
 
 - [Suppurative Thrombophlebitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/infections/suppurative-thrombophlebitis)
+
 - [Endocarditis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/infections/endocarditis)
 
 ## Pages

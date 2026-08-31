@@ -5,7 +5,10 @@ title: Oxford Group
 ## Recently Modified
 
 - [Ebby Thacher](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/oxford-group/ebby-thacher)
+
 - [Frank Buchman](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/oxford-group/frank-buchman)
+
+I don't like this guy. A lot of guys did not like this guy. A few guys did like this guy. Sorry, guys.
 
 ## Pages
 
@@ -88,3 +91,5 @@ html {
 ### F
 
 - [Frank Buchman](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/oxford-group/frank-buchman)
+
+I don't like this guy. A lot of guys did not like this guy. A few guys did like this guy. Sorry, guys.

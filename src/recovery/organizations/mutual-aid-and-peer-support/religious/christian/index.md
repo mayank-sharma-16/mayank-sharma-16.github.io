@@ -11,13 +11,36 @@ title: Christian
 ## Recently Modified
 
 - [Catholic In Recovery](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/catholic/catholic-in-recovery)
+
+https://catholicinrecovery.com/
+
 - [Lds Addiction Recovery Program](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/latter-day-saints/lds-addiction-recovery-program)
+
+https://addictionrecovery.churchofjesuschrist.org/?lang=eng
+
 - [Saint Anastasia Fellowship](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/eastern-orthodox/saint-anastasia-fellowship)
+
+https://saintanastasiafellowship.org/
+
 - [Alcoholics For Christ](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/alcoholics-for-christ)
+
+https://www.alcoholicsforchrist.com/
+
 - [Recovery Alive](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/recovery-alive)
+
+https://www.recoveryalive.com/
+
 - [Christians In Recovery](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/christians-in-recovery)
+
+https://archive.is/GVLvC#selection-1313.62-1313.71
+
 - [Celebrate Recovery](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/celebrate-recovery)
+
+https://celebraterecovery.com/ https://www.prisonfellowship.org/resources/support-friends-family-of-prisoners/resources-for-families-friends/celebrate-recovery-inside/
+
 - [Calix Society](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/catholic/calix-society)
+
+https://www.calixsociety.org/
 
 ## Pages
 
@@ -96,13 +119,22 @@ html {
 
 - [Alcoholics For Christ](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/alcoholics-for-christ)
 
+https://www.alcoholicsforchrist.com/
+
 <a id="letter-c"></a>
 ### C
 
 - [Celebrate Recovery](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/celebrate-recovery)
+
+https://celebraterecovery.com/ https://www.prisonfellowship.org/resources/support-friends-family-of-prisoners/resources-for-families-friends/celebrate-recovery-inside/
+
 - [Christians In Recovery](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/christians-in-recovery)
+
+https://archive.is/GVLvC#selection-1313.62-1313.71
 
 <a id="letter-r"></a>
 ### R
 
 - [Recovery Alive](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/recovery-alive)
+
+https://www.recoveryalive.com/

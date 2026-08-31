@@ -6,6 +6,8 @@ title: 1760 1769
 
 - [Thomas Trotter](/recovery/people/clinicians/doctors/1760-1769/thomas-trotter)
 
+https://pubmed.ncbi.nlm.nih.gov/16055761/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### T
 
 - [Thomas Trotter](/recovery/people/clinicians/doctors/1760-1769/thomas-trotter)
+
+https://pubmed.ncbi.nlm.nih.gov/16055761/

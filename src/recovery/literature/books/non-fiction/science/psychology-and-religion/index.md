@@ -5,6 +5,7 @@ title: Psychology And Religion
 ## Recently Modified
 
 - [What Is It Like To Be An Addict By Owen Flanagan 2025](/recovery/literature/books/non-fiction/science/psychology-and-religion/what-is-it-like-to-be-an-addict-by-owen-flanagan-2025)
+
 - [Belief Without Borders Inside The Minds ](/recovery/literature/books/non-fiction/science/psychology-and-religion/belief-without-borders-inside-the-minds)
 
 ## Pages

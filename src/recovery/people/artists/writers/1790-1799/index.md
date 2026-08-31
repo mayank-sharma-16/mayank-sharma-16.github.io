@@ -5,7 +5,11 @@ title: 1790 1799
 ## Recently Modified
 
 - [Honore De Balzac](/recovery/people/artists/writers/1790-1799/honore-de-balzac)
+
+Though he only briefly experimented with opium, Balzac reportedly went through 50 cups of coffee a day to support his writing habit.
+
 - [Percy Bysshe Shelley](/recovery/people/artists/writers/1790-1799/percy-bysshe-shelley)
+
 - [John Keats](/recovery/people/artists/writers/1790-1799/john-keats)
 
 ## Pages
@@ -84,6 +88,8 @@ html {
 ### H
 
 - [Honore De Balzac](/recovery/people/artists/writers/1790-1799/honore-de-balzac)
+
+Though he only briefly experimented with opium, Balzac reportedly went through 50 cups of coffee a day to support his writing habit.
 
 <a id="letter-j"></a>
 ### J

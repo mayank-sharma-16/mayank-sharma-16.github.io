@@ -10,12 +10,25 @@ title: Rock
 ## Recently Modified
 
 - [Zachary Cole Smoth](/recovery/people/celebrities-and-influencers/musicians/rock/indie/zachary-cole-smoth)
+
 - [Kurt Cobain](/recovery/people/celebrities-and-influencers/musicians/rock/kurt-cobain)
+
 - [Sid Vicious](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/sid-vicious)
+
 - [Steve Jones](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/steve-jones)
+
 - [Dallas Taylor](/recovery/people/celebrities-and-influencers/musicians/rock/dallas-taylor)
+
+Drummer for CSNY
+
 - [Johnny Rzeznik](/recovery/people/celebrities-and-influencers/musicians/rock/johnny-rzeznik)
+
+Frontman of the Goo Goo Dolls, who estimates that he tried about 50 times to get sober before it held. https://medium.com/@J.S.Matkowski/the-disease-of-loneliness-johnny-rzezniks-50-attempts-at-sobriety-9e339b726d21
+
 - [Chad Smith](/recovery/people/celebrities-and-influencers/musicians/rock/chad-smith)
+
+Drummer for Red Hot Chili Peppers since 1988. https://www.thefix.com/red-hot-chili-peppers-chad-smith-addiction-i-was-spiritually-bankrupt/
+
 - [Trent Reznor](/recovery/people/celebrities-and-influencers/musicians/rock/trent-reznor)
 
 ## Pages
@@ -95,15 +108,21 @@ html {
 
 - [Chad Smith](/recovery/people/celebrities-and-influencers/musicians/rock/chad-smith)
 
+Drummer for Red Hot Chili Peppers since 1988. https://www.thefix.com/red-hot-chili-peppers-chad-smith-addiction-i-was-spiritually-bankrupt/
+
 <a id="letter-d"></a>
 ### D
 
 - [Dallas Taylor](/recovery/people/celebrities-and-influencers/musicians/rock/dallas-taylor)
 
+Drummer for CSNY
+
 <a id="letter-j"></a>
 ### J
 
 - [Johnny Rzeznik](/recovery/people/celebrities-and-influencers/musicians/rock/johnny-rzeznik)
+
+Frontman of the Goo Goo Dolls, who estimates that he tried about 50 times to get sober before it held. https://medium.com/@J.S.Matkowski/the-disease-of-loneliness-johnny-rzezniks-50-attempts-at-sobriety-9e339b726d21
 
 <a id="letter-k"></a>
 ### K

@@ -5,9 +5,18 @@ title: 1740 1749
 ## Recently Modified
 
 - [John Coakley Lettsom](/recovery/people/clinicians/doctors/1740-1749/john-coakley-lettsom)
+
 - [Jean Etienne Dominique Esquirol](/recovery/people/clinicians/doctors/1740-1749/jean-etienne-dominique-esquirol)
+
+double check this guy's brith date idk if it's correctly characterized
+
 - [Philippe Pinel](/recovery/people/clinicians/doctors/1740-1749/philippe-pinel)
+
+I like this guy's face.
+
 - [Benjamin Rush](/recovery/people/clinicians/doctors/1740-1749/benjamin-rush)
+
+Benjamin Rush is one of those influential people who happened to be around a bunch of famous and influential people, so he fades into the background easily but also pops up a lot once you start noticing him. He attended Princeton University and the University of Edinburgh. He later taught at the University of Pennsylvania as a professor of chemistry and published one of the first American…
 
 ## Pages
 
@@ -86,13 +95,20 @@ html {
 
 - [Benjamin Rush](/recovery/people/clinicians/doctors/1740-1749/benjamin-rush)
 
+Benjamin Rush is one of those influential people who happened to be around a bunch of famous and influential people, so he fades into the background easily but also pops up a lot once you start noticing him. He attended Princeton University and the University of Edinburgh. He later taught at the University of Pennsylvania as a professor of chemistry and published one of the first American…
+
 <a id="letter-j"></a>
 ### J
 
 - [Jean Etienne Dominique Esquirol](/recovery/people/clinicians/doctors/1740-1749/jean-etienne-dominique-esquirol)
+
+double check this guy's brith date idk if it's correctly characterized
+
 - [John Coakley Lettsom](/recovery/people/clinicians/doctors/1740-1749/john-coakley-lettsom)
 
 <a id="letter-p"></a>
 ### P
 
 - [Philippe Pinel](/recovery/people/clinicians/doctors/1740-1749/philippe-pinel)
+
+I like this guy's face.

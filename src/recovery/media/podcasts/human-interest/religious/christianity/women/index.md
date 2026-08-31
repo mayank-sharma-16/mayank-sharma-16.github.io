@@ -6,6 +6,8 @@ title: Women
 
 - [Sober Confessions Of A Christian Woman](/recovery/media/podcasts/human-interest/religious/christianity/women/sober-confessions-of-a-christian-woman)
 
+https://creators.spotify.com/pod/profile/connie-mcmillan/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### S
 
 - [Sober Confessions Of A Christian Woman](/recovery/media/podcasts/human-interest/religious/christianity/women/sober-confessions-of-a-christian-woman)
+
+https://creators.spotify.com/pod/profile/connie-mcmillan/

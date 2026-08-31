@@ -9,11 +9,20 @@ title: Ethics
 ## Recently Modified
 
 - [Richard Holton](/recovery/people/researchers/philosophers/ethics/richard-holton)
+
 - [Nomy Arpaly](/recovery/people/researchers/philosophers/ethics/nomy-arpaly)
+
 - [Gideon Yaffe](/recovery/people/researchers/philosophers/ethics/bioethics/gideon-yaffe)
+
 - [Walter Sinnott Armstrong](/recovery/people/researchers/philosophers/ethics/walter-sinnott-armstrong)
+
 - [Jeanette Kennett](/recovery/people/researchers/philosophers/ethics/jeanette-kennett)
+
+https://pubmed.ncbi.nlm.nih.gov/24093020/
+
 - [Travis Rieder](/recovery/people/researchers/philosophers/ethics/bioethics/travis-rieder)
+
+An associate professor at Johns Hopkins University focusing on bioethics. https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "Johns Hopkins bioethicist Travis Rieder argues that support for places like OnPoint will never be decided solely by the empirical data. 'I don't actually think it's why anyone believes what they believe... They have a view about what we should actually…
 
 ## Pages
 
@@ -91,6 +100,8 @@ html {
 ### J
 
 - [Jeanette Kennett](/recovery/people/researchers/philosophers/ethics/jeanette-kennett)
+
+https://pubmed.ncbi.nlm.nih.gov/24093020/
 
 <a id="letter-n"></a>
 ### N

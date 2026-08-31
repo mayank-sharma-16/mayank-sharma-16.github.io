@@ -5,7 +5,10 @@ title: Buddhism
 ## Recently Modified
 
 - [Against The Stream A Buddhist Manual For](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/buddhism/against-the-stream-a-buddhist-manual-for)
+
 - [Recovery Dharma](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/buddhism/recovery-dharma)
+
+Disclaimer: Recovery Dharma is my preferred recovery meeting format at the moment. I'm not Buddhist but it comes closest to my belief system as someone with a Hindu background.
 
 ## Pages
 
@@ -88,3 +91,5 @@ html {
 ### R
 
 - [Recovery Dharma](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/buddhism/recovery-dharma)
+
+Disclaimer: Recovery Dharma is my preferred recovery meeting format at the moment. I'm not Buddhist but it comes closest to my belief system as someone with a Hindu background.

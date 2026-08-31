@@ -16,24 +16,51 @@ title: Musicians
 ## Recently Modified
 
 - [Melissa Etheridge](/recovery/people/celebrities-and-influencers/musicians/melissa-etheridge)
+
+Melissa Etheridge's son, Beckett Cypher, died of an opioid overdose in 2020 following four years of struggling with substance use after an accident at 17 led to a painkiller addiction. Etheridge founded the Etheridge Foundation, which funds studies into treatments for opioid use disorder (OUD). They are also the group behind the R.I.S.E (Research, Innovation, Science, and Education) Summit in…
+
 - [Zachary Cole Smoth](/recovery/people/celebrities-and-influencers/musicians/rock/indie/zachary-cole-smoth)
+
 - [Red Rodney](/recovery/people/celebrities-and-influencers/musicians/jazz/red-rodney)
+
 - [Kurt Cobain](/recovery/people/celebrities-and-influencers/musicians/rock/kurt-cobain)
+
 - [Sid Vicious](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/sid-vicious)
+
 - [Steve Jones](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/steve-jones)
+
 - [Dallas Taylor](/recovery/people/celebrities-and-influencers/musicians/rock/dallas-taylor)
+
+Drummer for CSNY
+
 - [Johnny Rzeznik](/recovery/people/celebrities-and-influencers/musicians/rock/johnny-rzeznik)
+
+Frontman of the Goo Goo Dolls, who estimates that he tried about 50 times to get sober before it held. https://medium.com/@J.S.Matkowski/the-disease-of-loneliness-johnny-rzezniks-50-attempts-at-sobriety-9e339b726d21
+
 - [Chad Smith](/recovery/people/celebrities-and-influencers/musicians/rock/chad-smith)
+
+Drummer for Red Hot Chili Peppers since 1988. https://www.thefix.com/red-hot-chili-peppers-chad-smith-addiction-i-was-spiritually-bankrupt/
+
 - [John Mayer](/recovery/people/celebrities-and-influencers/musicians/pop/john-mayer)
+
 - [Tim Mcgraw](/recovery/people/celebrities-and-influencers/musicians/country/tim-mcgraw)
+
 - [Keith Urban](/recovery/people/celebrities-and-influencers/musicians/country/keith-urban)
+
 - [Miley Cyrus](/recovery/people/celebrities-and-influencers/musicians/pop/miley-cyrus)
+
 - [Ed Sheeran](/recovery/people/celebrities-and-influencers/musicians/pop/ed-sheeran)
+
 - [Kid Cudi Scott Mescudi](/recovery/people/celebrities-and-influencers/musicians/rap/kid-cudi-scott-mescudi)
+
 - [Oli Sykes](/recovery/people/celebrities-and-influencers/musicians/metal/oli-sykes)
+
 - [Lana Del Rey Elizabeth Grant](/recovery/people/celebrities-and-influencers/musicians/pop/lana-del-rey-elizabeth-grant)
+
 - [Macklemore Ben Haggerty](/recovery/people/celebrities-and-influencers/musicians/rap/macklemore-ben-haggerty)
+
 - [Britney Spears](/recovery/people/celebrities-and-influencers/musicians/pop/britney-spears)
+
 - [James Hetfield](/recovery/people/celebrities-and-influencers/musicians/metal/james-hetfield)
 
 ## Pages
@@ -112,3 +139,5 @@ html {
 ### M
 
 - [Melissa Etheridge](/recovery/people/celebrities-and-influencers/musicians/melissa-etheridge)
+
+Melissa Etheridge's son, Beckett Cypher, died of an opioid overdose in 2020 following four years of struggling with substance use after an accident at 17 led to a painkiller addiction. Etheridge founded the Etheridge Foundation, which funds studies into treatments for opioid use disorder (OUD). They are also the group behind the R.I.S.E (Research, Innovation, Science, and Education) Summit in…

@@ -6,6 +6,8 @@ title: Consultancies
 
 - [Pinney Associates](/recovery/organizations/private-companies/consultancies/pinney-associates)
 
+A health consultancy which promotes tobacco harm reduction
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### P
 
 - [Pinney Associates](/recovery/organizations/private-companies/consultancies/pinney-associates)
+
+A health consultancy which promotes tobacco harm reduction

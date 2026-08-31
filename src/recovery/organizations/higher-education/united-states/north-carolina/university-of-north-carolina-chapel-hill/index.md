@@ -6,6 +6,8 @@ title: University Of North Carolina Chapel Hill
 
 - [Carolina Recovery](/recovery/organizations/higher-education/united-states/north-carolina/university-of-north-carolina-chapel-hill/carolina-recovery)
 
+https://studentwellness.unc.edu/substance-use-services/carolina-recovery-program/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Carolina Recovery](/recovery/organizations/higher-education/united-states/north-carolina/university-of-north-carolina-chapel-hill/carolina-recovery)
+
+https://studentwellness.unc.edu/substance-use-services/carolina-recovery-program/

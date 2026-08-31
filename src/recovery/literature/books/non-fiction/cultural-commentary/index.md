@@ -9,15 +9,26 @@ title: Cultural Commentary
 ## Recently Modified
 
 - [Chasing The Scream The First And Last Da](/recovery/literature/books/non-fiction/cultural-commentary/chasing-the-scream-the-first-and-last-da)
+
 - [Dope The Story Of The Living Dead 1928](/recovery/literature/books/non-fiction/cultural-commentary/dope-the-story-of-the-living-dead-1928)
+
 - [Constructive Drinking Perspectives On Dr](/recovery/literature/books/non-fiction/cultural-commentary/1980-1989/constructive-drinking-perspectives-on-dr)
+
 - [Drink The Intimate Relationship Between ](/recovery/literature/books/non-fiction/cultural-commentary/drink-the-intimate-relationship-between)
+
 - [Triumph Of The Therapeutic](/recovery/literature/books/non-fiction/cultural-commentary/triumph-of-the-therapeutic)
+
 - [Therapy Culture Cultivating Vulnerabilit](/recovery/literature/books/non-fiction/cultural-commentary/therapy-culture-cultivating-vulnerabilit)
+
 - [Manufacturing Happy Citizens](/recovery/literature/books/non-fiction/cultural-commentary/manufacturing-happy-citizens)
+
 - [Bright Sided How Positive Thinking Is Undermining America](/recovery/literature/books/non-fiction/cultural-commentary/bright-sided-how-positive-thinking-is-undermining-america)
+
 - [Happycracy](/recovery/literature/books/non-fiction/cultural-commentary/happycracy)
+
 - [America The Anxious How Our Pursuit Of H](/recovery/literature/books/non-fiction/cultural-commentary/america-the-anxious-how-our-pursuit-of-h)
+
+"This 40 per cent figure is much quoted in the positive-psychology literature in both academic and popular texts, and represents the field’s great marketing opportunity. This is the 40 per cent that anyone with a book to sell, a course of coaching to offer or a happiness technique to promote is hoping to co-opt."
 
 ## Pages
 
@@ -96,6 +107,8 @@ html {
 
 - [America The Anxious How Our Pursuit Of H](/recovery/literature/books/non-fiction/cultural-commentary/america-the-anxious-how-our-pursuit-of-h)
 
+"This 40 per cent figure is much quoted in the positive-psychology literature in both academic and popular texts, and represents the field’s great marketing opportunity. This is the 40 per cent that anyone with a book to sell, a course of coaching to offer or a happiness technique to promote is hoping to co-opt."
+
 <a id="letter-b"></a>
 ### B
 
@@ -110,6 +123,7 @@ html {
 ### D
 
 - [Dope The Story Of The Living Dead 1928](/recovery/literature/books/non-fiction/cultural-commentary/dope-the-story-of-the-living-dead-1928)
+
 - [Drink The Intimate Relationship Between ](/recovery/literature/books/non-fiction/cultural-commentary/drink-the-intimate-relationship-between)
 
 <a id="letter-h"></a>
@@ -126,4 +140,5 @@ html {
 ### T
 
 - [Therapy Culture Cultivating Vulnerabilit](/recovery/literature/books/non-fiction/cultural-commentary/therapy-culture-cultivating-vulnerabilit)
+
 - [Triumph Of The Therapeutic](/recovery/literature/books/non-fiction/cultural-commentary/triumph-of-the-therapeutic)

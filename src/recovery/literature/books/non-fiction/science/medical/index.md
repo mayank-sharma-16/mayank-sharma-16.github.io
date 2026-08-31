@@ -5,10 +5,16 @@ title: Medical
 ## Recently Modified
 
 - [Heavy Drinking By Herbert Fingarette 1988](/recovery/literature/books/non-fiction/science/medical/heavy-drinking-by-herbert-fingarette-1988)
+
 - [The Broken Brain By Nancy C Andreasen 1984](/recovery/literature/books/non-fiction/science/medical/the-broken-brain-by-nancy-c-andreasen-1984)
+
 - [The Opium Problem By Charles E Terry And](/recovery/literature/books/non-fiction/science/medical/the-opium-problem-by-charles-e-terry-and)
+
 - [The Natural History Of Alcoholism Causes](/recovery/literature/books/non-fiction/science/medical/the-natural-history-of-alcoholism-causes)
+
 - [The Natural History Of Alcoholism Revisited](/recovery/literature/books/non-fiction/science/medical/the-natural-history-of-alcoholism-revisited)
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6876506/
 
 ## Pages
 
@@ -91,6 +97,11 @@ html {
 ### T
 
 - [The Broken Brain By Nancy C Andreasen 1984](/recovery/literature/books/non-fiction/science/medical/the-broken-brain-by-nancy-c-andreasen-1984)
+
 - [The Natural History Of Alcoholism Causes](/recovery/literature/books/non-fiction/science/medical/the-natural-history-of-alcoholism-causes)
+
 - [The Natural History Of Alcoholism Revisited](/recovery/literature/books/non-fiction/science/medical/the-natural-history-of-alcoholism-revisited)
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6876506/
+
 - [The Opium Problem By Charles E Terry And](/recovery/literature/books/non-fiction/science/medical/the-opium-problem-by-charles-e-terry-and)

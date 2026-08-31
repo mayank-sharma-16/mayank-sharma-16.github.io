@@ -6,6 +6,8 @@ title: Love And Sex
 
 - [She Recovery Podcast](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/love-and-sex/she-recovery-podcast)
 
+https://sherecovery.com/about-crystal-renaud/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### S
 
 - [She Recovery Podcast](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/love-and-sex/she-recovery-podcast)
+
+https://sherecovery.com/about-crystal-renaud/

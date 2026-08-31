@@ -6,6 +6,8 @@ title: 1530 1539
 
 - [Jean Nicot De Villemain](/recovery/people/politicians-and-policymakers/france/1530-1539/jean-nicot-de-villemain)
 
+Nicot has two interesting distinctions to his name: he was the first to introduce tobacco to France, and he was the first to publish a dictionary that includes "race" as an entry.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### J
 
 - [Jean Nicot De Villemain](/recovery/people/politicians-and-policymakers/france/1530-1539/jean-nicot-de-villemain)
+
+Nicot has two interesting distinctions to his name: he was the first to introduce tobacco to France, and he was the first to publish a dictionary that includes "race" as an entry.

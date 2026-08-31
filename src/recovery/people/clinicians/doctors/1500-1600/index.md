@@ -5,7 +5,10 @@ title: 1500 1600
 ## Recently Modified
 
 - [William Bullein](/recovery/people/clinicians/doctors/1500-1600/william-bullein)
+
 - [Garcia De Orta](/recovery/people/clinicians/doctors/1500-1600/garcia-de-orta)
+
+"The Portuguese, who navigate over a greater part of the world only procure a knowledge of how best to dispose of that merchandise of what they bring here and what they shall take back. They are not desirous of knowing anything about the things in the countries they visit. If they know a product they do not learn from what tree it comes, and if they see it they do not compare it with one of our…
 
 ## Pages
 
@@ -83,6 +86,8 @@ html {
 ### G
 
 - [Garcia De Orta](/recovery/people/clinicians/doctors/1500-1600/garcia-de-orta)
+
+"The Portuguese, who navigate over a greater part of the world only procure a knowledge of how best to dispose of that merchandise of what they bring here and what they shall take back. They are not desirous of knowing anything about the things in the countries they visit. If they know a product they do not learn from what tree it comes, and if they see it they do not compare it with one of our…
 
 <a id="letter-w"></a>
 ### W

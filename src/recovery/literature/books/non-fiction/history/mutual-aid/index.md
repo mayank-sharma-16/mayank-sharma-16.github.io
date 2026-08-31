@@ -5,8 +5,16 @@ title: Mutual Aid
 ## Recently Modified
 
 - [Aa Comes Of Age](/recovery/literature/books/non-fiction/history/mutual-aid/aa-comes-of-age)
+
+I mentioned elsewhere that literature about management and leadership is difficult to appraise because the nature of leadership is such that they have influence over the shape and spread of their own narratives. In that spirit, this book is best seen as a primary source reflecting how AA's leading figures wished to present themselves and the organization in 1957. I'll be treating it as such…
+
 - [Writing The Big Book The Creation Of Aa ](/recovery/literature/books/non-fiction/history/mutual-aid/writing-the-big-book-the-creation-of-aa)
+
+"While these real-time documents provide the most unassailable evidence for what happened in Alcoholics Anonymous between late 1934 and early 1939, that history is further embellished by the later writings and statements of four early participants in the story: Bill Wilson (A.A.'s founder), Ebby Thatcher (the man who first exposed Bill to the ideas that led to the creation of A.A.), Jim Burwell…
+
 - [A History Of Agnostics In Aa](/recovery/literature/books/non-fiction/history/mutual-aid/a-history-of-agnostics-in-aa)
+
+"The whole book is all about two things. First is the identification of the problems faced by we agnostics, atheists and freethinkers in AA. And these can be broken down into one simple fact: we don't attribute our sobriety to a supernatural Higher Power. Nor need we in AA. Read Tradition Three. And as Bill W put it, 'All people must necessarily rally to the call of their own particular…
 
 ## Pages
 
@@ -84,9 +92,16 @@ html {
 ### A
 
 - [A History Of Agnostics In Aa](/recovery/literature/books/non-fiction/history/mutual-aid/a-history-of-agnostics-in-aa)
+
+"The whole book is all about two things. First is the identification of the problems faced by we agnostics, atheists and freethinkers in AA. And these can be broken down into one simple fact: we don't attribute our sobriety to a supernatural Higher Power. Nor need we in AA. Read Tradition Three. And as Bill W put it, 'All people must necessarily rally to the call of their own particular…
+
 - [Aa Comes Of Age](/recovery/literature/books/non-fiction/history/mutual-aid/aa-comes-of-age)
+
+I mentioned elsewhere that literature about management and leadership is difficult to appraise because the nature of leadership is such that they have influence over the shape and spread of their own narratives. In that spirit, this book is best seen as a primary source reflecting how AA's leading figures wished to present themselves and the organization in 1957. I'll be treating it as such…
 
 <a id="letter-w"></a>
 ### W
 
 - [Writing The Big Book The Creation Of Aa ](/recovery/literature/books/non-fiction/history/mutual-aid/writing-the-big-book-the-creation-of-aa)
+
+"While these real-time documents provide the most unassailable evidence for what happened in Alcoholics Anonymous between late 1934 and early 1939, that history is further embellished by the later writings and statements of four early participants in the story: Bill Wilson (A.A.'s founder), Ebby Thatcher (the man who first exposed Bill to the ideas that led to the creation of A.A.), Jim Burwell…

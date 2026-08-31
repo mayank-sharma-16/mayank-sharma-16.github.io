@@ -5,8 +5,11 @@ title: Rap
 ## Recently Modified
 
 - [Kid Cudi Scott Mescudi](/recovery/people/celebrities-and-influencers/musicians/rap/kid-cudi-scott-mescudi)
+
 - [Macklemore Ben Haggerty](/recovery/people/celebrities-and-influencers/musicians/rap/macklemore-ben-haggerty)
+
 - [Juice Wrld](/recovery/people/celebrities-and-influencers/musicians/rap/juice-wrld)
+
 - [Eminem](/recovery/people/celebrities-and-influencers/musicians/rap/eminem)
 
 ## Pages

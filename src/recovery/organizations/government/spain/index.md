@@ -5,7 +5,11 @@ title: Spain
 ## Recently Modified
 
 - [Salt Asylum](/recovery/organizations/government/spain/salt-asylum)
+
+Salt Asylu in Girona, Spain
+
 - [Sant Boi De Llobregat Asylum](/recovery/organizations/government/spain/sant-boi-de-llobregat-asylum)
+
 - [Santa Isabel National Asylum](/recovery/organizations/government/spain/santa-isabel-national-asylum)
 
 ## Pages
@@ -84,5 +88,9 @@ html {
 ### S
 
 - [Salt Asylum](/recovery/organizations/government/spain/salt-asylum)
+
+Salt Asylu in Girona, Spain
+
 - [Sant Boi De Llobregat Asylum](/recovery/organizations/government/spain/sant-boi-de-llobregat-asylum)
+
 - [Santa Isabel National Asylum](/recovery/organizations/government/spain/santa-isabel-national-asylum)

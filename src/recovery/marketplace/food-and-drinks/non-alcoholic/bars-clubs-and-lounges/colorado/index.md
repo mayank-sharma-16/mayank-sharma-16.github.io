@@ -6,6 +6,8 @@ title: Colorado
 
 - [Awake](/recovery/marketplace/food-and-drinks/non-alcoholic/bars-clubs-and-lounges/colorado/awake)
 
+https://www.zeroproofnation.com/blog-1/awakening-the-senses-in-colorado
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [Awake](/recovery/marketplace/food-and-drinks/non-alcoholic/bars-clubs-and-lounges/colorado/awake)
+
+https://www.zeroproofnation.com/blog-1/awakening-the-senses-in-colorado

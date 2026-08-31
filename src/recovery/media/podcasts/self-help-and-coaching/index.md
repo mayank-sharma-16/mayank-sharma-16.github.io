@@ -10,25 +10,76 @@ title: Self Help And Coaching
 ## Recently Modified
 
 - [Sober Bliss Podcast](/recovery/media/podcasts/self-help-and-coaching/sober-bliss-podcast)
+
+https://podcasts.apple.com/us/podcast/sober-bliss/id1501565737
+
 - [Ambitious Addicts Podcast](/recovery/media/podcasts/self-help-and-coaching/women/professional/ambitious-addicts-podcast)
+
+https://podcast.feedspot.com/womenssobrietypodcasts/
+
 - [The Catholic Sobriety Podcast](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/catholic/the-catholic-sobriety-podcast)
+
+https://www.buzzsprout.com/2087354
+
 - [Rewired Sober](/recovery/media/podcasts/self-help-and-coaching/women/rewired-sober)
+
+https://podcasts.apple.com/ca/podcast/rewired-sober/id1781739552
+
 - [Beyond The Booze](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/beyond-the-booze)
+
+https://beyondthebooze.podbean.com/
+
 - [Sobriety Checkpoint](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/sobriety-checkpoint)
+
 - [Grateful Blessed Mess Podcast Emotional ](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/grateful-blessed-mess-podcast-emotional)
+
 - [Your Bright Recovery](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/your-bright-recovery)
+
 - [Shine Within With Gina Kunadian](/recovery/media/podcasts/self-help-and-coaching/women/shine-within-with-gina-kunadian)
+
+https://creators.spotify.com/pod/profile/gina-kunadian/
+
 - [She Recovery Podcast](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/love-and-sex/she-recovery-podcast)
+
+https://sherecovery.com/about-crystal-renaud/
+
 - [Sobriety Snippets For Women Over 40](/recovery/media/podcasts/self-help-and-coaching/women/professional/sobriety-snippets-for-women-over-40)
+
+https://podcasts.apple.com/ca/podcast/sobriety-snippets-for-women-over-40-alcohol-free-living/id1675692757
+
 - [Unbottled Potential](/recovery/media/podcasts/self-help-and-coaching/women/unbottled-potential)
+
+https://feeds.libsyn.com/428352/website
+
 - [The Sober Mom Life](/recovery/media/podcasts/self-help-and-coaching/women/moms/the-sober-mom-life)
+
+https://cms.megaphone.fm/channel/SPMLLC2002463779
+
 - [The Unapologetic Woman Podcast](/recovery/media/podcasts/self-help-and-coaching/women/professional/the-unapologetic-woman-podcast)
+
+https://www.buzzsprout.com/2072698
+
 - [Set Free Sisterhood](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/set-free-sisterhood)
+
+https://podcasts.apple.com/us/podcast/set-free-sisterhood-how-to-stop-drinking-over-drinking/id1521543175
+
 - [Mother Recovering](/recovery/media/podcasts/self-help-and-coaching/women/moms/mother-recovering)
+
+https://open.spotify.com/show/2aaqvSg5d08OqMWXQ57rXb
+
 - [Hello Someday Podcast](/recovery/media/podcasts/self-help-and-coaching/women/professional/hello-someday-podcast)
+
+https://hellosomedaycoaching.com/podcast/
+
 - [She Recovers Podcast](/recovery/media/podcasts/self-help-and-coaching/women/she-recovers-podcast)
+
 - [Hopestream](/recovery/media/podcasts/self-help-and-coaching/women/moms/hopestream)
+
+https://hopestreamcommunity.org/hopestream-podcast/
+
 - [A Sober Girls Guide](/recovery/media/podcasts/self-help-and-coaching/women/a-sober-girls-guide)
+
+https://www.asobergirlsguide.com/
 
 ## Pages
 
@@ -107,7 +158,11 @@ html {
 
 - [Addiction Unlimited Podcast](/recovery/media/podcasts/self-help-and-coaching/addiction-unlimited-podcast)
 
+https://addictionunlimited.com/
+
 <a id="letter-s"></a>
 ### S
 
 - [Sober Bliss Podcast](/recovery/media/podcasts/self-help-and-coaching/sober-bliss-podcast)
+
+https://podcasts.apple.com/us/podcast/sober-bliss/id1501565737

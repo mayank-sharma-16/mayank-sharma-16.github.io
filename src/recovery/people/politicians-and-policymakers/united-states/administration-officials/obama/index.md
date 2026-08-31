@@ -5,6 +5,9 @@ title: Obama
 ## Recently Modified
 
 - [Keith Humphreys](/recovery/people/politicians-and-policymakers/united-states/administration-officials/obama/keith-humphreys)
+
+Humphreys was a psychologist and senior policy advisor for the Obama administration. https://www.npr.org/2017/10/26/560083795/president-trump-may-declare-opioid-epidemic-national-emergency "Dr. Keith Humphreys, a professor of psychiatry at Stanford University and a former adviser in the Obama administration, calls the Trump administration's response 'pathetic,' saying it mostly repurposes…
+
 - [Michael Botticelli](/recovery/people/politicians-and-policymakers/united-states/administration-officials/obama/michael-botticelli)
 
 ## Pages
@@ -83,6 +86,8 @@ html {
 ### K
 
 - [Keith Humphreys](/recovery/people/politicians-and-policymakers/united-states/administration-officials/obama/keith-humphreys)
+
+Humphreys was a psychologist and senior policy advisor for the Obama administration. https://www.npr.org/2017/10/26/560083795/president-trump-may-declare-opioid-epidemic-national-emergency "Dr. Keith Humphreys, a professor of psychiatry at Stanford University and a former adviser in the Obama administration, calls the Trump administration's response 'pathetic,' saying it mostly repurposes…
 
 <a id="letter-m"></a>
 ### M

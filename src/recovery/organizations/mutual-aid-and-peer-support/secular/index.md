@@ -10,10 +10,18 @@ title: Secular
 ## Recently Modified
 
 - [Hudolin Clubs](/recovery/organizations/mutual-aid-and-peer-support/secular/hudolin-clubs)
+
 - [Danshukai](/recovery/organizations/mutual-aid-and-peer-support/secular/japanese/danshukai)
+
 - [Women For Sobriety](/recovery/organizations/mutual-aid-and-peer-support/secular/women/women-for-sobriety)
+
 - [Rational Recovery](/recovery/organizations/mutual-aid-and-peer-support/secular/rational-recovery)
+
+https://www.soberstandard.com/rational-recovery-a-self-help-approach-to-addiction-recovery/
+
 - [Lifering Secular Recovery](/recovery/organizations/mutual-aid-and-peer-support/secular/lifering-secular-recovery)
+
+https://lifering.org/
 
 ## Pages
 
@@ -97,7 +105,11 @@ html {
 
 - [Lifering Secular Recovery](/recovery/organizations/mutual-aid-and-peer-support/secular/lifering-secular-recovery)
 
+https://lifering.org/
+
 <a id="letter-r"></a>
 ### R
 
 - [Rational Recovery](/recovery/organizations/mutual-aid-and-peer-support/secular/rational-recovery)
+
+https://www.soberstandard.com/rational-recovery-a-self-help-approach-to-addiction-recovery/

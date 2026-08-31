@@ -5,7 +5,12 @@ title: Professional
 ## Recently Modified
 
 - [Advances In Addiction And Recovery](/recovery/literature/magazines/professional/advances-in-addiction-and-recovery)
+
+https://www.naadac.org/advances-in-addiction-recovery
+
 - [Treatment Magazine](/recovery/literature/magazines/professional/treatment-magazine)
+
+https://treatmentmagazine.com/
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Advances In Addiction And Recovery](/recovery/literature/magazines/professional/advances-in-addiction-and-recovery)
 
+https://www.naadac.org/advances-in-addiction-recovery
+
 <a id="letter-t"></a>
 ### T
 
 - [Treatment Magazine](/recovery/literature/magazines/professional/treatment-magazine)
+
+https://treatmentmagazine.com/

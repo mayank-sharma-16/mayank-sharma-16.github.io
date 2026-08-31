@@ -5,7 +5,12 @@ title: Research And Discovery
 ## Recently Modified
 
 - [Marc Galanter Md Annual Award](/recovery/events/awards/research-and-discovery/marc-galanter-md-annual-award)
+
+Marc Galanter is a psychiatry professor of the New York University School of Medicine and Founding Directory of the Division of Alcoholism and Drug Abuse. The Marc Galanter MD Award honors individuals who make contributions to biological aspects of addiction as well as recovery capital frameworks. Cara A. Poland (2025) Anthony P. Albanese (2024) Michael F. Weaver (2023) Timothy J. Wiegand (2022)
+
 - [Dr James West Quality Improvement Award](/recovery/events/awards/research-and-discovery/dr-james-west-quality-improvement-award)
+
+The Dr. James West Quality Improvement Award is granted to individuals or organizations responsible for new breakthroughs in addiction treatment. West was part of the team of surgeons who performed the first successful human kidney transplant from a cadaver. After a personal battle with alcoholism, in 1982, he became the founding medical director of the Betty Ford Center. In 2001, the National…
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Dr James West Quality Improvement Award](/recovery/events/awards/research-and-discovery/dr-james-west-quality-improvement-award)
 
+The Dr. James West Quality Improvement Award is granted to individuals or organizations responsible for new breakthroughs in addiction treatment. West was part of the team of surgeons who performed the first successful human kidney transplant from a cadaver. After a personal battle with alcoholism, in 1982, he became the founding medical director of the Betty Ford Center. In 2001, the National…
+
 <a id="letter-m"></a>
 ### M
 
 - [Marc Galanter Md Annual Award](/recovery/events/awards/research-and-discovery/marc-galanter-md-annual-award)
+
+Marc Galanter is a psychiatry professor of the New York University School of Medicine and Founding Directory of the Division of Alcoholism and Drug Abuse. The Marc Galanter MD Award honors individuals who make contributions to biological aspects of addiction as well as recovery capital frameworks. Cara A. Poland (2025) Anthony P. Albanese (2024) Michael F. Weaver (2023) Timothy J. Wiegand (2022)

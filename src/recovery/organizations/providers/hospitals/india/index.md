@@ -6,6 +6,8 @@ title: India
 
 - [Ranchi Institute Of Neuro Psychiatry And Allied Sciences](/recovery/organizations/providers/hospitals/india/ranchi-institute-of-neuro-psychiatry-and-allied-sciences)
 
+Once established as a "lunatic asylum" for Indian soldiers in 1795, this was technically the first mental hospital established by the British dedicated to Indian patients, and the second oldest mental hospital in India still functioning. During the tenure of superintendent and notable physician Dr. J.E. Dhunjibhoy in the 1930s, it achieved one of the lowest mortality rates among Indian mental…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### R
 
 - [Ranchi Institute Of Neuro Psychiatry And Allied Sciences](/recovery/organizations/providers/hospitals/india/ranchi-institute-of-neuro-psychiatry-and-allied-sciences)
+
+Once established as a "lunatic asylum" for Indian soldiers in 1795, this was technically the first mental hospital established by the British dedicated to Indian patients, and the second oldest mental hospital in India still functioning. During the tenure of superintendent and notable physician Dr. J.E. Dhunjibhoy in the 1930s, it achieved one of the lowest mortality rates among Indian mental…

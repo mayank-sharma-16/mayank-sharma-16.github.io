@@ -6,6 +6,8 @@ title: Detective
 
 - [The Moonstone A Romance By Wilkie Collins 1868.Md](/recovery/literature/books/fiction/detective/the-moonstone-a-romance-by-wilkie-collins-1868md)
 
+The Moonstone: A Romance is one of the earliest modern detective novels and strikes a little close to home. The namesake jewel in the novel is associated explicitly with Chandra, the god representing the Moon in Hinduism, which is also what my name translates to. It also helped popularize the trope of jewels being taken from a colonized and oppressed peoples before being taken again through an…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### T
 
 - [The Moonstone A Romance By Wilkie Collins 1868.Md](/recovery/literature/books/fiction/detective/the-moonstone-a-romance-by-wilkie-collins-1868md)
+
+The Moonstone: A Romance is one of the earliest modern detective novels and strikes a little close to home. The namesake jewel in the novel is associated explicitly with Chandra, the god representing the Moon in Hinduism, which is also what my name translates to. It also helped popularize the trope of jewels being taken from a colonized and oppressed peoples before being taken again through an…

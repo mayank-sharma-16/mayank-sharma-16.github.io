@@ -5,9 +5,13 @@ title: Songs
 ## Recently Modified
 
 - [Denial Is A River](/recovery/media/songs/denial-is-a-river)
+
 - [Swimming Pools Drank](/recovery/media/songs/swimming-pools-drank)
+
 - [The Kids Arent Alright](/recovery/media/songs/the-kids-arent-alright)
+
 - [Heroin By Velvet Underground](/recovery/media/songs/heroin-by-velvet-underground)
+
 - [The Wolf](/recovery/media/songs/the-wolf)
 
 ## Pages
@@ -101,4 +105,5 @@ html {
 ### T
 
 - [The Kids Arent Alright](/recovery/media/songs/the-kids-arent-alright)
+
 - [The Wolf](/recovery/media/songs/the-wolf)

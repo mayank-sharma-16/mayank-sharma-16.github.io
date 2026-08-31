@@ -6,6 +6,8 @@ title: Professional
 
 - [Asads Conference](/recovery/events/conferences/professional/asads-conference)
 
+The Alabama School of Alcohol and Other Drug Studies was established in 1974 after the Hughes Act (1970) gave states federal funding to address alcohol abuse. Although Alabama now had these funds, the state lacked a workforce trained to handle substance use disorders. Rather than providing manuals or academic-style coursework, the event created multi-day learning tracks to quickly get caught up…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [Asads Conference](/recovery/events/conferences/professional/asads-conference)
+
+The Alabama School of Alcohol and Other Drug Studies was established in 1974 after the Hughes Act (1970) gave states federal funding to address alcohol abuse. Although Alabama now had these funds, the state lacked a workforce trained to handle substance use disorders. Rather than providing manuals or academic-style coursework, the event created multi-day learning tracks to quickly get caught up…

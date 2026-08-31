@@ -5,7 +5,10 @@ title: Musicians
 ## Recently Modified
 
 - [John Coltrane](/recovery/people/artists/musicians/john-coltrane)
+
 - [Charlie Parker](/recovery/people/artists/musicians/charlie-parker)
+
+While Charlie Parker's most known struggles include addictions to heroin and alcohol, he was using Benzedrine Inhalers manufactured by Smith, Klein & French (SKF), which were essentially over-the-counter amphetamines.
 
 ## Pages
 
@@ -83,6 +86,8 @@ html {
 ### C
 
 - [Charlie Parker](/recovery/people/artists/musicians/charlie-parker)
+
+While Charlie Parker's most known struggles include addictions to heroin and alcohol, he was using Benzedrine Inhalers manufactured by Smith, Klein & French (SKF), which were essentially over-the-counter amphetamines.
 
 <a id="letter-j"></a>
 ### J

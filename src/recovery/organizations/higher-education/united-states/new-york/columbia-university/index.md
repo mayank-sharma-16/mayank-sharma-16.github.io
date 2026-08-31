@@ -5,15 +5,29 @@ title: Columbia University
 ## Recently Modified
 
 - [Cannabis Research Laboratory](/recovery/organizations/higher-education/united-states/new-york/columbia-university/cannabis-research-laboratory)
+
 - [Cocaine Research Laboratory](/recovery/organizations/higher-education/united-states/new-york/columbia-university/cocaine-research-laboratory)
+
 - [Columbia Center For Healing Of Opioid An](/recovery/organizations/higher-education/united-states/new-york/columbia-university/columbia-center-for-healing-of-opioid-an)
+
+https://chosen.columbia.edu/
+
 - [Columbia Recovery Coalition](/recovery/organizations/higher-education/united-states/new-york/columbia-university/columbia-recovery-coalition)
+
+https://undergrad.admissions.columbia.edu/studentgroup/columbia-recovery-coalition https://www.facebook.com/columbiarecoverycoalition/ https://www.columbiarecoverycoalition.com/
+
 - [Division Of Substance Use Disorders](/recovery/organizations/higher-education/united-states/new-york/columbia-university/division-of-substance-use-disorders)
+
 - [Gambling Disorders Clinic](/recovery/organizations/higher-education/united-states/new-york/columbia-university/gambling-disorders-clinic)
+
 - [Martinez Lab](/recovery/organizations/higher-education/united-states/new-york/columbia-university/martinez-lab)
+
 - [National Drug Abuse Clinical Trials Network](/recovery/organizations/higher-education/united-states/new-york/columbia-university/national-drug-abuse-clinical-trials-network)
+
 - [Substance Treatment And Research Service](/recovery/organizations/higher-education/united-states/new-york/columbia-university/substance-treatment-and-research-service)
+
 - [Womens Research Center](/recovery/organizations/higher-education/united-states/new-york/columbia-university/womens-research-center)
+
 - [Opioid Research Laboratory](/recovery/organizations/higher-education/united-states/new-york/columbia-university/opioid-research-laboratory)
 
 ## Pages
@@ -92,9 +106,16 @@ html {
 ### C
 
 - [Cannabis Research Laboratory](/recovery/organizations/higher-education/united-states/new-york/columbia-university/cannabis-research-laboratory)
+
 - [Cocaine Research Laboratory](/recovery/organizations/higher-education/united-states/new-york/columbia-university/cocaine-research-laboratory)
+
 - [Columbia Center For Healing Of Opioid An](/recovery/organizations/higher-education/united-states/new-york/columbia-university/columbia-center-for-healing-of-opioid-an)
+
+https://chosen.columbia.edu/
+
 - [Columbia Recovery Coalition](/recovery/organizations/higher-education/united-states/new-york/columbia-university/columbia-recovery-coalition)
+
+https://undergrad.admissions.columbia.edu/studentgroup/columbia-recovery-coalition https://www.facebook.com/columbiarecoverycoalition/ https://www.columbiarecoverycoalition.com/
 
 <a id="letter-d"></a>
 ### D

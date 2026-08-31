@@ -6,6 +6,8 @@ title: Greece
 
 - [Athens Medical Society](/recovery/organizations/research-and-education/greece/athens-medical-society)
 
+Established in 1835 shortly after Greece as a modern nation-state, it is the oldest medical scientific society in the country. It organizes the Panhellenic Medical Congress annually.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [Athens Medical Society](/recovery/organizations/research-and-education/greece/athens-medical-society)
+
+Established in 1835 shortly after Greece as a modern nation-state, it is the oldest medical scientific society in the country. It organizes the Panhellenic Medical Congress annually.

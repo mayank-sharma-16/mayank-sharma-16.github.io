@@ -5,24 +5,53 @@ title: Games
 ## Recently Modified
 
 - [Bloodborne](/recovery/media/games/bloodborne)
+
+"In Yharnam, they produce more blood than alcohol, as the former is more intoxicating." Bloodborne is not shy about embracing addiction themes as part of its eldritch Lovecraftian vibes. The "Old Blood" is explicitly said to be more intoxicating than alcohol, and the citizens of Yharnam pursue blood despite the insanity and gruesome decay it brings. The Old Blood as a substance and the Hunt as…
+
 - [Flappy Bird](/recovery/media/games/flappy-bird)
+
+You really had to be there to fully experience the insanity this game caused. https://filmmakermagazine.com/70250-hard-to-kick/
+
 - [Getting Over It](/recovery/media/games/getting-over-it)
+
+You either don't know this game or wish you didn't know this game. It's not so dissimilar to addiction in that way, which is no coincidence. Bennett Foddy, the designer of the game, is one of the few people who can claim to have both studied the philosophy behind gaming and addiction as well as developed them with those principles in mind: "You're shooting for benign, minor addiction that the…
+
 - [Pathologic 2](/recovery/media/games/pathologic-2)
+
 - [Disco Elysium](/recovery/media/games/disco-elysium)
+
+By far one of the best slice of life stories about active addiction.
+
 - [Qwop](/recovery/media/games/qwop)
+
 - [Alan Wake](/recovery/media/games/alan-wake)
+
+From the studio behind
+
 - [Detroit Become Human](/recovery/media/games/detroit-become-human)
+
 - [Firewatch](/recovery/media/games/firewatch)
+
 - [Max Payne](/recovery/media/games/max-payne)
+
 - [Silent Hill](/recovery/media/games/silent-hill)
+
 - [Bioshock](/recovery/media/games/bioshock)
+
 - [Call Of Cthulhu](/recovery/media/games/call-of-cthulhu)
+
 - [Cyberpunk 2077](/recovery/media/games/cyberpunk-2077)
+
 - [Fallout](/recovery/media/games/fallout)
+
 - [Far Cry](/recovery/media/games/far-cry)
+
 - [Lisa](/recovery/media/games/lisa)
+
 - [Red Dead Redemption](/recovery/media/games/red-dead-redemption)
+
 - [We Happy Few](/recovery/media/games/we-happy-few)
+
 - [Mouthwashing](/recovery/media/games/mouthwashing)
 
 ## Pages
@@ -102,38 +131,57 @@ html {
 
 - [Alan Wake](/recovery/media/games/alan-wake)
 
+From the studio behind
+
 <a id="letter-b"></a>
 ### B
 
 - [Bioshock](/recovery/media/games/bioshock)
+
 - [Bloodborne](/recovery/media/games/bloodborne)
+
+"In Yharnam, they produce more blood than alcohol, as the former is more intoxicating." Bloodborne is not shy about embracing addiction themes as part of its eldritch Lovecraftian vibes. The "Old Blood" is explicitly said to be more intoxicating than alcohol, and the citizens of Yharnam pursue blood despite the insanity and gruesome decay it brings. The Old Blood as a substance and the Hunt as…
 
 <a id="letter-c"></a>
 ### C
 
 - [Call Of Cthulhu](/recovery/media/games/call-of-cthulhu)
+
 - [Cyberpunk 2077](/recovery/media/games/cyberpunk-2077)
 
 <a id="letter-d"></a>
 ### D
 
 - [Deadly Premonition](/recovery/media/games/deadly-premonition)
+
 - [Detroit Become Human](/recovery/media/games/detroit-become-human)
+
 - [Disco Elysium](/recovery/media/games/disco-elysium)
+
+By far one of the best slice of life stories about active addiction.
+
 - [Dragon Age Inquisition](/recovery/media/games/dragon-age-inquisition)
 
 <a id="letter-f"></a>
 ### F
 
 - [Fallout](/recovery/media/games/fallout)
+
 - [Far Cry](/recovery/media/games/far-cry)
+
 - [Firewatch](/recovery/media/games/firewatch)
+
 - [Flappy Bird](/recovery/media/games/flappy-bird)
+
+You really had to be there to fully experience the insanity this game caused. https://filmmakermagazine.com/70250-hard-to-kick/
 
 <a id="letter-g"></a>
 ### G
 
 - [Getting Over It](/recovery/media/games/getting-over-it)
+
+You either don't know this game or wish you didn't know this game. It's not so dissimilar to addiction in that way, which is no coincidence. Bennett Foddy, the designer of the game, is one of the few people who can claim to have both studied the philosophy behind gaming and addiction as well as developed them with those principles in mind: "You're shooting for benign, minor addiction that the…
+
 - [God Of War](/recovery/media/games/god-of-war)
 
 <a id="letter-h"></a>
@@ -150,6 +198,7 @@ html {
 ### M
 
 - [Max Payne](/recovery/media/games/max-payne)
+
 - [Mouthwashing](/recovery/media/games/mouthwashing)
 
 <a id="letter-p"></a>

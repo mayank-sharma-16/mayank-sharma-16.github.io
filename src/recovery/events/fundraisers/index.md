@@ -5,7 +5,12 @@ title: Fundraisers
 ## Recently Modified
 
 - [Annual Cure Addiction Now Benefit](/recovery/events/fundraisers/annual-cure-addiction-now-benefit)
+
+The nonprofit Cure Addiction Now (CAN) was founded in 2018 by Nancy Davis and her late son Jason Davis, who passed away from an overdose in 2020 after struggling with opioid use disorder for 12 years. The first fundraising benefit was held in 2025, with $800,000 raised for 19 scientific research initiatives related to dual-diagnosis mental health frameworks. David Foster Rufus Wainwright Taylor…
+
 - [Shatterproof Walk To End Addiction](/recovery/events/fundraisers/shatterproof-walk-to-end-addiction)
+
+Shatterproof started as a nonprofit in 2013 by Gary Mendell following the passing of his son, who took his own life after a struggle with addiction and its social stigma. The Shatterproof Walk to End Addiction was launched in 2017, and, as of 2026, mobilizes across six cities in the United States with over 5000 annual participants and $1.5 million raised each year. Gary Mendell, Founder and CEO…
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Annual Cure Addiction Now Benefit](/recovery/events/fundraisers/annual-cure-addiction-now-benefit)
 
+The nonprofit Cure Addiction Now (CAN) was founded in 2018 by Nancy Davis and her late son Jason Davis, who passed away from an overdose in 2020 after struggling with opioid use disorder for 12 years. The first fundraising benefit was held in 2025, with $800,000 raised for 19 scientific research initiatives related to dual-diagnosis mental health frameworks. David Foster Rufus Wainwright Taylor…
+
 <a id="letter-s"></a>
 ### S
 
 - [Shatterproof Walk To End Addiction](/recovery/events/fundraisers/shatterproof-walk-to-end-addiction)
+
+Shatterproof started as a nonprofit in 2013 by Gary Mendell following the passing of his son, who took his own life after a struggle with addiction and its social stigma. The Shatterproof Walk to End Addiction was launched in 2017, and, as of 2026, mobilizes across six cities in the United States with over 5000 annual participants and $1.5 million raised each year. Gary Mendell, Founder and CEO…

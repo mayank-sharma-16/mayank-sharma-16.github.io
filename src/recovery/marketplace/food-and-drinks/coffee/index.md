@@ -13,17 +13,37 @@ title: Coffee
 ## Recently Modified
 
 - [Greyston Bakery](/recovery/marketplace/food-and-drinks/coffee/greyston-bakery)
+
+https://shop.greyston.org/
+
 - [Homegirl Cafe](/recovery/marketplace/food-and-drinks/coffee/california/homegirl-cafe)
+
+https://homeboyindustries.org/social-enterprises/cafe/
+
 - [Homeboy Bakery](/recovery/marketplace/food-and-drinks/coffee/california/homeboy-bakery)
+
 - [Brainwashed Coffee](/recovery/marketplace/food-and-drinks/coffee/brainwashed-coffee)
+
 - [Pink Cloud Coffee](/recovery/marketplace/food-and-drinks/coffee/pink-cloud-coffee)
+
 - [Restoration Roasters](/recovery/marketplace/food-and-drinks/coffee/california/restoration-roasters)
+
 - [Wagon Coffee](/recovery/marketplace/food-and-drinks/coffee/colorado/wagon-coffee)
+
 - [Sober Joe](/recovery/marketplace/food-and-drinks/coffee/indiana/sober-joe)
+
+https://www.soberjoe.com/
+
 - [Sobrew](/recovery/marketplace/food-and-drinks/coffee/sobrew)
+
+https://sobrew.com/
+
 - [Clean Slate Coffee House](/recovery/marketplace/food-and-drinks/coffee/clean-slate-coffee-house)
+
 - [Thistle Farms Cafe And Marketplace](/recovery/marketplace/food-and-drinks/coffee/tennessee/thistle-farms-cafe-and-marketplace)
+
 - [Dv8 Kitchen](/recovery/marketplace/food-and-drinks/coffee/kentucky/dv8-kitchen)
+
 - [Convict Coffee Company](/recovery/marketplace/food-and-drinks/coffee/convict-coffee-company)
 
 ## Pages
@@ -107,12 +127,15 @@ html {
 ### C
 
 - [Clean Slate Coffee House](/recovery/marketplace/food-and-drinks/coffee/clean-slate-coffee-house)
+
 - [Convict Coffee Company](/recovery/marketplace/food-and-drinks/coffee/convict-coffee-company)
 
 <a id="letter-g"></a>
 ### G
 
 - [Greyston Bakery](/recovery/marketplace/food-and-drinks/coffee/greyston-bakery)
+
+https://shop.greyston.org/
 
 <a id="letter-p"></a>
 ### P
@@ -123,3 +146,5 @@ html {
 ### S
 
 - [Sobrew](/recovery/marketplace/food-and-drinks/coffee/sobrew)
+
+https://sobrew.com/

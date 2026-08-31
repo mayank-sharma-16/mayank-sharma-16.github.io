@@ -5,7 +5,12 @@ title: Washington
 ## Recently Modified
 
 - [Dave Purchase Project](/recovery/organizations/activists-advocacy-and-aid/united-states/washington/dave-purchase-project)
+
+https://www.davepurchaseproject.org/
+
 - [Tacoma Needle Exchange](/recovery/organizations/activists-advocacy-and-aid/united-states/washington/tacoma-needle-exchange)
+
+https://tacomaneedleexchange.org/
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Dave Purchase Project](/recovery/organizations/activists-advocacy-and-aid/united-states/washington/dave-purchase-project)
 
+https://www.davepurchaseproject.org/
+
 <a id="letter-t"></a>
 ### T
 
 - [Tacoma Needle Exchange](/recovery/organizations/activists-advocacy-and-aid/united-states/washington/tacoma-needle-exchange)
+
+https://tacomaneedleexchange.org/

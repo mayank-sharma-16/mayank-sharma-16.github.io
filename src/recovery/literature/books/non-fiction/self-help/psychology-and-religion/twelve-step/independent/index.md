@@ -5,8 +5,13 @@ title: Independent
 ## Recently Modified
 
 - [Codependent No More](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/independent/codependent-no-more)
+
+This book was one of the first to bring the term "codependency" out of academic jargon and into the public vernacular through the self-help format. By explicitly applying the 12 step process to codependency, Melody Beattie directly inspired the formation of Codependents Anonymous (CoDA). However, modern psychologists have been critical of the book's conceptualization of co-dependency.
+
 - [Beyond Belief Agnostic Musings For 12 Step Life.Md](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/independent/beyond-belief-agnostic-musings-for-12-step-lifemd)
+
 - [The Common Sense Of Drinking](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/independent/the-common-sense-of-drinking)
+
 - [The Little Book A Collection Of Alternative 12 Steps](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/independent/the-little-book-a-collection-of-alternative-12-steps)
 
 ## Pages
@@ -91,8 +96,11 @@ html {
 
 - [Codependent No More](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/independent/codependent-no-more)
 
+This book was one of the first to bring the term "codependency" out of academic jargon and into the public vernacular through the self-help format. By explicitly applying the 12 step process to codependency, Melody Beattie directly inspired the formation of Codependents Anonymous (CoDA). However, modern psychologists have been critical of the book's conceptualization of co-dependency.
+
 <a id="letter-t"></a>
 ### T
 
 - [The Common Sense Of Drinking](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/independent/the-common-sense-of-drinking)
+
 - [The Little Book A Collection Of Alternative 12 Steps](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/twelve-step/independent/the-little-book-a-collection-of-alternative-12-steps)

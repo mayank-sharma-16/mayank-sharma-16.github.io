@@ -5,6 +5,7 @@ title: Animated
 ## Recently Modified
 
 - [Futurama](/recovery/media/shows/comedies/animated/futurama)
+
 - [Archer](/recovery/media/shows/comedies/animated/archer)
 
 ## Pages

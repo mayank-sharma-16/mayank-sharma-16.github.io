@@ -6,6 +6,8 @@ title: 1660 1669
 
 - [Daniel Defoe](/recovery/people/artists/writers/1660-1669/daniel-defoe)
 
+The author of Robinson Crusoe once defended gin and other distilled spirits out of a nationalist desire to keep wealth in the country and promote British liquor over foreign dinks. It's also worth mentioning that his published defenses were funded by distillery companies, effectively making him paid propaganda to sell liquor while blaming the character of individuals for the sins and crimes…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### D
 
 - [Daniel Defoe](/recovery/people/artists/writers/1660-1669/daniel-defoe)
+
+The author of Robinson Crusoe once defended gin and other distilled spirits out of a nationalist desire to keep wealth in the country and promote British liquor over foreign dinks. It's also worth mentioning that his published defenses were funded by distillery companies, effectively making him paid propaganda to sell liquor while blaming the character of individuals for the sins and crimes…

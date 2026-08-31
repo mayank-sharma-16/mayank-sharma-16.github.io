@@ -11,5 +11,7 @@ title: Athletes
 ## Recently Modified
 
 - [Dicky Eklund](/recovery/people/celebrities-and-influencers/athletes/boxing/dicky-eklund)
+
 - [Michael Phelps](/recovery/people/celebrities-and-influencers/athletes/swimming/michael-phelps)
+
 - [Mickey Mantle](/recovery/people/celebrities-and-influencers/athletes/baseball/mickey-mantle)

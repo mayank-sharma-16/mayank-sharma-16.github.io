@@ -5,7 +5,9 @@ title: Acute Myocardial Infarction
 ## Recently Modified
 
 - [Aortic Dissection](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/acute-myocardial-infarction/aortic-dissection)
+
 - [Accelerated Atherosclerosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/acute-myocardial-infarction/accelerated-atherosclerosis)
+
 - [Coronary Vasospasm](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/acute-myocardial-infarction/coronary-vasospasm)
 
 ## Pages
@@ -84,6 +86,7 @@ html {
 ### A
 
 - [Accelerated Atherosclerosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/acute-myocardial-infarction/accelerated-atherosclerosis)
+
 - [Aortic Dissection](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/acute-myocardial-infarction/aortic-dissection)
 
 <a id="letter-c"></a>

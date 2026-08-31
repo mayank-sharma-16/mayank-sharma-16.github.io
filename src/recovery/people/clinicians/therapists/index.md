@@ -5,8 +5,16 @@ title: Therapists
 ## Recently Modified
 
 - [Sigmund Freud](/recovery/people/clinicians/therapists/sigmund-freud)
+
+"I need a lot of cocaine..." Sigmund Freud is a character. It's hard to find someone else who occupies the space in our culture that he does. Highly influential, incredibly wrong, amusingly absurd. Freud loved coke. He tried treating his friend's morphine addiction with it, who unsurprisingly said taking coke allowed him to take less morphine. His first major scientific publication was "Uber…
+
 - [Carl Jung](/recovery/people/clinicians/therapists/carl-jung)
+
+Buckle up, this is going to be a big one and I will not be hiding my favoritism.
+
 - [Richard Rogers Peabody](/recovery/people/clinicians/therapists/richard-rogers-peabody)
+
+https://www.cmia32.org/archives/publications/books/CommonSenseofDrinking-Peabody.pdf
 
 ## Pages
 
@@ -85,12 +93,18 @@ html {
 
 - [Carl Jung](/recovery/people/clinicians/therapists/carl-jung)
 
+Buckle up, this is going to be a big one and I will not be hiding my favoritism.
+
 <a id="letter-r"></a>
 ### R
 
 - [Richard Rogers Peabody](/recovery/people/clinicians/therapists/richard-rogers-peabody)
 
+https://www.cmia32.org/archives/publications/books/CommonSenseofDrinking-Peabody.pdf
+
 <a id="letter-s"></a>
 ### S
 
 - [Sigmund Freud](/recovery/people/clinicians/therapists/sigmund-freud)
+
+"I need a lot of cocaine..." Sigmund Freud is a character. It's hard to find someone else who occupies the space in our culture that he does. Highly influential, incredibly wrong, amusingly absurd. Freud loved coke. He tried treating his friend's morphine addiction with it, who unsurprisingly said taking coke allowed him to take less morphine. His first major scientific publication was "Uber…

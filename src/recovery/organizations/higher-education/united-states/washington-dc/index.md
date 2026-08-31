@@ -10,4 +10,7 @@ title: Washington Dc
 ## Recently Modified
 
 - [Psychopharmacology Lab](/recovery/organizations/higher-education/united-states/washington-dc/american-university/psychopharmacology-lab)
+
+https://www.american.edu/cas/psychology/psychopharmacology/
+
 - [Center On Addiction And Public Policy](/recovery/organizations/higher-education/united-states/washington-dc/georgetown-university/center-on-addiction-and-public-policy)

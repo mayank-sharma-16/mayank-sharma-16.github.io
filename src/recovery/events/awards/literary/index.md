@@ -6,6 +6,8 @@ title: Literary
 
 - [Experience Strength And Hope Award](/recovery/events/awards/literary/experience-strength-and-hope-award)
 
+In 2008, the nonprofit Writers in Treatment was founded by Leonard Lee Buschel and Robert Downey Sr. to help workers in the entertainment industry gain access for alcohol and drug addiction. In 2010, the organization established and presented the Experience, Strength, and Hope Award to Christopher Kennedy Lawford of the Kennedy family. The annual award ceremony is traditionally hosted in Los…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### E
 
 - [Experience Strength And Hope Award](/recovery/events/awards/literary/experience-strength-and-hope-award)
+
+In 2008, the nonprofit Writers in Treatment was founded by Leonard Lee Buschel and Robert Downey Sr. to help workers in the entertainment industry gain access for alcohol and drug addiction. In 2010, the organization established and presented the Experience, Strength, and Hope Award to Christopher Kennedy Lawford of the Kennedy family. The annual award ceremony is traditionally hosted in Los…

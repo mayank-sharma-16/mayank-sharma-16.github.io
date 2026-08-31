@@ -5,6 +5,7 @@ title: Policy
 ## Recently Modified
 
 - [Righteous Dopefiend](/recovery/literature/books/non-fiction/policy/righteous-dopefiend)
+
 - [The Shock Doctrine](/recovery/literature/books/non-fiction/policy/the-shock-doctrine)
 
 ## Pages

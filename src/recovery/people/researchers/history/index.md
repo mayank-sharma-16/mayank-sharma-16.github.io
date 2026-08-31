@@ -5,24 +5,51 @@ title: History
 ## Recently Modified
 
 - [John Chynoweth Burnham](/recovery/people/researchers/history/john-chynoweth-burnham)
+
 - [Heinrich Tappe](/recovery/people/researchers/history/heinrich-tappe)
+
 - [Auguste Voisin](/recovery/people/researchers/history/auguste-voisin)
+
 - [Andrew Wear](/recovery/people/researchers/history/andrew-wear)
+
 - [Elizabeth Lane Furdell](/recovery/people/researchers/history/elizabeth-lane-furdell)
+
 - [David Clemis](/recovery/people/researchers/history/david-clemis)
+
 - [Phil Withington](/recovery/people/researchers/history/phil-withington)
+
 - [Jessica Warner](/recovery/people/researchers/history/jessica-warner)
+
 - [Christian Werkmeister](/recovery/people/researchers/history/christian-werkmeister)
+
 - [Adela Gjuricova](/recovery/people/researchers/history/adela-gjuricova)
+
 - [Akira Hashimoto](/recovery/people/researchers/history/akira-hashimoto)
+
 - [Konstantinos Gkostinas](/recovery/people/researchers/history/konstantinos-gkostinas)
+
+https://www.openjerusalem.org/konstantinos-gkotsinas
+
 - [Jasmin Brotz](/recovery/people/researchers/history/jasmin-brotz)
+
 - [Nina S Studer](/recovery/people/researchers/history/nina-s-studer)
+
+Nina Studer is a research associate at the University of Geneva with expertise in drinking studies, North Africa, colonialism, and women's history. https://scholar.google.com/citations?hl=en&user=b-ghOLsAAAAJ&viewop=listworks
+
 - [Mauricio Becerra Rebolledo](/recovery/people/researchers/history/mauricio-becerra-rebolledo)
+
 - [Ricardo Campos](/recovery/people/researchers/history/ricardo-campos)
+
+https://www.semanticscholar.org/paper/Alcoholism-and-medicine-in-Spain-in-the-second-half-Campos-Dening/9ada65dd9d3e285a864c2e98e5f3f07631d7cdc1
+
 - [David Korostyshevsky](/recovery/people/researchers/history/david-korostyshevsky)
+
+Korostyshevsky is an Assistant Professor at Texas A&M University as well as the Secretary of the Alcohol and Drugs History Society.
+
 - [Ivan Crozier](/recovery/people/researchers/history/ivan-crozier)
+
 - [Eric Engstrom](/recovery/people/researchers/history/eric-engstrom)
+
 - [Gerard Sasges](/recovery/people/researchers/history/gerard-sasges)
 
 ## Pages
@@ -101,9 +128,13 @@ html {
 ### A
 
 - [Adela Gjuricova](/recovery/people/researchers/history/adela-gjuricova)
+
 - [Akira Hashimoto](/recovery/people/researchers/history/akira-hashimoto)
+
 - [Andrew Wear](/recovery/people/researchers/history/andrew-wear)
+
 - [Auguste Voisin](/recovery/people/researchers/history/auguste-voisin)
+
 - [Aurea Toxqui](/recovery/people/researchers/history/aurea-toxqui)
 
 <a id="letter-c"></a>
@@ -115,27 +146,38 @@ html {
 ### D
 
 - [David Clemis](/recovery/people/researchers/history/david-clemis)
+
 - [David Korostyshevsky](/recovery/people/researchers/history/david-korostyshevsky)
+
+Korostyshevsky is an Assistant Professor at Texas A&M University as well as the Secretary of the Alcohol and Drugs History Society.
+
 - [David T Courtwright](/recovery/people/researchers/history/david-t-courtwright)
+
 - [Deborah Toner](/recovery/people/researchers/history/deborah-toner)
 
 <a id="letter-e"></a>
 ### E
 
 - [Elizabeth Lane Furdell](/recovery/people/researchers/history/elizabeth-lane-furdell)
+
 - [Eric Engstrom](/recovery/people/researchers/history/eric-engstrom)
+
 - [Erica Wald](/recovery/people/researchers/history/erica-wald)
 
 <a id="letter-g"></a>
 ### G
 
 - [Gerard Sasges](/recovery/people/researchers/history/gerard-sasges)
+
 - [Gretchen Pierce](/recovery/people/researchers/history/gretchen-pierce)
+
+https://www.cambridge.org/core/journals/americas/article/abs/social-and-cultural-history-alcohol-in-latin-america-a-social-and-cultural-history-edited-by-gretchen-pierce-and-aurea-toxqui-tucson-university-of-arizona-press-2014-pp-320-6000-cloth/D4648127DD407C021610DF79DFA55D73
 
 <a id="letter-h"></a>
 ### H
 
 - [H Fischer Tine](/recovery/people/researchers/history/h-fischer-tine)
+
 - [Heinrich Tappe](/recovery/people/researchers/history/heinrich-tappe)
 
 <a id="letter-i"></a>
@@ -147,15 +189,21 @@ html {
 ### J
 
 - [J Tschurenev](/recovery/people/researchers/history/j-tschurenev)
+
 - [Jasmin Brotz](/recovery/people/researchers/history/jasmin-brotz)
+
 - [Jessica Warner](/recovery/people/researchers/history/jessica-warner)
+
 - [John Chynoweth Burnham](/recovery/people/researchers/history/john-chynoweth-burnham)
+
 - [Jonathan Reinarz](/recovery/people/researchers/history/jonathan-reinarz)
 
 <a id="letter-k"></a>
 ### K
 
 - [Konstantinos Gkostinas](/recovery/people/researchers/history/konstantinos-gkostinas)
+
+https://www.openjerusalem.org/konstantinos-gkotsinas
 
 <a id="letter-m"></a>
 ### M
@@ -166,7 +214,10 @@ html {
 ### N
 
 - [Nandini Bhattacharya](/recovery/people/researchers/history/nandini-bhattacharya)
+
 - [Nina S Studer](/recovery/people/researchers/history/nina-s-studer)
+
+Nina Studer is a research associate at the University of Geneva with expertise in drinking studies, North Africa, colonialism, and women's history. https://scholar.google.com/citations?hl=en&user=b-ghOLsAAAAJ&viewop=listworks
 
 <a id="letter-p"></a>
 ### P
@@ -177,10 +228,16 @@ html {
 ### R
 
 - [Rebecca Wynter](/recovery/people/researchers/history/rebecca-wynter)
+
 - [Ricardo Campos](/recovery/people/researchers/history/ricardo-campos)
+
+https://www.semanticscholar.org/paper/Alcoholism-and-medicine-in-Spain-in-the-second-half-Campos-Dening/9ada65dd9d3e285a864c2e98e5f3f07631d7cdc1
+
 - [Roy Porter](/recovery/people/researchers/history/roy-porter)
 
 <a id="letter-w"></a>
 ### W
 
 - [William F Bynum](/recovery/people/researchers/history/william-f-bynum)
+
+William Bynum (also referred to often as W.F. Bynum) is a notable historian whose 1968 paper pointed out the way acute impacts of alcoholism or heavy drinking were acknowledged by medicinal authorities, but the concept of "chronic alcoholism" still seemed ill-defined and elusive. He collaborated with another notable historian of medicine, Roy Porter, on the Companion Encyclopedia of the History…

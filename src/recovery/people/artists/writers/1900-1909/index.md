@@ -5,7 +5,11 @@ title: 1900 1909
 ## Recently Modified
 
 - [Jean Paul Sartre](/recovery/people/artists/writers/1900-1909/jean-paul-sartre)
+
 - [Ayn Rand](/recovery/people/artists/writers/1900-1909/ayn-rand)
+
+Ayn Rand is technically a writer, so I guess she belongs here.
+
 - [Charles Jackson](/recovery/people/artists/writers/1900-1909/charles-jackson)
 
 ## Pages
@@ -84,6 +88,8 @@ html {
 ### A
 
 - [Ayn Rand](/recovery/people/artists/writers/1900-1909/ayn-rand)
+
+Ayn Rand is technically a writer, so I guess she belongs here.
 
 <a id="letter-c"></a>
 ### C

@@ -6,6 +6,8 @@ title: Gothic
 
 - [Franklin Evans By Walt Whitman 1842](/recovery/literature/books/fiction/didactic/temperance/gothic/franklin-evans-by-walt-whitman-1842)
 
+There are various anecdotes floating around about Walt Whitman writing this temperance novel while heavily drinking himself, which does explain why critics have called it "an incoherent and often aesthetically dissatisfying text." The historian David Reynolds biographical accounts of Whitman include a claim that he wrote the novel in three days while drinking heavily. However, there seems to be…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### F
 
 - [Franklin Evans By Walt Whitman 1842](/recovery/literature/books/fiction/didactic/temperance/gothic/franklin-evans-by-walt-whitman-1842)
+
+There are various anecdotes floating around about Walt Whitman writing this temperance novel while heavily drinking himself, which does explain why critics have called it "an incoherent and often aesthetically dissatisfying text." The historian David Reynolds biographical accounts of Whitman include a claim that he wrote the novel in three days while drinking heavily. However, there seems to be…

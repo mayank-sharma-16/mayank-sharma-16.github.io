@@ -5,10 +5,15 @@ title: Tricyclic
 ## Recently Modified
 
 - [Desipramine](/recovery/treatment/medications/antidepressants/tricyclic/desipramine)
+
 - [Doxepin](/recovery/treatment/medications/antidepressants/tricyclic/doxepin)
+
 - [Clomipramine](/recovery/treatment/medications/antidepressants/tricyclic/clomipramine)
+
 - [Imipramine](/recovery/treatment/medications/antidepressants/tricyclic/imipramine)
+
 - [Nortriptyline](/recovery/treatment/medications/antidepressants/tricyclic/nortriptyline)
+
 - [Amitriptyline](/recovery/treatment/medications/antidepressants/tricyclic/amitriptyline)
 
 ## Pages
@@ -97,6 +102,7 @@ html {
 ### D
 
 - [Desipramine](/recovery/treatment/medications/antidepressants/tricyclic/desipramine)
+
 - [Doxepin](/recovery/treatment/medications/antidepressants/tricyclic/doxepin)
 
 <a id="letter-i"></a>

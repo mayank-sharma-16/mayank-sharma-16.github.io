@@ -6,6 +6,8 @@ title: Forensic Consultation
 
 - [Forensic Addiction And Psychiatric Services Llc](/recovery/organizations/private-companies/forensic-consultation/forensic-addiction-and-psychiatric-services-llc)
 
+https://www.forensicaddictions.com/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### F
 
 - [Forensic Addiction And Psychiatric Services Llc](/recovery/organizations/private-companies/forensic-consultation/forensic-addiction-and-psychiatric-services-llc)
+
+https://www.forensicaddictions.com/

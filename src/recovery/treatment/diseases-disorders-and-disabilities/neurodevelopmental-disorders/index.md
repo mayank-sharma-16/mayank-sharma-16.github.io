@@ -9,9 +9,13 @@ title: Neurodevelopmental Disorders
 ## Recently Modified
 
 - [Developmental Language Disorder Dld](/recovery/treatment/diseases-disorders-and-disabilities/neurodevelopmental-disorders/communication-disorders/language-disorders/developmental-language-disorder-dld)
+
 - [Language Disorder](/recovery/treatment/diseases-disorders-and-disabilities/neurodevelopmental-disorders/language-disorder)
+
 - [Intellectual Development Disorder](/recovery/treatment/diseases-disorders-and-disabilities/neurodevelopmental-disorders/intellectual-development-disorder)
+
 - [Autism Spectrum Disorder](/recovery/treatment/diseases-disorders-and-disabilities/neurodevelopmental-disorders/autism-spectrum-disorder)
+
 - [Attention Deficit Hyperactivity Disorder](/recovery/treatment/diseases-disorders-and-disabilities/neurodevelopmental-disorders/attention-deficit-hyperactivity-disorder)
 
 ## Pages
@@ -90,6 +94,7 @@ html {
 ### A
 
 - [Attention Deficit Hyperactivity Disorder](/recovery/treatment/diseases-disorders-and-disabilities/neurodevelopmental-disorders/attention-deficit-hyperactivity-disorder)
+
 - [Autism Spectrum Disorder](/recovery/treatment/diseases-disorders-and-disabilities/neurodevelopmental-disorders/autism-spectrum-disorder)
 
 <a id="letter-i"></a>

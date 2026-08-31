@@ -5,7 +5,9 @@ title: Puritanism
 ## Recently Modified
 
 - [Jonathan Edwards](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/protestantism/calvinism/puritanism/jonathan-edwards)
+
 - [John Downame](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/protestantism/calvinism/puritanism/john-downame)
+
 - [Henry Wingfield](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/protestantism/calvinism/puritanism/henry-wingfield)
 
 ## Pages
@@ -89,4 +91,5 @@ html {
 ### J
 
 - [John Downame](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/protestantism/calvinism/puritanism/john-downame)
+
 - [Jonathan Edwards](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/protestantism/calvinism/puritanism/jonathan-edwards)

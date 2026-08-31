@@ -6,6 +6,8 @@ title: Pennsylvania State University
 
 - [Edna Bennett Pierce Prevention Research Center](/recovery/organizations/higher-education/united-states/pennsylvania/pennsylvania-state-university/edna-bennett-pierce-prevention-research-center)
 
+https://prevention.psu.edu/news/op-ed-this-is-how-addiction-science-is-saving-lives/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### E
 
 - [Edna Bennett Pierce Prevention Research Center](/recovery/organizations/higher-education/united-states/pennsylvania/pennsylvania-state-university/edna-bennett-pierce-prevention-research-center)
+
+https://prevention.psu.edu/news/op-ed-this-is-how-addiction-science-is-saving-lives/

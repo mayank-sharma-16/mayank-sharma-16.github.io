@@ -5,9 +5,15 @@ title: Pharmacology
 ## Recently Modified
 
 - [Gordon Alles](/recovery/people/researchers/pharmacology/gordon-alles)
+
 - [Harvey Bernhardt Haag](/recovery/people/researchers/pharmacology/harvey-bernhardt-haag)
+
 - [James Alexander Waddell](/recovery/people/researchers/pharmacology/james-alexander-waddell)
+
 - [Neal L Benowitz](/recovery/people/researchers/pharmacology/neal-l-benowitz)
+
+Neal Benowitz
+
 - [Robert Yokel](/recovery/people/researchers/pharmacology/robert-yokel)
 
 ## Pages
@@ -101,6 +107,8 @@ html {
 ### N
 
 - [Neal L Benowitz](/recovery/people/researchers/pharmacology/neal-l-benowitz)
+
+Neal Benowitz
 
 <a id="letter-r"></a>
 ### R

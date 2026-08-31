@@ -5,8 +5,11 @@ title: Senators
 ## Recently Modified
 
 - [Herman Talmadge](/recovery/people/politicians-and-policymakers/united-states/senators/herman-talmadge)
+
 - [John Tower](/recovery/people/politicians-and-policymakers/united-states/senators/john-tower)
+
 - [Ted Kennedy](/recovery/people/politicians-and-policymakers/united-states/senators/ted-kennedy)
+
 - [Joseph Mccarthy](/recovery/people/politicians-and-policymakers/united-states/senators/joseph-mccarthy)
 
 ## Pages
@@ -90,6 +93,7 @@ html {
 ### J
 
 - [John Tower](/recovery/people/politicians-and-policymakers/united-states/senators/john-tower)
+
 - [Joseph Mccarthy](/recovery/people/politicians-and-policymakers/united-states/senators/joseph-mccarthy)
 
 <a id="letter-t"></a>

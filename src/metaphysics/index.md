@@ -9,23 +9,44 @@ title: Metaphysics
 
 ## Recently Modified
 
+- [Cosmology](/metaphysics/glossary/cosmology)
+
+A "cosmology" is a study or body of work exploring the origin and structure of the universe as reality. Recovery programs like Alcoholics Anonymous (AA) and Recovery Dharma are inspired by religious systems while those like SMART Recovery are rooted in the guidelines of scientific institutions, but each group has its own cosmological foundations. I would argue that a strong portion of one's…
+
 - [Vaishnavism](/metaphysics/glossary/vaishnavism)
+
 - [Vajrayana](/metaphysics/glossary/vajrayana)
+
 - [Theravada](/metaphysics/glossary/theravada)
+
 - [Mahayana](/metaphysics/glossary/mahayana)
+
 - [Nirvana](/metaphysics/glossary/nirvana)
+
 - [Tantra](/metaphysics/glossary/tantra)
+
 - [Kashmir Shaivism](/metaphysics/glossary/kashmir-shaivism)
+
 - [Bhagavad Gita](/metaphysics/glossary/bhagavad-gita)
+
 - [Purva Mimamsa](/metaphysics/glossary/purva-mimamsa)
+
 - [Dvaita](/metaphysics/glossary/dvaita)
+
 - [Advaita Vedanta](/metaphysics/glossary/advaita-vedanta)
+
 - [Vedanta](/metaphysics/glossary/vedanta)
+
 - [Yoga](/metaphysics/glossary/yoga)
+
 - [Samkhya](/metaphysics/glossary/samkhya)
+
 - [Vaisheshika](/metaphysics/glossary/vaisheshika)
+
 - [Nyaya](/metaphysics/glossary/nyaya)
+
 - [Shaktism](/metaphysics/glossary/shaktism)
+
 - [Smartism](/metaphysics/glossary/smartism)
+
 - [Shaivism](/metaphysics/glossary/shaivism)
-- [Buddhism](/metaphysics/glossary/buddhism)

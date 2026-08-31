@@ -5,14 +5,23 @@ title: Eating Disorders
 ## Recently Modified
 
 - [Diabulimia](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/diabulimia)
+
 - [Orthorexia Nervosa](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/orthorexia-nervosa)
+
 - [Night Eating Syndrome](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/night-eating-syndrome)
+
 - [Purging Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/purging-disorder)
+
 - [Rumination Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/rumination-disorder)
+
 - [Pica](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/pica)
+
 - [Avoidant Restrictive Food Intake Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/avoidant-restrictive-food-intake-disorder)
+
 - [Binge Eating Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/binge-eating-disorder)
+
 - [Bulimia Nervosa](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/bulimia-nervosa)
+
 - [Anorexia Nervosa](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/anorexia-nervosa)
 
 ## Pages
@@ -91,12 +100,14 @@ html {
 ### A
 
 - [Anorexia Nervosa](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/anorexia-nervosa)
+
 - [Avoidant Restrictive Food Intake Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/avoidant-restrictive-food-intake-disorder)
 
 <a id="letter-b"></a>
 ### B
 
 - [Binge Eating Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/binge-eating-disorder)
+
 - [Bulimia Nervosa](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/bulimia-nervosa)
 
 <a id="letter-d"></a>
@@ -118,6 +129,7 @@ html {
 ### P
 
 - [Pica](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/pica)
+
 - [Purging Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/eating-disorders/purging-disorder)
 
 <a id="letter-r"></a>

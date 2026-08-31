@@ -5,7 +5,9 @@ title: 1930 1939
 ## Recently Modified
 
 - [Marijuana Tax Act Of 1937](/recovery/policy/united-states/1930-1939/marijuana-tax-act-of-1937)
+
 - [Uniform State Narcotics Act Of 1932](/recovery/policy/united-states/1930-1939/uniform-state-narcotics-act-of-1932)
+
 - [Federal Bureau Of Narcotics Fbn 1930](/recovery/policy/united-states/1930-1939/federal-bureau-of-narcotics-fbn-1930)
 
 ## Pages

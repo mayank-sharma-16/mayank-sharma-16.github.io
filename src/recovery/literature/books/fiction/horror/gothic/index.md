@@ -5,10 +5,17 @@ title: Gothic
 ## Recently Modified
 
 - [House Of Leaves](/recovery/literature/books/fiction/horror/gothic/house-of-leaves)
+
 - [The Drawing Of The Three](/recovery/literature/books/fiction/horror/gothic/the-drawing-of-the-three)
+
 - [The Strange Case Of Dr Jekyll And Mr Hyde](/recovery/literature/books/fiction/horror/gothic/the-strange-case-of-dr-jekyll-and-mr-hyde)
+
+https://psychiatryonline.org/doi/10.1176/appi.ajp.157.3.484
+
 - [Ghost Eaters Clay Mcleod Chapman 2022](/recovery/literature/books/fiction/horror/gothic/ghost-eaters-clay-mcleod-chapman-2022)
+
 - [Doctor Sleep 2013](/recovery/literature/books/fiction/horror/gothic/doctor-sleep-2013)
+
 - [The Shining](/recovery/literature/books/fiction/horror/gothic/the-shining)
 
 ## Pages
@@ -102,5 +109,9 @@ html {
 ### T
 
 - [The Drawing Of The Three](/recovery/literature/books/fiction/horror/gothic/the-drawing-of-the-three)
+
 - [The Shining](/recovery/literature/books/fiction/horror/gothic/the-shining)
+
 - [The Strange Case Of Dr Jekyll And Mr Hyde](/recovery/literature/books/fiction/horror/gothic/the-strange-case-of-dr-jekyll-and-mr-hyde)
+
+https://psychiatryonline.org/doi/10.1176/appi.ajp.157.3.484

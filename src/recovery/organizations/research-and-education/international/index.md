@@ -6,6 +6,8 @@ title: International
 
 - [Addiction And The Family International Network Afinet](/recovery/organizations/research-and-education/international/addiction-and-the-family-international-network-afinet)
 
+https://afinetwork.info/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [Addiction And The Family International Network Afinet](/recovery/organizations/research-and-education/international/addiction-and-the-family-international-network-afinet)
+
+https://afinetwork.info/

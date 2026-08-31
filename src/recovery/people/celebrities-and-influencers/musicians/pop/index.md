@@ -5,12 +5,19 @@ title: Pop
 ## Recently Modified
 
 - [John Mayer](/recovery/people/celebrities-and-influencers/musicians/pop/john-mayer)
+
 - [Miley Cyrus](/recovery/people/celebrities-and-influencers/musicians/pop/miley-cyrus)
+
 - [Ed Sheeran](/recovery/people/celebrities-and-influencers/musicians/pop/ed-sheeran)
+
 - [Lana Del Rey Elizabeth Grant](/recovery/people/celebrities-and-influencers/musicians/pop/lana-del-rey-elizabeth-grant)
+
 - [Britney Spears](/recovery/people/celebrities-and-influencers/musicians/pop/britney-spears)
+
 - [Robbie Williams](/recovery/people/celebrities-and-influencers/musicians/pop/robbie-williams)
+
 - [Demi Lovato](/recovery/people/celebrities-and-influencers/musicians/pop/demi-lovato)
+
 - [Elton John](/recovery/people/celebrities-and-influencers/musicians/pop/elton-john)
 
 ## Pages
@@ -99,6 +106,7 @@ html {
 ### E
 
 - [Ed Sheeran](/recovery/people/celebrities-and-influencers/musicians/pop/ed-sheeran)
+
 - [Elton John](/recovery/people/celebrities-and-influencers/musicians/pop/elton-john)
 
 <a id="letter-j"></a>

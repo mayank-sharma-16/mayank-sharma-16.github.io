@@ -6,6 +6,8 @@ title: 1990 1999
 
 - [Images Of The Twelve Step Model And Sex ](/recovery/literature/studies/1990-1999/images-of-the-twelve-step-model-and-sex)
 
+"The Alcoholics Anonymous twelve-step model was developed to help a specific population of white, middle-class, heterosexual men with a specific problem: alcoholism. As the program is applied to a wider variety of issues, with diverse populations, the model's generalizability has been called into question. Its applicability to outgroups is, at best, uncertain. At worst, the addiction model and…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### I
 
 - [Images Of The Twelve Step Model And Sex ](/recovery/literature/studies/1990-1999/images-of-the-twelve-step-model-and-sex)
+
+"The Alcoholics Anonymous twelve-step model was developed to help a specific population of white, middle-class, heterosexual men with a specific problem: alcoholism. As the program is applied to a wider variety of issues, with diverse populations, the model's generalizability has been called into question. Its applicability to outgroups is, at best, uncertain. At worst, the addiction model and…

@@ -5,7 +5,12 @@ title: Lifestyle
 ## Recently Modified
 
 - [Sobriety Lifestyle](/recovery/literature/magazines/lifestyle/sobriety-lifestyle)
+
+https://www.instagram.com/reel/DbYBh3eIAk_/
+
 - [The Phoenix Spirit](/recovery/literature/magazines/lifestyle/the-phoenix-spirit)
+
+https://thephoenixspirit.com/
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Sobriety Lifestyle](/recovery/literature/magazines/lifestyle/sobriety-lifestyle)
 
+https://www.instagram.com/reel/DbYBh3eIAk_/
+
 <a id="letter-t"></a>
 ### T
 
 - [The Phoenix Spirit](/recovery/literature/magazines/lifestyle/the-phoenix-spirit)
+
+https://thephoenixspirit.com/

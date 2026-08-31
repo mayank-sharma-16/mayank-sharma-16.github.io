@@ -5,6 +5,7 @@ title: Science
 ## Recently Modified
 
 - [Don Ross](/recovery/people/researchers/philosophers/science/don-ross)
+
 - [Dominic Murphy](/recovery/people/researchers/philosophers/science/dominic-murphy)
 
 ## Pages
@@ -83,4 +84,5 @@ html {
 ### D
 
 - [Dominic Murphy](/recovery/people/researchers/philosophers/science/dominic-murphy)
+
 - [Don Ross](/recovery/people/researchers/philosophers/science/don-ross)

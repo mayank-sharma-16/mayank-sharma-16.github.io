@@ -5,7 +5,10 @@ title: Philosophy
 ## Recently Modified
 
 - [The Neuroethics Of Addiction](/recovery/literature/books/non-fiction/philosophy/the-neuroethics-of-addiction)
+
 - [What Would You Do Alone In A Cage With N](/recovery/literature/books/non-fiction/philosophy/what-would-you-do-alone-in-a-cage-with-n)
+
+"Do the cocaine" is the obvious answer, but the book has a lot more to say than that. It took me a while to appreciate the critical perspective philosophers of science provide about our research institutions. We take our instruments and traditions of knowledge for granted out of a very common human impulse to respect the legacy of the humans who came before us, so that those who inherit the…
 
 ## Pages
 
@@ -88,3 +91,5 @@ html {
 ### W
 
 - [What Would You Do Alone In A Cage With N](/recovery/literature/books/non-fiction/philosophy/what-would-you-do-alone-in-a-cage-with-n)
+
+"Do the cocaine" is the obvious answer, but the book has a lot more to say than that. It took me a while to appreciate the critical perspective philosophers of science provide about our research institutions. We take our instruments and traditions of knowledge for granted out of a very common human impulse to respect the legacy of the humans who came before us, so that those who inherit the…

@@ -5,12 +5,19 @@ title: Temperance
 ## Recently Modified
 
 - [Harry J Anslinger](/recovery/people/activists-advocacy-and-aid/temperance/harry-j-anslinger)
+
 - [John B Gough](/recovery/people/activists-advocacy-and-aid/temperance/john-b-gough)
+
 - [Lyman Beecher](/recovery/people/activists-advocacy-and-aid/temperance/lyman-beecher)
+
 - [Richmond P Hobson](/recovery/people/activists-advocacy-and-aid/temperance/richmond-p-hobson)
+
 - [Charles B Towns](/recovery/people/activists-advocacy-and-aid/temperance/charles-b-towns)
+
 - [Carry Nation](/recovery/people/activists-advocacy-and-aid/temperance/carry-nation)
+
 - [Frances Willard](/recovery/people/activists-advocacy-and-aid/temperance/frances-willard)
+
 - [Neal Dow](/recovery/people/activists-advocacy-and-aid/temperance/neal-dow)
 
 ## Pages
@@ -89,6 +96,7 @@ html {
 ### C
 
 - [Carry Nation](/recovery/people/activists-advocacy-and-aid/temperance/carry-nation)
+
 - [Charles B Towns](/recovery/people/activists-advocacy-and-aid/temperance/charles-b-towns)
 
 <a id="letter-f"></a>

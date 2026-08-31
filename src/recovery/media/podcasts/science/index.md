@@ -10,14 +10,32 @@ title: Science
 ## Recently Modified
 
 - [Sober Yoga Girl](/recovery/media/podcasts/science/health/fitness/yoga/sober-yoga-girl)
+
+https://soberyogagirl.buzzsprout.com/
+
 - [Recoverable](/recovery/media/podcasts/science/recoverable)
+
 - [The Alcohol Problem Podcast](/recovery/media/podcasts/science/the-alcohol-problem-podcast)
+
+https://podcasts.apple.com/us/podcast/the-alcohol-problem-podcast-with-dr-james-morris/id1538480510
+
 - [The Addiction Psychologist](/recovery/media/podcasts/science/psychology/the-addiction-psychologist)
+
 - [Sober Edge](/recovery/media/podcasts/science/health/alternative/sober-edge)
+
+https://open.spotify.com/show/7jAfavXWvTQk76L07pgtlD
+
 - [Lets Talk Addiction And Recovery Podcasts](/recovery/media/podcasts/science/lets-talk-addiction-and-recovery-podcasts)
+
+https://www.hazeldenbettyford.org/podcasts
+
 - [Sober Powered](/recovery/media/podcasts/science/sober-powered)
+
 - [Neuro Pathways](/recovery/media/podcasts/science/neuro-pathways)
+
 - [The Addicted Mind](/recovery/media/podcasts/science/the-addicted-mind)
+
+https://theaddictedmind.com/
 
 ## Pages
 
@@ -96,6 +114,8 @@ html {
 
 - [Lets Talk Addiction And Recovery Podcasts](/recovery/media/podcasts/science/lets-talk-addiction-and-recovery-podcasts)
 
+https://www.hazeldenbettyford.org/podcasts
+
 <a id="letter-n"></a>
 ### N
 
@@ -115,4 +135,9 @@ html {
 ### T
 
 - [The Addicted Mind](/recovery/media/podcasts/science/the-addicted-mind)
+
+https://theaddictedmind.com/
+
 - [The Alcohol Problem Podcast](/recovery/media/podcasts/science/the-alcohol-problem-podcast)
+
+https://podcasts.apple.com/us/podcast/the-alcohol-problem-podcast-with-dr-james-morris/id1538480510

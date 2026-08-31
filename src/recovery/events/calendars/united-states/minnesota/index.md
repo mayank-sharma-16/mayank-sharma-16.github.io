@@ -6,6 +6,8 @@ title: Minnesota
 
 - [Minnesota Young People In Alcoholics Anonymous Mnypaa](/recovery/events/calendars/united-states/minnesota/minnesota-young-people-in-alcoholics-anonymous-mnypaa)
 
+https://mnypaa.org/events
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### M
 
 - [Minnesota Young People In Alcoholics Anonymous Mnypaa](/recovery/events/calendars/united-states/minnesota/minnesota-young-people-in-alcoholics-anonymous-mnypaa)
+
+https://mnypaa.org/events

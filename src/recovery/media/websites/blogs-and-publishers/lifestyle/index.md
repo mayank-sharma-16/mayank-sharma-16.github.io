@@ -9,20 +9,47 @@ title: Lifestyle
 ## Recently Modified
 
 - [Dont Tell Me To Look On The Bright Side](/recovery/media/websites/blogs-and-publishers/lifestyle/dont-tell-me-to-look-on-the-bright-side)
+
+https://kellyfitzgeraldjunco.substack.com/about
+
 - [The Sober Glow](/recovery/media/websites/blogs-and-publishers/lifestyle/the-sober-glow)
+
+https://www.thesoberglowstudio.com/?utmsource=homepagerecommendations&utm_campaign=1523133
+
 - [Ask A Sober Person](/recovery/media/websites/blogs-and-publishers/lifestyle/mom/ask-a-sober-person)
+
+https://samanthaperkins.substack.com/
+
 - [Love Story](/recovery/media/websites/blogs-and-publishers/lifestyle/love-story)
+
+https://lauramckowen.substack.com/
+
 - [Sober Courage](/recovery/media/websites/blogs-and-publishers/lifestyle/sober-courage)
+
+https://sober-courage.com/
+
 - [Sober Mom Life](/recovery/media/websites/blogs-and-publishers/lifestyle/sober-mom-life)
+
+https://thesobermomlife.com/
+
 - [Sober Black Girls Club](/recovery/media/websites/blogs-and-publishers/lifestyle/sober-black-girls-club)
+
 - [The Unruffled](/recovery/media/websites/blogs-and-publishers/lifestyle/the-unruffled)
+
 - [Mindfulness Elevated](/recovery/media/websites/blogs-and-publishers/lifestyle/mindfulness-elevated)
+
 - [The Stoic Scientist](/recovery/media/websites/blogs-and-publishers/lifestyle/the-stoic-scientist)
+
 - [Sober Punks](/recovery/media/websites/blogs-and-publishers/lifestyle/sober-punks)
+
 - [She Recovers](/recovery/media/websites/blogs-and-publishers/lifestyle/she-recovers)
+
 - [Tawny Lara](/recovery/media/websites/blogs-and-publishers/lifestyle/tawny-lara)
+
 - [Ainsobriety](/recovery/media/websites/blogs-and-publishers/lifestyle/ainsobriety)
+
 - [Unpickled](/recovery/media/websites/blogs-and-publishers/lifestyle/unpickled)
+
 - [Untipsy Teacher](/recovery/media/websites/blogs-and-publishers/lifestyle/untipsy-teacher)
 
 ## Pages
@@ -107,10 +134,14 @@ html {
 
 - [Dont Tell Me To Look On The Bright Side](/recovery/media/websites/blogs-and-publishers/lifestyle/dont-tell-me-to-look-on-the-bright-side)
 
+https://kellyfitzgeraldjunco.substack.com/about
+
 <a id="letter-l"></a>
 ### L
 
 - [Love Story](/recovery/media/websites/blogs-and-publishers/lifestyle/love-story)
+
+https://lauramckowen.substack.com/
 
 <a id="letter-m"></a>
 ### M
@@ -121,21 +152,35 @@ html {
 ### S
 
 - [She Recovers](/recovery/media/websites/blogs-and-publishers/lifestyle/she-recovers)
+
 - [Sober Black Girls Club](/recovery/media/websites/blogs-and-publishers/lifestyle/sober-black-girls-club)
+
 - [Sober Courage](/recovery/media/websites/blogs-and-publishers/lifestyle/sober-courage)
+
+https://sober-courage.com/
+
 - [Sober Mom Life](/recovery/media/websites/blogs-and-publishers/lifestyle/sober-mom-life)
+
+https://thesobermomlife.com/
+
 - [Sober Punks](/recovery/media/websites/blogs-and-publishers/lifestyle/sober-punks)
 
 <a id="letter-t"></a>
 ### T
 
 - [Tawny Lara](/recovery/media/websites/blogs-and-publishers/lifestyle/tawny-lara)
+
 - [The Sober Glow](/recovery/media/websites/blogs-and-publishers/lifestyle/the-sober-glow)
+
+https://www.thesoberglowstudio.com/?utmsource=homepagerecommendations&utm_campaign=1523133
+
 - [The Stoic Scientist](/recovery/media/websites/blogs-and-publishers/lifestyle/the-stoic-scientist)
+
 - [The Unruffled](/recovery/media/websites/blogs-and-publishers/lifestyle/the-unruffled)
 
 <a id="letter-u"></a>
 ### U
 
 - [Unpickled](/recovery/media/websites/blogs-and-publishers/lifestyle/unpickled)
+
 - [Untipsy Teacher](/recovery/media/websites/blogs-and-publishers/lifestyle/untipsy-teacher)

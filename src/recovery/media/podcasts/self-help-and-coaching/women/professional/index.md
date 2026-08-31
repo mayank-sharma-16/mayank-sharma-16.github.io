@@ -5,9 +5,20 @@ title: Professional
 ## Recently Modified
 
 - [Ambitious Addicts Podcast](/recovery/media/podcasts/self-help-and-coaching/women/professional/ambitious-addicts-podcast)
+
+https://podcast.feedspot.com/womenssobrietypodcasts/
+
 - [Sobriety Snippets For Women Over 40](/recovery/media/podcasts/self-help-and-coaching/women/professional/sobriety-snippets-for-women-over-40)
+
+https://podcasts.apple.com/ca/podcast/sobriety-snippets-for-women-over-40-alcohol-free-living/id1675692757
+
 - [The Unapologetic Woman Podcast](/recovery/media/podcasts/self-help-and-coaching/women/professional/the-unapologetic-woman-podcast)
+
+https://www.buzzsprout.com/2072698
+
 - [Hello Someday Podcast](/recovery/media/podcasts/self-help-and-coaching/women/professional/hello-someday-podcast)
+
+https://hellosomedaycoaching.com/podcast/
 
 ## Pages
 
@@ -86,17 +97,25 @@ html {
 
 - [Ambitious Addicts Podcast](/recovery/media/podcasts/self-help-and-coaching/women/professional/ambitious-addicts-podcast)
 
+https://podcast.feedspot.com/womenssobrietypodcasts/
+
 <a id="letter-h"></a>
 ### H
 
 - [Hello Someday Podcast](/recovery/media/podcasts/self-help-and-coaching/women/professional/hello-someday-podcast)
+
+https://hellosomedaycoaching.com/podcast/
 
 <a id="letter-s"></a>
 ### S
 
 - [Sobriety Snippets For Women Over 40](/recovery/media/podcasts/self-help-and-coaching/women/professional/sobriety-snippets-for-women-over-40)
 
+https://podcasts.apple.com/ca/podcast/sobriety-snippets-for-women-over-40-alcohol-free-living/id1675692757
+
 <a id="letter-t"></a>
 ### T
 
 - [The Unapologetic Woman Podcast](/recovery/media/podcasts/self-help-and-coaching/women/professional/the-unapologetic-woman-podcast)
+
+https://www.buzzsprout.com/2072698

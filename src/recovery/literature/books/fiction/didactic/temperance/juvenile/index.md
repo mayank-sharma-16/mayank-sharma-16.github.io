@@ -6,6 +6,8 @@ title: Juvenile
 
 - [Black Jack And Other Temperance Tales Fo](/recovery/literature/books/fiction/didactic/temperance/juvenile/black-jack-and-other-temperance-tales-fo)
 
+This book is a collection of fictional tales warning young readers about alcohol, which was somewhat typical for temperance movements of the 19th and 20th centuries. It was published in London by the Society for Promoting Christian Knowledge (SPCK) and pushed the framework at the time that alcohol was itself inherently dangerous in its consumption of personal agency and moral sensibilities. To be…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### B
 
 - [Black Jack And Other Temperance Tales Fo](/recovery/literature/books/fiction/didactic/temperance/juvenile/black-jack-and-other-temperance-tales-fo)
+
+This book is a collection of fictional tales warning young readers about alcohol, which was somewhat typical for temperance movements of the 19th and 20th centuries. It was published in London by the Society for Promoting Christian Knowledge (SPCK) and pushed the framework at the time that alcohol was itself inherently dangerous in its consumption of personal agency and moral sensibilities. To be…

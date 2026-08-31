@@ -10,17 +10,37 @@ title: United States
 ## Recently Modified
 
 - [Special Action Office For Drug Abuse Prevention](/recovery/organizations/government/united-states/executive-branch/special-action-office-for-drug-abuse-prevention)
+
 - [Oregon Health Authority](/recovery/organizations/government/united-states/oregon/oregon-health-authority)
+
 - [Presidents Commission On Law Enforcement](/recovery/organizations/government/united-states/executive-branch/presidents-commission-on-law-enforcement)
+
+In 1967, President Lyndon B. Johnson appointed 19 people to the commission to study the criminal justice system in response to soaring crime rates through the 1960s. They delivered the National Crime Survey, later called the National Criminal Victimization Survey. The empirical data that emerged showed victimization far outpaced crimes as victims were highly reluctant to report crimes.
+
 - [Drug Enforcement Agency Dea](/recovery/organizations/government/united-states/executive-branch/drug-enforcement-agency-dea)
+
 - [Food And Drug Administration](/recovery/organizations/government/united-states/food-and-drug-administration)
+
 - [National Center For Advancing Translational Sciences](/recovery/organizations/government/united-states/national-center-for-advancing-translational-sciences)
+
 - [Addiction Technology Transfer Center Network](/recovery/organizations/government/united-states/addiction-technology-transfer-center-network)
+
+The Addiction Technology Transfer Center (ATTC) Network emerged as a federally-funded network of 11 regional centers coordinating with a National Office in order to help community-based treatment programs adopt the latest treatments. That originally came in the form of funding more professionals, facilitating training courses, building partnerships with education and research institutions, and…
+
 - [Agency For Healthcare Research And Quality](/recovery/organizations/government/united-states/agency-for-healthcare-research-and-quality)
+
+https://www.ahrq.gov/
+
 - [Opioid Response Network Orn](/recovery/organizations/government/united-states/opioid-response-network-orn)
+
+https://opioidresponsenetwork.org/
+
 - [National Center For State Courts](/recovery/organizations/government/united-states/national-center-for-state-courts)
+
 - [Office Of National Drug Control Policy](/recovery/organizations/government/united-states/office-of-national-drug-control-policy)
+
 - [The Congressional Addiction Treatment And Recovery Caucus](/recovery/organizations/government/united-states/the-congressional-addiction-treatment-and-recovery-caucus)
+
 - [Centers For Disease Control And Prevention](/recovery/organizations/government/united-states/centers-for-disease-control-and-prevention)
 
 ## Pages
@@ -99,7 +119,12 @@ html {
 ### A
 
 - [Addiction Technology Transfer Center Network](/recovery/organizations/government/united-states/addiction-technology-transfer-center-network)
+
+The Addiction Technology Transfer Center (ATTC) Network emerged as a federally-funded network of 11 regional centers coordinating with a National Office in order to help community-based treatment programs adopt the latest treatments. That originally came in the form of funding more professionals, facilitating training courses, building partnerships with education and research institutions, and…
+
 - [Agency For Healthcare Research And Quality](/recovery/organizations/government/united-states/agency-for-healthcare-research-and-quality)
+
+https://www.ahrq.gov/
 
 <a id="letter-c"></a>
 ### C
@@ -115,13 +140,17 @@ html {
 ### N
 
 - [National Center For Advancing Translational Sciences](/recovery/organizations/government/united-states/national-center-for-advancing-translational-sciences)
+
 - [National Center For State Courts](/recovery/organizations/government/united-states/national-center-for-state-courts)
 
 <a id="letter-o"></a>
 ### O
 
 - [Office Of National Drug Control Policy](/recovery/organizations/government/united-states/office-of-national-drug-control-policy)
+
 - [Opioid Response Network Orn](/recovery/organizations/government/united-states/opioid-response-network-orn)
+
+https://opioidresponsenetwork.org/
 
 <a id="letter-t"></a>
 ### T

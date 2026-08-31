@@ -5,7 +5,9 @@ title: Renal
 ## Recently Modified
 
 - [Glomerulonephritis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/renal/glomerulonephritis)
+
 - [Chronic Kidney Disease](/recovery/treatment/diseases-disorders-and-disabilities/systemic/renal/chronic-kidney-disease)
+
 - [Acute Kidney Injury](/recovery/treatment/diseases-disorders-and-disabilities/systemic/renal/acute-kidney-injury)
 
 ## Pages

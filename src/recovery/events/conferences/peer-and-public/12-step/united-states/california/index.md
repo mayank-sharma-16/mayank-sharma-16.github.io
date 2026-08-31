@@ -5,7 +5,12 @@ title: California
 ## Recently Modified
 
 - [Southern California Aa Convention](/recovery/events/conferences/peer-and-public/12-step/united-states/california/southern-california-aa-convention)
+
+The Southern California A.A. Convention (SCAAC) was established in Long Beach in 1952, making it one of the oldest recovery conventions in California. Many of the most popular AA speeches were recorded at this convention before being distributed worldwide. https://scws-al-anon.org/wp-content/uploads/2025/05/BulletinMay2019.pdf
+
 - [All California Young People In Alcoholics Anonymous](/recovery/events/conferences/peer-and-public/12-step/united-states/california/all-california-young-people-in-alcoholics-anonymous)
+
+All California Young People in Alcoholics Anonymous (ACYPAA) was established in 1973 after decades of Young People's groups had formed in cities like Los Angeles to reach new demographics, since most AA members at the time were older white middle-class men who had histories with alcohol longer than some of the younger members had even been alive. The organization's Advisory Council was…
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [All California Young People In Alcoholics Anonymous](/recovery/events/conferences/peer-and-public/12-step/united-states/california/all-california-young-people-in-alcoholics-anonymous)
 
+All California Young People in Alcoholics Anonymous (ACYPAA) was established in 1973 after decades of Young People's groups had formed in cities like Los Angeles to reach new demographics, since most AA members at the time were older white middle-class men who had histories with alcohol longer than some of the younger members had even been alive. The organization's Advisory Council was…
+
 <a id="letter-s"></a>
 ### S
 
 - [Southern California Aa Convention](/recovery/events/conferences/peer-and-public/12-step/united-states/california/southern-california-aa-convention)
+
+The Southern California A.A. Convention (SCAAC) was established in Long Beach in 1952, making it one of the oldest recovery conventions in California. Many of the most popular AA speeches were recorded at this convention before being distributed worldwide. https://scws-al-anon.org/wp-content/uploads/2025/05/BulletinMay2019.pdf

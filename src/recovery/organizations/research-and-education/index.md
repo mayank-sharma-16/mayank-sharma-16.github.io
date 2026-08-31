@@ -12,24 +12,53 @@ title: Research And Education
 ## Recently Modified
 
 - [American Psychological Association](/recovery/organizations/research-and-education/united-states/american-psychological-association)
+
+With over 190,000 members, the American Psychological Association (APA) is the largest psychology association in the world. Students who grew up in the American education system are likely to have been taught about the MLA style guide for formatting writing. The APA style guide is an alternative that many students see but haven't been introduced to unless they spend time specifically exploring…
+
 - [Rosenthal Center For Addiction Studies](/recovery/organizations/research-and-education/united-states/rosenthal-center-for-addiction-studies)
+
 - [American Institute Of The History Of Pharmacy Aihp](/recovery/organizations/research-and-education/united-states/american-institute-of-the-history-of-pharmacy-aihp)
+
 - [American Hospital Association Ahs](/recovery/organizations/research-and-education/united-states/american-hospital-association-ahs)
+
 - [American Medical Association](/recovery/organizations/research-and-education/united-states/american-medical-association)
+
 - [America Lung Association](/recovery/organizations/research-and-education/united-states/america-lung-association)
+
 - [American Society Of Victimology 2003](/recovery/organizations/research-and-education/united-states/american-society-of-victimology-2003)
+
 - [Japanese Association Of Medical Sciences](/recovery/organizations/research-and-education/japan/japanese-association-of-medical-sciences)
+
 - [American Sociological Association](/recovery/organizations/research-and-education/united-states/american-sociological-association)
+
 - [American Association For The Study And Cure Of Inebriety](/recovery/organizations/research-and-education/united-states/american-association-for-the-study-and-cure-of-inebriety)
+
 - [Athens Medical Society](/recovery/organizations/research-and-education/greece/athens-medical-society)
+
+Established in 1835 shortly after Greece as a modern nation-state, it is the oldest medical scientific society in the country. It organizes the Panhellenic Medical Congress annually.
+
 - [Addiction And The Family International Network Afinet](/recovery/organizations/research-and-education/international/addiction-and-the-family-international-network-afinet)
+
+https://afinetwork.info/
+
 - [Society For Addiction Psychology](/recovery/organizations/research-and-education/united-states/society-for-addiction-psychology)
+
 - [Cleveland Clinic](/recovery/organizations/research-and-education/united-states/ohio/cleveland-clinic)
+
 - [Alabama School Of Alcohol And Other Drug Studies](/recovery/organizations/research-and-education/united-states/alabama/alabama-school-of-alcohol-and-other-drug-studies)
+
+https://asadsonline.com/
+
 - [Addiction Education Society](/recovery/organizations/research-and-education/united-states/addiction-education-society)
+
 - [Adept Educational Institute Of New England](/recovery/organizations/research-and-education/united-states/maine/adept-educational-institute-of-new-england)
+
 - [Kettil Bruun Society For Social And Epid](/recovery/organizations/research-and-education/kettil-bruun-society-for-social-and-epid)
+
+https://www.kettilbruun.org/
+
 - [International Council On Alcohol And Addictions Icaa](/recovery/organizations/research-and-education/international-council-on-alcohol-and-addictions-icaa)
+
 - [Faces And Voices Of Recovery Favor](/recovery/organizations/research-and-education/faces-and-voices-of-recovery-favor)
 
 ## Pages
@@ -108,21 +137,34 @@ html {
 ### A
 
 - [American Journal Of Public Health](/recovery/organizations/research-and-education/american-journal-of-public-health)
+
+The American Journal of Public Health (AJPH) https://pmc.ncbi.nlm.nih.gov/articles/PMC2791251/
+
 - [Anxiety And Depression Association Of America](/recovery/organizations/research-and-education/anxiety-and-depression-association-of-america)
+
+Founded in 1980, the Anxiety and Depression Association of America is a nonprofit organization in Silver Spring, Maryland. They function as an educational and research organization that advocates for addressing anxiety, depression, and other related disorders. They also maintain online peer communities for anxiety and depression through a partnership with HealthUnlocked, a social media network…
+
 - [Association For Multidisciplinary Educat](/recovery/organizations/research-and-education/association-for-multidisciplinary-educat)
+
+https://amersa.org/
 
 <a id="letter-c"></a>
 ### C
 
 - [C4 Innovations](/recovery/organizations/research-and-education/c4-innovations)
+
 - [Cicatelli Associations Inc](/recovery/organizations/research-and-education/cicatelli-associations-inc)
+
 - [Council On Social Work Education Cswe](/recovery/organizations/research-and-education/council-on-social-work-education-cswe)
 
 <a id="letter-f"></a>
 ### F
 
 - [Faces And Voices Of Recovery Favor](/recovery/organizations/research-and-education/faces-and-voices-of-recovery-favor)
+
 - [Fetal Alcohol Spectrum Disorders Study Group](/recovery/organizations/research-and-education/fetal-alcohol-spectrum-disorders-study-group)
+
+https://www.fasdsg.org/go
 
 <a id="letter-i"></a>
 ### I
@@ -134,7 +176,11 @@ html {
 
 - [Kettil Bruun Society For Social And Epid](/recovery/organizations/research-and-education/kettil-bruun-society-for-social-and-epid)
 
+https://www.kettilbruun.org/
+
 <a id="letter-s"></a>
 ### S
 
 - [Society For Prevention Research](/recovery/organizations/research-and-education/society-for-prevention-research)
+
+https://preventionresearch.org/

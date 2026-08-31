@@ -10,6 +10,9 @@ title: United States
 ## Recently Modified
 
 - [Serenity Shop](/recovery/marketplace/meeting-merchandise/united-states/oregon/serenity-shop)
+
+https://www.serenityshop.com/
+
 - [Your Serenity Store](/recovery/marketplace/meeting-merchandise/united-states/your-serenity-store)
 
 ## Pages

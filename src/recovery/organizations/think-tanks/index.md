@@ -6,6 +6,8 @@ title: Think Tanks
 
 - [Manhattan Institute For Policy Research](/recovery/organizations/think-tanks/manhattan-institute-for-policy-research)
 
+Charles Fain Lehman
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### M
 
 - [Manhattan Institute For Policy Research](/recovery/organizations/think-tanks/manhattan-institute-for-policy-research)
+
+Charles Fain Lehman

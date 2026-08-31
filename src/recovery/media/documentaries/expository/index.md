@@ -5,9 +5,17 @@ title: Expository
 ## Recently Modified
 
 - [Hypernormalisation](/recovery/media/documentaries/expository/hypernormalisation)
+
+Adam Curtis' basic thesis behind the documentary is that the world became too complex for the institutions of power to actually manage, so they instead turned to managing the simpler narratives that set the parameters for reality, namely the feelings and mindsets at the atomized individual level. Hypernormalisation refers to the way everyone can clearly see reality is broken, but changing the…
+
 - [Born In Synanon](/recovery/media/documentaries/expository/born-in-synanon)
+
+To everyone who says Alcoholics Anonymous (AA) is a cult, you have not yet seen Synanon.
+
 - [Better Man](/recovery/media/documentaries/expository/better-man)
+
 - [Generation Found](/recovery/media/documentaries/expository/generation-found)
+
 - [The Anonymous People](/recovery/media/documentaries/expository/the-anonymous-people)
 
 ## Pages
@@ -86,7 +94,10 @@ html {
 ### B
 
 - [Better Man](/recovery/media/documentaries/expository/better-man)
+
 - [Born In Synanon](/recovery/media/documentaries/expository/born-in-synanon)
+
+To everyone who says Alcoholics Anonymous (AA) is a cult, you have not yet seen Synanon.
 
 <a id="letter-g"></a>
 ### G
@@ -97,6 +108,8 @@ html {
 ### H
 
 - [Hypernormalisation](/recovery/media/documentaries/expository/hypernormalisation)
+
+Adam Curtis' basic thesis behind the documentary is that the world became too complex for the institutions of power to actually manage, so they instead turned to managing the simpler narratives that set the parameters for reality, namely the feelings and mindsets at the atomized individual level. Hypernormalisation refers to the way everyone can clearly see reality is broken, but changing the…
 
 <a id="letter-t"></a>
 ### T

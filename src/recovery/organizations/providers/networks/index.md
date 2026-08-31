@@ -5,8 +5,15 @@ title: Networks
 ## Recently Modified
 
 - [American Addiction Centers](/recovery/organizations/providers/networks/american-addiction-centers)
+
+https://www.paubox.com/blog/american-addiction-centers-reaches-2.75m-settlement-for-ransomware-breach
+
 - [Bradford Health Services](/recovery/organizations/providers/networks/bradford-health-services)
+
+https://bradfordhealth.com/
+
 - [Universal Health Services Uhs](/recovery/organizations/providers/networks/universal-health-services-uhs)
+
 - [Acadia Healthcare](/recovery/organizations/providers/networks/acadia-healthcare)
 
 ## Pages
@@ -85,12 +92,17 @@ html {
 ### A
 
 - [Acadia Healthcare](/recovery/organizations/providers/networks/acadia-healthcare)
+
 - [American Addiction Centers](/recovery/organizations/providers/networks/american-addiction-centers)
+
+https://www.paubox.com/blog/american-addiction-centers-reaches-2.75m-settlement-for-ransomware-breach
 
 <a id="letter-b"></a>
 ### B
 
 - [Bradford Health Services](/recovery/organizations/providers/networks/bradford-health-services)
+
+https://bradfordhealth.com/
 
 <a id="letter-u"></a>
 ### U

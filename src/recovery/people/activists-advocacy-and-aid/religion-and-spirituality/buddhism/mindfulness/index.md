@@ -5,8 +5,11 @@ title: Mindfulness
 ## Recently Modified
 
 - [Alan Marlatt](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/alan-marlatt)
+
 - [Jon Kabat Zinn](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/jon-kabat-zinn)
+
 - [Judson Brewer](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/judson-brewer)
+
 - [Sarah Bowen](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/sarah-bowen)
 
 ## Pages
@@ -90,6 +93,7 @@ html {
 ### J
 
 - [Jon Kabat Zinn](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/jon-kabat-zinn)
+
 - [Judson Brewer](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/judson-brewer)
 
 <a id="letter-s"></a>

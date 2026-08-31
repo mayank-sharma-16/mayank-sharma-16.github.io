@@ -11,20 +11,45 @@ title: Philosophers
 ## Recently Modified
 
 - [Richard Holton](/recovery/people/researchers/philosophers/ethics/richard-holton)
+
 - [Timothy Schroeder](/recovery/people/researchers/philosophers/timothy-schroeder)
+
 - [Nomy Arpaly](/recovery/people/researchers/philosophers/ethics/nomy-arpaly)
+
 - [Gideon Yaffe](/recovery/people/researchers/philosophers/ethics/bioethics/gideon-yaffe)
+
 - [Walter Sinnott Armstrong](/recovery/people/researchers/philosophers/ethics/walter-sinnott-armstrong)
+
 - [Don Ross](/recovery/people/researchers/philosophers/science/don-ross)
+
 - [Jeanette Kennett](/recovery/people/researchers/philosophers/ethics/jeanette-kennett)
+
+https://pubmed.ncbi.nlm.nih.gov/24093020/
+
 - [Herbert Fingarette](/recovery/people/researchers/philosophers/herbert-fingarette)
+
 - [Dominic Murphy](/recovery/people/researchers/philosophers/science/dominic-murphy)
+
 - [Douglas N Husak](/recovery/people/researchers/philosophers/law/douglas-n-husak)
+
+Douglas Husak is a Distinguished Professor of Philosophy at Rutgers University. Drugs and Rights (1992) Legalize This! The Case for Decriminalizing Drugs (2002) The Legalization of Drugs (For and Against) (2005)
+
 - [Travis Rieder](/recovery/people/researchers/philosophers/ethics/bioethics/travis-rieder)
+
+An associate professor at Johns Hopkins University focusing on bioethics. https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "Johns Hopkins bioethicist Travis Rieder argues that support for places like OnPoint will never be decided solely by the empirical data. 'I don't actually think it's why anyone believes what they believe... They have a view about what we should actually…
+
 - [Harry Frankfurt](/recovery/people/researchers/philosophers/harry-frankfurt)
+
 - [Alfred Remen Mele](/recovery/people/researchers/philosophers/alfred-remen-mele)
+
 - [Kent Dunnington](/recovery/people/researchers/philosophers/kent-dunnington)
+
+https://www.kentdunnington.com/
+
 - [Neil Levy](/recovery/people/researchers/philosophers/neil-levy)
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3991824/
+
 - [Hanna Pickard](/recovery/people/researchers/philosophers/hanna-pickard)
 
 ## Pages
@@ -108,7 +133,9 @@ html {
 ### H
 
 - [Hanna Pickard](/recovery/people/researchers/philosophers/hanna-pickard)
+
 - [Harry Frankfurt](/recovery/people/researchers/philosophers/harry-frankfurt)
+
 - [Herbert Fingarette](/recovery/people/researchers/philosophers/herbert-fingarette)
 
 <a id="letter-k"></a>
@@ -116,10 +143,14 @@ html {
 
 - [Kent Dunnington](/recovery/people/researchers/philosophers/kent-dunnington)
 
+https://www.kentdunnington.com/
+
 <a id="letter-n"></a>
 ### N
 
 - [Neil Levy](/recovery/people/researchers/philosophers/neil-levy)
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3991824/
 
 <a id="letter-t"></a>
 ### T

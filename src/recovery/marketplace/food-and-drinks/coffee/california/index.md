@@ -5,7 +5,11 @@ title: California
 ## Recently Modified
 
 - [Homegirl Cafe](/recovery/marketplace/food-and-drinks/coffee/california/homegirl-cafe)
+
+https://homeboyindustries.org/social-enterprises/cafe/
+
 - [Homeboy Bakery](/recovery/marketplace/food-and-drinks/coffee/california/homeboy-bakery)
+
 - [Restoration Roasters](/recovery/marketplace/food-and-drinks/coffee/california/restoration-roasters)
 
 ## Pages
@@ -84,7 +88,10 @@ html {
 ### H
 
 - [Homeboy Bakery](/recovery/marketplace/food-and-drinks/coffee/california/homeboy-bakery)
+
 - [Homegirl Cafe](/recovery/marketplace/food-and-drinks/coffee/california/homegirl-cafe)
+
+https://homeboyindustries.org/social-enterprises/cafe/
 
 <a id="letter-r"></a>
 ### R

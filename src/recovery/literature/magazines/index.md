@@ -10,14 +10,41 @@ title: Magazines
 ## Recently Modified
 
 - [After](/recovery/literature/magazines/after)
+
+https://aftermagazine.com/
+
 - [Journey Magazine](/recovery/literature/magazines/journey-magazine)
+
+https://journey-magazine.com/
+
 - [Sobriety Lifestyle](/recovery/literature/magazines/lifestyle/sobriety-lifestyle)
+
+https://www.instagram.com/reel/DbYBh3eIAk_/
+
 - [Advances In Addiction And Recovery](/recovery/literature/magazines/professional/advances-in-addiction-and-recovery)
+
+https://www.naadac.org/advances-in-addiction-recovery
+
 - [Treatment Magazine](/recovery/literature/magazines/professional/treatment-magazine)
+
+https://treatmentmagazine.com/
+
 - [Recovery Today](/recovery/literature/magazines/recovery-today)
+
+https://www.magsfast.com/Magazines/Recovery-Today/Latest
+
 - [Renew Magazine](/recovery/literature/magazines/renew-magazine)
+
+https://reneweveryday.com/about-renew/
+
 - [The Phoenix Spirit](/recovery/literature/magazines/lifestyle/the-phoenix-spirit)
+
+https://thephoenixspirit.com/
+
 - [In Recovery Magazine](/recovery/literature/magazines/in-recovery-magazine)
+
+https://pocketmags.com/in-recovery-magazine?srsltid=AfmBOooPbhNF4gB-S1KGwet8H-Y6ZrIZYaalxQdJOQY5fVdLSFI3rUjH
+
 - [Aa Grapevine](/recovery/literature/magazines/aa-grapevine)
 
 ## Pages
@@ -96,20 +123,32 @@ html {
 ### A
 
 - [Aa Grapevine](/recovery/literature/magazines/aa-grapevine)
+
 - [After](/recovery/literature/magazines/after)
+
+https://aftermagazine.com/
 
 <a id="letter-i"></a>
 ### I
 
 - [In Recovery Magazine](/recovery/literature/magazines/in-recovery-magazine)
 
+https://pocketmags.com/in-recovery-magazine?srsltid=AfmBOooPbhNF4gB-S1KGwet8H-Y6ZrIZYaalxQdJOQY5fVdLSFI3rUjH
+
 <a id="letter-j"></a>
 ### J
 
 - [Journey Magazine](/recovery/literature/magazines/journey-magazine)
 
+https://journey-magazine.com/
+
 <a id="letter-r"></a>
 ### R
 
 - [Recovery Today](/recovery/literature/magazines/recovery-today)
+
+https://www.magsfast.com/Magazines/Recovery-Today/Latest
+
 - [Renew Magazine](/recovery/literature/magazines/renew-magazine)
+
+https://reneweveryday.com/about-renew/

@@ -5,6 +5,7 @@ title: Opioid Antagonists
 ## Recently Modified
 
 - [Naloxone](/recovery/treatment/medications/opioid-antagonists/naloxone)
+
 - [Naltrexone](/recovery/treatment/medications/opioid-antagonists/naltrexone)
 
 ## Pages
@@ -83,4 +84,5 @@ html {
 ### N
 
 - [Naloxone](/recovery/treatment/medications/opioid-antagonists/naloxone)
+
 - [Naltrexone](/recovery/treatment/medications/opioid-antagonists/naltrexone)

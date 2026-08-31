@@ -5,7 +5,12 @@ title: Reintegration
 ## Recently Modified
 
 - [Contingency Management](/recovery/policy/reintegration/contingency-management)
+
+This and Housing First are my favorite policy approaches to addressing addiction and recovery. It's pure common sense that's been repeatedly validated by empirical investigations in both conventional studies and pilot policies. It's very difficult to imagine how you could oppose these unless you're an armchair pseudoscientist, suicidally elitist, or a hack with an ulterior motive. Both directly…
+
 - [Place Based Policies](/recovery/policy/reintegration/place-based-policies)
+
+https://www.hamiltonproject.org/assets/files/THPPBPweb_20190307.pdf
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Contingency Management](/recovery/policy/reintegration/contingency-management)
 
+This and Housing First are my favorite policy approaches to addressing addiction and recovery. It's pure common sense that's been repeatedly validated by empirical investigations in both conventional studies and pilot policies. It's very difficult to imagine how you could oppose these unless you're an armchair pseudoscientist, suicidally elitist, or a hack with an ulterior motive. Both directly…
+
 <a id="letter-p"></a>
 ### P
 
 - [Place Based Policies](/recovery/policy/reintegration/place-based-policies)
+
+https://www.hamiltonproject.org/assets/files/THPPBPweb_20190307.pdf

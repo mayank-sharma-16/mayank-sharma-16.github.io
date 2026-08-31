@@ -5,10 +5,16 @@ title: Journalists
 ## Recently Modified
 
 - [Bill Moyers](/recovery/people/journalists/bill-moyers)
+
 - [Sam Quinones](/recovery/people/journalists/sam-quinones)
+
 - [Beth Macy](/recovery/people/journalists/beth-macy)
+
 - [Johann Eduard Hari](/recovery/people/journalists/johann-eduard-hari)
+
 - [Laura Lovett](/recovery/people/journalists/laura-lovett)
+
+https://bhbusiness.com/author/llovett/
 
 ## Pages
 
@@ -86,6 +92,7 @@ html {
 ### B
 
 - [Beth Macy](/recovery/people/journalists/beth-macy)
+
 - [Bill Moyers](/recovery/people/journalists/bill-moyers)
 
 <a id="letter-j"></a>
@@ -97,6 +104,8 @@ html {
 ### L
 
 - [Laura Lovett](/recovery/people/journalists/laura-lovett)
+
+https://bhbusiness.com/author/llovett/
 
 <a id="letter-s"></a>
 ### S

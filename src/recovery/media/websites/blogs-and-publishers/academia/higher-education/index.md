@@ -6,6 +6,8 @@ title: Higher Education
 
 - [Center For Dissemination And Implementat](/recovery/media/websites/blogs-and-publishers/academia/higher-education/center-for-dissemination-and-implementat)
 
+https://www.c-dias.org/blog/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Center For Dissemination And Implementat](/recovery/media/websites/blogs-and-publishers/academia/higher-education/center-for-dissemination-and-implementat)
+
+https://www.c-dias.org/blog/

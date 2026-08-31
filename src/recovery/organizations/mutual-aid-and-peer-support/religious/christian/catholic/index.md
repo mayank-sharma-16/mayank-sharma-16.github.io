@@ -5,7 +5,12 @@ title: Catholic
 ## Recently Modified
 
 - [Catholic In Recovery](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/catholic/catholic-in-recovery)
+
+https://catholicinrecovery.com/
+
 - [Calix Society](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/catholic/calix-society)
+
+https://www.calixsociety.org/
 
 ## Pages
 
@@ -83,4 +88,9 @@ html {
 ### C
 
 - [Calix Society](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/catholic/calix-society)
+
+https://www.calixsociety.org/
+
 - [Catholic In Recovery](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/catholic/catholic-in-recovery)
+
+https://catholicinrecovery.com/

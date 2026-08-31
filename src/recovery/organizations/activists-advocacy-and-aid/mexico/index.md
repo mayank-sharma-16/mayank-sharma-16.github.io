@@ -6,6 +6,8 @@ title: Mexico
 
 - [Pro Vapeo Mexico](/recovery/organizations/activists-advocacy-and-aid/mexico/pro-vapeo-mexico)
 
+Pro-Vapeo Mexico is a civil advocacy group that represents vaporizer/e-cigarette companies and consumers that argue for harm reduction over total bans. Mexico has some of the strictest anti-tobacco laws in the world. Cigarettes can be legally bought and possessed, but smoking is banned in all public places including outdoor patios and individual private rooms in hotels. In 2008, the General…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### P
 
 - [Pro Vapeo Mexico](/recovery/organizations/activists-advocacy-and-aid/mexico/pro-vapeo-mexico)
+
+Pro-Vapeo Mexico is a civil advocacy group that represents vaporizer/e-cigarette companies and consumers that argue for harm reduction over total bans. Mexico has some of the strictest anti-tobacco laws in the world. Cigarettes can be legally bought and possessed, but smoking is banned in all public places including outdoor patios and individual private rooms in hotels. In 2008, the General…

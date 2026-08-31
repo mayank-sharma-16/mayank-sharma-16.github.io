@@ -5,11 +5,17 @@ title: 2010 2019
 ## Recently Modified
 
 - [Florida V Jardines 2013](/recovery/policy/united-states/2010-2019/florida-v-jardines-2013)
+
 - [First Step Act Of 2018](/recovery/policy/united-states/2010-2019/first-step-act-of-2018)
+
 - [Support For Patients And Communities Act](/recovery/policy/united-states/2010-2019/support-for-patients-and-communities-act)
+
 - [Interdict Act Of 2018](/recovery/policy/united-states/2010-2019/interdict-act-of-2018)
+
 - [21st Century Cures Act](/recovery/policy/united-states/2010-2019/21st-century-cures-act)
+
 - [Comprehensive Addiction Recovery Act Cara 2016](/recovery/policy/united-states/2010-2019/comprehensive-addiction-recovery-act-cara-2016)
+
 - [The Fair Sentencing Act Of 2010](/recovery/policy/united-states/2010-2019/the-fair-sentencing-act-of-2010)
 
 ## Pages
@@ -99,6 +105,7 @@ html {
 ### F
 
 - [First Step Act Of 2018](/recovery/policy/united-states/2010-2019/first-step-act-of-2018)
+
 - [Florida V Jardines 2013](/recovery/policy/united-states/2010-2019/florida-v-jardines-2013)
 
 <a id="letter-i"></a>

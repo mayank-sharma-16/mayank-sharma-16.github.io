@@ -5,6 +5,7 @@ title: Short Stories
 ## Recently Modified
 
 - [Where Im Calling From](/recovery/literature/short-stories/where-im-calling-from)
+
 - [The Black Cat By Edgar Allan Poe 1843](/recovery/literature/short-stories/the-black-cat-by-edgar-allan-poe-1843)
 
 ## Pages

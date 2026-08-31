@@ -5,10 +5,17 @@ title: Psychological
 ## Recently Modified
 
 - [Queen Of Spades By Tchaikovsky 1890](/recovery/literature/books/fiction/psychological/queen-of-spades-by-tchaikovsky-1890)
+
 - [The Gambler By Fyodor Dostoevsky 1866](/recovery/literature/books/fiction/psychological/the-gambler-by-fyodor-dostoevsky-1866)
+
 - [Black River Orchard By Chuck Wendig](/recovery/literature/books/fiction/psychological/black-river-orchard-by-chuck-wendig)
+
 - [The Alcoholics Jim Thompson](/recovery/literature/books/fiction/psychological/the-alcoholics-jim-thompson)
+
+https://www.goodreads.com/book/show/19161902-the-alcoholics
+
 - [Recovery](/recovery/literature/books/fiction/psychological/recovery)
+
 - [Under The Volcano](/recovery/literature/books/fiction/psychological/under-the-volcano)
 
 ## Pages
@@ -102,6 +109,9 @@ html {
 ### T
 
 - [The Alcoholics Jim Thompson](/recovery/literature/books/fiction/psychological/the-alcoholics-jim-thompson)
+
+https://www.goodreads.com/book/show/19161902-the-alcoholics
+
 - [The Gambler By Fyodor Dostoevsky 1866](/recovery/literature/books/fiction/psychological/the-gambler-by-fyodor-dostoevsky-1866)
 
 <a id="letter-u"></a>

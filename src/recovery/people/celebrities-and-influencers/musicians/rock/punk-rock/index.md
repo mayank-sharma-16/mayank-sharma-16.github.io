@@ -5,6 +5,7 @@ title: Punk Rock
 ## Recently Modified
 
 - [Sid Vicious](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/sid-vicious)
+
 - [Steve Jones](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/steve-jones)
 
 ## Pages
@@ -83,4 +84,5 @@ html {
 ### S
 
 - [Sid Vicious](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/sid-vicious)
+
 - [Steve Jones](/recovery/people/celebrities-and-influencers/musicians/rock/punk-rock/steve-jones)

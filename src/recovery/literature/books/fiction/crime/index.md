@@ -6,6 +6,8 @@ title: Crime
 
 - [The Man With The Golden Arm By Nelson Algren 1949](/recovery/literature/books/fiction/crime/the-man-with-the-golden-arm-by-nelson-algren-1949)
 
+The Man with the Golden Arm is one of the first post-WWII era novels to document the difficulties soldiers experienced when readjusting to civilian life. Nelson Algren, the author, himself served in WWII as a medical corpsan, and he intended to write novels about experiences he had on the battlefield. After coming back to Chicago and observing how his fellow soldiers had trouble integrating into…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### T
 
 - [The Man With The Golden Arm By Nelson Algren 1949](/recovery/literature/books/fiction/crime/the-man-with-the-golden-arm-by-nelson-algren-1949)
+
+The Man with the Golden Arm is one of the first post-WWII era novels to document the difficulties soldiers experienced when readjusting to civilian life. Nelson Algren, the author, himself served in WWII as a medical corpsan, and he intended to write novels about experiences he had on the battlefield. After coming back to Chicago and observing how his fellow soldiers had trouble integrating into…

@@ -6,6 +6,8 @@ title: Catholic
 
 - [The Catholic Sobriety Podcast](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/catholic/the-catholic-sobriety-podcast)
 
+https://www.buzzsprout.com/2087354
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### T
 
 - [The Catholic Sobriety Podcast](/recovery/media/podcasts/self-help-and-coaching/women/religious/christian/catholic/the-catholic-sobriety-podcast)
+
+https://www.buzzsprout.com/2087354

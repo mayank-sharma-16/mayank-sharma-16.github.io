@@ -5,10 +5,21 @@ title: Policy
 ## Recently Modified
 
 - [Natalie Gold](/recovery/people/researchers/policy/natalie-gold)
+
 - [Charles Fain Lehman](/recovery/people/researchers/policy/charles-fain-lehman)
+
+https://manhattan.institute/person/charles-fain-lehman https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "'There is a lot of evidence that interventions of this type generally do not have an appreciable effect on overdose deaths,' Lehman told CBS News. 'There's a fixed pool of resources available for helping people who are dealing with substance use disorder. If you're…
+
 - [Andrew Kolodny](/recovery/people/researchers/policy/andrew-kolodny)
+
+Andrew Kolodny is currently the Medical Director for the Opioid Policy Research Collaborative at Brandeis University. He also serves as President of Physicians for Responsible Opioid Prescribing. Before, he worked as Chief Medical Officer for Phoenix House
+
 - [Beth E Meyerson](/recovery/people/researchers/policy/beth-e-meyerson)
+
+Policy Director of the Comprehensive Center for Pain and Addiction at the University of Arizona https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths "When it comes to substance use disorder, we have not decided as a country this is an illness we actually can treat." "If I'm at my own general practitioner and it's suddenly clear I'm addicted to an opioid, my doctor will…
+
 - [James Nicholls](/recovery/people/researchers/policy/james-nicholls)
+
 - [Regina Labelle](/recovery/people/researchers/policy/regina-labelle)
 
 ## Pages
@@ -88,15 +99,21 @@ html {
 
 - [Andrew Kolodny](/recovery/people/researchers/policy/andrew-kolodny)
 
+Andrew Kolodny is currently the Medical Director for the Opioid Policy Research Collaborative at Brandeis University. He also serves as President of Physicians for Responsible Opioid Prescribing. Before, he worked as Chief Medical Officer for Phoenix House
+
 <a id="letter-b"></a>
 ### B
 
 - [Beth E Meyerson](/recovery/people/researchers/policy/beth-e-meyerson)
 
+Policy Director of the Comprehensive Center for Pain and Addiction at the University of Arizona https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths "When it comes to substance use disorder, we have not decided as a country this is an illness we actually can treat." "If I'm at my own general practitioner and it's suddenly clear I'm addicted to an opioid, my doctor will…
+
 <a id="letter-c"></a>
 ### C
 
 - [Charles Fain Lehman](/recovery/people/researchers/policy/charles-fain-lehman)
+
+https://manhattan.institute/person/charles-fain-lehman https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "'There is a lot of evidence that interventions of this type generally do not have an appreciable effect on overdose deaths,' Lehman told CBS News. 'There's a fixed pool of resources available for helping people who are dealing with substance use disorder. If you're…
 
 <a id="letter-j"></a>
 ### J

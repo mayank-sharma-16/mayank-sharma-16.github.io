@@ -5,7 +5,12 @@ title: 1850 1859
 ## Recently Modified
 
 - [George Pettey](/recovery/people/clinicians/doctors/1850-1859/george-pettey)
+
+A physician likely born around 1850-1860, Pettey was controversial in his time for criticizing substances like heroin and opium in all its forms as addictive, regardless of the method of ingestion. He also proposed a now-discarded theory of addiction that relied on toxins and internal medicine over psychology or neurology. Pettey's motivations were personal and social. From his 1913 book, The…
+
 - [Harry Hubbell Kane](/recovery/people/clinicians/doctors/1850-1859/harry-hubbell-kane)
+
+https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Kane%20-%20Opium%20Smoking.pdf
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [George Pettey](/recovery/people/clinicians/doctors/1850-1859/george-pettey)
 
+A physician likely born around 1850-1860, Pettey was controversial in his time for criticizing substances like heroin and opium in all its forms as addictive, regardless of the method of ingestion. He also proposed a now-discarded theory of addiction that relied on toxins and internal medicine over psychology or neurology. Pettey's motivations were personal and social. From his 1913 book, The…
+
 <a id="letter-h"></a>
 ### H
 
 - [Harry Hubbell Kane](/recovery/people/clinicians/doctors/1850-1859/harry-hubbell-kane)
+
+https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Kane%20-%20Opium%20Smoking.pdf

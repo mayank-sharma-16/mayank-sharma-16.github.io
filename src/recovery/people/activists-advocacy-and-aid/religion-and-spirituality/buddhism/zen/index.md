@@ -5,7 +5,9 @@ title: Zen
 ## Recently Modified
 
 - [Bernie Glassman](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/zen/bernie-glassman)
+
 - [Charlotte Joko Beck](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/zen/charlotte-joko-beck)
+
 - [Norman Fischer](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/zen/norman-fischer)
 
 ## Pages

@@ -5,7 +5,12 @@ title: 2010 2019
 ## Recently Modified
 
 - [Supervised Injection Services What Has B](/recovery/literature/studies/2010-2019/supervised-injection-services-what-has-b)
+
+https://pubmed.ncbi.nlm.nih.gov/25456324/ "Results: Seventy-five relevant articles were found. All studies converged to find that SISs were efficacious in attracting the most marginalized PWID, promoting safer injection conditions, enhancing access to primary health care, and reducing the overdose frequency. SISs were not found to increase drug injecting, drug trafficking or crime in the…
+
 - [Public Health And Public Order Outcomes ](/recovery/literature/studies/2010-2019/public-health-and-public-order-outcomes)
+
+"Consistent evidence demonstrates that SCFs mitigate overdose-related harms and unsafe drug use behaviours, as well as facilitate uptake of addiction treatment and other health services among people who use drugs (PWUD). Further, SCFs have been associated with improvements in public order without increasing drug-related crime. SCFs have also been shown to be cost-effective. This systematic review…
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Public Health And Public Order Outcomes ](/recovery/literature/studies/2010-2019/public-health-and-public-order-outcomes)
 
+"Consistent evidence demonstrates that SCFs mitigate overdose-related harms and unsafe drug use behaviours, as well as facilitate uptake of addiction treatment and other health services among people who use drugs (PWUD). Further, SCFs have been associated with improvements in public order without increasing drug-related crime. SCFs have also been shown to be cost-effective. This systematic review…
+
 <a id="letter-s"></a>
 ### S
 
 - [Supervised Injection Services What Has B](/recovery/literature/studies/2010-2019/supervised-injection-services-what-has-b)
+
+https://pubmed.ncbi.nlm.nih.gov/25456324/ "Results: Seventy-five relevant articles were found. All studies converged to find that SISs were efficacious in attracting the most marginalized PWID, promoting safer injection conditions, enhancing access to primary health care, and reducing the overdose frequency. SISs were not found to increase drug injecting, drug trafficking or crime in the…

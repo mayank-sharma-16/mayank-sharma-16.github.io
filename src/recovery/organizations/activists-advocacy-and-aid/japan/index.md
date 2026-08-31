@@ -5,7 +5,11 @@ title: Japan
 ## Recently Modified
 
 - [Nihon Kinshu Domei](/recovery/organizations/activists-advocacy-and-aid/japan/nihon-kinshu-domei)
+
+Established in 1898, it brought AA to Japan.
+
 - [Zen Nihon Danshu Renmei](/recovery/organizations/activists-advocacy-and-aid/japan/zen-nihon-danshu-renmei)
+
 - [Aa Japan General Service](/recovery/organizations/activists-advocacy-and-aid/japan/aa-japan-general-service)
 
 ## Pages
@@ -89,6 +93,8 @@ html {
 ### N
 
 - [Nihon Kinshu Domei](/recovery/organizations/activists-advocacy-and-aid/japan/nihon-kinshu-domei)
+
+Established in 1898, it brought AA to Japan.
 
 <a id="letter-z"></a>
 ### Z

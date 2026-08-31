@@ -9,11 +9,26 @@ title: Academia
 ## Recently Modified
 
 - [Recovery Review](/recovery/media/websites/blogs-and-publishers/academia/recovery-review)
+
+https://recoveryreview.blog/
+
 - [Understanding Addiction](/recovery/media/websites/blogs-and-publishers/academia/understanding-addiction)
+
+https://memoirsofanaddictedbrain.com/blog/
+
 - [Sober Academics](/recovery/media/websites/blogs-and-publishers/academia/sober-academics)
+
+https://drdaniellebacibianco.com/sober-academics/
+
 - [Noras Blog](/recovery/media/websites/blogs-and-publishers/academia/noras-blog)
+
 - [Center For Dissemination And Implementat](/recovery/media/websites/blogs-and-publishers/academia/higher-education/center-for-dissemination-and-implementat)
+
+https://www.c-dias.org/blog/
+
 - [Digital Dispensary](/recovery/media/websites/blogs-and-publishers/academia/digital-dispensary)
+
+https://digitaldispensary.org/2016/06/01/gothic-pharmacologies-poison-and-cure-when-gothic-takes-care/
 
 ## Pages
 
@@ -92,6 +107,8 @@ html {
 
 - [Digital Dispensary](/recovery/media/websites/blogs-and-publishers/academia/digital-dispensary)
 
+https://digitaldispensary.org/2016/06/01/gothic-pharmacologies-poison-and-cure-when-gothic-takes-care/
+
 <a id="letter-n"></a>
 ### N
 
@@ -102,12 +119,18 @@ html {
 
 - [Recovery Review](/recovery/media/websites/blogs-and-publishers/academia/recovery-review)
 
+https://recoveryreview.blog/
+
 <a id="letter-s"></a>
 ### S
 
 - [Sober Academics](/recovery/media/websites/blogs-and-publishers/academia/sober-academics)
 
+https://drdaniellebacibianco.com/sober-academics/
+
 <a id="letter-u"></a>
 ### U
 
 - [Understanding Addiction](/recovery/media/websites/blogs-and-publishers/academia/understanding-addiction)
+
+https://memoirsofanaddictedbrain.com/blog/

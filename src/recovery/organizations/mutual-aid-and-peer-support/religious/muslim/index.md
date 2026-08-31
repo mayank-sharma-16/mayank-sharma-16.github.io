@@ -5,7 +5,12 @@ title: Muslim
 ## Recently Modified
 
 - [Muslim Recovery Network](/recovery/organizations/mutual-aid-and-peer-support/religious/muslim/muslim-recovery-network)
+
+https://kikitproject.org/drugs-and-alcohol/muslim-recovery-network-programme/
+
 - [Millati Islami](/recovery/organizations/mutual-aid-and-peer-support/religious/muslim/millati-islami)
+
+https://millatiislami.org/
 
 ## Pages
 
@@ -83,4 +88,9 @@ html {
 ### M
 
 - [Millati Islami](/recovery/organizations/mutual-aid-and-peer-support/religious/muslim/millati-islami)
+
+https://millatiislami.org/
+
 - [Muslim Recovery Network](/recovery/organizations/mutual-aid-and-peer-support/religious/muslim/muslim-recovery-network)
+
+https://kikitproject.org/drugs-and-alcohol/muslim-recovery-network-programme/

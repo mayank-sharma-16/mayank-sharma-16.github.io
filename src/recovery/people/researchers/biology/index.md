@@ -6,6 +6,8 @@ title: Biology
 
 - [Jack E Henningfield](/recovery/people/researchers/biology/jack-e-henningfield)
 
+Jack Henningfield
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### J
 
 - [Jack E Henningfield](/recovery/people/researchers/biology/jack-e-henningfield)
+
+Jack Henningfield

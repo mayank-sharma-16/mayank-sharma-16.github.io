@@ -9,16 +9,48 @@ title: Calendars
 ## Recently Modified
 
 - [Minnesota Young People In Alcoholics Anonymous Mnypaa](/recovery/events/calendars/united-states/minnesota/minnesota-young-people-in-alcoholics-anonymous-mnypaa)
+
+https://mnypaa.org/events
+
 - [Events Orange County Intergroup Association](/recovery/events/calendars/united-states/california/events-orange-county-intergroup-association)
+
+https://www.oc-aa.org/events/
+
 - [Southern California Region Of Narcotics Anonymous](/recovery/events/calendars/united-states/california/southern-california-region-of-narcotics-anonymous)
+
+https://todayna.org/todaynawp/activities/
+
 - [Orange County Area Activities](/recovery/events/calendars/united-states/california/orange-county-area-activities)
+
+https://orangecountyna.org/ocwp/activities/
+
 - [Naatp Events Calendar](/recovery/events/calendars/naatp-events-calendar)
+
+https://www.naatp.org/training/upcoming
+
 - [Alcoholics Anonymous Calendar Of Events](/recovery/events/calendars/alcoholics-anonymous-calendar-of-events)
+
+https://www.aa.org/events
+
 - [Nbhap Conference Or Summit](/recovery/events/calendars/nbhap-conference-or-summit)
+
+https://nbhap.org/industry_calendar/category/conference-summit/list/
+
 - [Careers Of Substance Training And Events](/recovery/events/calendars/careers-of-substance-training-and-events)
+
+https://careersofsubstance.org/trainings-and-events/list
+
 - [Asam Live Conferences](/recovery/events/calendars/asam-live-conferences)
+
+https://www.asam.org/events/live-conferences
+
 - [Naadac Calendar Of Events](/recovery/events/calendars/naadac-calendar-of-events)
+
+https://www.naadac.org/calendar-of-events
+
 - [Faces And Voices Of Recovery Events](/recovery/events/calendars/faces-and-voices-of-recovery-events)
+
+https://facesandvoicesofrecovery.org/engage/events/
 
 ## Pages
 
@@ -96,21 +128,38 @@ html {
 ### A
 
 - [Alcoholics Anonymous Calendar Of Events](/recovery/events/calendars/alcoholics-anonymous-calendar-of-events)
+
+https://www.aa.org/events
+
 - [Asam Live Conferences](/recovery/events/calendars/asam-live-conferences)
+
+https://www.asam.org/events/live-conferences
 
 <a id="letter-c"></a>
 ### C
 
 - [Careers Of Substance Training And Events](/recovery/events/calendars/careers-of-substance-training-and-events)
 
+https://careersofsubstance.org/trainings-and-events/list
+
 <a id="letter-f"></a>
 ### F
 
 - [Faces And Voices Of Recovery Events](/recovery/events/calendars/faces-and-voices-of-recovery-events)
 
+https://facesandvoicesofrecovery.org/engage/events/
+
 <a id="letter-n"></a>
 ### N
 
 - [Naadac Calendar Of Events](/recovery/events/calendars/naadac-calendar-of-events)
+
+https://www.naadac.org/calendar-of-events
+
 - [Naatp Events Calendar](/recovery/events/calendars/naatp-events-calendar)
+
+https://www.naatp.org/training/upcoming
+
 - [Nbhap Conference Or Summit](/recovery/events/calendars/nbhap-conference-or-summit)
+
+https://nbhap.org/industry_calendar/category/conference-summit/list/

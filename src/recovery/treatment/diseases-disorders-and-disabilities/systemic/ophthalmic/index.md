@@ -5,9 +5,13 @@ title: Ophthalmic
 ## Recently Modified
 
 - [Talcom Retinopathy](/recovery/treatment/diseases-disorders-and-disabilities/systemic/ophthalmic/talcom-retinopathy)
+
 - [Retinal Vascular Occlusion](/recovery/treatment/diseases-disorders-and-disabilities/systemic/ophthalmic/retinal-vascular-occlusion)
+
 - [Keratitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/ophthalmic/keratitis)
+
 - [Optic Neuropathy](/recovery/treatment/diseases-disorders-and-disabilities/systemic/ophthalmic/optic-neuropathy)
+
 - [Endophthalmitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/ophthalmic/endophthalmitis)
 
 ## Pages

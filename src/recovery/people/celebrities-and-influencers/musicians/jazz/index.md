@@ -5,6 +5,7 @@ title: Jazz
 ## Recently Modified
 
 - [Red Rodney](/recovery/people/celebrities-and-influencers/musicians/jazz/red-rodney)
+
 - [Billie Holiday](/recovery/people/celebrities-and-influencers/musicians/jazz/billie-holiday)
 
 ## Pages

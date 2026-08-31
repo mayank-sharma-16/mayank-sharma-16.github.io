@@ -6,6 +6,8 @@ title: Counseling
 
 - [National Association For Alcoholism And ](/recovery/organizations/professional/counseling/national-association-for-alcoholism-and)
 
+https://www.naadac.org/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### N
 
 - [National Association For Alcoholism And ](/recovery/organizations/professional/counseling/national-association-for-alcoholism-and)
+
+https://www.naadac.org/

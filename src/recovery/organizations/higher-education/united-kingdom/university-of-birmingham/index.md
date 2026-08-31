@@ -6,6 +6,8 @@ title: University Of Birmingham
 
 - [Alcohol Drugs And The Family Research Interest Group](/recovery/organizations/higher-education/united-kingdom/university-of-birmingham/alcohol-drugs-and-the-family-research-interest-group)
 
+Led by James Orford, this group developed the stress-strain-coping-support model for addiction-affected family members (AFMs) and the 5-Step Method (5SM).
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [Alcohol Drugs And The Family Research Interest Group](/recovery/organizations/higher-education/united-kingdom/university-of-birmingham/alcohol-drugs-and-the-family-research-interest-group)
+
+Led by James Orford, this group developed the stress-strain-coping-support model for addiction-affected family members (AFMs) and the 5-Step Method (5SM).

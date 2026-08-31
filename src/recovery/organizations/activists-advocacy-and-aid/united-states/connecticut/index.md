@@ -6,6 +6,8 @@ title: Connecticut
 
 - [Connecticut Community For Addiction Recovery Ccar](/recovery/organizations/activists-advocacy-and-aid/united-states/connecticut/connecticut-community-for-addiction-recovery-ccar)
 
+https://ccar.us/about-ccar/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Connecticut Community For Addiction Recovery Ccar](/recovery/organizations/activists-advocacy-and-aid/united-states/connecticut/connecticut-community-for-addiction-recovery-ccar)
+
+https://ccar.us/about-ccar/

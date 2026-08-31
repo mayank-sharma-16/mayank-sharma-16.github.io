@@ -6,6 +6,8 @@ title: 1850 1859
 
 - [Oscar Wilde](/recovery/people/artists/writers/1850-1859/oscar-wilde)
 
+Known simply as Oscar Wilde. "Men and women at such moments lose the freedom of their will. They move to their terrible end as automatons move."
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### O
 
 - [Oscar Wilde](/recovery/people/artists/writers/1850-1859/oscar-wilde)
+
+Known simply as Oscar Wilde. "Men and women at such moments lose the freedom of their will. They move to their terrible end as automatons move."

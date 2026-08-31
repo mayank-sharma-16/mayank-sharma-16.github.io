@@ -4,7 +4,9 @@ title: Adaptations
 
 ## Recently Modified
 
-- [The Last Weekend 1945](/recovery/media/movies/dramas-and-dramedies/adaptations/the-last-weekend-1945)
+- [The Lost Weekend](/recovery/media/movies/dramas-and-dramedies/adaptations/the-lost-weekend)
+
+"Nat, are you ever scared when you wake up? So scared, the sweat starts out of you, huh? No, not you. With you, it's simple. The alarm clock goes off, you open your eyes, brush your teeth, and ready the Daily Mirror. That's all. You ever lie in your bed, looking at the window? A little daylight's coming through, and you start to wonder. Is it getting lighter? Is it getting darker? Is it dawn or…
 
 ## Pages
 
@@ -81,4 +83,6 @@ html {
 <a id="letter-t"></a>
 ### T
 
-- [The Last Weekend 1945](/recovery/media/movies/dramas-and-dramedies/adaptations/the-last-weekend-1945)
+- [The Lost Weekend](/recovery/media/movies/dramas-and-dramedies/adaptations/the-lost-weekend)
+
+"Nat, are you ever scared when you wake up? So scared, the sweat starts out of you, huh? No, not you. With you, it's simple. The alarm clock goes off, you open your eyes, brush your teeth, and ready the Daily Mirror. That's all. You ever lie in your bed, looking at the window? A little daylight's coming through, and you start to wonder. Is it getting lighter? Is it getting darker? Is it dawn or…

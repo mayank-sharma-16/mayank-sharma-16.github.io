@@ -5,10 +5,15 @@ title: Neurocognitive Disorders
 ## Recently Modified
 
 - [Wernicke Korsakoff Syndrome](/recovery/treatment/diseases-disorders-and-disabilities/neurocognitive-disorders/wernicke-korsakoff-syndrome)
+
 - [Delirium Tremens Dts](/recovery/treatment/diseases-disorders-and-disabilities/neurocognitive-disorders/delirium-tremens-dts)
+
 - [Hallucinogen Persisting Perception Disorder Hppd](/recovery/treatment/diseases-disorders-and-disabilities/neurocognitive-disorders/hallucinogen-persisting-perception-disorder-hppd)
+
 - [Marchiafava Bignami Disease](/recovery/treatment/diseases-disorders-and-disabilities/neurocognitive-disorders/marchiafava-bignami-disease)
+
 - [Mild Neurocognitive Disorder](/recovery/treatment/diseases-disorders-and-disabilities/neurocognitive-disorders/mild-neurocognitive-disorder)
+
 - [Major Neurocognitive Disorder Dementia](/recovery/treatment/diseases-disorders-and-disabilities/neurocognitive-disorders/major-neurocognitive-disorder-dementia)
 
 ## Pages
@@ -97,7 +102,9 @@ html {
 ### M
 
 - [Major Neurocognitive Disorder Dementia](/recovery/treatment/diseases-disorders-and-disabilities/neurocognitive-disorders/major-neurocognitive-disorder-dementia)
+
 - [Marchiafava Bignami Disease](/recovery/treatment/diseases-disorders-and-disabilities/neurocognitive-disorders/marchiafava-bignami-disease)
+
 - [Mild Neurocognitive Disorder](/recovery/treatment/diseases-disorders-and-disabilities/neurocognitive-disorders/mild-neurocognitive-disorder)
 
 <a id="letter-w"></a>

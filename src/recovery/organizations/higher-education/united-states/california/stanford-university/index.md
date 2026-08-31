@@ -5,7 +5,13 @@ title: Stanford University
 ## Recently Modified
 
 - [Stanford Alumni Recovery Network Sarn](/recovery/organizations/higher-education/united-states/california/stanford-university/stanford-alumni-recovery-network-sarn)
+
+https://groups.stanford.edu/topics/11348/home
+
 - [Office Of Substance Use Programs Educati](/recovery/organizations/higher-education/united-states/california/stanford-university/office-of-substance-use-programs-educati)
+
+https://super.stanford.edu/
+
 - [Stanford Addiction Medicine Fellowship](/recovery/organizations/higher-education/united-states/california/stanford-university/stanford-addiction-medicine-fellowship)
 
 ## Pages
@@ -85,8 +91,13 @@ html {
 
 - [Office Of Substance Use Programs Educati](/recovery/organizations/higher-education/united-states/california/stanford-university/office-of-substance-use-programs-educati)
 
+https://super.stanford.edu/
+
 <a id="letter-s"></a>
 ### S
 
 - [Stanford Addiction Medicine Fellowship](/recovery/organizations/higher-education/united-states/california/stanford-university/stanford-addiction-medicine-fellowship)
+
 - [Stanford Alumni Recovery Network Sarn](/recovery/organizations/higher-education/united-states/california/stanford-university/stanford-alumni-recovery-network-sarn)
+
+https://groups.stanford.edu/topics/11348/home

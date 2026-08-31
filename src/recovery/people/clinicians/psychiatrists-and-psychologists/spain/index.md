@@ -6,6 +6,8 @@ title: Spain
 
 - [Juan Gine Y Partagas](/recovery/people/clinicians/psychiatrists-and-psychologists/spain/juan-gine-y-partagas)
 
+He wrote Tratado teórico-práctico de freno-patología o Estudio de las enfermedades mentales (Theoretical-Practical Treatise on Phreno-Pathology or The Study of Mental Illnesses) 1876.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### J
 
 - [Juan Gine Y Partagas](/recovery/people/clinicians/psychiatrists-and-psychologists/spain/juan-gine-y-partagas)
+
+He wrote Tratado teórico-práctico de freno-patología o Estudio de las enfermedades mentales (Theoretical-Practical Treatise on Phreno-Pathology or The Study of Mental Illnesses) 1876.

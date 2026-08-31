@@ -6,6 +6,8 @@ title: 1790 1799
 
 - [An Inquiry Into The Effects Of Spirituou](/recovery/literature/books/non-fiction/monographs/1790-1799/an-inquiry-into-the-effects-of-spirituou)
 
+We're going back to a signatory of the Declaration of Independence to find the first proposal for a disease model of addiction in American medical communities. https://collections.nlm.nih.gov/ext/dw/2569021R/PDF/2569021R.pdf
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [An Inquiry Into The Effects Of Spirituou](/recovery/literature/books/non-fiction/monographs/1790-1799/an-inquiry-into-the-effects-of-spirituou)
+
+We're going back to a signatory of the Declaration of Independence to find the first proposal for a disease model of addiction in American medical communities. https://collections.nlm.nih.gov/ext/dw/2569021R/PDF/2569021R.pdf

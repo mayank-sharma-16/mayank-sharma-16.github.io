@@ -6,6 +6,8 @@ title: Social Commentary
 
 - [Recovering](/recovery/media/websites/blogs-and-publishers/social-commentary/recovering)
 
+https://newsletter.hollywhitaker.com/?utmsource=homepagerecommendations&utm_campaign=1523133
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### R
 
 - [Recovering](/recovery/media/websites/blogs-and-publishers/social-commentary/recovering)
+
+https://newsletter.hollywhitaker.com/?utmsource=homepagerecommendations&utm_campaign=1523133

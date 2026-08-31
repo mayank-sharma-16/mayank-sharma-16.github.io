@@ -6,6 +6,8 @@ title: Oregon
 
 - [Serenity Shop](/recovery/marketplace/meeting-merchandise/united-states/oregon/serenity-shop)
 
+https://www.serenityshop.com/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### S
 
 - [Serenity Shop](/recovery/marketplace/meeting-merchandise/united-states/oregon/serenity-shop)
+
+https://www.serenityshop.com/

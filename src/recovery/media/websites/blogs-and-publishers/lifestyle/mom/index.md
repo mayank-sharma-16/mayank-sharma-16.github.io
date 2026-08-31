@@ -6,6 +6,8 @@ title: Mom
 
 - [Ask A Sober Person](/recovery/media/websites/blogs-and-publishers/lifestyle/mom/ask-a-sober-person)
 
+https://samanthaperkins.substack.com/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [Ask A Sober Person](/recovery/media/websites/blogs-and-publishers/lifestyle/mom/ask-a-sober-person)
+
+https://samanthaperkins.substack.com/

@@ -6,6 +6,8 @@ title: 1900 1909
 
 - [Proceedings Of The Society For The Study Of Inebriety](/recovery/literature/books/non-fiction/monographs/1900-1909/proceedings-of-the-society-for-the-study-of-inebriety)
 
+https://dn790008.ca.archive.org/0/items/b22410624/b22410624.pdf
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### P
 
 - [Proceedings Of The Society For The Study Of Inebriety](/recovery/literature/books/non-fiction/monographs/1900-1909/proceedings-of-the-society-for-the-study-of-inebriety)
+
+https://dn790008.ca.archive.org/0/items/b22410624/b22410624.pdf

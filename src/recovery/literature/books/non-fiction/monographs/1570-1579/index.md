@@ -6,6 +6,8 @@ title: 1570 1579
 
 - [A Delicate Diet For Daintiemouthde Droon](/recovery/literature/books/non-fiction/monographs/1570-1579/a-delicate-diet-for-daintiemouthde-droon)
 
+I'm not gonna lie, I mainly included this one for the title.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [A Delicate Diet For Daintiemouthde Droon](/recovery/literature/books/non-fiction/monographs/1570-1579/a-delicate-diet-for-daintiemouthde-droon)
+
+I'm not gonna lie, I mainly included this one for the title.

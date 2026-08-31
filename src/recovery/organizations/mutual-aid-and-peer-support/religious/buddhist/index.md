@@ -6,6 +6,8 @@ title: Buddhist
 
 - [Buddhist Recovery Network](/recovery/organizations/mutual-aid-and-peer-support/religious/buddhist/buddhist-recovery-network)
 
+https://buddhistrecovery.org/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### B
 
 - [Buddhist Recovery Network](/recovery/organizations/mutual-aid-and-peer-support/religious/buddhist/buddhist-recovery-network)
+
+https://buddhistrecovery.org/

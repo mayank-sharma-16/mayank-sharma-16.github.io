@@ -5,7 +5,9 @@ title: Arrhythmias
 ## Recently Modified
 
 - [Qt Prolongation](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/arrhythmias/qt-prolongation)
+
 - [Ventricular Tachycardia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/arrhythmias/ventricular-tachycardia)
+
 - [Acute Atrial Fibrillation](/recovery/treatment/diseases-disorders-and-disabilities/systemic/cardiovascular/arrhythmias/acute-atrial-fibrillation)
 
 ## Pages

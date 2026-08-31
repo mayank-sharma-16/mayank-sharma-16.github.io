@@ -5,7 +5,9 @@ title: Bipolar And Related Disorders
 ## Recently Modified
 
 - [Cyclothymic Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/bipolar-and-related-disorders/cyclothymic-disorder)
+
 - [Bipolar Ii Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/bipolar-and-related-disorders/bipolar-ii-disorder)
+
 - [Bipolar I Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/bipolar-and-related-disorders/bipolar-i-disorder)
 
 ## Pages
@@ -84,6 +86,7 @@ html {
 ### B
 
 - [Bipolar I Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/bipolar-and-related-disorders/bipolar-i-disorder)
+
 - [Bipolar Ii Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/bipolar-and-related-disorders/bipolar-ii-disorder)
 
 <a id="letter-c"></a>

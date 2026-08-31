@@ -5,8 +5,16 @@ title: Massachusetts Institute Of Technology
 ## Recently Modified
 
 - [Office Of Community Development And Substance Abuse](/recovery/organizations/higher-education/united-states/massachusetts/massachusetts-institute-of-technology/office-of-community-development-and-substance-abuse)
+
+https://orgchart.mit.edu/letters/alcohol-abuse-illegal-drugs-and-our-community
+
 - [Sud Ventures Bootcamp](/recovery/organizations/higher-education/united-states/massachusetts/massachusetts-institute-of-technology/sud-ventures-bootcamp)
+
+https://openlearning.mit.edu/news/mit-open-learning-bootcamp-supports-effort-bring-invention-long-term-fentanyl-recovery-market
+
 - [Mcgovern Institute](/recovery/organizations/higher-education/united-states/massachusetts/massachusetts-institute-of-technology/mcgovern-institute)
+
+https://mcgovern.mit.edu/research-areas/addiction/
 
 ## Pages
 
@@ -85,12 +93,18 @@ html {
 
 - [Mcgovern Institute](/recovery/organizations/higher-education/united-states/massachusetts/massachusetts-institute-of-technology/mcgovern-institute)
 
+https://mcgovern.mit.edu/research-areas/addiction/
+
 <a id="letter-o"></a>
 ### O
 
 - [Office Of Community Development And Substance Abuse](/recovery/organizations/higher-education/united-states/massachusetts/massachusetts-institute-of-technology/office-of-community-development-and-substance-abuse)
 
+https://orgchart.mit.edu/letters/alcohol-abuse-illegal-drugs-and-our-community
+
 <a id="letter-s"></a>
 ### S
 
 - [Sud Ventures Bootcamp](/recovery/organizations/higher-education/united-states/massachusetts/massachusetts-institute-of-technology/sud-ventures-bootcamp)
+
+https://openlearning.mit.edu/news/mit-open-learning-bootcamp-supports-effort-bring-invention-long-term-fentanyl-recovery-market

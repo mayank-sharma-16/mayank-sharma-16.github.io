@@ -6,6 +6,8 @@ title: Alabama
 
 - [End Addiction Bham Walk](/recovery/events/rallies/united-states/alabama/end-addiction-bham-walk)
 
+The End Addiction BHAM Walk was organized by the Addiction Prevention Coalition (APC) in Birmingham, Alabama for the first time in 2017. Originally, it was named the "End Heroin Birmingham Walk" before being renamed for all substance use disorders. It gathered 3000-4000 attendees and 75 community organizations before its final year in 2026. The organizers and participants are now pivoting to new…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### E
 
 - [End Addiction Bham Walk](/recovery/events/rallies/united-states/alabama/end-addiction-bham-walk)
+
+The End Addiction BHAM Walk was organized by the Addiction Prevention Coalition (APC) in Birmingham, Alabama for the first time in 2017. Originally, it was named the "End Heroin Birmingham Walk" before being renamed for all substance use disorders. It gathered 3000-4000 attendees and 75 community organizations before its final year in 2026. The organizers and participants are now pivoting to new…

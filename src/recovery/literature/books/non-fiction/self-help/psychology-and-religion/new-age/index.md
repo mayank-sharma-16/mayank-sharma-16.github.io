@@ -5,8 +5,14 @@ title: New Age
 ## Recently Modified
 
 - [The Four Agreements](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/new-age/the-four-agreements)
+
+If you like this book and feel it has been helpful in your life, don't read the rest of this review. I will always preface everything I have to say about life advice or self-help or spirituality with the caveat that if it works for you, you don't need me or anyone else to approve it. I don't know you or your life's circumstances. I don't know what works or doesn't for you. This review is for the…
+
 - [The Power Of Now A Guide To Spiritual Enlightenment](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/new-age/the-power-of-now-a-guide-to-spiritual-enlightenment)
+
 - [Zero Limits The Secret Hawaiian System F](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/new-age/zero-limits-the-secret-hawaiian-system-f)
+
+There's something about "the secret Hawaiian system" that tickles the same part of my brain that "ancient Toltec wisdom" does.
 
 ## Pages
 
@@ -84,9 +90,14 @@ html {
 ### T
 
 - [The Four Agreements](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/new-age/the-four-agreements)
+
+If you like this book and feel it has been helpful in your life, don't read the rest of this review. I will always preface everything I have to say about life advice or self-help or spirituality with the caveat that if it works for you, you don't need me or anyone else to approve it. I don't know you or your life's circumstances. I don't know what works or doesn't for you. This review is for the…
+
 - [The Power Of Now A Guide To Spiritual Enlightenment](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/new-age/the-power-of-now-a-guide-to-spiritual-enlightenment)
 
 <a id="letter-z"></a>
 ### Z
 
 - [Zero Limits The Secret Hawaiian System F](/recovery/literature/books/non-fiction/self-help/psychology-and-religion/new-age/zero-limits-the-secret-hawaiian-system-f)
+
+There's something about "the secret Hawaiian system" that tickles the same part of my brain that "ancient Toltec wisdom" does.

@@ -5,7 +5,12 @@ title: University Of Alabama Birmingham
 ## Recently Modified
 
 - [Center For Addiction And Pain Prevention](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama-birmingham/center-for-addiction-and-pain-prevention)
+
+https://sites.uab.edu/cappi/
+
 - [Uab Medicine Addiction Recovery Services](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama-birmingham/uab-medicine-addiction-recovery-services)
+
+https://www.uabmedicine.org/specialties/uab-medicine-addiction-recovery-services/
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Center For Addiction And Pain Prevention](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama-birmingham/center-for-addiction-and-pain-prevention)
 
+https://sites.uab.edu/cappi/
+
 <a id="letter-u"></a>
 ### U
 
 - [Uab Medicine Addiction Recovery Services](/recovery/organizations/higher-education/united-states/alabama/university-of-alabama-birmingham/uab-medicine-addiction-recovery-services)
+
+https://www.uabmedicine.org/specialties/uab-medicine-addiction-recovery-services/

@@ -6,6 +6,8 @@ title: Medical Nutritional Therapy
 
 - [Ciwa Ar Thiamine Repletion](/recovery/treatment/procedures/therapies/medical-nutritional-therapy/ciwa-ar-thiamine-repletion)
 
+https://www.conciergehomedetox.com/prevent-wernicke-korsakoff-iv-thiamine-in-home-alcohol-detox/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Ciwa Ar Thiamine Repletion](/recovery/treatment/procedures/therapies/medical-nutritional-therapy/ciwa-ar-thiamine-repletion)
+
+https://www.conciergehomedetox.com/prevent-wernicke-korsakoff-iv-thiamine-in-home-alcohol-detox/

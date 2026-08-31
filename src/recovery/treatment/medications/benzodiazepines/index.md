@@ -5,13 +5,21 @@ title: Benzodiazepines
 ## Recently Modified
 
 - [Midazolam](/recovery/treatment/medications/benzodiazepines/midazolam)
+
 - [Temazepam](/recovery/treatment/medications/benzodiazepines/temazepam)
+
 - [Diazepam](/recovery/treatment/medications/benzodiazepines/diazepam)
+
 - [Alprazolam](/recovery/treatment/medications/benzodiazepines/alprazolam)
+
 - [Clonazepam](/recovery/treatment/medications/benzodiazepines/clonazepam)
+
 - [Oxazepam](/recovery/treatment/medications/benzodiazepines/oxazepam)
+
 - [Lorazepam](/recovery/treatment/medications/benzodiazepines/lorazepam)
+
 - [Chlordiazepoxide](/recovery/treatment/medications/benzodiazepines/chlordiazepoxide)
+
 - [Benzodiazepine](/recovery/treatment/medications/benzodiazepines/benzodiazepine)
 
 ## Pages
@@ -100,6 +108,7 @@ html {
 ### C
 
 - [Chlordiazepoxide](/recovery/treatment/medications/benzodiazepines/chlordiazepoxide)
+
 - [Clonazepam](/recovery/treatment/medications/benzodiazepines/clonazepam)
 
 <a id="letter-d"></a>

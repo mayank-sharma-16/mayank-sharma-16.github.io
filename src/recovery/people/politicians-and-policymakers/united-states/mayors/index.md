@@ -5,7 +5,13 @@ title: Mayors
 ## Recently Modified
 
 - [Zohran Mamdani](/recovery/people/politicians-and-policymakers/united-states/mayors/zohran-mamdani)
+
+In 2025, Zohran Mamdani was elected Mayor of New York City after being elected to the New York State Assembly in 2020. https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "Just two months after taking office, New York City Mayor Zohran Mamdani visited OnPoint to show support for the program. 'This weekend, the team at OnPoint NYC kept their doors open 24/7 so vulnerable New…
+
 - [Rudy Giuliani](/recovery/people/politicians-and-policymakers/united-states/mayors/rudy-giuliani)
+
+When he was the US attorney for the Southern District of New York, he purchased crack on camera to show how easy it is to buy drugs.
+
 - [Marion Barry](/recovery/people/politicians-and-policymakers/united-states/mayors/marion-barry)
 
 ## Pages
@@ -90,7 +96,11 @@ html {
 
 - [Rudy Giuliani](/recovery/people/politicians-and-policymakers/united-states/mayors/rudy-giuliani)
 
+When he was the US attorney for the Southern District of New York, he purchased crack on camera to show how easy it is to buy drugs.
+
 <a id="letter-z"></a>
 ### Z
 
 - [Zohran Mamdani](/recovery/people/politicians-and-policymakers/united-states/mayors/zohran-mamdani)
+
+In 2025, Zohran Mamdani was elected Mayor of New York City after being elected to the New York State Assembly in 2020. https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "Just two months after taking office, New York City Mayor Zohran Mamdani visited OnPoint to show support for the program. 'This weekend, the team at OnPoint NYC kept their doors open 24/7 so vulnerable New…

@@ -5,6 +5,9 @@ title: 1780 1789
 ## Recently Modified
 
 - [Thomas De Quincey](/recovery/people/artists/writers/1780-1789/thomas-de-quincey)
+
+By 1817, De Quincey was consuming more than 20,000 milligrams of morphine a day. De Quincey's book Confessions of an Opium Eater (1821) achieved a legendary status in Western societies as one of the most popular texts describing the influence of opium. In George Pettey's The Narcotic Drug Diseases and Allied Ailments: Pathology, Pathogenesis, and Treatment (1913), the author critically…
+
 - [Lord Byron](/recovery/people/artists/writers/1780-1789/lord-byron)
 
 ## Pages
@@ -88,3 +91,5 @@ html {
 ### T
 
 - [Thomas De Quincey](/recovery/people/artists/writers/1780-1789/thomas-de-quincey)
+
+By 1817, De Quincey was consuming more than 20,000 milligrams of morphine a day. De Quincey's book Confessions of an Opium Eater (1821) achieved a legendary status in Western societies as one of the most popular texts describing the influence of opium. In George Pettey's The Narcotic Drug Diseases and Allied Ailments: Pathology, Pathogenesis, and Treatment (1913), the author critically…

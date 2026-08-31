@@ -5,6 +5,7 @@ title: Independent News
 ## Recently Modified
 
 - [Reporting On Addiction](/recovery/organizations/media/independent-news/reporting-on-addiction)
+
 - [The Fix](/recovery/organizations/media/independent-news/the-fix)
 
 ## Pages

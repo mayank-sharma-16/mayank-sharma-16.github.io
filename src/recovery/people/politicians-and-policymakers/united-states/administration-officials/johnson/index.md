@@ -6,6 +6,8 @@ title: Johnson
 
 - [Daniel Patrick Moynihan](/recovery/people/politicians-and-policymakers/united-states/administration-officials/johnson/daniel-patrick-moynihan)
 
+Most known for the Moynihan Report, a 1965 report that studied poverty in African-American communities and concluded that, rather than structural or systemic momentum from an explicit racial hierarchy, the primary reasons for continued cycles of poverty could be attributed to problems with "ghetto culture." William J. Ryan responded to the report with a major rebuttal in his 1971 book Blaming the…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### D
 
 - [Daniel Patrick Moynihan](/recovery/people/politicians-and-policymakers/united-states/administration-officials/johnson/daniel-patrick-moynihan)
+
+Most known for the Moynihan Report, a 1965 report that studied poverty in African-American communities and concluded that, rather than structural or systemic momentum from an explicit racial hierarchy, the primary reasons for continued cycles of poverty could be attributed to problems with "ghetto culture." William J. Ryan responded to the report with a major rebuttal in his 1971 book Blaming the…

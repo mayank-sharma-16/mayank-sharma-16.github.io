@@ -5,7 +5,9 @@ title: 1830 1839
 ## Recently Modified
 
 - [A Philosophical And Statistical History ](/recovery/literature/books/non-fiction/monographs/1830-1839/a-philosophical-and-statistical-history)
+
 - [An Address Delivered Before The Washingt](/recovery/literature/books/non-fiction/monographs/1830-1839/an-address-delivered-before-the-washingt)
+
 - [The Iniquities Of The Opium Trade With C](/recovery/literature/books/non-fiction/monographs/1830-1839/the-iniquities-of-the-opium-trade-with-c)
 
 ## Pages
@@ -84,6 +86,7 @@ html {
 ### A
 
 - [A Philosophical And Statistical History ](/recovery/literature/books/non-fiction/monographs/1830-1839/a-philosophical-and-statistical-history)
+
 - [An Address Delivered Before The Washingt](/recovery/literature/books/non-fiction/monographs/1830-1839/an-address-delivered-before-the-washingt)
 
 <a id="letter-t"></a>

@@ -5,10 +5,15 @@ title: Secular Recovery
 ## Recently Modified
 
 - [Jack Trimpey](/recovery/people/activists-advocacy-and-aid/secular-recovery/jack-trimpey)
+
 - [James Christopher](/recovery/people/activists-advocacy-and-aid/secular-recovery/james-christopher)
+
 - [Tom Horvath](/recovery/people/activists-advocacy-and-aid/secular-recovery/tom-horvath)
+
 - [Tom Jackson](/recovery/people/activists-advocacy-and-aid/secular-recovery/tom-jackson)
+
 - [Tom Mcnulty](/recovery/people/activists-advocacy-and-aid/secular-recovery/tom-mcnulty)
+
 - [Joe Gerstein](/recovery/people/activists-advocacy-and-aid/secular-recovery/joe-gerstein)
 
 ## Pages
@@ -87,12 +92,16 @@ html {
 ### J
 
 - [Jack Trimpey](/recovery/people/activists-advocacy-and-aid/secular-recovery/jack-trimpey)
+
 - [James Christopher](/recovery/people/activists-advocacy-and-aid/secular-recovery/james-christopher)
+
 - [Joe Gerstein](/recovery/people/activists-advocacy-and-aid/secular-recovery/joe-gerstein)
 
 <a id="letter-t"></a>
 ### T
 
 - [Tom Horvath](/recovery/people/activists-advocacy-and-aid/secular-recovery/tom-horvath)
+
 - [Tom Jackson](/recovery/people/activists-advocacy-and-aid/secular-recovery/tom-jackson)
+
 - [Tom Mcnulty](/recovery/people/activists-advocacy-and-aid/secular-recovery/tom-mcnulty)

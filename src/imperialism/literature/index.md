@@ -5,11 +5,17 @@ title: Literature
 ## Recently Modified
 
 - [The Dawn Of Everything](/imperialism/literature/the-dawn-of-everything)
+
 - [Seeing Like A State](/imperialism/literature/seeing-like-a-state)
+
 - [Anarchy In The Age Of Dinosaurs](/imperialism/literature/anarchy-in-the-age-of-dinosaurs)
+
 - [Anarchism And The Black Revolution](/imperialism/literature/anarchism-and-the-black-revolution)
+
 - [The State Its Historic Role](/imperialism/literature/the-state-its-historic-role)
+
 - [Statism And Anarchy](/imperialism/literature/statism-and-anarchy)
+
 - [Imperialism The Highest Stage Of Capitalism](/imperialism/literature/imperialism-the-highest-stage-of-capitalism)
 
 ## Pages
@@ -88,6 +94,7 @@ html {
 ### A
 
 - [Anarchism And The Black Revolution](/imperialism/literature/anarchism-and-the-black-revolution)
+
 - [Anarchy In The Age Of Dinosaurs](/imperialism/literature/anarchy-in-the-age-of-dinosaurs)
 
 <a id="letter-i"></a>
@@ -99,10 +106,12 @@ html {
 ### S
 
 - [Seeing Like A State](/imperialism/literature/seeing-like-a-state)
+
 - [Statism And Anarchy](/imperialism/literature/statism-and-anarchy)
 
 <a id="letter-t"></a>
 ### T
 
 - [The Dawn Of Everything](/imperialism/literature/the-dawn-of-everything)
+
 - [The State Its Historic Role](/imperialism/literature/the-state-its-historic-role)

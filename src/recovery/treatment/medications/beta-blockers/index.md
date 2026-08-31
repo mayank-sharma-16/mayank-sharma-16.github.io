@@ -5,13 +5,21 @@ title: Beta Blockers
 ## Recently Modified
 
 - [Esmolol](/recovery/treatment/medications/beta-blockers/esmolol)
+
 - [Labetalol](/recovery/treatment/medications/beta-blockers/labetalol)
+
 - [Nadolol](/recovery/treatment/medications/beta-blockers/nadolol)
+
 - [Nebivolol](/recovery/treatment/medications/beta-blockers/nebivolol)
+
 - [Bisoprolol](/recovery/treatment/medications/beta-blockers/bisoprolol)
+
 - [Carvedilol](/recovery/treatment/medications/beta-blockers/carvedilol)
+
 - [Atenolol](/recovery/treatment/medications/beta-blockers/atenolol)
+
 - [Metoprolol](/recovery/treatment/medications/beta-blockers/metoprolol)
+
 - [Propanolol](/recovery/treatment/medications/beta-blockers/propanolol)
 
 ## Pages
@@ -120,6 +128,7 @@ html {
 ### N
 
 - [Nadolol](/recovery/treatment/medications/beta-blockers/nadolol)
+
 - [Nebivolol](/recovery/treatment/medications/beta-blockers/nebivolol)
 
 <a id="letter-p"></a>

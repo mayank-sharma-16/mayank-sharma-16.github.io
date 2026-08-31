@@ -9,12 +9,19 @@ title: Perceptual And Reality
 ## Recently Modified
 
 - [Schizotypal Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/schizotypal-personality-disorder)
+
 - [Schizophreniform Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/schizophreniform-disorder)
+
 - [Schizoaffective Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/schizoaffective-disorder)
+
 - [Schizophrenia](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/schizophrenia)
+
 - [Other Specified Dissociative Disorder Osdd](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/dissociative-disorders/other-specified-dissociative-disorder-osdd)
+
 - [Depersonalization Derealization Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/dissociative-disorders/depersonalization-derealization-disorder)
+
 - [Dissociative Amnesia](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/dissociative-disorders/dissociative-amnesia)
+
 - [Dissociative Identity Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/dissociative-disorders/dissociative-identity-disorder)
 
 ## Pages
@@ -93,6 +100,9 @@ html {
 ### S
 
 - [Schizoaffective Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/schizoaffective-disorder)
+
 - [Schizophrenia](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/schizophrenia)
+
 - [Schizophreniform Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/schizophreniform-disorder)
+
 - [Schizotypal Personality Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/perceptual-and-reality/schizotypal-personality-disorder)

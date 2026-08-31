@@ -5,11 +5,19 @@ title: Harm Reduction
 ## Recently Modified
 
 - [Dave Purchase](/recovery/people/activists-advocacy-and-aid/harm-reduction/dave-purchase)
+
 - [Edith Springer](/recovery/people/activists-advocacy-and-aid/harm-reduction/edith-springer)
+
+https://www.healoh.org/deal-us-in/the-heart-of-it%3A-edith-springer%2C-dignity%2C-respect-%26-love
+
 - [Arnold Trebach](/recovery/people/activists-advocacy-and-aid/harm-reduction/arnold-trebach)
+
 - [Ernest Drucker](/recovery/people/activists-advocacy-and-aid/harm-reduction/ernest-drucker)
+
 - [Donald Macpherson](/recovery/people/activists-advocacy-and-aid/harm-reduction/donald-macpherson)
+
 - [Russell Newcombe](/recovery/people/activists-advocacy-and-aid/harm-reduction/russell-newcombe)
+
 - [Ethan Nadelmann](/recovery/people/activists-advocacy-and-aid/harm-reduction/ethan-nadelmann)
 
 ## Pages
@@ -93,13 +101,18 @@ html {
 ### D
 
 - [Dave Purchase](/recovery/people/activists-advocacy-and-aid/harm-reduction/dave-purchase)
+
 - [Donald Macpherson](/recovery/people/activists-advocacy-and-aid/harm-reduction/donald-macpherson)
 
 <a id="letter-e"></a>
 ### E
 
 - [Edith Springer](/recovery/people/activists-advocacy-and-aid/harm-reduction/edith-springer)
+
+https://www.healoh.org/deal-us-in/the-heart-of-it%3A-edith-springer%2C-dignity%2C-respect-%26-love
+
 - [Ernest Drucker](/recovery/people/activists-advocacy-and-aid/harm-reduction/ernest-drucker)
+
 - [Ethan Nadelmann](/recovery/people/activists-advocacy-and-aid/harm-reduction/ethan-nadelmann)
 
 <a id="letter-r"></a>

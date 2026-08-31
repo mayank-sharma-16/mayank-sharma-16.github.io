@@ -5,7 +5,9 @@ title: Chemistry
 ## Recently Modified
 
 - [Humphry Davy](/recovery/people/researchers/chemistry/humphry-davy)
+
 - [Thomas Brande](/recovery/people/researchers/chemistry/thomas-brande)
+
 - [Nicolas Theodore De Saussure](/recovery/people/researchers/chemistry/nicolas-theodore-de-saussure)
 
 ## Pages

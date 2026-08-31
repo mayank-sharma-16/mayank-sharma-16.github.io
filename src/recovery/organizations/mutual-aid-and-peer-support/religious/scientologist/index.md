@@ -6,6 +6,8 @@ title: Scientologist
 
 - [Narconon](/recovery/organizations/mutual-aid-and-peer-support/religious/scientologist/narconon)
 
+This is a Scientology program. https://recoveryhq.com/recovery-programs/non-12-step-programs/narconon/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### N
 
 - [Narconon](/recovery/organizations/mutual-aid-and-peer-support/religious/scientologist/narconon)
+
+This is a Scientology program. https://recoveryhq.com/recovery-programs/non-12-step-programs/narconon/

@@ -5,6 +5,9 @@ title: Sports
 ## Recently Modified
 
 - [The Way Back](/recovery/media/movies/dramas-and-dramedies/sports/the-way-back)
+
+Disclaimer: I’m not a sports guy. I can occasionally watch basketball (Go Kings), I can play Madden (Go Lions), I can binge hockey fight compilations (Go Canada), and I can get hyped about competitive Melee (Fox, Final Destination). But I just can’t get into sports the way most people can, and that means sports movies tend to bore me as well. The genre has all the formulaic trappings of the…
+
 - [Two For The Money](/recovery/media/movies/dramas-and-dramedies/sports/two-for-the-money)
 
 ## Pages
@@ -83,4 +86,7 @@ html {
 ### T
 
 - [The Way Back](/recovery/media/movies/dramas-and-dramedies/sports/the-way-back)
+
+Disclaimer: I’m not a sports guy. I can occasionally watch basketball (Go Kings), I can play Madden (Go Lions), I can binge hockey fight compilations (Go Canada), and I can get hyped about competitive Melee (Fox, Final Destination). But I just can’t get into sports the way most people can, and that means sports movies tend to bore me as well. The genre has all the formulaic trappings of the…
+
 - [Two For The Money](/recovery/media/movies/dramas-and-dramedies/sports/two-for-the-money)

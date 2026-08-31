@@ -5,8 +5,11 @@ title: 1930 1939
 ## Recently Modified
 
 - [Elizabeth Taylor](/recovery/people/celebrities-and-influencers/actors/1930-1939/elizabeth-taylor)
+
 - [Johnny Cash](/recovery/people/celebrities-and-influencers/actors/1930-1939/johnny-cash)
+
 - [Mary Tyler Moore](/recovery/people/celebrities-and-influencers/actors/1930-1939/mary-tyler-moore)
+
 - [Anthony Hopkins](/recovery/people/celebrities-and-influencers/actors/1930-1939/anthony-hopkins)
 
 ## Pages

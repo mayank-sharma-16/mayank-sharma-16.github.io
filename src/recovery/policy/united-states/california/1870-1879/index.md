@@ -6,6 +6,8 @@ title: 1870 1879
 
 - [San Francisco Opium Den Ordinance Of 1875](/recovery/policy/united-states/california/1870-1879/san-francisco-opium-den-ordinance-of-1875)
 
+The San Francisco Opium Den Ordinance of 1875 was the first law in America that banned a non-alcoholic drug by making it a misdemeanor to visit places where people smoked opium. It was driven largely over xenophobic fears about growing Chinese communities in the city, as well as concerns that it played a role in attracting white residents to Chinatown establishments away from white-owned ones. In…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### S
 
 - [San Francisco Opium Den Ordinance Of 1875](/recovery/policy/united-states/california/1870-1879/san-francisco-opium-den-ordinance-of-1875)
+
+The San Francisco Opium Den Ordinance of 1875 was the first law in America that banned a non-alcoholic drug by making it a misdemeanor to visit places where people smoked opium. It was driven largely over xenophobic fears about growing Chinese communities in the city, as well as concerns that it played a role in attracting white residents to Chinatown establishments away from white-owned ones. In…

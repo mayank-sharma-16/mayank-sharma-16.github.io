@@ -5,7 +5,9 @@ title: 1890 1899
 ## Recently Modified
 
 - [Dorothy Parker](/recovery/people/artists/writers/1890-1899/dorothy-parker)
+
 - [F Scott Fitzgerald](/recovery/people/artists/writers/1890-1899/f-scott-fitzgerald)
+
 - [Ernest Hemingway](/recovery/people/artists/writers/1890-1899/ernest-hemingway)
 
 ## Pages

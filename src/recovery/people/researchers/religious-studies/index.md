@@ -5,8 +5,12 @@ title: Religious Studies
 ## Recently Modified
 
 - [Laura Nasrallah](/recovery/people/researchers/religious-studies/laura-nasrallah)
+
 - [Jonathan Lee Walton](/recovery/people/researchers/religious-studies/jonathan-lee-walton)
+
 - [Katja Rakow](/recovery/people/researchers/religious-studies/katja-rakow)
+
+https://compass.onlinelibrary.wiley.com/doi/10.1111/rec3.12074
 
 ## Pages
 
@@ -89,6 +93,8 @@ html {
 ### K
 
 - [Katja Rakow](/recovery/people/researchers/religious-studies/katja-rakow)
+
+https://compass.onlinelibrary.wiley.com/doi/10.1111/rec3.12074
 
 <a id="letter-l"></a>
 ### L

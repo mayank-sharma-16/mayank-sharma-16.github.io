@@ -5,7 +5,12 @@ title: Northwestern University
 ## Recently Modified
 
 - [The Patel Lab](/recovery/organizations/higher-education/united-states/illinois/northwestern-university/the-patel-lab)
+
+https://www.patellabnorthwestern.com/
+
 - [Hitsman Lab](/recovery/organizations/higher-education/united-states/illinois/northwestern-university/hitsman-lab)
+
+https://www.preventivemedicine.northwestern.edu/divisions/behavioral-medicine/hitsman-lab.html
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Hitsman Lab](/recovery/organizations/higher-education/united-states/illinois/northwestern-university/hitsman-lab)
 
+https://www.preventivemedicine.northwestern.edu/divisions/behavioral-medicine/hitsman-lab.html
+
 <a id="letter-t"></a>
 ### T
 
 - [The Patel Lab](/recovery/organizations/higher-education/united-states/illinois/northwestern-university/the-patel-lab)
+
+https://www.patellabnorthwestern.com/

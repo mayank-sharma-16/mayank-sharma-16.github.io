@@ -5,8 +5,11 @@ title: 1890 1899
 ## Recently Modified
 
 - [Leisy V Hardin 1890](/recovery/policy/united-states/1890-1899/leisy-v-hardin-1890)
+
 - [Vance V Wa Vandercook 1898](/recovery/policy/united-states/1890-1899/vance-v-wa-vandercook-1898)
+
 - [In Re Rahrer 1891](/recovery/policy/united-states/1890-1899/in-re-rahrer-1891)
+
 - [Crowley V Christensen 1890](/recovery/policy/united-states/1890-1899/crowley-v-christensen-1890)
 
 ## Pages

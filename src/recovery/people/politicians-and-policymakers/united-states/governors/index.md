@@ -5,8 +5,15 @@ title: Governors
 ## Recently Modified
 
 - [Harold Hughes](/recovery/people/politicians-and-policymakers/united-states/governors/harold-hughes)
+
+An AA member openly in recovery, Harold Hughes was elected to the Senate and helped Marty Mann and William Wilson (Bill W.) testify before Congress.
+
 - [Benjamin Franklin](/recovery/people/politicians-and-policymakers/united-states/governors/benjamin-franklin)
+
+While a temperate drinker himself, Franklin noted "for our RUM does the same Mischief in proportion, as their GENEVA."
+
 - [Richard Thorndike Thorne](/recovery/people/politicians-and-policymakers/united-states/governors/richard-thorndike-thorne)
+
 - [Ann Richards](/recovery/people/politicians-and-policymakers/united-states/governors/ann-richards)
 
 ## Pages
@@ -91,10 +98,14 @@ html {
 
 - [Benjamin Franklin](/recovery/people/politicians-and-policymakers/united-states/governors/benjamin-franklin)
 
+While a temperate drinker himself, Franklin noted "for our RUM does the same Mischief in proportion, as their GENEVA."
+
 <a id="letter-h"></a>
 ### H
 
 - [Harold Hughes](/recovery/people/politicians-and-policymakers/united-states/governors/harold-hughes)
+
+An AA member openly in recovery, Harold Hughes was elected to the Senate and helped Marty Mann and William Wilson (Bill W.) testify before Congress.
 
 <a id="letter-r"></a>
 ### R

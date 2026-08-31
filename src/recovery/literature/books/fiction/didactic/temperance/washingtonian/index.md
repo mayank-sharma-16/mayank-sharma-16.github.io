@@ -6,6 +6,8 @@ title: Washingtonian
 
 - [Six Nights With The Washingtonians By Ti](/recovery/literature/books/fiction/didactic/temperance/washingtonian/six-nights-with-the-washingtonians-by-ti)
 
+Six Nights with the Washingtonians is a collection of temperance stories inspired by Timothy Shay Arthur's real experiences with the rehabilitation stories he heard from the Washington Temperance Society.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### S
 
 - [Six Nights With The Washingtonians By Ti](/recovery/literature/books/fiction/didactic/temperance/washingtonian/six-nights-with-the-washingtonians-by-ti)
+
+Six Nights with the Washingtonians is a collection of temperance stories inspired by Timothy Shay Arthur's real experiences with the rehabilitation stories he heard from the Washington Temperance Society.

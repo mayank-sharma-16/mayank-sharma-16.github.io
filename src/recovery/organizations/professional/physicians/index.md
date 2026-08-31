@@ -5,8 +5,11 @@ title: Physicians
 ## Recently Modified
 
 - [Coalition On Physician Education In Subs](/recovery/organizations/professional/physicians/coalition-on-physician-education-in-subs)
+
 - [Association Of American Indian Physicians Aaip](/recovery/organizations/professional/physicians/association-of-american-indian-physicians-aaip)
+
 - [American College Of Emergency Physicians](/recovery/organizations/professional/physicians/american-college-of-emergency-physicians)
+
 - [American Academy Of Family Physicians Aafp](/recovery/organizations/professional/physicians/american-academy-of-family-physicians-aafp)
 
 ## Pages
@@ -85,7 +88,9 @@ html {
 ### A
 
 - [American Academy Of Family Physicians Aafp](/recovery/organizations/professional/physicians/american-academy-of-family-physicians-aafp)
+
 - [American College Of Emergency Physicians](/recovery/organizations/professional/physicians/american-college-of-emergency-physicians)
+
 - [Association Of American Indian Physicians Aaip](/recovery/organizations/professional/physicians/association-of-american-indian-physicians-aaip)
 
 <a id="letter-c"></a>

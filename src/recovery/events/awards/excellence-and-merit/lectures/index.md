@@ -6,6 +6,8 @@ title: Lectures
 
 - [Croonian Medal And Lecture](/recovery/events/awards/excellence-and-merit/lectures/croonian-medal-and-lecture)
 
+The Croonian Medal and Lecture is awarded by the Royal Society and Royal College of Physicians, both based in the United Kingdom. Named after the 17th century Fellow William Croone, the award includes a medal, a cash prize, and an invitation to give a lecture to the Society. The 2021 Croonian Lecture was given by Professor Barry Everitt, who discussed his research into the neurological mechanisms…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Croonian Medal And Lecture](/recovery/events/awards/excellence-and-merit/lectures/croonian-medal-and-lecture)
+
+The Croonian Medal and Lecture is awarded by the Royal Society and Royal College of Physicians, both based in the United Kingdom. Named after the 17th century Fellow William Croone, the award includes a medal, a cash prize, and an invitation to give a lecture to the Society. The 2021 Croonian Lecture was given by Professor Barry Everitt, who discussed his research into the neurological mechanisms…

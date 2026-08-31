@@ -5,7 +5,11 @@ title: 1840 1849
 ## Recently Modified
 
 - [Thurlow V Massachusetts 1847](/recovery/policy/united-states/1840-1849/thurlow-v-massachusetts-1847)
+
 - [License Cases 1847](/recovery/policy/united-states/1840-1849/license-cases-1847)
+
+https://supreme.justia.com/cases/federal/us/46/504/
+
 - [Drug Importation Act Of 1848](/recovery/policy/united-states/1840-1849/drug-importation-act-of-1848)
 
 ## Pages
@@ -89,6 +93,8 @@ html {
 ### L
 
 - [License Cases 1847](/recovery/policy/united-states/1840-1849/license-cases-1847)
+
+https://supreme.justia.com/cases/federal/us/46/504/
 
 <a id="letter-t"></a>
 ### T

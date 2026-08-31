@@ -5,7 +5,10 @@ title: Coaches And Speakers
 ## Recently Modified
 
 - [Adi Jaffe](/recovery/people/coaches-and-speakers/adi-jaffe)
+
 - [Tia Graham](/recovery/people/coaches-and-speakers/tia-graham)
+
+https://www.youtube.com/watch?v=gYeHV_nA36c
 
 ## Pages
 
@@ -88,3 +91,5 @@ html {
 ### T
 
 - [Tia Graham](/recovery/people/coaches-and-speakers/tia-graham)
+
+https://www.youtube.com/watch?v=gYeHV_nA36c

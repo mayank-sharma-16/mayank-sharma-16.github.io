@@ -5,7 +5,11 @@ title: 1820 1829
 ## Recently Modified
 
 - [Confessions Of An English Opium Eater](/recovery/literature/books/non-fiction/monographs/1820-1829/confessions-of-an-english-opium-eater)
+
 - [Six Sermons The Nature Occasions Signs E](/recovery/literature/books/non-fiction/monographs/1820-1829/six-sermons-the-nature-occasions-signs-e)
+
+Technically, the sermons were given in 1826 but they were published in book form on 1827. https://static1.squarespace.com/static/590be125ff7c502a07752a5b/t/622f53061e56d86cd3dedc43/1647268616813/Beecher%2C+Lyman%2C+Six+Sermons+on+Intemperance.pdf
+
 - [The Anatomy Of Drunkenness By Robert Macnish 1827](/recovery/literature/books/non-fiction/monographs/1820-1829/the-anatomy-of-drunkenness-by-robert-macnish-1827)
 
 ## Pages
@@ -89,6 +93,8 @@ html {
 ### S
 
 - [Six Sermons The Nature Occasions Signs E](/recovery/literature/books/non-fiction/monographs/1820-1829/six-sermons-the-nature-occasions-signs-e)
+
+Technically, the sermons were given in 1826 but they were published in book form on 1827. https://static1.squarespace.com/static/590be125ff7c502a07752a5b/t/622f53061e56d86cd3dedc43/1647268616813/Beecher%2C+Lyman%2C+Six+Sermons+on+Intemperance.pdf
 
 <a id="letter-t"></a>
 ### T

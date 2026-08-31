@@ -22,24 +22,43 @@ title: Medications
 ## Recently Modified
 
 - [Cyanamide](/recovery/treatment/medications/cyanamide)
+
 - [Disulfiram](/recovery/treatment/medications/disulfiram)
+
 - [Naloxone](/recovery/treatment/medications/opioid-antagonists/naloxone)
+
 - [Naltrexone](/recovery/treatment/medications/opioid-antagonists/naltrexone)
+
 - [Aripiprazole](/recovery/treatment/medications/antipsychotics/atypical/aripiprazole)
+
 - [Paliperidone](/recovery/treatment/medications/antipsychotics/atypical/paliperidone)
+
 - [Brexpiprazole](/recovery/treatment/medications/antipsychotics/atypical/brexpiprazole)
+
 - [Cariprazine](/recovery/treatment/medications/antipsychotics/atypical/cariprazine)
+
 - [Lurasidone](/recovery/treatment/medications/antipsychotics/atypical/lurasidone)
+
 - [Clozapine](/recovery/treatment/medications/antipsychotics/atypical/clozapine)
+
 - [Ziprasidone](/recovery/treatment/medications/antipsychotics/atypical/ziprasidone)
+
 - [Quetiapine](/recovery/treatment/medications/antipsychotics/atypical/quetiapine)
+
 - [Olanzapine](/recovery/treatment/medications/antipsychotics/atypical/olanzapine)
+
 - [Risperidone](/recovery/treatment/medications/antipsychotics/atypical/risperidone)
+
 - [Desoxyn](/recovery/treatment/medications/stimulants/amphetamines/desoxyn)
+
 - [Vyvanse](/recovery/treatment/medications/stimulants/amphetamines/vyvanse)
+
 - [Zenzedi](/recovery/treatment/medications/stimulants/amphetamines/zenzedi)
+
 - [Dexedrine](/recovery/treatment/medications/stimulants/amphetamines/dexedrine)
+
 - [Mydayis](/recovery/treatment/medications/stimulants/amphetamines/mydayis)
+
 - [Adzenys](/recovery/treatment/medications/stimulants/amphetamines/adzenys)
 
 ## Pages
@@ -139,6 +158,8 @@ html {
 
 - [Gold Cures](/recovery/treatment/medications/gold-cures)
 
+No, this isn't about gold standards in treatment. This is about trying to cure alcoholism with gold.
+
 <a id="letter-m"></a>
 ### M
 
@@ -158,3 +179,5 @@ html {
 ### T
 
 - [Three Day Liquor Cures](/recovery/treatment/medications/three-day-liquor-cures)
+
+We had a lot of flavors of snake oil back then.

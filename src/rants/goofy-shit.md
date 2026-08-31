@@ -97,3 +97,6 @@ It's genuinely inspiring to see how people can form networks to take care of eac
 
 # Case Thirteen
 Always wear shower slippers in a treatment facility. IYKYK.
+
+# Case Fourteen
+This one is only barely relevant, but I figure with how much TV everyone watches as a mind-numbing sober activity, it's worth a mention. There is perhaps no quicker way to make a movie seem ridiculous than casting models to play an ugly outcast. If you watch enough D-tier garbage on Amazon Prime, it can really start breaking your immersion.

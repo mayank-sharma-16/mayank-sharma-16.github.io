@@ -5,6 +5,7 @@ title: Neurological
 ## Recently Modified
 
 - [Peripheral Neuropathy](/recovery/treatment/diseases-disorders-and-disabilities/systemic/neurological/peripheral-neuropathy)
+
 - [Toxic Leukoencephalopathy](/recovery/treatment/diseases-disorders-and-disabilities/systemic/neurological/toxic-leukoencephalopathy)
 
 ## Pages

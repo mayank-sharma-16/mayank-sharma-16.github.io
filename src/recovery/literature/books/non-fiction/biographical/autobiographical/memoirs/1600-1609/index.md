@@ -6,6 +6,8 @@ title: 1600 1609
 
 - [Tuzk E Jahangiri By Jahangir](/recovery/literature/books/non-fiction/biographical/autobiographical/memoirs/1600-1609/tuzk-e-jahangiri-by-jahangir)
 
+The Muslim Emperor Jahangir, the fourth ruler of the Mughal Empire, held an interesting contradiction. He was open about his own struggles with opium and alcohol dependence, leading to his wife Empress Nur Jahan running much of the empire while he was incapacitated. Both of his brothers also struggled with alcohol and opium. At the same time, he was adamant about banning the sale of drugs,…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### T
 
 - [Tuzk E Jahangiri By Jahangir](/recovery/literature/books/non-fiction/biographical/autobiographical/memoirs/1600-1609/tuzk-e-jahangiri-by-jahangir)
+
+The Muslim Emperor Jahangir, the fourth ruler of the Mughal Empire, held an interesting contradiction. He was open about his own struggles with opium and alcohol dependence, leading to his wife Empress Nur Jahan running much of the empire while he was incapacitated. Both of his brothers also struggled with alcohol and opium. At the same time, he was adamant about banning the sale of drugs,…

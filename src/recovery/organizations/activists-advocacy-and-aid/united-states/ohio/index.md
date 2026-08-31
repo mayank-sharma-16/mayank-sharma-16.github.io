@@ -6,6 +6,8 @@ title: Ohio
 
 - [Heal Ohio](/recovery/organizations/activists-advocacy-and-aid/united-states/ohio/heal-ohio)
 
+https://www.healoh.org/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### H
 
 - [Heal Ohio](/recovery/organizations/activists-advocacy-and-aid/united-states/ohio/heal-ohio)
+
+https://www.healoh.org/

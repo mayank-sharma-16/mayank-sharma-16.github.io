@@ -5,7 +5,12 @@ title: Lifetime Achievement
 ## Recently Modified
 
 - [Nelson Bradley Career Achievement Award](/recovery/events/awards/excellence-and-merit/lifetime-achievement/nelson-bradley-career-achievement-award)
+
+The Nelson Bradley Career Achievement Award was established in 1983 by the National Association of Addiction Treatment Providers (NAATP) as a lifetime achievement award. Nelson J. Bradley was a psychiatrist who served as the superintendent of Willmar State Hospital in Minnesota, pioneering an approach that incorporated 12-Step principles and peer counselors into treatment facilities, now called…
+
 - [The Copley Medal](/recovery/events/awards/excellence-and-merit/lifetime-achievement/the-copley-medal)
+
+The Royal Society, an independent scientific academy based in the UK, awards the Copley Medal to scientists for breakthroughs in physical or biological research. Previous winners include Charles Darwin and Albert Einstein.
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Nelson Bradley Career Achievement Award](/recovery/events/awards/excellence-and-merit/lifetime-achievement/nelson-bradley-career-achievement-award)
 
+The Nelson Bradley Career Achievement Award was established in 1983 by the National Association of Addiction Treatment Providers (NAATP) as a lifetime achievement award. Nelson J. Bradley was a psychiatrist who served as the superintendent of Willmar State Hospital in Minnesota, pioneering an approach that incorporated 12-Step principles and peer counselors into treatment facilities, now called…
+
 <a id="letter-t"></a>
 ### T
 
 - [The Copley Medal](/recovery/events/awards/excellence-and-merit/lifetime-achievement/the-copley-medal)
+
+The Royal Society, an independent scientific academy based in the UK, awards the Copley Medal to scientists for breakthroughs in physical or biological research. Previous winners include Charles Darwin and Albert Einstein.

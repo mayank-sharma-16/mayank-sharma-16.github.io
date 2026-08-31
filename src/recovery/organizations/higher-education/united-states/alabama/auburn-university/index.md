@@ -6,6 +6,8 @@ title: Auburn University
 
 - [Scampi Lab](/recovery/organizations/higher-education/united-states/alabama/auburn-university/scampi-lab)
 
+https://scampi.auburn.edu/currently-recruiting-studies/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### S
 
 - [Scampi Lab](/recovery/organizations/higher-education/united-states/alabama/auburn-university/scampi-lab)
+
+https://scampi.auburn.edu/currently-recruiting-studies/

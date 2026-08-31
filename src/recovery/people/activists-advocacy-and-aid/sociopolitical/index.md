@@ -6,6 +6,8 @@ title: Sociopolitical
 
 - [Barbara Ehrenreich](/recovery/people/activists-advocacy-and-aid/sociopolitical/barbara-ehrenreich)
 
+"Breast cancer, I can now report, did not make me prettier or stronger, more feminine or spiritual. What it gave me, if you want to call this a 'gift,' was a very personal, agonizing encounter with an ideological force in American culture that I had not been aware of before- one that encourages us to deny reality, submit cheerfully to misfortune, and blame only ourselves for our fate." I can now…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### B
 
 - [Barbara Ehrenreich](/recovery/people/activists-advocacy-and-aid/sociopolitical/barbara-ehrenreich)
+
+"Breast cancer, I can now report, did not make me prettier or stronger, more feminine or spiritual. What it gave me, if you want to call this a 'gift,' was a very personal, agonizing encounter with an ideological force in American culture that I had not been aware of before- one that encourages us to deny reality, submit cheerfully to misfortune, and blame only ourselves for our fate." I can now…

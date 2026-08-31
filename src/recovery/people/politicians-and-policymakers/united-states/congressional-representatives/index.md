@@ -5,13 +5,21 @@ title: Congressional Representatives
 ## Recently Modified
 
 - [Charles Wilson](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/charles-wilson)
+
 - [Phil Crane](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/phil-crane)
+
 - [Robert Bauman](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/robert-bauman)
+
 - [Bob Ney](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/bob-ney)
+
 - [Jim Ramstad](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/jim-ramstad)
+
 - [Trey Radel](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/trey-radel)
+
 - [John Boehner](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/john-boehner)
+
 - [Patrick Kennedy](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/patrick-kennedy)
+
 - [Wilbur Mills](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/wilbur-mills)
 
 ## Pages
@@ -100,12 +108,14 @@ html {
 ### J
 
 - [Jim Ramstad](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/jim-ramstad)
+
 - [John Boehner](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/john-boehner)
 
 <a id="letter-p"></a>
 ### P
 
 - [Patrick Kennedy](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/patrick-kennedy)
+
 - [Phil Crane](/recovery/people/politicians-and-policymakers/united-states/congressional-representatives/phil-crane)
 
 <a id="letter-r"></a>

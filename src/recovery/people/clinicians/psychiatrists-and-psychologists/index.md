@@ -10,22 +10,44 @@ title: Psychiatrists And Psychologists
 ## Recently Modified
 
 - [Ruth Fox](/recovery/people/clinicians/psychiatrists-and-psychologists/ruth-fox)
+
 - [Suwaki Hiroshi](/recovery/people/clinicians/psychiatrists-and-psychologists/japan/suwaki-hiroshi)
+
 - [Saito Satoru](/recovery/people/clinicians/psychiatrists-and-psychologists/japan/saito-satoru)
+
+In a 1985 book, Satoru argued that a person with alcoholism was in some sense reborn as part of an underlying family problem, and the stress of a birth that isn't seen as a family affair can exacerbate problems. This included addressing family dynamics that could be dysfunctional, since an alcoholic simply resuming their past role while being sober could lead to someone else developing a mental…
+
 - [Tsukue Ichiro](/recovery/people/clinicians/psychiatrists-and-psychologists/japan/tsukue-ichiro)
+
 - [Geshi Takamaro](/recovery/people/clinicians/psychiatrists-and-psychologists/japan/geshi-takamaro)
+
 - [Kono Hiroaki](/recovery/people/clinicians/psychiatrists-and-psychologists/japan/kono-hiroaki)
+
 - [Juan Gine Y Partagas](/recovery/people/clinicians/psychiatrists-and-psychologists/spain/juan-gine-y-partagas)
+
+He wrote Tratado teórico-práctico de freno-patología o Estudio de las enfermedades mentales (Theoretical-Practical Treatise on Phreno-Pathology or The Study of Mental Illnesses) 1876.
+
 - [Joseph Guislain](/recovery/people/clinicians/psychiatrists-and-psychologists/joseph-guislain)
+
 - [Jaroslav Skala](/recovery/people/clinicians/psychiatrists-and-psychologists/jaroslav-skala)
+
 - [Sh Foulkes](/recovery/people/clinicians/psychiatrists-and-psychologists/sh-foulkes)
+
 - [Wilfred Bion](/recovery/people/clinicians/psychiatrists-and-psychologists/wilfred-bion)
+
 - [Joshua Bierer](/recovery/people/clinicians/psychiatrists-and-psychologists/joshua-bierer)
+
 - [Maxwell Jones](/recovery/people/clinicians/psychiatrists-and-psychologists/maxwell-jones)
+
 - [Vladimir Hudolin](/recovery/people/clinicians/psychiatrists-and-psychologists/vladimir-hudolin)
+
 - [Richard J Rosenthal](/recovery/people/clinicians/psychiatrists-and-psychologists/richard-j-rosenthal)
+
 - [Andrew Saxon](/recovery/people/clinicians/psychiatrists-and-psychologists/andrew-saxon)
+
 - [Shannon C Miller](/recovery/people/clinicians/psychiatrists-and-psychologists/shannon-c-miller)
+
+https://www.forensicaddictions.com/
 
 ## Pages
 
@@ -108,7 +130,9 @@ html {
 ### J
 
 - [Jaroslav Skala](/recovery/people/clinicians/psychiatrists-and-psychologists/jaroslav-skala)
+
 - [Joseph Guislain](/recovery/people/clinicians/psychiatrists-and-psychologists/joseph-guislain)
+
 - [Joshua Bierer](/recovery/people/clinicians/psychiatrists-and-psychologists/joshua-bierer)
 
 <a id="letter-m"></a>
@@ -120,13 +144,17 @@ html {
 ### R
 
 - [Richard J Rosenthal](/recovery/people/clinicians/psychiatrists-and-psychologists/richard-j-rosenthal)
+
 - [Ruth Fox](/recovery/people/clinicians/psychiatrists-and-psychologists/ruth-fox)
 
 <a id="letter-s"></a>
 ### S
 
 - [Sh Foulkes](/recovery/people/clinicians/psychiatrists-and-psychologists/sh-foulkes)
+
 - [Shannon C Miller](/recovery/people/clinicians/psychiatrists-and-psychologists/shannon-c-miller)
+
+https://www.forensicaddictions.com/
 
 <a id="letter-v"></a>
 ### V

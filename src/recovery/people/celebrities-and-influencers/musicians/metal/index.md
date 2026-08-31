@@ -5,6 +5,7 @@ title: Metal
 ## Recently Modified
 
 - [Oli Sykes](/recovery/people/celebrities-and-influencers/musicians/metal/oli-sykes)
+
 - [James Hetfield](/recovery/people/celebrities-and-influencers/musicians/metal/james-hetfield)
 
 ## Pages

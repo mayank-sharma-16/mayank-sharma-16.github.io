@@ -6,6 +6,8 @@ title: Support
 
 - [International Doctors In Alcoholics Anonymous Idaa](/recovery/organizations/professional/support/international-doctors-in-alcoholics-anonymous-idaa)
 
+https://www.idaa.org/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### I
 
 - [International Doctors In Alcoholics Anonymous Idaa](/recovery/organizations/professional/support/international-doctors-in-alcoholics-anonymous-idaa)
+
+https://www.idaa.org/

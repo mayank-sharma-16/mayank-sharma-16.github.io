@@ -5,13 +5,21 @@ title: 1980 1989
 ## Recently Modified
 
 - [Hayden Panettiere](/recovery/people/celebrities-and-influencers/actors/1980-1989/hayden-panettiere)
+
 - [Zac Efron](/recovery/people/celebrities-and-influencers/actors/1980-1989/zac-efron)
+
 - [Lucy Hale](/recovery/people/celebrities-and-influencers/actors/1980-1989/lucy-hale)
+
 - [Jessica Simpson](/recovery/people/celebrities-and-influencers/actors/1980-1989/jessica-simpson)
+
 - [Jamie Campbell Bower](/recovery/people/celebrities-and-influencers/actors/1980-1989/jamie-campbell-bower)
+
 - [Lindsay Lohan](/recovery/people/celebrities-and-influencers/actors/1980-1989/lindsay-lohan)
+
 - [Macaulay Culkin](/recovery/people/celebrities-and-influencers/actors/1980-1989/macaulay-culkin)
+
 - [Cory Monteith](/recovery/people/celebrities-and-influencers/actors/1980-1989/cory-monteith)
+
 - [Daniel Radcliffe](/recovery/people/celebrities-and-influencers/actors/1980-1989/daniel-radcliffe)
 
 ## Pages
@@ -105,12 +113,14 @@ html {
 ### J
 
 - [Jamie Campbell Bower](/recovery/people/celebrities-and-influencers/actors/1980-1989/jamie-campbell-bower)
+
 - [Jessica Simpson](/recovery/people/celebrities-and-influencers/actors/1980-1989/jessica-simpson)
 
 <a id="letter-l"></a>
 ### L
 
 - [Lindsay Lohan](/recovery/people/celebrities-and-influencers/actors/1980-1989/lindsay-lohan)
+
 - [Lucy Hale](/recovery/people/celebrities-and-influencers/actors/1980-1989/lucy-hale)
 
 <a id="letter-m"></a>

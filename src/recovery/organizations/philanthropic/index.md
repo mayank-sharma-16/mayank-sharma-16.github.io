@@ -5,11 +5,25 @@ title: Philanthropic
 ## Recently Modified
 
 - [Open Society Foundations](/recovery/organizations/philanthropic/open-society-foundations)
+
+International Harm Reduction Development
+
 - [Etheridge Foundation](/recovery/organizations/philanthropic/etheridge-foundation)
+
+Melissa Etheridge founded this organization after the loss of her son from an overdose at 21 after he started using pankillers for an accident at 17. https://www.etheridgefoundation.org/
+
 - [Turn 2 Foundation](/recovery/organizations/philanthropic/turn-2-foundation)
+
+Founded by Derek Jeter, the Turn 2 Foundation funds programs that help adolescents progress into a healthy adulthood.
+
 - [The Kennedy Forum](/recovery/organizations/philanthropic/the-kennedy-forum)
+
 - [Peter And Elizabeth Tower Foundation](/recovery/organizations/philanthropic/peter-and-elizabeth-tower-foundation)
+
 - [Adfam](/recovery/organizations/philanthropic/adfam)
+
+https://adfam.org.uk/
+
 - [Bureau Of Social Hygeine](/recovery/organizations/philanthropic/bureau-of-social-hygeine)
 
 ## Pages
@@ -89,6 +103,8 @@ html {
 
 - [Adfam](/recovery/organizations/philanthropic/adfam)
 
+https://adfam.org.uk/
+
 <a id="letter-b"></a>
 ### B
 
@@ -99,10 +115,14 @@ html {
 
 - [Etheridge Foundation](/recovery/organizations/philanthropic/etheridge-foundation)
 
+Melissa Etheridge founded this organization after the loss of her son from an overdose at 21 after he started using pankillers for an accident at 17. https://www.etheridgefoundation.org/
+
 <a id="letter-o"></a>
 ### O
 
 - [Open Society Foundations](/recovery/organizations/philanthropic/open-society-foundations)
+
+International Harm Reduction Development
 
 <a id="letter-p"></a>
 ### P
@@ -113,4 +133,7 @@ html {
 ### T
 
 - [The Kennedy Forum](/recovery/organizations/philanthropic/the-kennedy-forum)
+
 - [Turn 2 Foundation](/recovery/organizations/philanthropic/turn-2-foundation)
+
+Founded by Derek Jeter, the Turn 2 Foundation funds programs that help adolescents progress into a healthy adulthood.

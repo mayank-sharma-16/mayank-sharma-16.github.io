@@ -6,6 +6,8 @@ title: Colonial Authorities
 
 - [Increase Mather](/recovery/people/politicians-and-policymakers/united-states/colonial-authorities/increase-mather)
 
+Increase Mather, a Puritan colonial minister, called alcohol a good "creature of God" while drunkenness was "from Satan."
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### I
 
 - [Increase Mather](/recovery/people/politicians-and-policymakers/united-states/colonial-authorities/increase-mather)
+
+Increase Mather, a Puritan colonial minister, called alcohol a good "creature of God" while drunkenness was "from Satan."

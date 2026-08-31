@@ -5,7 +5,9 @@ title: 1910 1919
 ## Recently Modified
 
 - [Herbert Huncke](/recovery/people/artists/writers/1910-1919/herbert-huncke)
+
 - [William S Burroughs](/recovery/people/artists/writers/1910-1919/william-s-burroughs)
+
 - [Dylan Thomas](/recovery/people/artists/writers/1910-1919/dylan-thomas)
 
 ## Pages

@@ -5,23 +5,41 @@ title: Cinema Verite
 ## Recently Modified
 
 - [The Addicts Wake](/recovery/media/documentaries/cinema-verite/the-addicts-wake)
+
 - [Methadonia 2005](/recovery/media/documentaries/cinema-verite/methadonia-2005)
+
 - [Ill Be Home For Christmas 1984](/recovery/media/documentaries/cinema-verite/ill-be-home-for-christmas-1984)
+
 - [Streetwise 1984](/recovery/media/documentaries/cinema-verite/streetwise-1984)
+
 - [On The Bowery 1956](/recovery/media/documentaries/cinema-verite/on-the-bowery-1956)
+
 - [Amy](/recovery/media/documentaries/cinema-verite/amy)
+
 - [Louis Theroux Drinking To Oblivion](/recovery/media/documentaries/cinema-verite/louis-theroux-drinking-to-oblivion)
+
 - [Metallica Some Kind Of Monster 2004](/recovery/media/documentaries/cinema-verite/metallica-some-kind-of-monster-2004)
+
 - [Juice Wrld Into The Abyss](/recovery/media/documentaries/cinema-verite/juice-wrld-into-the-abyss)
+
 - [High On Crack Street Lost Lives In Lowell](/recovery/media/documentaries/cinema-verite/high-on-crack-street-lost-lives-in-lowell)
+
 - [Black Tar Heroin The Dark End Of The Street](/recovery/media/documentaries/cinema-verite/black-tar-heroin-the-dark-end-of-the-street)
+
 - [Heroine](/recovery/media/documentaries/cinema-verite/heroine)
+
 - [Meth Storm](/recovery/media/documentaries/cinema-verite/meth-storm)
+
 - [Oxyana](/recovery/media/documentaries/cinema-verite/oxyana)
+
 - [Through A Blue Lens](/recovery/media/documentaries/cinema-verite/through-a-blue-lens)
+
 - [Recovery Boys](/recovery/media/documentaries/cinema-verite/recovery-boys)
+
 - [Dark Days](/recovery/media/documentaries/cinema-verite/dark-days)
+
 - [Dope Sick Love](/recovery/media/documentaries/cinema-verite/dope-sick-love)
+
 - [Life Of Crime](/recovery/media/documentaries/cinema-verite/life-of-crime)
 
 ## Pages
@@ -110,12 +128,14 @@ html {
 ### D
 
 - [Dark Days](/recovery/media/documentaries/cinema-verite/dark-days)
+
 - [Dope Sick Love](/recovery/media/documentaries/cinema-verite/dope-sick-love)
 
 <a id="letter-h"></a>
 ### H
 
 - [Heroine](/recovery/media/documentaries/cinema-verite/heroine)
+
 - [High On Crack Street Lost Lives In Lowell](/recovery/media/documentaries/cinema-verite/high-on-crack-street-lost-lives-in-lowell)
 
 <a id="letter-i"></a>
@@ -132,19 +152,23 @@ html {
 ### L
 
 - [Life Of Crime](/recovery/media/documentaries/cinema-verite/life-of-crime)
+
 - [Louis Theroux Drinking To Oblivion](/recovery/media/documentaries/cinema-verite/louis-theroux-drinking-to-oblivion)
 
 <a id="letter-m"></a>
 ### M
 
 - [Metallica Some Kind Of Monster 2004](/recovery/media/documentaries/cinema-verite/metallica-some-kind-of-monster-2004)
+
 - [Meth Storm](/recovery/media/documentaries/cinema-verite/meth-storm)
+
 - [Methadonia 2005](/recovery/media/documentaries/cinema-verite/methadonia-2005)
 
 <a id="letter-o"></a>
 ### O
 
 - [On The Bowery 1956](/recovery/media/documentaries/cinema-verite/on-the-bowery-1956)
+
 - [Oxyana](/recovery/media/documentaries/cinema-verite/oxyana)
 
 <a id="letter-r"></a>
@@ -161,4 +185,5 @@ html {
 ### T
 
 - [The Addicts Wake](/recovery/media/documentaries/cinema-verite/the-addicts-wake)
+
 - [Through A Blue Lens](/recovery/media/documentaries/cinema-verite/through-a-blue-lens)

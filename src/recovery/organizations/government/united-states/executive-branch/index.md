@@ -5,7 +5,11 @@ title: Executive Branch
 ## Recently Modified
 
 - [Special Action Office For Drug Abuse Prevention](/recovery/organizations/government/united-states/executive-branch/special-action-office-for-drug-abuse-prevention)
+
 - [Presidents Commission On Law Enforcement](/recovery/organizations/government/united-states/executive-branch/presidents-commission-on-law-enforcement)
+
+In 1967, President Lyndon B. Johnson appointed 19 people to the commission to study the criminal justice system in response to soaring crime rates through the 1960s. They delivered the National Crime Survey, later called the National Criminal Victimization Survey. The empirical data that emerged showed victimization far outpaced crimes as victims were highly reluctant to report crimes.
+
 - [Drug Enforcement Agency Dea](/recovery/organizations/government/united-states/executive-branch/drug-enforcement-agency-dea)
 
 ## Pages
@@ -89,6 +93,8 @@ html {
 ### P
 
 - [Presidents Commission On Law Enforcement](/recovery/organizations/government/united-states/executive-branch/presidents-commission-on-law-enforcement)
+
+In 1967, President Lyndon B. Johnson appointed 19 people to the commission to study the criminal justice system in response to soaring crime rates through the 1960s. They delivered the National Crime Survey, later called the National Criminal Victimization Survey. The empirical data that emerged showed victimization far outpaced crimes as victims were highly reluctant to report crimes.
 
 <a id="letter-s"></a>
 ### S

@@ -5,12 +5,23 @@ title: Presidents
 ## Recently Modified
 
 - [Lyndon B Johnson](/recovery/people/politicians-and-policymakers/united-states/presidents/lyndon-b-johnson)
+
+LBJ was a member of the Texas National Council on Alcoholism (NCA), which meant he was a valuable connection for Marty Mann.
+
 - [William Howard Taft](/recovery/people/politicians-and-policymakers/united-states/presidents/william-howard-taft)
+
+Taft said in a speech to Congress that cocaine was leading to the most serious drug crisis America had ever seen, at least by the year 1910. When Taft was the governor general of the Philippines, he wanted to bring back a monopoly on opium to have a regulated supply in the place of foreign imports that emerged during the Spanish-American War. Religious leaders like Bishop Charles Henry Brent…
+
 - [Richard Nixon](/recovery/people/politicians-and-policymakers/united-states/presidents/richard-nixon)
+
 - [James Buchanan](/recovery/people/politicians-and-policymakers/united-states/presidents/james-buchanan)
+
 - [George W Bush](/recovery/people/politicians-and-policymakers/united-states/presidents/george-w-bush)
+
 - [Andrew Johnson](/recovery/people/politicians-and-policymakers/united-states/presidents/andrew-johnson)
+
 - [Franklin Pierce](/recovery/people/politicians-and-policymakers/united-states/presidents/franklin-pierce)
+
 - [Ulysses S Grant](/recovery/people/politicians-and-policymakers/united-states/presidents/ulysses-s-grant)
 
 ## Pages
@@ -110,6 +121,8 @@ html {
 
 - [Lyndon B Johnson](/recovery/people/politicians-and-policymakers/united-states/presidents/lyndon-b-johnson)
 
+LBJ was a member of the Texas National Council on Alcoholism (NCA), which meant he was a valuable connection for Marty Mann.
+
 <a id="letter-r"></a>
 ### R
 
@@ -124,3 +137,5 @@ html {
 ### W
 
 - [William Howard Taft](/recovery/people/politicians-and-policymakers/united-states/presidents/william-howard-taft)
+
+Taft said in a speech to Congress that cocaine was leading to the most serious drug crisis America had ever seen, at least by the year 1910. When Taft was the governor general of the Philippines, he wanted to bring back a monopoly on opium to have a regulated supply in the place of foreign imports that emerged during the Spanish-American War. Religious leaders like Bishop Charles Henry Brent…

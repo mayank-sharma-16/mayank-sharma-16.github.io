@@ -5,12 +5,19 @@ title: 1990 1999
 ## Recently Modified
 
 - [Violence Against Women Act 1994](/recovery/policy/united-states/1990-1999/violence-against-women-act-1994)
+
 - [Master Settlement Agreement 1998](/recovery/policy/united-states/1990-1999/master-settlement-agreement-1998)
+
 - [The Media Campaign Act Of 1998](/recovery/policy/united-states/1990-1999/the-media-campaign-act-of-1998)
+
 - [Personal Responsibility And Word Reautho](/recovery/policy/united-states/1990-1999/personal-responsibility-and-word-reautho)
+
 - [Office Of National Drug Control Policy R](/recovery/policy/united-states/1990-1999/office-of-national-drug-control-policy-r)
+
 - [The Drug Free Communities Act Of 1997](/recovery/policy/united-states/1990-1999/the-drug-free-communities-act-of-1997)
+
 - [Comprehensive Methamphetamine Control Act Of 1996](/recovery/policy/united-states/1990-1999/comprehensive-methamphetamine-control-act-of-1996)
+
 - [Violent Crime Control And Law Enforcement Act Of 1994](/recovery/policy/united-states/1990-1999/violent-crime-control-and-law-enforcement-act-of-1994)
 
 ## Pages
@@ -109,10 +116,12 @@ html {
 ### T
 
 - [The Drug Free Communities Act Of 1997](/recovery/policy/united-states/1990-1999/the-drug-free-communities-act-of-1997)
+
 - [The Media Campaign Act Of 1998](/recovery/policy/united-states/1990-1999/the-media-campaign-act-of-1998)
 
 <a id="letter-v"></a>
 ### V
 
 - [Violence Against Women Act 1994](/recovery/policy/united-states/1990-1999/violence-against-women-act-1994)
+
 - [Violent Crime Control And Law Enforcement Act Of 1994](/recovery/policy/united-states/1990-1999/violent-crime-control-and-law-enforcement-act-of-1994)

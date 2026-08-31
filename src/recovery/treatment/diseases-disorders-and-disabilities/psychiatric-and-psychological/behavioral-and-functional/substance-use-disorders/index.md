@@ -5,18 +5,31 @@ title: Substance Use Disorders
 ## Recently Modified
 
 - [Gaming Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/gaming-disorder)
+
 - [Gambling Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/gambling-disorder)
+
 - [Inhalant Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/inhalant-use-disorder)
+
 - [Hallucinogen Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/hallucinogen-use-disorder)
+
 - [Sedative Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/sedative-use-disorder)
+
 - [Benzodiazepine Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/benzodiazepine-use-disorder)
+
 - [Nicotine Dependence](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/nicotine-dependence)
+
 - [Methamphetamine Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/methamphetamine-use-disorder)
+
 - [Cocaine Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/cocaine-use-disorder)
+
 - [Stimulant Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/stimulant-use-disorder)
+
 - [Opioid Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/opioid-use-disorder)
+
 - [Alcohol Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/alcohol-use-disorder)
+
 - [Oxycontin](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/oxycontin)
+
 - [Cannabis Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/cannabis-use-disorder)
 
 ## Pages
@@ -105,12 +118,14 @@ html {
 ### C
 
 - [Cannabis Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/cannabis-use-disorder)
+
 - [Cocaine Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/cocaine-use-disorder)
 
 <a id="letter-g"></a>
 ### G
 
 - [Gambling Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/gambling-disorder)
+
 - [Gaming Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/gaming-disorder)
 
 <a id="letter-h"></a>
@@ -137,10 +152,12 @@ html {
 ### O
 
 - [Opioid Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/opioid-use-disorder)
+
 - [Oxycontin](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/oxycontin)
 
 <a id="letter-s"></a>
 ### S
 
 - [Sedative Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/sedative-use-disorder)
+
 - [Stimulant Use Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/behavioral-and-functional/substance-use-disorders/stimulant-use-disorder)

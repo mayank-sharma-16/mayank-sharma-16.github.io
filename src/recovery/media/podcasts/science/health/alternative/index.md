@@ -6,6 +6,8 @@ title: Alternative
 
 - [Sober Edge](/recovery/media/podcasts/science/health/alternative/sober-edge)
 
+https://open.spotify.com/show/7jAfavXWvTQk76L07pgtlD
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### S
 
 - [Sober Edge](/recovery/media/podcasts/science/health/alternative/sober-edge)
+
+https://open.spotify.com/show/7jAfavXWvTQk76L07pgtlD

@@ -5,9 +5,15 @@ title: Catholicism
 ## Recently Modified
 
 - [Tanaka Michio](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/catholicism/tanaka-michio)
+
+Tanaka Michio is a Japanese priest of a Christian church in Kamata, Tokyo who was an alcoholic who hosted an AA meeting in 1975 with John Meaney, an American priest of the Maryknoll Mission.
+
 - [Father Joseph Martin](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/catholicism/father-joseph-martin)
+
 - [Henri Nouwen](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/catholicism/henri-nouwen)
+
 - [Matthew Talbot](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/catholicism/matthew-talbot)
+
 - [Richard Rohr](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/catholicism/richard-rohr)
 
 ## Pages
@@ -106,3 +112,5 @@ html {
 ### T
 
 - [Tanaka Michio](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/catholicism/tanaka-michio)
+
+Tanaka Michio is a Japanese priest of a Christian church in Kamata, Tokyo who was an alcoholic who hosted an AA meeting in 1975 with John Meaney, an American priest of the Maryknoll Mission.

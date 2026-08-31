@@ -6,6 +6,8 @@ title: Comedy
 
 - [The Dopey Podcast](/recovery/media/podcasts/comedy/the-dopey-podcast)
 
+https://dopeypodcast.com/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### T
 
 - [The Dopey Podcast](/recovery/media/podcasts/comedy/the-dopey-podcast)
+
+https://dopeypodcast.com/

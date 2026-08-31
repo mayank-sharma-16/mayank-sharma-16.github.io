@@ -5,7 +5,10 @@ title: Rutgers University
 ## Recently Modified
 
 - [Rutgers Addiction Research Center](/recovery/organizations/higher-education/united-states/new-jersey/rutgers-university/rutgers-addiction-research-center)
+
 - [Center Of Alcohol And Substance Use Studies Cas](/recovery/organizations/higher-education/united-states/new-jersey/rutgers-university/center-of-alcohol-and-substance-use-studies-cas)
+
+https://alcoholstudies.rutgers.edu/
 
 ## Pages
 
@@ -83,6 +86,8 @@ html {
 ### C
 
 - [Center Of Alcohol And Substance Use Studies Cas](/recovery/organizations/higher-education/united-states/new-jersey/rutgers-university/center-of-alcohol-and-substance-use-studies-cas)
+
+https://alcoholstudies.rutgers.edu/
 
 <a id="letter-r"></a>
 ### R

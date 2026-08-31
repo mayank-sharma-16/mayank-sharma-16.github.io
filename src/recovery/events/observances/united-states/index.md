@@ -6,6 +6,8 @@ title: United States
 
 - [National Overdose Awareness Week](/recovery/events/observances/united-states/national-overdose-awareness-week)
 
+The National Overdose Awareness Week is an American initiative that coincides with a global International Overdose Awareness Day on August 31st, from August 28th to September 3rd.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### N
 
 - [National Overdose Awareness Week](/recovery/events/observances/united-states/national-overdose-awareness-week)
+
+The National Overdose Awareness Week is an American initiative that coincides with a global International Overdose Awareness Day on August 31st, from August 28th to September 3rd.

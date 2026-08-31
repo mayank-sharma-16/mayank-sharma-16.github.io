@@ -6,6 +6,8 @@ title: Latter Day Saints
 
 - [Lds Addiction Recovery Program](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/latter-day-saints/lds-addiction-recovery-program)
 
+https://addictionrecovery.churchofjesuschrist.org/?lang=eng
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### L
 
 - [Lds Addiction Recovery Program](/recovery/organizations/mutual-aid-and-peer-support/religious/christian/latter-day-saints/lds-addiction-recovery-program)
+
+https://addictionrecovery.churchofjesuschrist.org/?lang=eng

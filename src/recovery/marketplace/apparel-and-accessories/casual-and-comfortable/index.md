@@ -5,8 +5,15 @@ title: Casual And Comfortable
 ## Recently Modified
 
 - [Sobrlife](/recovery/marketplace/apparel-and-accessories/casual-and-comfortable/sobrlife)
+
+https://sobrlife.myshopify.com/
+
 - [Faith Factory](/recovery/marketplace/apparel-and-accessories/casual-and-comfortable/faith-factory)
+
+https://www.faithfactory.shop/sobriety-apparel
+
 - [Nawears](/recovery/marketplace/apparel-and-accessories/casual-and-comfortable/nawears)
+
 - [Soberlands](/recovery/marketplace/apparel-and-accessories/casual-and-comfortable/soberlands)
 
 ## Pages
@@ -86,6 +93,8 @@ html {
 
 - [Faith Factory](/recovery/marketplace/apparel-and-accessories/casual-and-comfortable/faith-factory)
 
+https://www.faithfactory.shop/sobriety-apparel
+
 <a id="letter-n"></a>
 ### N
 
@@ -95,4 +104,7 @@ html {
 ### S
 
 - [Soberlands](/recovery/marketplace/apparel-and-accessories/casual-and-comfortable/soberlands)
+
 - [Sobrlife](/recovery/marketplace/apparel-and-accessories/casual-and-comfortable/sobrlife)
+
+https://sobrlife.myshopify.com/

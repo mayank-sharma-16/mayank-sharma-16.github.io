@@ -6,6 +6,8 @@ title: 1920 1929
 
 - [Norman E Zinberg](/recovery/people/clinicians/doctors/1920-1929/norman-e-zinberg)
 
+https://southwestrecoveryalliance.org/wp-content/uploads/2020/02/Drug-Set-and-Setting-Zinberg-N-1.pdf
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### N
 
 - [Norman E Zinberg](/recovery/people/clinicians/doctors/1920-1929/norman-e-zinberg)
+
+https://southwestrecoveryalliance.org/wp-content/uploads/2020/02/Drug-Set-and-Setting-Zinberg-N-1.pdf

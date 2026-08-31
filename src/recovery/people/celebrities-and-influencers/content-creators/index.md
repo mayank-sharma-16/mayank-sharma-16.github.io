@@ -6,6 +6,8 @@ title: Content Creators
 
 - [Jean Mccarthy](/recovery/people/celebrities-and-influencers/content-creators/jean-mccarthy)
 
+https://jeanmccarthy.ca/the-bubble-hour/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### J
 
 - [Jean Mccarthy](/recovery/people/celebrities-and-influencers/content-creators/jean-mccarthy)
+
+https://jeanmccarthy.ca/the-bubble-hour/

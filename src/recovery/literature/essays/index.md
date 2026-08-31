@@ -5,8 +5,12 @@ title: Essays
 ## Recently Modified
 
 - [Anarchy And Alcohol](/recovery/literature/essays/anarchy-and-alcohol)
+
 - [Les Paradis Artificiels](/recovery/literature/essays/les-paradis-artificiels)
+
 - [An Opium Eater In America By William Blair 1842](/recovery/literature/essays/an-opium-eater-in-america-by-william-blair-1842)
+
+This text is claimed to be the first drug autobiography published in the United States.
 
 ## Pages
 
@@ -84,6 +88,9 @@ html {
 ### A
 
 - [An Opium Eater In America By William Blair 1842](/recovery/literature/essays/an-opium-eater-in-america-by-william-blair-1842)
+
+This text is claimed to be the first drug autobiography published in the United States.
+
 - [Anarchy And Alcohol](/recovery/literature/essays/anarchy-and-alcohol)
 
 <a id="letter-l"></a>

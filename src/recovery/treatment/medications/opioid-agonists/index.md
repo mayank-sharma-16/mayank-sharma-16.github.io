@@ -5,7 +5,12 @@ title: Opioid Agonists
 ## Recently Modified
 
 - [Nitazenes](/recovery/treatment/medications/opioid-agonists/nitazenes)
+
+https://nida.nih.gov/news-events/news-releases/2026/4/nih-researchers-discover-pain-relieving-drug-with-minimal-addictive-properties
+
 - [Mitragynine](/recovery/treatment/medications/opioid-agonists/mitragynine)
+
+https://nida.nih.gov/news-events/news-releases/2026/6/nih-research-clears-way-for-study-of-experimental-treatment-for-opioid-use-disorder
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Mitragynine](/recovery/treatment/medications/opioid-agonists/mitragynine)
 
+https://nida.nih.gov/news-events/news-releases/2026/6/nih-research-clears-way-for-study-of-experimental-treatment-for-opioid-use-disorder
+
 <a id="letter-n"></a>
 ### N
 
 - [Nitazenes](/recovery/treatment/medications/opioid-agonists/nitazenes)
+
+https://nida.nih.gov/news-events/news-releases/2026/4/nih-researchers-discover-pain-relieving-drug-with-minimal-addictive-properties

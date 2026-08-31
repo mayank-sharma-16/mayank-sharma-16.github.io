@@ -5,10 +5,20 @@ title: Anthropologists
 ## Recently Modified
 
 - [Pascal Boyer](/recovery/people/researchers/anthropologists/pascal-boyer)
+
 - [Simon Heap](/recovery/people/researchers/anthropologists/simon-heap)
+
+https://scholar.google.com/citations?hl=en&user=b-ghOLsAAAAJ&viewop=listworks
+
 - [Jacqueline Leckie](/recovery/people/researchers/anthropologists/jacqueline-leckie)
+
 - [Mary Douglas](/recovery/people/researchers/anthropologists/mary-douglas)
+
+I have a great fondness for Mary Douglas' works. Constructive Drinking (1987)
+
 - [Elizabeth F S Roberts](/recovery/people/researchers/anthropologists/elizabeth-f-s-roberts)
+
+https://princetonuniversitypress.substack.com/p/should-we-embrace-addition
 
 ## Pages
 
@@ -87,6 +97,8 @@ html {
 
 - [Elizabeth F S Roberts](/recovery/people/researchers/anthropologists/elizabeth-f-s-roberts)
 
+https://princetonuniversitypress.substack.com/p/should-we-embrace-addition
+
 <a id="letter-j"></a>
 ### J
 
@@ -97,6 +109,8 @@ html {
 
 - [Mary Douglas](/recovery/people/researchers/anthropologists/mary-douglas)
 
+I have a great fondness for Mary Douglas' works. Constructive Drinking (1987)
+
 <a id="letter-p"></a>
 ### P
 
@@ -106,3 +120,5 @@ html {
 ### S
 
 - [Simon Heap](/recovery/people/researchers/anthropologists/simon-heap)
+
+https://scholar.google.com/citations?hl=en&user=b-ghOLsAAAAJ&viewop=listworks

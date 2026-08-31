@@ -6,6 +6,8 @@ title: Michigan
 
 - [Jamie Daniels Foundation](/recovery/organizations/activists-advocacy-and-aid/united-states/michigan/jamie-daniels-foundation)
 
+https://jamiedanielsfoundation.org/program/collegiate-recovery/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### J
 
 - [Jamie Daniels Foundation](/recovery/organizations/activists-advocacy-and-aid/united-states/michigan/jamie-daniels-foundation)
+
+https://jamiedanielsfoundation.org/program/collegiate-recovery/

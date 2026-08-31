@@ -5,8 +5,16 @@ title: 2020 2029
 ## Recently Modified
 
 - [Supervised Injection Facilities As Harm ](/recovery/literature/studies/2020-2029/supervised-injection-facilities-as-harm)
+
+"Supervised injection facilities in the included studies (n=number of studies per outcome category) were mostly associated with significant reductions in opioid overdose morbidity and mortality (n=5), significant improvements in injection behaviors and harm reduction (n=7), significant improvements in access to addiction treatment programs (n=7), and no increase or reductions in crime and public…
+
 - [How Did Investigations Into Spontaneous ](/recovery/literature/studies/2020-2029/how-did-investigations-into-spontaneous)
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11986277/
+
 - [Nearly One Third Of Primary Care Provide](/recovery/literature/studies/2020-2029/nearly-one-third-of-primary-care-provide)
+
+"A new survey of U.S. primary care physicians from researchers at Johns Hopkins Bloomberg School of Public Health found that nearly one-third, 32.9 percent, do not think treating opioid use disorder with medication is any more effective than treatment without medication." "The study also found that only one-fifth, 20.2 percent, of U.S. primary care physicians have interest in treating a patient…
 
 ## Pages
 
@@ -85,12 +93,18 @@ html {
 
 - [How Did Investigations Into Spontaneous ](/recovery/literature/studies/2020-2029/how-did-investigations-into-spontaneous)
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11986277/
+
 <a id="letter-n"></a>
 ### N
 
 - [Nearly One Third Of Primary Care Provide](/recovery/literature/studies/2020-2029/nearly-one-third-of-primary-care-provide)
 
+"A new survey of U.S. primary care physicians from researchers at Johns Hopkins Bloomberg School of Public Health found that nearly one-third, 32.9 percent, do not think treating opioid use disorder with medication is any more effective than treatment without medication." "The study also found that only one-fifth, 20.2 percent, of U.S. primary care physicians have interest in treating a patient…
+
 <a id="letter-s"></a>
 ### S
 
 - [Supervised Injection Facilities As Harm ](/recovery/literature/studies/2020-2029/supervised-injection-facilities-as-harm)
+
+"Supervised injection facilities in the included studies (n=number of studies per outcome category) were mostly associated with significant reductions in opioid overdose morbidity and mortality (n=5), significant improvements in injection behaviors and harm reduction (n=7), significant improvements in access to addiction treatment programs (n=7), and no increase or reductions in crime and public…

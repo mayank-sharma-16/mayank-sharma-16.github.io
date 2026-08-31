@@ -5,8 +5,11 @@ title: Fantasy
 ## Recently Modified
 
 - [The Green Bone Saga](/recovery/literature/books/fiction/fantasy/the-green-bone-saga)
+
 - [The Powder Mage Trilogy](/recovery/literature/books/fiction/fantasy/the-powder-mage-trilogy)
+
 - [The Poppy War By Rf Kuang 2018](/recovery/literature/books/fiction/fantasy/the-poppy-war-by-rf-kuang-2018)
+
 - [Best Served Cold By Joe Abercrombie 2009](/recovery/literature/books/fiction/fantasy/best-served-cold-by-joe-abercrombie-2009)
 
 ## Pages
@@ -90,5 +93,7 @@ html {
 ### T
 
 - [The Green Bone Saga](/recovery/literature/books/fiction/fantasy/the-green-bone-saga)
+
 - [The Poppy War By Rf Kuang 2018](/recovery/literature/books/fiction/fantasy/the-poppy-war-by-rf-kuang-2018)
+
 - [The Powder Mage Trilogy](/recovery/literature/books/fiction/fantasy/the-powder-mage-trilogy)

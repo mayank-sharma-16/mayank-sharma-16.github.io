@@ -5,7 +5,11 @@ title: 1800 1809
 ## Recently Modified
 
 - [Victor Hugo](/recovery/people/artists/writers/1800-1809/victor-hugo)
+
+Reportedly, Hugo was a prolific sex addict who attended brothels so often that his death was honored by brothels across France, which closed or lowered their blinds in mourning.
+
 - [Elizabeth Barrett Browning](/recovery/people/artists/writers/1800-1809/elizabeth-barrett-browning)
+
 - [Edgar Allan Poe](/recovery/people/artists/writers/1800-1809/edgar-allan-poe)
 
 ## Pages
@@ -84,9 +88,12 @@ html {
 ### E
 
 - [Edgar Allan Poe](/recovery/people/artists/writers/1800-1809/edgar-allan-poe)
+
 - [Elizabeth Barrett Browning](/recovery/people/artists/writers/1800-1809/elizabeth-barrett-browning)
 
 <a id="letter-v"></a>
 ### V
 
 - [Victor Hugo](/recovery/people/artists/writers/1800-1809/victor-hugo)
+
+Reportedly, Hugo was a prolific sex addict who attended brothels so often that his death was honored by brothels across France, which closed or lowered their blinds in mourning.

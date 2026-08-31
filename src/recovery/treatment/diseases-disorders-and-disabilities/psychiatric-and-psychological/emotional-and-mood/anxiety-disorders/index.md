@@ -9,10 +9,15 @@ title: Anxiety Disorders
 ## Recently Modified
 
 - [Selective Mutism](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/anxiety-disorders/selective-mutism)
+
 - [Separation Anxiety Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/anxiety-disorders/separation-anxiety-disorder)
+
 - [Agoraphobia](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/anxiety-disorders/phobias/agoraphobia)
+
 - [Social Anxiety Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/anxiety-disorders/social-anxiety-disorder)
+
 - [Panic Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/anxiety-disorders/panic-disorder)
+
 - [Generalized Anxiety Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/anxiety-disorders/generalized-anxiety-disorder)
 
 ## Pages
@@ -101,5 +106,7 @@ html {
 ### S
 
 - [Selective Mutism](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/anxiety-disorders/selective-mutism)
+
 - [Separation Anxiety Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/anxiety-disorders/separation-anxiety-disorder)
+
 - [Social Anxiety Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/anxiety-disorders/social-anxiety-disorder)

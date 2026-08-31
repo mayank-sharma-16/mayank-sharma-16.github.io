@@ -5,8 +5,16 @@ title: Moms
 ## Recently Modified
 
 - [The Sober Mom Life](/recovery/media/podcasts/self-help-and-coaching/women/moms/the-sober-mom-life)
+
+https://cms.megaphone.fm/channel/SPMLLC2002463779
+
 - [Mother Recovering](/recovery/media/podcasts/self-help-and-coaching/women/moms/mother-recovering)
+
+https://open.spotify.com/show/2aaqvSg5d08OqMWXQ57rXb
+
 - [Hopestream](/recovery/media/podcasts/self-help-and-coaching/women/moms/hopestream)
+
+https://hopestreamcommunity.org/hopestream-podcast/
 
 ## Pages
 
@@ -85,12 +93,18 @@ html {
 
 - [Hopestream](/recovery/media/podcasts/self-help-and-coaching/women/moms/hopestream)
 
+https://hopestreamcommunity.org/hopestream-podcast/
+
 <a id="letter-m"></a>
 ### M
 
 - [Mother Recovering](/recovery/media/podcasts/self-help-and-coaching/women/moms/mother-recovering)
 
+https://open.spotify.com/show/2aaqvSg5d08OqMWXQ57rXb
+
 <a id="letter-t"></a>
 ### T
 
 - [The Sober Mom Life](/recovery/media/podcasts/self-help-and-coaching/women/moms/the-sober-mom-life)
+
+https://cms.megaphone.fm/channel/SPMLLC2002463779

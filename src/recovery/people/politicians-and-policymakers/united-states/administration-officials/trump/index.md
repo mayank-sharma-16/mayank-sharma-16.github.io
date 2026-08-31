@@ -5,8 +5,14 @@ title: Trump
 ## Recently Modified
 
 - [Kathryn Burgum](/recovery/people/politicians-and-policymakers/united-states/administration-officials/trump/kathryn-burgum)
+
+https://www.kathrynburgum.com/
+
 - [Larry Kudlow](/recovery/people/politicians-and-policymakers/united-states/administration-officials/trump/larry-kudlow)
+
 - [Timothy W Westlake](/recovery/people/politicians-and-policymakers/united-states/administration-officials/trump/timothy-w-westlake)
+
+https://www.samhsa.gov/about/leadership/timothy-westlake
 
 ## Pages
 
@@ -85,6 +91,8 @@ html {
 
 - [Kathryn Burgum](/recovery/people/politicians-and-policymakers/united-states/administration-officials/trump/kathryn-burgum)
 
+https://www.kathrynburgum.com/
+
 <a id="letter-l"></a>
 ### L
 
@@ -94,3 +102,5 @@ html {
 ### T
 
 - [Timothy W Westlake](/recovery/people/politicians-and-policymakers/united-states/administration-officials/trump/timothy-w-westlake)
+
+https://www.samhsa.gov/about/leadership/timothy-westlake

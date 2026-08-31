@@ -5,7 +5,12 @@ title: University Of Michigan
 ## Recently Modified
 
 - [Addiction Center](/recovery/organizations/higher-education/united-states/michigan/university-of-michigan/addiction-center)
+
+https://medschool.umich.edu/departments/psychiatry/psychiatry-programs/addiction-center
+
 - [U M Addiction Treatment Services Umats](/recovery/organizations/higher-education/united-states/michigan/university-of-michigan/u-m-addiction-treatment-services-umats)
+
+https://medschool.umich.edu/departments/psychiatry/psychiatry-programs/addiction-center
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Addiction Center](/recovery/organizations/higher-education/united-states/michigan/university-of-michigan/addiction-center)
 
+https://medschool.umich.edu/departments/psychiatry/psychiatry-programs/addiction-center
+
 <a id="letter-u"></a>
 ### U
 
 - [U M Addiction Treatment Services Umats](/recovery/organizations/higher-education/united-states/michigan/university-of-michigan/u-m-addiction-treatment-services-umats)
+
+https://medschool.umich.edu/departments/psychiatry/psychiatry-programs/addiction-center

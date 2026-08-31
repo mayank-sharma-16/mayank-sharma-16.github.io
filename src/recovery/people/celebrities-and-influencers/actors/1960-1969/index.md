@@ -5,16 +5,27 @@ title: 1960 1969
 ## Recently Modified
 
 - [Matthew Perry](/recovery/people/celebrities-and-influencers/actors/1960-1969/matthew-perry)
+
 - [John Stamos](/recovery/people/celebrities-and-influencers/actors/1960-1969/john-stamos)
+
 - [Josh Brolin](/recovery/people/celebrities-and-influencers/actors/1960-1969/josh-brolin)
+
 - [Gerard Butler](/recovery/people/celebrities-and-influencers/actors/1960-1969/gerard-butler)
+
 - [Kristin Davis](/recovery/people/celebrities-and-influencers/actors/1960-1969/kristin-davis)
+
 - [Chris Farley](/recovery/people/celebrities-and-influencers/actors/1960-1969/chris-farley)
+
 - [Rob Lowe](/recovery/people/celebrities-and-influencers/actors/1960-1969/rob-lowe)
+
 - [Philip Seymour Hoffman](/recovery/people/celebrities-and-influencers/actors/1960-1969/philip-seymour-hoffman)
+
 - [James Gandolfini](/recovery/people/celebrities-and-influencers/actors/1960-1969/james-gandolfini)
+
 - [Brad Pitt](/recovery/people/celebrities-and-influencers/actors/1960-1969/brad-pitt)
+
 - [Robert Downey Jr](/recovery/people/celebrities-and-influencers/actors/1960-1969/robert-downey-jr)
+
 - [Charlie Sheen](/recovery/people/celebrities-and-influencers/actors/1960-1969/charlie-sheen)
 
 ## Pages
@@ -98,6 +109,7 @@ html {
 ### C
 
 - [Charlie Sheen](/recovery/people/celebrities-and-influencers/actors/1960-1969/charlie-sheen)
+
 - [Chris Farley](/recovery/people/celebrities-and-influencers/actors/1960-1969/chris-farley)
 
 <a id="letter-g"></a>
@@ -109,7 +121,9 @@ html {
 ### J
 
 - [James Gandolfini](/recovery/people/celebrities-and-influencers/actors/1960-1969/james-gandolfini)
+
 - [John Stamos](/recovery/people/celebrities-and-influencers/actors/1960-1969/john-stamos)
+
 - [Josh Brolin](/recovery/people/celebrities-and-influencers/actors/1960-1969/josh-brolin)
 
 <a id="letter-k"></a>
@@ -131,4 +145,5 @@ html {
 ### R
 
 - [Rob Lowe](/recovery/people/celebrities-and-influencers/actors/1960-1969/rob-lowe)
+
 - [Robert Downey Jr](/recovery/people/celebrities-and-influencers/actors/1960-1969/robert-downey-jr)

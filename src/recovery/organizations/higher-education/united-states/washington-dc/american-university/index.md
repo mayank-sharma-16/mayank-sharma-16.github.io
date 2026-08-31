@@ -6,6 +6,8 @@ title: American University
 
 - [Psychopharmacology Lab](/recovery/organizations/higher-education/united-states/washington-dc/american-university/psychopharmacology-lab)
 
+https://www.american.edu/cas/psychology/psychopharmacology/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### P
 
 - [Psychopharmacology Lab](/recovery/organizations/higher-education/united-states/washington-dc/american-university/psychopharmacology-lab)
+
+https://www.american.edu/cas/psychology/psychopharmacology/

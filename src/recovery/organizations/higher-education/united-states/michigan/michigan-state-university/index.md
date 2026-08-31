@@ -5,9 +5,20 @@ title: Michigan State University
 ## Recently Modified
 
 - [Addiction Consortium On Research And Edu](/recovery/organizations/higher-education/united-states/michigan/michigan-state-university/addiction-consortium-on-research-and-edu)
+
+https://acorn.msu.edu/programs/grants
+
 - [The Neuroscience Program](/recovery/organizations/higher-education/united-states/michigan/michigan-state-university/the-neuroscience-program)
+
+https://neuroscience.natsci.msu.edu/
+
 - [Michigan Collaborative Addiction Resourc](/recovery/organizations/higher-education/united-states/michigan/michigan-state-university/michigan-collaborative-addiction-resourc)
+
+https://micaresed.org/
+
 - [Collegiate Recovery Community](/recovery/organizations/higher-education/united-states/michigan/michigan-state-university/collegiate-recovery-community)
+
+https://uhw.msu.edu/health-and-wellbeing-services/health-promotion/crc
 
 ## Pages
 
@@ -86,17 +97,25 @@ html {
 
 - [Addiction Consortium On Research And Edu](/recovery/organizations/higher-education/united-states/michigan/michigan-state-university/addiction-consortium-on-research-and-edu)
 
+https://acorn.msu.edu/programs/grants
+
 <a id="letter-c"></a>
 ### C
 
 - [Collegiate Recovery Community](/recovery/organizations/higher-education/united-states/michigan/michigan-state-university/collegiate-recovery-community)
+
+https://uhw.msu.edu/health-and-wellbeing-services/health-promotion/crc
 
 <a id="letter-m"></a>
 ### M
 
 - [Michigan Collaborative Addiction Resourc](/recovery/organizations/higher-education/united-states/michigan/michigan-state-university/michigan-collaborative-addiction-resourc)
 
+https://micaresed.org/
+
 <a id="letter-t"></a>
 ### T
 
 - [The Neuroscience Program](/recovery/organizations/higher-education/united-states/michigan/michigan-state-university/the-neuroscience-program)
+
+https://neuroscience.natsci.msu.edu/

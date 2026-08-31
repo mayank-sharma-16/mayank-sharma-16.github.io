@@ -5,9 +5,20 @@ title: Friends And Family
 ## Recently Modified
 
 - [Birds Of A Feather Al Anon](/recovery/organizations/mutual-aid-and-peer-support/friends-and-family/birds-of-a-feather-al-anon)
+
+https://boafalanon.org/
+
 - [Al Anon Family Groups](/recovery/organizations/mutual-aid-and-peer-support/friends-and-family/al-anon-family-groups)
+
+https://al-anon.org/
+
 - [Alateen](/recovery/organizations/mutual-aid-and-peer-support/friends-and-family/alateen)
+
+https://al-anon.org/newcomers/teen-corner-alateen/
+
 - [Adult Children Of Alcoholics And Dysfunctional Families](/recovery/organizations/mutual-aid-and-peer-support/friends-and-family/adult-children-of-alcoholics-and-dysfunctional-families)
+
+https://adultchildren.org/
 
 ## Pages
 
@@ -85,10 +96,20 @@ html {
 ### A
 
 - [Adult Children Of Alcoholics And Dysfunctional Families](/recovery/organizations/mutual-aid-and-peer-support/friends-and-family/adult-children-of-alcoholics-and-dysfunctional-families)
+
+https://adultchildren.org/
+
 - [Al Anon Family Groups](/recovery/organizations/mutual-aid-and-peer-support/friends-and-family/al-anon-family-groups)
+
+https://al-anon.org/
+
 - [Alateen](/recovery/organizations/mutual-aid-and-peer-support/friends-and-family/alateen)
+
+https://al-anon.org/newcomers/teen-corner-alateen/
 
 <a id="letter-b"></a>
 ### B
 
 - [Birds Of A Feather Al Anon](/recovery/organizations/mutual-aid-and-peer-support/friends-and-family/birds-of-a-feather-al-anon)
+
+https://boafalanon.org/

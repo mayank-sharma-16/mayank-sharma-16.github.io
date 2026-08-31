@@ -5,10 +5,15 @@ title: Dermatological
 ## Recently Modified
 
 - [Excoriation](/recovery/treatment/diseases-disorders-and-disabilities/systemic/dermatological/excoriation)
+
 - [Pruritis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/dermatological/pruritis)
+
 - [Stevens Johnson Syndrome](/recovery/treatment/diseases-disorders-and-disabilities/systemic/dermatological/stevens-johnson-syndrome)
+
 - [Necrotizing Fasciitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/dermatological/necrotizing-fasciitis)
+
 - [Abscesses](/recovery/treatment/diseases-disorders-and-disabilities/systemic/dermatological/abscesses)
+
 - [Cellulitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/dermatological/cellulitis)
 
 ## Pages

@@ -6,6 +6,8 @@ title: University Of Florida
 
 - [Uf Health Florida Recovery Center](/recovery/organizations/higher-education/united-states/florida/university-of-florida/uf-health-florida-recovery-center)
 
+https://ufhealth.org/locations/uf-health-florida-recovery-center
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### U
 
 - [Uf Health Florida Recovery Center](/recovery/organizations/higher-education/united-states/florida/university-of-florida/uf-health-florida-recovery-center)
+
+https://ufhealth.org/locations/uf-health-florida-recovery-center

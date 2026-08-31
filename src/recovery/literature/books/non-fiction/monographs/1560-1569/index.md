@@ -6,6 +6,8 @@ title: 1560 1569
 
 - [Conversations On The Simples Drugs And M](/recovery/literature/books/non-fiction/monographs/1560-1569/conversations-on-the-simples-drugs-and-m)
 
+Supposedly, this was the fifth European book ever printed in Goa.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Conversations On The Simples Drugs And M](/recovery/literature/books/non-fiction/monographs/1560-1569/conversations-on-the-simples-drugs-and-m)
+
+Supposedly, this was the fifth European book ever printed in Goa.

@@ -9,6 +9,7 @@ title: Anglican
 ## Recently Modified
 
 - [Charles Henry Brent](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/protestantism/anglican/episcopal/charles-henry-brent)
+
 - [Robert South](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/protestantism/anglican/robert-south)
 
 ## Pages

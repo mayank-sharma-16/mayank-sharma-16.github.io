@@ -6,6 +6,8 @@ title: Glossary
 
 - [Cognitive Load](/education/glossary/cognitive-load)
 
+Cognitive load refers to the strain or burden put onto someone's working memory. The idea of humans having limited mental bandwidth has been observed for a long time. Modern cognitive psychology has been interested in measuring the limits and mechanisms of that bandwidth and related capacities. In 1956, George Miller published a study that found our short-term memory is generally limited to…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### C
 
 - [Cognitive Load](/education/glossary/cognitive-load)
+
+Cognitive load refers to the strain or burden put onto someone's working memory. The idea of humans having limited mental bandwidth has been observed for a long time. Modern cognitive psychology has been interested in measuring the limits and mechanisms of that bandwidth and related capacities. In 1956, George Miller published a study that found our short-term memory is generally limited to…

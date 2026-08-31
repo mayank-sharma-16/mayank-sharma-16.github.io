@@ -5,9 +5,13 @@ title: Craniofacial
 ## Recently Modified
 
 - [Bruxism](/recovery/treatment/diseases-disorders-and-disabilities/systemic/craniofacial/bruxism)
+
 - [Periodontal Disease](/recovery/treatment/diseases-disorders-and-disabilities/systemic/craniofacial/periodontal-disease)
+
 - [Palatal Perforation](/recovery/treatment/diseases-disorders-and-disabilities/systemic/craniofacial/palatal-perforation)
+
 - [Rampant Caries](/recovery/treatment/diseases-disorders-and-disabilities/systemic/craniofacial/rampant-caries)
+
 - [Xerostomia](/recovery/treatment/diseases-disorders-and-disabilities/systemic/craniofacial/xerostomia)
 
 ## Pages
@@ -91,6 +95,7 @@ html {
 ### P
 
 - [Palatal Perforation](/recovery/treatment/diseases-disorders-and-disabilities/systemic/craniofacial/palatal-perforation)
+
 - [Periodontal Disease](/recovery/treatment/diseases-disorders-and-disabilities/systemic/craniofacial/periodontal-disease)
 
 <a id="letter-r"></a>

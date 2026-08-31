@@ -10,8 +10,17 @@ title: United States
 ## Recently Modified
 
 - [Minnesota Young People In Alcoholics Anonymous Mnypaa](/recovery/events/conferences/peer-and-public/12-step/united-states/minnesota/minnesota-young-people-in-alcoholics-anonymous-mnypaa)
+
+The Minnesota Model is one of the most commonly adopted formats for addiction treatment centers, and its start in Minnesota led to a large surge of youth participants in A.A. To accommodate them, especially in the context of old timers being wary that younger alcoholics had "suffered enough" or "hit rock bottom" in order to begin recovery. The Minnesota Young People in Alcoholics Anonymous…
+
 - [Southern California Aa Convention](/recovery/events/conferences/peer-and-public/12-step/united-states/california/southern-california-aa-convention)
+
+The Southern California A.A. Convention (SCAAC) was established in Long Beach in 1952, making it one of the oldest recovery conventions in California. Many of the most popular AA speeches were recorded at this convention before being distributed worldwide. https://scws-al-anon.org/wp-content/uploads/2025/05/BulletinMay2019.pdf
+
 - [All California Young People In Alcoholics Anonymous](/recovery/events/conferences/peer-and-public/12-step/united-states/california/all-california-young-people-in-alcoholics-anonymous)
+
+All California Young People in Alcoholics Anonymous (ACYPAA) was established in 1973 after decades of Young People's groups had formed in cities like Los Angeles to reach new demographics, since most AA members at the time were older white middle-class men who had histories with alcohol longer than some of the younger members had even been alive. The organization's Advisory Council was…
+
 - [Smart Recovery National Conference](/recovery/events/conferences/peer-and-public/12-step/united-states/smart-recovery-national-conference)
 
 ## Pages

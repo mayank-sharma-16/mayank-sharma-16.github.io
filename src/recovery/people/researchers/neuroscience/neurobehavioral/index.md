@@ -5,8 +5,15 @@ title: Neurobehavioral
 ## Recently Modified
 
 - [Cindy Wyvell](/recovery/people/researchers/neuroscience/neurobehavioral/cindy-wyvell)
+
 - [David H Epstein](/recovery/people/researchers/neuroscience/neurobehavioral/david-h-epstein)
+
+David Epstein is a behavioral neuroscientist with the National Institute on Drug Abuse (NIDA) Intramural Research Program (IRP) in Maryland. https://irp.nida.nih.gov/staff-members/david-epstein/
+
 - [Michael A Bozarth](/recovery/people/researchers/neuroscience/neurobehavioral/michael-a-bozarth)
+
+Michael Bozarth, alongside Roy Wise, published the famous 1985 Rat Park study that found 90% of rats who were left for a month in a cage with food, water, and cocaine would eventually choose cocaine to the point of death through exhaustion, starvation, and/or dehydration.
+
 - [Michael Wesley](/recovery/people/researchers/neuroscience/neurobehavioral/michael-wesley)
 
 ## Pages
@@ -91,8 +98,13 @@ html {
 
 - [David H Epstein](/recovery/people/researchers/neuroscience/neurobehavioral/david-h-epstein)
 
+David Epstein is a behavioral neuroscientist with the National Institute on Drug Abuse (NIDA) Intramural Research Program (IRP) in Maryland. https://irp.nida.nih.gov/staff-members/david-epstein/
+
 <a id="letter-m"></a>
 ### M
 
 - [Michael A Bozarth](/recovery/people/researchers/neuroscience/neurobehavioral/michael-a-bozarth)
+
+Michael Bozarth, alongside Roy Wise, published the famous 1985 Rat Park study that found 90% of rats who were left for a month in a cage with food, water, and cocaine would eventually choose cocaine to the point of death through exhaustion, starvation, and/or dehydration.
+
 - [Michael Wesley](/recovery/people/researchers/neuroscience/neurobehavioral/michael-wesley)

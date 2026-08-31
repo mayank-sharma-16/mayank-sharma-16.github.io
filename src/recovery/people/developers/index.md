@@ -6,6 +6,8 @@ title: Developers
 
 - [Jonathan Blow](/recovery/people/developers/jonathan-blow)
 
+Jonathan Blow has been one of the more vocal developers tackling the value of video gaming as an expressive medium. He likens the loops built by games like World of Warcraft to a type of drug that exploits short-term loops that are little more than a series of tasks towards an end "victory" state. To make a game have artistic value instead of just fast food-esque entertainment value, it has to…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### J
 
 - [Jonathan Blow](/recovery/people/developers/jonathan-blow)
+
+Jonathan Blow has been one of the more vocal developers tackling the value of video gaming as an expressive medium. He likens the loops built by games like World of Warcraft to a type of drug that exploits short-term loops that are little more than a series of tasks towards an end "victory" state. To make a game have artistic value instead of just fast food-esque entertainment value, it has to…

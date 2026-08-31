@@ -5,8 +5,11 @@ title: Germany
 ## Recently Modified
 
 - [Deutscher Verein Gegen Den Mibrauch Geistiger Getranke](/recovery/organizations/activists-advocacy-and-aid/germany/deutscher-verein-gegen-den-mibrauch-geistiger-getranke)
+
 - [Kreuzbund](/recovery/organizations/activists-advocacy-and-aid/germany/kreuzbund)
+
 - [Blaues Kreuz](/recovery/organizations/activists-advocacy-and-aid/germany/blaues-kreuz)
+
 - [Guttempler](/recovery/organizations/activists-advocacy-and-aid/germany/guttempler)
 
 ## Pages

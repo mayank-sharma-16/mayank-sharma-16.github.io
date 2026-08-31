@@ -5,8 +5,16 @@ title: University Of Chicago
 ## Recently Modified
 
 - [Nida T32 Training Program](/recovery/organizations/higher-education/united-states/illinois/university-of-chicago/nida-t32-training-program)
+
+https://voices.uchicago.edu/addictiont32/
+
 - [Behavioral And Substance Addiction Clinic](/recovery/organizations/higher-education/united-states/illinois/university-of-chicago/behavioral-and-substance-addiction-clinic)
+
+https://sharenetworkchicago.org/resources/detail/university-of-chicago-medicine-behavioral-substance-addiction-clinic
+
 - [Student Recovery Group](/recovery/organizations/higher-education/united-states/illinois/university-of-chicago/student-recovery-group)
+
+https://wellness.uchicago.edu/healthy-living/wellness-programming/university-of-chicago-student-recovery-group/
 
 ## Pages
 
@@ -85,12 +93,18 @@ html {
 
 - [Behavioral And Substance Addiction Clinic](/recovery/organizations/higher-education/united-states/illinois/university-of-chicago/behavioral-and-substance-addiction-clinic)
 
+https://sharenetworkchicago.org/resources/detail/university-of-chicago-medicine-behavioral-substance-addiction-clinic
+
 <a id="letter-n"></a>
 ### N
 
 - [Nida T32 Training Program](/recovery/organizations/higher-education/united-states/illinois/university-of-chicago/nida-t32-training-program)
 
+https://voices.uchicago.edu/addictiont32/
+
 <a id="letter-s"></a>
 ### S
 
 - [Student Recovery Group](/recovery/organizations/higher-education/united-states/illinois/university-of-chicago/student-recovery-group)
+
+https://wellness.uchicago.edu/healthy-living/wellness-programming/university-of-chicago-student-recovery-group/

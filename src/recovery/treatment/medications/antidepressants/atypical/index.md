@@ -5,10 +5,15 @@ title: Atypical
 ## Recently Modified
 
 - [Nefazodone](/recovery/treatment/medications/antidepressants/atypical/nefazodone)
+
 - [Vilazodone](/recovery/treatment/medications/antidepressants/atypical/vilazodone)
+
 - [Vortioxetine](/recovery/treatment/medications/antidepressants/atypical/vortioxetine)
+
 - [Trazodone](/recovery/treatment/medications/antidepressants/atypical/trazodone)
+
 - [Mirtazapine](/recovery/treatment/medications/antidepressants/atypical/mirtazapine)
+
 - [Bupropion](/recovery/treatment/medications/antidepressants/atypical/bupropion)
 
 ## Pages
@@ -107,4 +112,5 @@ html {
 ### V
 
 - [Vilazodone](/recovery/treatment/medications/antidepressants/atypical/vilazodone)
+
 - [Vortioxetine](/recovery/treatment/medications/antidepressants/atypical/vortioxetine)

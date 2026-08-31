@@ -6,6 +6,8 @@ title: Drug Czars
 
 - [Jerome H Jaffe](/recovery/people/politicians-and-policymakers/united-states/drug-czars/jerome-h-jaffe)
 
+Jerome Jaffe was once Richard Nixon's drug Czar.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### J
 
 - [Jerome H Jaffe](/recovery/people/politicians-and-policymakers/united-states/drug-czars/jerome-h-jaffe)
+
+Jerome Jaffe was once Richard Nixon's drug Czar.

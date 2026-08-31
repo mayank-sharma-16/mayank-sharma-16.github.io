@@ -5,8 +5,13 @@ title: Social Networks
 ## Recently Modified
 
 - [7 Cups](/recovery/marketplace/technology/apps/social-networks/7-cups)
+
 - [Loosid](/recovery/marketplace/technology/apps/social-networks/loosid)
+
+https://loosidapp.com/
+
 - [Sober Grid](/recovery/marketplace/technology/apps/social-networks/sober-grid)
+
 - [Sober Sidekick](/recovery/marketplace/technology/apps/social-networks/sober-sidekick)
 
 ## Pages
@@ -92,8 +97,11 @@ html {
 
 - [Loosid](/recovery/marketplace/technology/apps/social-networks/loosid)
 
+https://loosidapp.com/
+
 <a id="letter-s"></a>
 ### S
 
 - [Sober Grid](/recovery/marketplace/technology/apps/social-networks/sober-grid)
+
 - [Sober Sidekick](/recovery/marketplace/technology/apps/social-networks/sober-sidekick)

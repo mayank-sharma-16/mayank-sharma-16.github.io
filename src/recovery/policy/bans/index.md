@@ -5,9 +5,16 @@ title: Bans
 ## Recently Modified
 
 - [Decriminalization](/recovery/policy/bans/decriminalization)
+
 - [Prohibition](/recovery/policy/bans/prohibition)
+
+Prohibition was a disaster. You can find lots of analysis from people far smarter and more experienced than me attesting to that. What's most interesting to me though is how Prohibition was effectively a culture war. The science of addiction, recovery, and treatment has always been very underdeveloped compared to other aspects of health. We can see that it's in the nature of something as complex…
+
 - [Wartime Prohibition Act](/recovery/policy/bans/wartime-prohibition-act)
+
 - [War On Drugs](/recovery/policy/bans/war-on-drugs)
+
+It's hard to see a policy area that has undergone more ambitiously spectacular failures than drugs and substance abuse. In 2026, we still don't have a consensus on how to define either addiction or recovery. Benjamin Rush, oft called the founder of American psychiatry, has argued that "habitual drunkenness," which we might now brand as alcoholism or substance abuse, should be treated as "an…
 
 ## Pages
 
@@ -91,8 +98,13 @@ html {
 
 - [Prohibition](/recovery/policy/bans/prohibition)
 
+Prohibition was a disaster. You can find lots of analysis from people far smarter and more experienced than me attesting to that. What's most interesting to me though is how Prohibition was effectively a culture war. The science of addiction, recovery, and treatment has always been very underdeveloped compared to other aspects of health. We can see that it's in the nature of something as complex…
+
 <a id="letter-w"></a>
 ### W
 
 - [War On Drugs](/recovery/policy/bans/war-on-drugs)
+
+It's hard to see a policy area that has undergone more ambitiously spectacular failures than drugs and substance abuse. In 2026, we still don't have a consensus on how to define either addiction or recovery. Benjamin Rush, oft called the founder of American psychiatry, has argued that "habitual drunkenness," which we might now brand as alcoholism or substance abuse, should be treated as "an…
+
 - [Wartime Prohibition Act](/recovery/policy/bans/wartime-prohibition-act)

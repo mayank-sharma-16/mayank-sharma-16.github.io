@@ -9,7 +9,11 @@ title: Directors
 ## Recently Modified
 
 - [Aaron Strand](/recovery/people/celebrities-and-influencers/directors/indie/aaron-strand)
+
+Director of Withdrawal (2025), a movie shaped by Aaron Strand's experiences with addiction and recovery himself.
+
 - [Akira Kurosawa](/recovery/people/celebrities-and-influencers/directors/akira-kurosawa)
+
 - [Mike Flanagan](/recovery/people/celebrities-and-influencers/directors/mike-flanagan)
 
 ## Pages

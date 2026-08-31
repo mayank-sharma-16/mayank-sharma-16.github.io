@@ -5,7 +5,11 @@ title: 1830 1839
 ## Recently Modified
 
 - [Cesare Lombroso](/recovery/people/clinicians/doctors/1830-1839/cesare-lombroso)
+
+Cesare Lombroso is both considered a founder of modern criminology and one of the most prolific eugenicists we've seen. Rather than seeing crimes and sin as part of human nature, he believed some people were born with a criminal aptitude, which he theorized was indicative of some reversion of humanity to primitive primates. He thought these natural-born criminals could be identified through…
+
 - [Leslie Keeley](/recovery/people/clinicians/doctors/1830-1839/leslie-keeley)
+
 - [Norman Shanks Kerr](/recovery/people/clinicians/doctors/1830-1839/norman-shanks-kerr)
 
 ## Pages
@@ -84,6 +88,8 @@ html {
 ### C
 
 - [Cesare Lombroso](/recovery/people/clinicians/doctors/1830-1839/cesare-lombroso)
+
+Cesare Lombroso is both considered a founder of modern criminology and one of the most prolific eugenicists we've seen. Rather than seeing crimes and sin as part of human nature, he believed some people were born with a criminal aptitude, which he theorized was indicative of some reversion of humanity to primitive primates. He thought these natural-born criminals could be identified through…
 
 <a id="letter-l"></a>
 ### L

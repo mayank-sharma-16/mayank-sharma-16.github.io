@@ -5,7 +5,10 @@ title: Bioethics
 ## Recently Modified
 
 - [Gideon Yaffe](/recovery/people/researchers/philosophers/ethics/bioethics/gideon-yaffe)
+
 - [Travis Rieder](/recovery/people/researchers/philosophers/ethics/bioethics/travis-rieder)
+
+An associate professor at Johns Hopkins University focusing on bioethics. https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "Johns Hopkins bioethicist Travis Rieder argues that support for places like OnPoint will never be decided solely by the empirical data. 'I don't actually think it's why anyone believes what they believe... They have a view about what we should actually…
 
 ## Pages
 
@@ -88,3 +91,5 @@ html {
 ### T
 
 - [Travis Rieder](/recovery/people/researchers/philosophers/ethics/bioethics/travis-rieder)
+
+An associate professor at Johns Hopkins University focusing on bioethics. https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "Johns Hopkins bioethicist Travis Rieder argues that support for places like OnPoint will never be decided solely by the empirical data. 'I don't actually think it's why anyone believes what they believe... They have a view about what we should actually…

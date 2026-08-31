@@ -13,17 +13,46 @@ title: Women
 ## Recently Modified
 
 - [The Sobriety Circle](/recovery/media/podcasts/human-interest/women/indigenous-women/the-sobriety-circle)
+
+https://creators.spotify.com/pod/profile/thesobrietycircle/udd
+
 - [Eternally Amy Podcast](/recovery/media/podcasts/human-interest/women/moms/eternally-amy-podcast)
+
 - [Mommy Sober Culture](/recovery/media/podcasts/human-interest/women/moms/mommy-sober-culture)
+
+https://www.buzzsprout.com/2037253
+
 - [Secrets Of A Sober Mom](/recovery/media/podcasts/human-interest/women/moms/secrets-of-a-sober-mom)
+
 - [Bee Sober](/recovery/media/podcasts/human-interest/women/bee-sober)
+
+https://www.beesoberofficial.com/more/podcasts/
+
 - [Laughing Without Liquor](/recovery/media/podcasts/human-interest/women/laughing-without-liquor)
+
+https://podcasts.apple.com/us/podcast/laughing-without-liquor/id1489009860
+
 - [Sober Sisters Talk](/recovery/media/podcasts/human-interest/women/sober-sisters-talk)
+
+https://podcasts.apple.com/us/podcast/sober-sisters-talk/id1381917233
+
 - [Worth Recovery](/recovery/media/podcasts/human-interest/women/love-and-sex/worth-recovery)
+
+https://worthrecovery.podbean.com/
+
 - [Sharing Out Loud](/recovery/media/podcasts/human-interest/women/sharing-out-loud)
+
+https://podcasts.apple.com/us/podcast/sharing-out-loud/id1684159537
+
 - [Confident Sober Women](/recovery/media/podcasts/human-interest/women/confident-sober-women)
+
+https://open.spotify.com/show/6DXcUnkU1Ur4V6T51JvnfL
+
 - [Sober Black Girls Club](/recovery/media/podcasts/human-interest/women/black-women/sober-black-girls-club)
+
 - [The Broke Girl Society Podcast](/recovery/media/podcasts/human-interest/women/gambling/the-broke-girl-society-podcast)
+
+https://thebrokegirlsociety.com/
 
 ## Pages
 
@@ -102,18 +131,29 @@ html {
 
 - [Bee Sober](/recovery/media/podcasts/human-interest/women/bee-sober)
 
+https://www.beesoberofficial.com/more/podcasts/
+
 <a id="letter-c"></a>
 ### C
 
 - [Confident Sober Women](/recovery/media/podcasts/human-interest/women/confident-sober-women)
+
+https://open.spotify.com/show/6DXcUnkU1Ur4V6T51JvnfL
 
 <a id="letter-l"></a>
 ### L
 
 - [Laughing Without Liquor](/recovery/media/podcasts/human-interest/women/laughing-without-liquor)
 
+https://podcasts.apple.com/us/podcast/laughing-without-liquor/id1489009860
+
 <a id="letter-s"></a>
 ### S
 
 - [Sharing Out Loud](/recovery/media/podcasts/human-interest/women/sharing-out-loud)
+
+https://podcasts.apple.com/us/podcast/sharing-out-loud/id1684159537
+
 - [Sober Sisters Talk](/recovery/media/podcasts/human-interest/women/sober-sisters-talk)
+
+https://podcasts.apple.com/us/podcast/sober-sisters-talk/id1381917233

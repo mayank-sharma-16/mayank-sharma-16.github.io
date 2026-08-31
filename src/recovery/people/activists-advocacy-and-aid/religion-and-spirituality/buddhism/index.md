@@ -10,17 +10,33 @@ title: Buddhism
 ## Recently Modified
 
 - [Yoshimoto Ishin](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/yoshimoto-ishin)
+
+Naikan, mishirabe
+
 - [Josh Korda](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/josh-korda)
+
+Note: The foreword of this book is written by Noah Levine, who has since been involved in sexual misconduct allegations through his leadership role at Against the Stream (ATS) and teaching role with Spirit Rock Meditation Center. ATS later dissolved and Spirit Rock revoked his license to teach. No criminal charges appear to have been filed concerning any of the allegations, and Levine denies any…
+
 - [Darren Littlejohn](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/darren-littlejohn)
+
 - [Kevin Griffin](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/kevin-griffin)
+
 - [Alan Marlatt](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/alan-marlatt)
+
 - [Jon Kabat Zinn](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/jon-kabat-zinn)
+
 - [Judson Brewer](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/judson-brewer)
+
 - [Sarah Bowen](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/mindfulness/sarah-bowen)
+
 - [Noah Levine](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/noah-levine)
+
 - [Valerie Mason John](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/valerie-mason-john)
+
 - [Bernie Glassman](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/zen/bernie-glassman)
+
 - [Charlotte Joko Beck](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/zen/charlotte-joko-beck)
+
 - [Norman Fischer](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/zen/norman-fischer)
 
 ## Pages
@@ -105,6 +121,8 @@ html {
 
 - [Josh Korda](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/josh-korda)
 
+Note: The foreword of this book is written by Noah Levine, who has since been involved in sexual misconduct allegations through his leadership role at Against the Stream (ATS) and teaching role with Spirit Rock Meditation Center. ATS later dissolved and Spirit Rock revoked his license to teach. No criminal charges appear to have been filed concerning any of the allegations, and Levine denies any…
+
 <a id="letter-k"></a>
 ### K
 
@@ -124,3 +142,5 @@ html {
 ### Y
 
 - [Yoshimoto Ishin](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/buddhism/yoshimoto-ishin)
+
+Naikan, mishirabe

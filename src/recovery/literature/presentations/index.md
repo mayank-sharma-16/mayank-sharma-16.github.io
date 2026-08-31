@@ -9,7 +9,12 @@ title: Presentations
 ## Recently Modified
 
 - [The Simple Secret Of Being Happier](/recovery/literature/presentations/ted-talks/the-simple-secret-of-being-happier)
+
+Anyone who says they have a "simple secret" to anything immediately flags my snake oil detector. I think there are as many "get-happy-quick" schemes as "get-rich-quick" schemes. "When I was 10 years old, things started shifting between my parents and not for the better. One day, they called a family meeting... they told us that we'd be moving from our little log cabin in northern British…
+
 - [Drugs Brains And Behavior The Science Of Addiction](/recovery/literature/presentations/drugs-brains-and-behavior-the-science-of-addiction)
+
+https://www.drugsandalcohol.ie/13597/8/NIDADrugsBrains_Behavior.pdf
 
 ## Pages
 
@@ -87,3 +92,5 @@ html {
 ### D
 
 - [Drugs Brains And Behavior The Science Of Addiction](/recovery/literature/presentations/drugs-brains-and-behavior-the-science-of-addiction)
+
+https://www.drugsandalcohol.ie/13597/8/NIDADrugsBrains_Behavior.pdf

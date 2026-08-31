@@ -17,25 +17,66 @@ title: United States
 ## Recently Modified
 
 - [Onpoint Nyc](/recovery/organizations/activists-advocacy-and-aid/united-states/new-york/onpoint-nyc)
+
+https://onpointnyc.org/
+
 - [Phoenix House Foundation](/recovery/organizations/activists-advocacy-and-aid/united-states/phoenix-house-foundation)
+
+From 1967 to 2019, the Phoenix House Foundation was a nonprofit that offered alcohol rehabilitation throughout the United States. It adopted several methods from Synanon, a very controversial group that became something of a cult. The documentary Born in Synanon goes into detailed interviews with its members, including children born and raised according to the program's leaders. The Phoenix House…
+
 - [Robert Deforde](/recovery/organizations/activists-advocacy-and-aid/united-states/robert-deforde)
+
+Robert DeForde works with an organization called Shatterproof which works to convince medical professionals that addiction is worth treating through online and in-person trainings. https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths
+
 - [Students Against Driving Drunk](/recovery/organizations/activists-advocacy-and-aid/united-states/students-against-driving-drunk)
+
 - [Federation Of State Medical Boards](/recovery/organizations/activists-advocacy-and-aid/united-states/federation-of-state-medical-boards)
+
 - [Office For Victims Of Crime](/recovery/organizations/activists-advocacy-and-aid/united-states/office-for-victims-of-crime)
+
 - [Mothers Against Drunk Driving](/recovery/organizations/activists-advocacy-and-aid/united-states/mothers-against-drunk-driving)
+
 - [Coalition For Cannabis Policy Education And Regulation](/recovery/organizations/activists-advocacy-and-aid/united-states/coalition-for-cannabis-policy-education-and-regulation)
+
 - [Washington Temperance Society](/recovery/organizations/activists-advocacy-and-aid/united-states/washington-temperance-society)
+
+At one point, more than a tenth of Baltimore's population and seven percent of New York City's population were part of the Washington Temperance Society, or the Washingtonians. By 1847, most of the societies had collapsed and become inactive.
+
 - [Good Samaritans](/recovery/organizations/activists-advocacy-and-aid/united-states/good-samaritans)
+
 - [The Temple Of Honor](/recovery/organizations/activists-advocacy-and-aid/united-states/the-temple-of-honor)
+
 - [Sons Of Temperance](/recovery/organizations/activists-advocacy-and-aid/united-states/sons-of-temperance)
+
 - [Alabama Alliance For Recovery Residences](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/alabama-alliance-for-recovery-residences)
+
+https://alrad.info/aarr
+
 - [American Temperance Society](/recovery/organizations/activists-advocacy-and-aid/united-states/american-temperance-society)
+
 - [National Alliance For Recovery Residences](/recovery/organizations/activists-advocacy-and-aid/united-states/national-alliance-for-recovery-residences)
+
+https://narronline.org/
+
 - [Rural Addiction Prevention](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/rural-addiction-prevention)
+
+https://www.rapnow.org/
+
 - [Vital Alabama](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/vital-alabama)
+
+https://vitalalabama.com/
+
 - [Addiction Prevention Coalition](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/addiction-prevention-coalition)
+
+https://apcbham.org/
+
 - [Wings Across Alabama](/recovery/organizations/activists-advocacy-and-aid/united-states/alabama/wings-across-alabama)
+
+https://wingsacrossal.org/about-us/
+
 - [Recovery Advocacy Project](/recovery/organizations/activists-advocacy-and-aid/united-states/recovery-advocacy-project)
+
+https://recoveryvoices.com/
 
 ## Pages
 
@@ -113,17 +154,28 @@ html {
 ### A
 
 - [Advocates For Opiod Recovery](/recovery/organizations/activists-advocacy-and-aid/united-states/advocates-for-opiod-recovery)
+
 - [Against The Stream](/recovery/organizations/activists-advocacy-and-aid/united-states/against-the-stream)
+
 - [Alliance For Recovery Centered Organizations Arco](/recovery/organizations/activists-advocacy-and-aid/united-states/alliance-for-recovery-centered-organizations-arco)
+
 - [American Association For The Treatment O](/recovery/organizations/activists-advocacy-and-aid/united-states/american-association-for-the-treatment-o)
+
 - [American Heart Association](/recovery/organizations/activists-advocacy-and-aid/united-states/american-heart-association)
+
 - [American Mental Wellness Association](/recovery/organizations/activists-advocacy-and-aid/united-states/american-mental-wellness-association)
+
+https://www.americanmentalwellness.org/about/
+
 - [American Temperance Society](/recovery/organizations/activists-advocacy-and-aid/united-states/american-temperance-society)
 
 <a id="letter-c"></a>
 ### C
 
 - [Center For Addiction Recovery Support](/recovery/organizations/activists-advocacy-and-aid/united-states/center-for-addiction-recovery-support)
+
+https://www.carsrecovery.org/directory-of-peer-recovery-organizations
+
 - [Coalition For Cannabis Policy Education And Regulation](/recovery/organizations/activists-advocacy-and-aid/united-states/coalition-for-cannabis-policy-education-and-regulation)
 
 <a id="letter-f"></a>
@@ -146,6 +198,8 @@ html {
 
 - [National Alliance For Recovery Residences](/recovery/organizations/activists-advocacy-and-aid/united-states/national-alliance-for-recovery-residences)
 
+https://narronline.org/
+
 <a id="letter-o"></a>
 ### O
 
@@ -156,18 +210,32 @@ html {
 
 - [Phoenix House Foundation](/recovery/organizations/activists-advocacy-and-aid/united-states/phoenix-house-foundation)
 
+From 1967 to 2019, the Phoenix House Foundation was a nonprofit that offered alcohol rehabilitation throughout the United States. It adopted several methods from Synanon, a very controversial group that became something of a cult. The documentary Born in Synanon goes into detailed interviews with its members, including children born and raised according to the program's leaders. The Phoenix House…
+
 <a id="letter-r"></a>
 ### R
 
 - [Recovery Advocacy Project](/recovery/organizations/activists-advocacy-and-aid/united-states/recovery-advocacy-project)
+
+https://recoveryvoices.com/
+
 - [Robert Deforde](/recovery/organizations/activists-advocacy-and-aid/united-states/robert-deforde)
+
+Robert DeForde works with an organization called Shatterproof which works to convince medical professionals that addiction is worth treating through online and in-person trainings. https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths
 
 <a id="letter-s"></a>
 ### S
 
 - [Shatterproof](/recovery/organizations/activists-advocacy-and-aid/united-states/shatterproof)
+
+https://fundraise.shatterproof.org/shatterproof-walk
+
 - [Sons Of Temperance](/recovery/organizations/activists-advocacy-and-aid/united-states/sons-of-temperance)
+
 - [Stop The Addiction Fatality Epidemic](/recovery/organizations/activists-advocacy-and-aid/united-states/stop-the-addiction-fatality-epidemic)
+
+https://www.safeproject.us/
+
 - [Students Against Driving Drunk](/recovery/organizations/activists-advocacy-and-aid/united-states/students-against-driving-drunk)
 
 <a id="letter-t"></a>
@@ -180,7 +248,11 @@ html {
 
 - [Us Conference Of Mayors Substance Use Di](/recovery/organizations/activists-advocacy-and-aid/united-states/us-conference-of-mayors-substance-use-di)
 
+https://www.usmayors.org/the-conference/committees-and-task-forces/
+
 <a id="letter-w"></a>
 ### W
 
 - [Washington Temperance Society](/recovery/organizations/activists-advocacy-and-aid/united-states/washington-temperance-society)
+
+At one point, more than a tenth of Baltimore's population and seven percent of New York City's population were part of the Washington Temperance Society, or the Washingtonians. By 1847, most of the societies had collapsed and become inactive.

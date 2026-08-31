@@ -5,24 +5,45 @@ title: Alcoholics Anonymous
 ## Recently Modified
 
 - [Ada Halbeirch](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/ada-halbeirch)
+
 - [Anne Bingham](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/anne-bingham)
+
 - [Anne Smith](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/anne-smith)
+
 - [Barry Leach](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/barry-leach)
+
 - [Bernard Smith](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/bernard-smith)
+
 - [Charlie Polacheck](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/charlie-polacheck)
+
 - [Chuck K](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/chuck-k)
+
 - [Clarence Snyder](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/clarence-snyder)
+
 - [Devoe Bingham](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/devoe-bingham)
+
 - [Don Wilson](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/don-wilson)
+
 - [Dr Bob Smith](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/dr-bob-smith)
+
 - [Henrietta Seiberling](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/henrietta-seiberling)
+
 - [Henry Hellmuth](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/henry-hellmuth)
+
 - [Jim Burwell](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/jim-burwell)
+
+Jim Burwell was the resident atheist at Bill's meetings and is often called the third founder of AA.
+
 - [John K](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/john-k)
+
 - [John Yablon](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/john-yablon)
+
 - [Nell Wing](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/nell-wing)
+
 - [Phyllis York](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/phyllis-york)
+
 - [Rowland Hazard Iii](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/rowland-hazard-iii)
+
 - [Sister Ignatia Gavin](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/sister-ignatia-gavin)
 
 ## Pages
@@ -101,41 +122,54 @@ html {
 ### A
 
 - [Ada Halbeirch](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/ada-halbeirch)
+
 - [Angeliska Polacheck](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/angeliska-polacheck)
+
 - [Anne Bingham](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/anne-bingham)
+
 - [Anne Smith](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/anne-smith)
 
 <a id="letter-b"></a>
 ### B
 
 - [Barry Leach](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/barry-leach)
+
 - [Bernard Smith](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/bernard-smith)
 
 <a id="letter-c"></a>
 ### C
 
 - [Charlie Polacheck](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/charlie-polacheck)
+
 - [Chuck K](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/chuck-k)
+
 - [Clarence Snyder](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/clarence-snyder)
 
 <a id="letter-d"></a>
 ### D
 
 - [Devoe Bingham](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/devoe-bingham)
+
 - [Don Wilson](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/don-wilson)
+
 - [Dr Bob Smith](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/dr-bob-smith)
 
 <a id="letter-h"></a>
 ### H
 
 - [Henrietta Seiberling](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/henrietta-seiberling)
+
 - [Henry Hellmuth](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/henry-hellmuth)
 
 <a id="letter-j"></a>
 ### J
 
 - [Jim Burwell](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/jim-burwell)
+
+Jim Burwell was the resident atheist at Bill's meetings and is often called the third founder of AA.
+
 - [John K](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/john-k)
+
 - [John Yablon](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/john-yablon)
 
 <a id="letter-l"></a>
@@ -147,12 +181,14 @@ html {
 ### M
 
 - [Marty Mann](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/marty-mann)
+
 - [Megan D](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/megan-d)
 
 <a id="letter-n"></a>
 ### N
 
 - [Nell Wing](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/nell-wing)
+
 - [Nick H](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/nick-h)
 
 <a id="letter-p"></a>
@@ -169,6 +205,7 @@ html {
 ### S
 
 - [Shawn M](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/shawn-m)
+
 - [Sister Ignatia Gavin](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/sister-ignatia-gavin)
 
 <a id="letter-t"></a>
@@ -180,4 +217,5 @@ html {
 ### W
 
 - [William Duncan Silkworth](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/william-duncan-silkworth)
+
 - [William Wilson](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/alcoholics-anonymous/william-wilson)

@@ -5,7 +5,12 @@ title: Executive
 ## Recently Modified
 
 - [Evive Summit](/recovery/events/conferences/executive/evive-summit)
+
+The Evive Summit is a specialized conference for business development and networking among owners and executives of treatment centers, especially with B2B vendors. Organized by Powwow Events, it tends to be scheduled alongside EDGE, a similar summit that focuses on Applied Behavioral Analysis (ABA) for children and adolescents. This makes it easier for executives and owners to…
+
 - [Addiction Leadership Conference](/recovery/events/conferences/executive/addiction-leadership-conference)
+
+Hosted by the National Association of Addiction Treatment Providers (NAATP), the Addiction Leadership Conference (ALC) focuses on gathering executives, owners, marketers, and directors to discuss national substance use disorder treatment standards. In the late 1970s, California program directors were discussing the lack of public and political representation for nonprofit treatment programs in…
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Addiction Leadership Conference](/recovery/events/conferences/executive/addiction-leadership-conference)
 
+Hosted by the National Association of Addiction Treatment Providers (NAATP), the Addiction Leadership Conference (ALC) focuses on gathering executives, owners, marketers, and directors to discuss national substance use disorder treatment standards. In the late 1970s, California program directors were discussing the lack of public and political representation for nonprofit treatment programs in…
+
 <a id="letter-e"></a>
 ### E
 
 - [Evive Summit](/recovery/events/conferences/executive/evive-summit)
+
+The Evive Summit is a specialized conference for business development and networking among owners and executives of treatment centers, especially with B2B vendors. Organized by Powwow Events, it tends to be scheduled alongside EDGE, a similar summit that focuses on Applied Behavioral Analysis (ABA) for children and adolescents. This makes it easier for executives and owners to…

@@ -5,7 +5,12 @@ title: Corporate
 ## Recently Modified
 
 - [Cbs](/recovery/organizations/media/corporate/cbs)
+
+August 2026 https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "In a recent interview with CBS News, OnPoint NYC Executive Director Sam Rivera said his team has intervened in more than 2,100 overdoses with no fatalities, and has more than 7,000 registered participants who have used the facility's services 250,000 times since it opened in 2021. '250,000 times people used…
+
 - [The Atlantic](/recovery/organizations/media/corporate/the-atlantic)
+
+https://www.theatlantic.com/magazine/2026/09/city-drug-addiction-harm-reduction-policy/687967/
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Cbs](/recovery/organizations/media/corporate/cbs)
 
+August 2026 https://www.cbsnews.com/news/nyc-drug-addiction-onpoint-harm-reduction/ "In a recent interview with CBS News, OnPoint NYC Executive Director Sam Rivera said his team has intervened in more than 2,100 overdoses with no fatalities, and has more than 7,000 registered participants who have used the facility's services 250,000 times since it opened in 2021. '250,000 times people used…
+
 <a id="letter-t"></a>
 ### T
 
 - [The Atlantic](/recovery/organizations/media/corporate/the-atlantic)
+
+https://www.theatlantic.com/magazine/2026/09/city-drug-addiction-harm-reduction-policy/687967/

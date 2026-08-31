@@ -5,7 +5,12 @@ title: Neurodivergence
 ## Recently Modified
 
 - [We Recover Loudly Podcast](/recovery/media/podcasts/human-interest/neurodivergence/we-recover-loudly-podcast)
+
+https://open.spotify.com/show/24OFDBpIuItcOScVuGUDqg
+
 - [Neurospicy Sober](/recovery/media/podcasts/human-interest/neurodivergence/neurospicy-sober)
+
+https://open.spotify.com/show/70jUQyDhYnCTg3WbbmAopF
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Neurospicy Sober](/recovery/media/podcasts/human-interest/neurodivergence/neurospicy-sober)
 
+https://open.spotify.com/show/70jUQyDhYnCTg3WbbmAopF
+
 <a id="letter-w"></a>
 ### W
 
 - [We Recover Loudly Podcast](/recovery/media/podcasts/human-interest/neurodivergence/we-recover-loudly-podcast)
+
+https://open.spotify.com/show/24OFDBpIuItcOScVuGUDqg

@@ -6,6 +6,8 @@ title: Art
 
 - [Fallen Angels Dance Theatre](/recovery/organizations/art/fallen-angels-dance-theatre)
 
+Founded in 2011 by Paul Bayes Kitcher and Claire Morris, Fallen Angels Dance Theatre is a dance company in the United Kingdom dedicated to dancers in recovery. According to their website, they are the only company in the UK with their mission. https://fallenangelsdt.org/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### F
 
 - [Fallen Angels Dance Theatre](/recovery/organizations/art/fallen-angels-dance-theatre)
+
+Founded in 2011 by Paul Bayes Kitcher and Claire Morris, Fallen Angels Dance Theatre is a dance company in the United Kingdom dedicated to dancers in recovery. According to their website, they are the only company in the UK with their mission. https://fallenangelsdt.org/

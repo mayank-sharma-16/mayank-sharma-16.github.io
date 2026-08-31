@@ -6,6 +6,8 @@ title: Indie
 
 - [Aaron Strand](/recovery/people/celebrities-and-influencers/directors/indie/aaron-strand)
 
+Director of Withdrawal (2025), a movie shaped by Aaron Strand's experiences with addiction and recovery himself.
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### A
 
 - [Aaron Strand](/recovery/people/celebrities-and-influencers/directors/indie/aaron-strand)
+
+Director of Withdrawal (2025), a movie shaped by Aaron Strand's experiences with addiction and recovery himself.

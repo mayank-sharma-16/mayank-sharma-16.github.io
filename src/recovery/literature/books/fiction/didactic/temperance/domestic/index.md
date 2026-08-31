@@ -6,6 +6,8 @@ title: Domestic
 
 - [The Glass Or The Trials Of Helen More By Maria Lamas 1849](/recovery/literature/books/fiction/didactic/temperance/domestic/the-glass-or-the-trials-of-helen-more-by-maria-lamas-1849)
 
+Some scholars argue that "Maria Lamas" is likely a pseudonym used by a female author in order to publish a work that would otherwise be seen as too transgressive or gruesome for a woman to write. The titular female protagonist, Helen More, is a woman born into a wealthy family and constrained by both patriarchal institutions and the influence of alcohol on herself and the men in her life. Rather…
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### T
 
 - [The Glass Or The Trials Of Helen More By Maria Lamas 1849](/recovery/literature/books/fiction/didactic/temperance/domestic/the-glass-or-the-trials-of-helen-more-by-maria-lamas-1849)
+
+Some scholars argue that "Maria Lamas" is likely a pseudonym used by a female author in order to publish a work that would otherwise be seen as too transgressive or gruesome for a woman to write. The titular female protagonist, Helen More, is a woman born into a wealthy family and constrained by both patriarchal institutions and the influence of alcohol on herself and the men in her life. Rather…

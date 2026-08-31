@@ -5,6 +5,7 @@ title: 1500 1600
 ## Recently Modified
 
 - [Robert Burton](/recovery/people/artists/writers/1500-1600/robert-burton)
+
 - [John Frith](/recovery/people/artists/writers/1500-1600/john-frith)
 
 ## Pages

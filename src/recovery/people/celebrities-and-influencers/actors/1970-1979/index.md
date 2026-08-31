@@ -5,15 +5,25 @@ title: 1970 1979
 ## Recently Modified
 
 - [Heath Ledger](/recovery/people/celebrities-and-influencers/actors/1970-1979/heath-ledger)
+
 - [Rob Delaney](/recovery/people/celebrities-and-influencers/actors/1970-1979/rob-delaney)
+
 - [Dax Shepard](/recovery/people/celebrities-and-influencers/actors/1970-1979/dax-shepard)
+
 - [Tom Hardy](/recovery/people/celebrities-and-influencers/actors/1970-1979/tom-hardy)
+
 - [Ewan Mcgregor](/recovery/people/celebrities-and-influencers/actors/1970-1979/ewan-mcgregor)
+
 - [Tobey Maguire](/recovery/people/celebrities-and-influencers/actors/1970-1979/tobey-maguire)
+
 - [Colin Farrell](/recovery/people/celebrities-and-influencers/actors/1970-1979/colin-farrell)
+
 - [River Phoenix](/recovery/people/celebrities-and-influencers/actors/1970-1979/river-phoenix)
+
 - [Jon Hamm](/recovery/people/celebrities-and-influencers/actors/1970-1979/jon-hamm)
+
 - [Bradley Cooper](/recovery/people/celebrities-and-influencers/actors/1970-1979/bradley-cooper)
+
 - [Ben Affleck](/recovery/people/celebrities-and-influencers/actors/1970-1979/ben-affleck)
 
 ## Pages
@@ -92,6 +102,7 @@ html {
 ### B
 
 - [Ben Affleck](/recovery/people/celebrities-and-influencers/actors/1970-1979/ben-affleck)
+
 - [Bradley Cooper](/recovery/people/celebrities-and-influencers/actors/1970-1979/bradley-cooper)
 
 <a id="letter-c"></a>
@@ -123,10 +134,12 @@ html {
 ### R
 
 - [River Phoenix](/recovery/people/celebrities-and-influencers/actors/1970-1979/river-phoenix)
+
 - [Rob Delaney](/recovery/people/celebrities-and-influencers/actors/1970-1979/rob-delaney)
 
 <a id="letter-t"></a>
 ### T
 
 - [Tobey Maguire](/recovery/people/celebrities-and-influencers/actors/1970-1979/tobey-maguire)
+
 - [Tom Hardy](/recovery/people/celebrities-and-influencers/actors/1970-1979/tom-hardy)

@@ -5,7 +5,12 @@ title: 1880 1889
 ## Recently Modified
 
 - [Uber Coca On Cocaine 1884](/recovery/literature/books/non-fiction/monographs/1880-1889/uber-coca-on-cocaine-1884)
+
+In English, "On Cocaine", and to answer your questions: yes, Freud wrote "On Cocaine" while on cocaine.
+
 - [Opium Smoking In America And China 1882](/recovery/literature/books/non-fiction/monographs/1880-1889/opium-smoking-in-america-and-china-1882)
+
+"Much, too, was gathered from two smokers whom I subsequently had under treatment, and a number of the American smokers, male and female, in this city, and some from California and Nevada, who have kindly come to my house to smoke, thus affording me unusual facilities for studying the effects of the drug, when thus used, on different individuals and upon the various systems, organs, and…
 
 ## Pages
 
@@ -84,7 +89,11 @@ html {
 
 - [Opium Smoking In America And China 1882](/recovery/literature/books/non-fiction/monographs/1880-1889/opium-smoking-in-america-and-china-1882)
 
+"Much, too, was gathered from two smokers whom I subsequently had under treatment, and a number of the American smokers, male and female, in this city, and some from California and Nevada, who have kindly come to my house to smoke, thus affording me unusual facilities for studying the effects of the drug, when thus used, on different individuals and upon the various systems, organs, and…
+
 <a id="letter-u"></a>
 ### U
 
 - [Uber Coca On Cocaine 1884](/recovery/literature/books/non-fiction/monographs/1880-1889/uber-coca-on-cocaine-1884)
+
+In English, "On Cocaine", and to answer your questions: yes, Freud wrote "On Cocaine" while on cocaine.

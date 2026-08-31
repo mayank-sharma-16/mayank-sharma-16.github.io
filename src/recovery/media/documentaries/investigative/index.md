@@ -5,8 +5,13 @@ title: Investigative
 ## Recently Modified
 
 - [Moyers On Addiction Close To Home 1998](/recovery/media/documentaries/investigative/moyers-on-addiction-close-to-home-1998)
+
+A 5 part documentary series aired in 1998 and produced by Bill Moyers after his son William Cope Moyers finally maintained abstinence in 1994.
+
 - [48 Hours On Crack Street 1986](/recovery/media/documentaries/investigative/48-hours-on-crack-street-1986)
+
 - [The Crime Of The Century](/recovery/media/documentaries/investigative/the-crime-of-the-century)
+
 - [The Pharmacist](/recovery/media/documentaries/investigative/the-pharmacist)
 
 ## Pages
@@ -92,8 +97,11 @@ html {
 
 - [Moyers On Addiction Close To Home 1998](/recovery/media/documentaries/investigative/moyers-on-addiction-close-to-home-1998)
 
+A 5 part documentary series aired in 1998 and produced by Bill Moyers after his son William Cope Moyers finally maintained abstinence in 1994.
+
 <a id="letter-t"></a>
 ### T
 
 - [The Crime Of The Century](/recovery/media/documentaries/investigative/the-crime-of-the-century)
+
 - [The Pharmacist](/recovery/media/documentaries/investigative/the-pharmacist)

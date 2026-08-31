@@ -6,6 +6,8 @@ title: New York
 
 - [Lawrence Coleman Kolb](/recovery/people/politicians-and-policymakers/united-states/new-york/lawrence-coleman-kolb)
 
+The New York State Commissioner of Mental Hygiene from 1975 to 1978
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### L
 
 - [Lawrence Coleman Kolb](/recovery/people/politicians-and-policymakers/united-states/new-york/lawrence-coleman-kolb)
+
+The New York State Commissioner of Mental Hygiene from 1975 to 1978

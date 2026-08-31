@@ -5,9 +5,13 @@ title: Depressive Disorders
 ## Recently Modified
 
 - [Premenstrual Dysphoric Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/depressive-disorders/premenstrual-dysphoric-disorder)
+
 - [Disruptive Mood Dysregulation Disorder Dmdd](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/depressive-disorders/disruptive-mood-dysregulation-disorder-dmdd)
+
 - [Persistent Depressive Disorder Dysthymia](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/depressive-disorders/persistent-depressive-disorder-dysthymia)
+
 - [Seasonal Affective Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/depressive-disorders/seasonal-affective-disorder)
+
 - [Major Depressive Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/depressive-disorders/major-depressive-disorder)
 
 ## Pages
@@ -96,6 +100,7 @@ html {
 ### P
 
 - [Persistent Depressive Disorder Dysthymia](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/depressive-disorders/persistent-depressive-disorder-dysthymia)
+
 - [Premenstrual Dysphoric Disorder](/recovery/treatment/diseases-disorders-and-disabilities/psychiatric-and-psychological/emotional-and-mood/depressive-disorders/premenstrual-dysphoric-disorder)
 
 <a id="letter-s"></a>

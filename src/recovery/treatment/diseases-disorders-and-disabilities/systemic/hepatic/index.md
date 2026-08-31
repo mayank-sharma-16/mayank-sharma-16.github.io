@@ -5,7 +5,9 @@ title: Hepatic
 ## Recently Modified
 
 - [Cirrhosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/hepatic/cirrhosis)
+
 - [Fatty Liver Disease Steatosis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/hepatic/fatty-liver-disease-steatosis)
+
 - [Hepatitis](/recovery/treatment/diseases-disorders-and-disabilities/systemic/hepatic/hepatitis)
 
 ## Pages

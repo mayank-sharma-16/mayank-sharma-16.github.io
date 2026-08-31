@@ -6,6 +6,8 @@ title: Indiana
 
 - [Sober Joe](/recovery/marketplace/food-and-drinks/coffee/indiana/sober-joe)
 
+https://www.soberjoe.com/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### S
 
 - [Sober Joe](/recovery/marketplace/food-and-drinks/coffee/indiana/sober-joe)
+
+https://www.soberjoe.com/

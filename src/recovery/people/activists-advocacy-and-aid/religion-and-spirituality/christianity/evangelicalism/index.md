@@ -5,6 +5,7 @@ title: Evangelicalism
 ## Recently Modified
 
 - [John Baker](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/evangelicalism/john-baker)
+
 - [Rick Warren](/recovery/people/activists-advocacy-and-aid/religion-and-spirituality/christianity/evangelicalism/rick-warren)
 
 ## Pages

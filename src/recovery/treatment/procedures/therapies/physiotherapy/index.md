@@ -6,6 +6,8 @@ title: Physiotherapy
 
 - [Kogun](/recovery/treatment/procedures/therapies/physiotherapy/kogun)
 
+Long-distance walking therapy
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### K
 
 - [Kogun](/recovery/treatment/procedures/therapies/physiotherapy/kogun)
+
+Long-distance walking therapy

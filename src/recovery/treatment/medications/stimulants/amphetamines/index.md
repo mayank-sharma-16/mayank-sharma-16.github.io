@@ -5,12 +5,19 @@ title: Amphetamines
 ## Recently Modified
 
 - [Desoxyn](/recovery/treatment/medications/stimulants/amphetamines/desoxyn)
+
 - [Vyvanse](/recovery/treatment/medications/stimulants/amphetamines/vyvanse)
+
 - [Zenzedi](/recovery/treatment/medications/stimulants/amphetamines/zenzedi)
+
 - [Dexedrine](/recovery/treatment/medications/stimulants/amphetamines/dexedrine)
+
 - [Mydayis](/recovery/treatment/medications/stimulants/amphetamines/mydayis)
+
 - [Adzenys](/recovery/treatment/medications/stimulants/amphetamines/adzenys)
+
 - [Evekeo](/recovery/treatment/medications/stimulants/amphetamines/evekeo)
+
 - [Adderall](/recovery/treatment/medications/stimulants/amphetamines/adderall)
 
 ## Pages
@@ -89,12 +96,14 @@ html {
 ### A
 
 - [Adderall](/recovery/treatment/medications/stimulants/amphetamines/adderall)
+
 - [Adzenys](/recovery/treatment/medications/stimulants/amphetamines/adzenys)
 
 <a id="letter-d"></a>
 ### D
 
 - [Desoxyn](/recovery/treatment/medications/stimulants/amphetamines/desoxyn)
+
 - [Dexedrine](/recovery/treatment/medications/stimulants/amphetamines/dexedrine)
 
 <a id="letter-e"></a>

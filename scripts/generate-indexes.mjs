@@ -25,6 +25,380 @@ function parseFrontmatter(filePath) {
   return result;
 }
 
+/**
+ * Generate a plain-text preview of a Markdown/Quartz page.
+ *
+ * - Removes YAML frontmatter.
+ * - Removes headings completely, including heading text.
+ * - Removes fenced code blocks.
+ * - Removes HTML.
+ * - Removes images.
+ * - Converts standard Markdown links to visible text.
+ * - Converts Quartz wikilinks to their visible text.
+ * - Removes blockquote/list markers.
+ * - Removes task-list markers.
+ * - Removes inline code formatting.
+ * - Removes bold/italic/strikethrough formatting.
+ * - Removes horizontal rules.
+ * - Removes escaped Markdown syntax.
+ * - Normalizes whitespace.
+ * - Truncates to 150 characters.
+ * - Adds an ellipsis when truncated.
+ */
+function getPreview(filePath, limit = 400) {
+  let content = fs.readFileSync(filePath, "utf8");
+
+  /*
+   * ============================================================
+   * REMOVE FRONTMATTER
+   * ============================================================
+   */
+  if (content.startsWith("---")) {
+    const end = content.indexOf("\n---", 3);
+
+    if (end !== -1) {
+      content = content.slice(end + 4);
+    }
+  }
+
+  /*
+   * ============================================================
+   * REMOVE FENCED CODE BLOCKS
+   * ============================================================
+   *
+   * Removes entire ```...``` blocks from the preview.
+   */
+  content = content.replace(/```[\s\S]*?```/g, "");
+
+  /*
+   * Also remove ~~~ fenced code blocks.
+   */
+  content = content.replace(/~~~[\s\S]*?~~~/g, "");
+
+  /*
+   * ============================================================
+   * REMOVE ATX HEADINGS
+   * ============================================================
+   *
+   * Removes the ENTIRE heading line, including the heading text.
+   *
+   * # Overview
+   * ## Installation
+   * ### Getting Started
+   *
+   * All become nothing.
+   */
+  content = content.replace(
+    /^\s{0,3}#{1,6}(?:\s+.*)?$/gm,
+    "",
+  );
+
+  /*
+   * ============================================================
+   * REMOVE SETEXT HEADINGS
+   * ============================================================
+   *
+   * Removes headings such as:
+   *
+   * Overview
+   * ========
+   *
+   * Installation
+   * ------------
+   */
+  content = content.replace(
+    /^(.+)\r?\n\s*(?:=+|-+)\s*$/gm,
+    "",
+  );
+
+  /*
+   * ============================================================
+   * REMOVE HTML
+   * ============================================================
+   */
+  content = content.replace(/<[^>]*>/g, "");
+
+  /*
+   * ============================================================
+   * REMOVE IMAGES
+   * ============================================================
+   *
+   * ![alt text](image.jpg) -> ""
+   * ![alt text][image-reference] -> ""
+   */
+  content = content.replace(
+    /!\[[^\]]*\]\([^)]*\)/g,
+    "",
+  );
+
+  content = content.replace(
+    /!\[[^\]]*\]\[[^\]]*\]/g,
+    "",
+  );
+
+  /*
+   * ============================================================
+   * QUARTZ WIKILINKS
+   * ============================================================
+   *
+   * [[some-page|Visible Text]]
+   *     -> Visible Text
+   *
+   * [[some-page]]
+   *     -> some-page
+   *
+   * Quartz also supports an optional #section or ^block
+   * component in the target:
+   *
+   * [[some-page#section|Visible Text]]
+   *     -> Visible Text
+   *
+   * [[some-page#section]]
+   *     -> some-page
+   *
+   * The actual preview is plain text, so the link target
+   * itself is intentionally discarded when display text
+   * is provided.
+   */
+  content = content.replace(
+    /\[\[([^|\]]+)\|([^\]]+)\]\]/g,
+    "$2",
+  );
+
+  content = content.replace(
+    /\[\[([^\]]+)\]\]/g,
+    "$1",
+  );
+
+  /*
+   * ============================================================
+   * STANDARD MARKDOWN LINKS
+   * ============================================================
+   *
+   * [Link text](url) -> Link text
+   */
+  content = content.replace(
+    /\[([^\]]+)\]\([^)]*\)/g,
+    "$1",
+  );
+
+  /*
+   * Reference-style links:
+   *
+   * [Link text][reference] -> Link text
+   */
+  content = content.replace(
+    /\[([^\]]+)\]\[[^\]]*\]/g,
+    "$1",
+  );
+
+  /*
+   * ============================================================
+   * AUTOLINKS
+   * ============================================================
+   *
+   * <https://example.com> -> https://example.com
+   */
+  content = content.replace(
+    /<((?:https?:\/\/|mailto:)[^>]+)>/g,
+    "$1",
+  );
+
+  /*
+   * ============================================================
+   * BLOCKQUOTES
+   * ============================================================
+   *
+   * > quoted text -> quoted text
+   */
+  content = content.replace(
+    /^\s{0,3}>\s?/gm,
+    "",
+  );
+
+  /*
+   * ============================================================
+   * LIST MARKERS
+   * ============================================================
+   *
+   * - Item -> Item
+   * * Item -> Item
+   * + Item -> Item
+   * 1. Item -> Item
+   * 1) Item -> Item
+   */
+  content = content.replace(
+    /^\s*[-*+]\s+/gm,
+    "",
+  );
+
+  content = content.replace(
+    /^\s*\d+[.)]\s+/gm,
+    "",
+  );
+
+  /*
+   * ============================================================
+   * TASK-LIST MARKERS
+   * ============================================================
+   *
+   * [x] Complete -> Complete
+   * [ ] Todo -> Todo
+   */
+  content = content.replace(
+    /\[[ xX]\]\s+/g,
+    "",
+  );
+
+  /*
+   * ============================================================
+   * TABLE SYNTAX
+   * ============================================================
+   *
+   * Remove Markdown table separator rows.
+   */
+  content = content.replace(
+    /^\s*\|?(?:\s*:?-+:?\s*\|)+\s*$/gm,
+    "",
+  );
+
+  /*
+   * Replace remaining table separators with spaces.
+   */
+  content = content.replace(/\|/g, " ");
+
+  /*
+   * ============================================================
+   * INLINE CODE
+   * ============================================================
+   *
+   * `some code` -> some code
+   */
+  content = content.replace(
+    /`([^`]+)`/g,
+    "$1",
+  );
+
+  /*
+   * ============================================================
+   * BOLD / ITALIC / STRIKETHROUGH
+   * ============================================================
+   *
+   * **bold** -> bold
+   * __bold__ -> bold
+   * *italic* -> italic
+   * _italic_ -> italic
+   * ~~strikethrough~~ -> strikethrough
+   */
+  content = content.replace(
+    /(\*\*|__)(.*?)\1/g,
+    "$2",
+  );
+
+  content = content.replace(
+    /~~(.*?)~~/g,
+    "$1",
+  );
+
+  content = content.replace(
+    /(\*|_)(.*?)\1/g,
+    "$2",
+  );
+
+  /*
+   * ============================================================
+   * HORIZONTAL RULES
+   * ============================================================
+   */
+  content = content.replace(
+    /^\s*([-*_])(?:\s*\1){2,}\s*$/gm,
+    "",
+  );
+
+  /*
+   * ============================================================
+   * FOOTNOTES
+   * ============================================================
+   *
+   * [^1]: Footnote definition
+   */
+  content = content.replace(
+    /^\s*\[\^[^\]]+\]:.*$/gm,
+    "",
+  );
+
+  /*
+   * Remove footnote references.
+   */
+  content = content.replace(
+    /\[\^[^\]]+\]/g,
+    "",
+  );
+
+  /*
+   * ============================================================
+   * REFERENCE DEFINITIONS
+   * ============================================================
+   *
+   * [reference]: https://example.com
+   */
+  content = content.replace(
+    /^\s*\[[^\]]+\]:\s+\S+.*$/gm,
+    "",
+  );
+
+  /*
+   * ============================================================
+   * ESCAPED MARKDOWN CHARACTERS
+   * ============================================================
+   *
+   * \* -> *
+   * \_ -> _
+   * \[ -> [
+   */
+  content = content.replace(
+    /\\([\\`*_[\]{}()#+.!>~-])/g,
+    "$1",
+  );
+
+  /*
+   * ============================================================
+   * NORMALIZE WHITESPACE
+   * ============================================================
+   */
+  content = content
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!content) {
+    return "";
+  }
+
+  /*
+   * ============================================================
+   * TRUNCATE
+   * ============================================================
+   */
+  if (content.length <= limit) {
+    return content;
+  }
+
+  let preview = content.slice(0, limit);
+
+  /*
+   * Avoid cutting a word in half where possible.
+   *
+   * Only use the previous space if it isn't too far back.
+   */
+  const lastSpace = preview.lastIndexOf(" ");
+
+  if (lastSpace > limit * 0.75) {
+    preview = preview.slice(0, lastSpace);
+  }
+
+  return `${preview.trim()}…`;
+}
+
 function slugify(value) {
   return value
     .replace(/\.md$/i, "")
@@ -38,22 +412,36 @@ function slugify(value) {
 // URL is ALWAYS derived from the filesystem.
 // Frontmatter permalink/slug is deliberately ignored.
 function getPageUrl(filePath) {
-  const relativePath = path.relative(CONTENT_ROOT, filePath);
+  const relativePath = path.relative(
+    CONTENT_ROOT,
+    filePath,
+  );
 
   const parts = relativePath
     .split(path.sep)
     .filter(Boolean);
 
   // index.md represents its containing directory.
-  if (parts.at(-1)?.toLowerCase() === "index.md") {
+  if (
+    parts.at(-1)?.toLowerCase() === "index.md"
+  ) {
     parts.pop();
   }
 
-  return "/" + parts.map(slugify).filter(Boolean).join("/");
+  return (
+    "/" +
+    parts
+      .map(slugify)
+      .filter(Boolean)
+      .join("/")
+  );
 }
 
 function getDirectoryUrl(directory) {
-  const relativePath = path.relative(CONTENT_ROOT, directory);
+  const relativePath = path.relative(
+    CONTENT_ROOT,
+    directory,
+  );
 
   if (!relativePath) return "/";
 
@@ -76,16 +464,25 @@ function getTitle(filePath) {
   }
 
   return path
-    .basename(filePath, path.extname(filePath))
+    .basename(
+      filePath,
+      path.extname(filePath),
+    )
     .replace(/[-_]+/g, " ")
-    .replace(/\b\w/g, (c) => c.toUpperCase());
+    .replace(/\b\w/g, (c) =>
+      c.toUpperCase(),
+    );
 }
 
 function getDirectoryTitle(directory) {
-  const indexPath = path.join(directory, "index.md");
+  const indexPath = path.join(
+    directory,
+    "index.md",
+  );
 
   if (fs.existsSync(indexPath)) {
-    const frontmatter = parseFrontmatter(indexPath);
+    const frontmatter =
+      parseFrontmatter(indexPath);
 
     if (frontmatter.title) {
       return frontmatter.title;
@@ -95,14 +492,20 @@ function getDirectoryTitle(directory) {
   return path
     .basename(directory)
     .replace(/[-_]+/g, " ")
-    .replace(/\b\w/g, (c) => c.toUpperCase());
+    .replace(/\b\w/g, (c) =>
+      c.toUpperCase(),
+    );
 }
 
 function getEntries(directory) {
   return fs
-    .readdirSync(directory, { withFileTypes: true })
+    .readdirSync(directory, {
+      withFileTypes: true,
+    })
     .filter((entry) => {
-      if (entry.name.startsWith(".")) return false;
+      if (entry.name.startsWith(".")) {
+        return false;
+      }
 
       // Generated index is not listed as a child page.
       if (
@@ -115,9 +518,13 @@ function getEntries(directory) {
       return true;
     })
     .sort((a, b) =>
-      a.name.localeCompare(b.name, undefined, {
-        sensitivity: "base",
-      }),
+      a.name.localeCompare(
+        b.name,
+        undefined,
+        {
+          sensitivity: "base",
+        },
+      ),
     );
 }
 
@@ -130,14 +537,22 @@ function getMarkdownFiles(directory) {
   const files = [];
 
   function walk(currentDirectory) {
-    const entries = fs.readdirSync(currentDirectory, {
-      withFileTypes: true,
-    });
+    const entries = fs.readdirSync(
+      currentDirectory,
+      {
+        withFileTypes: true,
+      },
+    );
 
     for (const entry of entries) {
-      if (entry.name.startsWith(".")) continue;
+      if (entry.name.startsWith(".")) {
+        continue;
+      }
 
-      const entryPath = path.join(currentDirectory, entry.name);
+      const entryPath = path.join(
+        currentDirectory,
+        entry.name,
+      );
 
       if (entry.isDirectory()) {
         walk(entryPath);
@@ -146,8 +561,11 @@ function getMarkdownFiles(directory) {
 
       if (
         entry.isFile() &&
-        entry.name.toLowerCase().endsWith(".md") &&
-        entry.name.toLowerCase() !== "index.md"
+        entry.name
+          .toLowerCase()
+          .endsWith(".md") &&
+        entry.name.toLowerCase() !==
+          "index.md"
       ) {
         files.push(entryPath);
       }
@@ -160,10 +578,13 @@ function getMarkdownFiles(directory) {
 }
 
 /**
- * Return the 20 most recently modified markdown files
- * anywhere inside the current directory.
+ * Return the 20 most recently modified markdown
+ * files anywhere inside the current directory.
  */
-function getRecentlyModifiedFiles(directory, limit = 20) {
+function getRecentlyModifiedFiles(
+  directory,
+  limit = 20,
+) {
   return getMarkdownFiles(directory)
     .map((filePath) => {
       const stats = fs.statSync(filePath);
@@ -173,7 +594,10 @@ function getRecentlyModifiedFiles(directory, limit = 20) {
         modifiedTime: stats.mtimeMs,
       };
     })
-    .sort((a, b) => b.modifiedTime - a.modifiedTime)
+    .sort(
+      (a, b) =>
+        b.modifiedTime - a.modifiedTime,
+    )
     .slice(0, limit)
     .map((entry) => entry.filePath);
 }
@@ -183,9 +607,13 @@ function getRecentlyModifiedFiles(directory, limit = 20) {
  */
 function sortFilesAlphabetically(files) {
   return [...files].sort((a, b) =>
-    getTitle(a).localeCompare(getTitle(b), undefined, {
-      sensitivity: "base",
-    }),
+    getTitle(a).localeCompare(
+      getTitle(b),
+      undefined,
+      {
+        sensitivity: "base",
+      },
+    ),
   );
 }
 
@@ -197,9 +625,15 @@ function sortFilesAlphabetically(files) {
  */
 function getAlphabeticalGroup(filePath) {
   const title = getTitle(filePath).trim();
-  const firstCharacter = title.charAt(0).toUpperCase();
 
-  if (firstCharacter >= "A" && firstCharacter <= "Z") {
+  const firstCharacter = title
+    .charAt(0)
+    .toUpperCase();
+
+  if (
+    firstCharacter >= "A" &&
+    firstCharacter <= "Z"
+  ) {
     return firstCharacter;
   }
 
@@ -214,8 +648,11 @@ function getLetterAnchor(letter) {
  * Generate the horizontal alphabet navigation bar.
  */
 function getAlphabetBar(groups) {
-  const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-  const availableLetters = new Set(groups.keys());
+  const letters =
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+
+  const availableLetters =
+    new Set(groups.keys());
 
   const links = [];
 
@@ -285,30 +722,64 @@ function getAlphabetBar(groups) {
   ].join("\n");
 }
 
+/**
+ * Add a page listing and its preview.
+ *
+ * The preview is deliberately written as a separate
+ * Markdown paragraph underneath the list item.
+ */
+function addPageListing(lines, filePath) {
+  const fileTitle = getTitle(filePath);
+  const url = getPageUrl(filePath);
+  const preview = getPreview(filePath);
+
+  lines.push(`- [${fileTitle}](${url})`);
+
+  if (preview) {
+    lines.push("");
+    lines.push(preview);
+  }
+
+  lines.push("");
+}
+
 function generateIndex(directory) {
   const entries = getEntries(directory);
 
   /*
+   * ============================================================
    * DIRECT SUBFOLDERS
+   * ============================================================
    *
    * These are listed first and independently from the
    * recently-modified file list.
    */
-  const folders = entries.filter((entry) => entry.isDirectory());
+  const folders = entries.filter(
+    (entry) => entry.isDirectory(),
+  );
 
   /*
+   * ============================================================
    * DIRECT FILES
+   * ============================================================
    *
    * These are used for the alphabetical Pages section.
    */
   const pages = entries.filter(
     (entry) =>
       entry.isFile() &&
-      entry.name.toLowerCase().endsWith(".md"),
+      entry.name
+        .toLowerCase()
+        .endsWith(".md"),
   );
 
-  const indexPath = path.join(directory, "index.md");
-  const title = getDirectoryTitle(directory);
+  const indexPath = path.join(
+    directory,
+    "index.md",
+  );
+
+  const title =
+    getDirectoryTitle(directory);
 
   const lines = [
     "---",
@@ -328,11 +799,20 @@ function generateIndex(directory) {
     lines.push("## Folders", "");
 
     for (const folder of folders) {
-      const folderPath = path.join(directory, folder.name);
-      const folderTitle = getDirectoryTitle(folderPath);
-      const folderUrl = getDirectoryUrl(folderPath);
+      const folderPath = path.join(
+        directory,
+        folder.name,
+      );
 
-      lines.push(`- [${folderTitle}](${folderUrl})`);
+      const folderTitle =
+        getDirectoryTitle(folderPath);
+
+      const folderUrl =
+        getDirectoryUrl(folderPath);
+
+      lines.push(
+        `- [${folderTitle}](${folderUrl})`,
+      );
     }
 
     lines.push("");
@@ -343,24 +823,25 @@ function generateIndex(directory) {
    * RECENTLY MODIFIED
    * ============================================================
    *
-   * This is completely separate from the folder list.
-   *
-   * It searches recursively through the CURRENT folder and
-   * returns the 20 most recently modified markdown files.
+   * Searches recursively through the CURRENT folder
+   * and returns the 20 most recently modified markdown
+   * files.
    */
-  const recentFiles = getRecentlyModifiedFiles(directory, 20);
+  const recentFiles =
+    getRecentlyModifiedFiles(
+      directory,
+      20,
+    );
 
   if (recentFiles.length > 0) {
-    lines.push("## Recently Modified", "");
+    lines.push(
+      "## Recently Modified",
+      "",
+    );
 
     for (const filePath of recentFiles) {
-      const fileTitle = getTitle(filePath);
-      const url = getPageUrl(filePath);
-
-      lines.push(`- [${fileTitle}](${url})`);
+      addPageListing(lines, filePath);
     }
-
-    lines.push("");
   }
 
   /*
@@ -368,32 +849,44 @@ function generateIndex(directory) {
    * PAGES
    * ============================================================
    *
-   * Only direct markdown files in the current directory are
-   * included here.
+   * Only direct markdown files in the current directory
+   * are included here.
    */
   if (pages.length > 0) {
     lines.push("## Pages", "");
 
-    const sortedPages = sortFilesAlphabetically(
-      pages.map((page) => path.join(directory, page.name)),
-    );
+    const sortedPages =
+      sortFilesAlphabetically(
+        pages.map((page) =>
+          path.join(
+            directory,
+            page.name,
+          ),
+        ),
+      );
 
     const groups = new Map();
 
     for (const filePath of sortedPages) {
-      const letter = getAlphabeticalGroup(filePath);
+      const letter =
+        getAlphabeticalGroup(filePath);
 
       if (!groups.has(letter)) {
         groups.set(letter, []);
       }
 
-      groups.get(letter).push(filePath);
+      groups
+        .get(letter)
+        .push(filePath);
     }
 
     /*
      * Horizontal alphabet navigation.
      */
-    lines.push(getAlphabetBar(groups), "");
+    lines.push(
+      getAlphabetBar(groups),
+      "",
+    );
 
     /*
      * "#" group.
@@ -406,20 +899,21 @@ function generateIndex(directory) {
       );
 
       for (const filePath of groups.get("#")) {
-        const fileTitle = getTitle(filePath);
-        const url = getPageUrl(filePath);
-
-        lines.push(`- [${fileTitle}](${url})`);
+        addPageListing(
+          lines,
+          filePath,
+        );
       }
-
-      lines.push("");
     }
 
     /*
      * A-Z groups.
      */
-    for (const letter of "ABCDEFGHIJKLMNOPQRSTUVWXYZ") {
-      if (!groups.has(letter)) continue;
+    for (const letter of
+      "ABCDEFGHIJKLMNOPQRSTUVWXYZ") {
+      if (!groups.has(letter)) {
+        continue;
+      }
 
       lines.push(
         `<a id="${getLetterAnchor(letter)}"></a>`,
@@ -428,30 +922,42 @@ function generateIndex(directory) {
       );
 
       for (const filePath of groups.get(letter)) {
-        const fileTitle = getTitle(filePath);
-        const url = getPageUrl(filePath);
-
-        lines.push(`- [${fileTitle}](${url})`);
+        addPageListing(
+          lines,
+          filePath,
+        );
       }
-
-      lines.push("");
     }
   }
 
-  fs.writeFileSync(indexPath, lines.join("\n"), "utf8");
+  fs.writeFileSync(
+    indexPath,
+    lines.join("\n"),
+    "utf8",
+  );
 
   console.log(
-    `Generated: ${path.relative(process.cwd(), indexPath)}`,
+    `Generated: ${path.relative(
+      process.cwd(),
+      indexPath,
+    )}`,
   );
 
   /*
    * Generate indexes for every subfolder.
    */
   for (const folder of folders) {
-    generateIndex(path.join(directory, folder.name));
+    generateIndex(
+      path.join(
+        directory,
+        folder.name,
+      ),
+    );
   }
 }
 
 generateIndex(CONTENT_ROOT);
 
-console.log("\nIndex generation complete.");
+console.log(
+  "\nIndex generation complete.",
+);

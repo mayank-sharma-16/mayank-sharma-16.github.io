@@ -5,7 +5,9 @@ title: 1800 1809
 ## Recently Modified
 
 - [Observations On The Means Of Preserving ](/recovery/literature/books/non-fiction/monographs/1800-1809/observations-on-the-means-of-preserving)
+
 - [A View Of The Nervous Temperament By Thomas Trotter 1808](/recovery/literature/books/non-fiction/monographs/1800-1809/a-view-of-the-nervous-temperament-by-thomas-trotter-1808)
+
 - [Essay On Drunkenness By Thomas Trotter 1804](/recovery/literature/books/non-fiction/monographs/1800-1809/essay-on-drunkenness-by-thomas-trotter-1804)
 
 ## Pages

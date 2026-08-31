@@ -5,6 +5,7 @@ title: Gastrointestinal
 ## Recently Modified
 
 - [Gastroesophageal Reflux Disease Gerd](/recovery/treatment/diseases-disorders-and-disabilities/systemic/gastrointestinal/gastroesophageal-reflux-disease-gerd)
+
 - [Esophageal Varices](/recovery/treatment/diseases-disorders-and-disabilities/systemic/gastrointestinal/esophageal-varices)
 
 ## Pages

@@ -5,7 +5,10 @@ title: Philosophical
 ## Recently Modified
 
 - [Infinite Jest](/recovery/literature/books/fiction/philosophical/infinite-jest)
+
 - [Walden Two](/recovery/literature/books/fiction/philosophical/walden-two)
+
+There's a very justifiable stereotype about academics that they live in elitist ivory towers, turning the rest of the world into variables to be studied and eventually controlled. However, some of the most influential academics are often motivated by manifesting a worldview rather than just building a successful career. Francis Bacon was motivated to study the laws of the natural world as the…
 
 ## Pages
 
@@ -88,3 +91,5 @@ html {
 ### W
 
 - [Walden Two](/recovery/literature/books/fiction/philosophical/walden-two)
+
+There's a very justifiable stereotype about academics that they live in elitist ivory towers, turning the rest of the world into variables to be studied and eventually controlled. However, some of the most influential academics are often motivated by manifesting a worldview rather than just building a successful career. Francis Bacon was motivated to study the laws of the natural world as the…

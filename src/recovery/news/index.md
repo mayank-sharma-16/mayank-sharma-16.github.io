@@ -5,8 +5,16 @@ title: News
 ## Recently Modified
 
 - [Addiction Depictions](/recovery/news/addiction-depictions)
+
+Article Link A take on Faust that has the titular character selling his soul to heroin rather than the Devil as a 21st century temptation. Whether intentional or not, this evokes the description of Faust as being "addicted" in The English Faust Book published in 1592, when "addict" was a newer term referring to the paradoxical choice of giving up one's choice continually to something else, like…
+
 - [Data Breaches](/recovery/news/data-breaches)
+
+I love data, but I am highly skeptical of centralized databases of any kind. I don't like it when groups of people make lists of other people they want to monitor. I don't like it when private corporations do it, I don't like it when rogue militias do it, I don't like it when state agencies do it. Yet, it's in the nature of institutions and systems that they only exist insofar as they can draw…
+
 - [Harm Reduction Hysteria](/recovery/news/harm-reduction-hysteria)
+
+Article Link "Seattle, like a striking number of other liberal American cities, has embraced a radical form of “harm reduction,” which is more a philosophy about treating addiction than a scientific approach to it." No. This is false. Harm reduction is absolutely an evidence-backed scientific paradigm towards, as the name says, reducing the harms caused by substance use. There is nothing about…
 
 ## Pages
 
@@ -85,12 +93,18 @@ html {
 
 - [Addiction Depictions](/recovery/news/addiction-depictions)
 
+Article Link A take on Faust that has the titular character selling his soul to heroin rather than the Devil as a 21st century temptation. Whether intentional or not, this evokes the description of Faust as being "addicted" in The English Faust Book published in 1592, when "addict" was a newer term referring to the paradoxical choice of giving up one's choice continually to something else, like…
+
 <a id="letter-d"></a>
 ### D
 
 - [Data Breaches](/recovery/news/data-breaches)
 
+I love data, but I am highly skeptical of centralized databases of any kind. I don't like it when groups of people make lists of other people they want to monitor. I don't like it when private corporations do it, I don't like it when rogue militias do it, I don't like it when state agencies do it. Yet, it's in the nature of institutions and systems that they only exist insofar as they can draw…
+
 <a id="letter-h"></a>
 ### H
 
 - [Harm Reduction Hysteria](/recovery/news/harm-reduction-hysteria)
+
+Article Link "Seattle, like a striking number of other liberal American cities, has embraced a radical form of “harm reduction,” which is more a philosophy about treating addiction than a scientific approach to it." No. This is false. Harm reduction is absolutely an evidence-backed scientific paradigm towards, as the name says, reducing the harms caused by substance use. There is nothing about…

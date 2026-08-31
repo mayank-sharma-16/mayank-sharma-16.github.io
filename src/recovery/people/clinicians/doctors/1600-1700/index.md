@@ -5,8 +5,11 @@ title: 1600 1700
 ## Recently Modified
 
 - [Herman Boerhaave](/recovery/people/clinicians/doctors/1600-1700/herman-boerhaave)
+
 - [Everard Maynwaringe](/recovery/people/clinicians/doctors/1600-1700/everard-maynwaringe)
+
 - [Thomas Sydenham](/recovery/people/clinicians/doctors/1600-1700/thomas-sydenham)
+
 - [George Cheyne](/recovery/people/clinicians/doctors/1600-1700/george-cheyne)
 
 ## Pages

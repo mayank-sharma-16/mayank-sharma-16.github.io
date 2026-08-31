@@ -6,6 +6,8 @@ title: University Of Southern California
 
 - [Institute For Addiction Science](/recovery/organizations/higher-education/united-states/california/university-of-southern-california/institute-for-addiction-science)
 
+https://ias.usc.edu/
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,3 +84,5 @@ html {
 ### I
 
 - [Institute For Addiction Science](/recovery/organizations/higher-education/united-states/california/university-of-southern-california/institute-for-addiction-science)
+
+https://ias.usc.edu/
