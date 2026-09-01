@@ -9,6 +9,10 @@ title: Metaphysics
 
 ## Recently Modified
 
+- [Determinism](/metaphysics/glossary/determinism)
+
+"Determinism" are ideas
+
 - [Cosmology](/metaphysics/glossary/cosmology)
 
 A "cosmology" is a study or body of work exploring the origin and structure of the universe as reality. Recovery programs like Alcoholics Anonymous (AA) and Recovery Dharma are inspired by religious systems while those like SMART Recovery are rooted in the guidelines of scientific institutions, but each group has its own cosmological foundations. I would argue that a strong portion of one's…
@@ -48,5 +52,3 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 - [Shaktism](/metaphysics/glossary/shaktism)
 
 - [Smartism](/metaphysics/glossary/smartism)
-
-- [Shaivism](/metaphysics/glossary/shaivism)
