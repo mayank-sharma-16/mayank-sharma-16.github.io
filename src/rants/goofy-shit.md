@@ -146,3 +146,23 @@ As time has passed, I can't help but reflect on the end of Kevin Finnerty, when 
 
 I don't know. It was trippy. I'm glad I did it, I suppose.
 
+# Case Eighteen
+Stubborn confusion is the most valuable thing I've seen in recovery circles, way more than the self-aware bullshit from clients who know what group leaders relying on manualized CBT/DBT protocols and acronyms want to hear. Yes, I'm heavily guilty of this.
+
+I really appreciate someone who says, "I tried this, it didn't work, and my life continues to suck. I'm not retarded, I can use what I've learned here. It just isn't working at making a life worth living." I can wax poetic and analyze those who wax poetic about addiction all day like a literary cartographer, and I can dump a synthesis of cherry-picked scientific studies for a living, but I will always envy someone who knows how to communicate the direct line from point A to point B. Seeing that just tickles something in me and brings a smile to my face. 
+
+I'm an overthinker with a bleak transactional formulation of the world. I don't take a shit without calculating the opportunity cost of stepping away from a method to record my current train of thought. If you put me through some institutional oversight that's intended to evaluate me as per the discretion of authorities, I will attempt to draft a rubric and satisfy the authority figure to the best of my abilities. I bank the goodwill generated from those exchanges as social capital so that when I really need something, I can cash in on the good student or compliant client reputation. In my experience, this gets me further than being honest upfront. Everyone says they want you to be honest until you actually are.
+
+It is the most refreshing thing in the world to see someone be honest because they're simply too tired of reading their script in the polite fiction. I love to see them shoot down everyone's solutions that emerge from their own projections as coping mechanisms. 
+
+"I bet you haven't tried X," says a well-meaning suggester. "I've tried that for 3 years," replies the exasperated struggler. "Well, the way X works is..." continues the suggester on their script. "I know what X is, I'm saying it didn't work," insists the struggler.
+
+The suggester is then faced with a choice: admit they proposed something unhelpful or double down on the solution by claiming that the struggler simply hasn't tried hard enough (usually thorugh platitudes like "sometimes we need a good kick" or "everything happens for a reason, just keep trying because the failures are part of the journey"). Guess what happens nearly every time? 
+
+"If I'm honest, your tone strikes me as resentful," says the suggester, attempting to reframe the problem in new terms. 
+
+"Resentful? Towards what?" inquires the flabbergasted struggler.
+
+"Well, what would *you* say you're resentful towards?" asks the suggester with a hint of relief in their safe return to the position of questioning rather than answering.
+
+Maybe I'm just cracked, but I enjoy dysfunction. You can often learn more from how things break down than how they work as intended.

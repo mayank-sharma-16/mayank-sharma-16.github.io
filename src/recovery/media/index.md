@@ -14,6 +14,14 @@ title: Media
 
 ## Recently Modified
 
+- [Echo Valley](/recovery/media/movies/thrillers/echo-valley)
+
+Fundamentally, this movie is about enabling. Kate enables her daughter's addiction, Richard enables his ex-wife's failing business, and Les enables her best friend's emotional decision-making. Richard chastises Kate for giving money to Claire despite her obvious motive to keep using drugs, yet Richard is indirectly financing Claire by writing thousands of dollars to Kate when unexpected costs hit…
+
+- [Reefer Madness](/recovery/media/movies/exploitation/reefer-madness)
+
+"The motion picture you are about to witness may startle you. It would not have been possible, otherwise, to sufficiently emphasize the frightful toll of the new drug menace which is destroying the youth of America in alarmingly-increasing numbers." "Marihuana is that drug - a violent narcotic - an unspeakable scourge - The Real Public Enemy Number One!" "Its first effect is sudden, violent,…
+
 - [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
 
 - [A Star Is Born 1937](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born-1937)
@@ -63,9 +71,3 @@ You might have guessed that the title is a bit sensationalist; "Should we embrac
 The Saw franchise actually has a whole page for "Drug Addicts": https://sawfilms.fandom.com/wiki/Category:Drug_Addicts. There are 24 total including the video games. Yes, there are Saw video games.
 
 - [Swimming Pools Drank](/recovery/media/songs/swimming-pools-drank)
-
-- [The Kids Arent Alright](/recovery/media/songs/the-kids-arent-alright)
-
-- [Hypernormalisation](/recovery/media/documentaries/expository/hypernormalisation)
-
-Adam Curtis' basic thesis behind the documentary is that the world became too complex for the institutions of power to actually manage, so they instead turned to managing the simpler narratives that set the parameters for reality, namely the feelings and mindsets at the atomized individual level. Hypernormalisation refers to the way everyone can clearly see reality is broken, but changing the…

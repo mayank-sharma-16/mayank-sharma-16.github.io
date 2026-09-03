@@ -4,6 +4,20 @@ title: Glossary
 
 ## Recently Modified
 
+- [Death Drive](/metaphysics/glossary/death-drive)
+
+In Freudian psychology, the death drive is the concept that all living things have an intrinsic desire to achieve a permanent state of peace by reverting to a state of non-living inanimacy. Freud's early psychological theories proposed that humans are wired to seek pleasurable experiences while avoiding painful ones, which he termed the pleasure principle. Dreams were proposed as unconscious…
+
+- [Grue Paradox](/metaphysics/glossary/grue-paradox)
+
+Nelson Goodman proposed the Grue Paradox, also called the Grue Problem or the New Riddle of Induction, to discuss a problem within the philosophy of science where categories constructed from present evidence can fail to predict future cases. Simply put, let's say we can observe that objects in a bucket are either green or blue today. However, after 10 years, we observe that some green objects…
+
+- [Anatta](/metaphysics/glossary/anatta)
+
+"Anatta" is a Buddhist concept of "non-self" that eschews Western tendencies toward an "authentic" or "core" self, instead building a formulation of identity along the principles of impermanence, interconnectedness, and dependent origination.
+
+- [Vibhava Tanha](/metaphysics/glossary/vibhava-tanha)
+
 - [Determinism](/metaphysics/glossary/determinism)
 
 "Determinism" are ideas
@@ -40,14 +54,6 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 
 - [Samkhya](/metaphysics/glossary/samkhya)
 
-- [Vaisheshika](/metaphysics/glossary/vaisheshika)
-
-- [Nyaya](/metaphysics/glossary/nyaya)
-
-- [Shaktism](/metaphysics/glossary/shaktism)
-
-- [Smartism](/metaphysics/glossary/smartism)
-
 ## Pages
 
 <div class="alphabet-bar">
@@ -57,7 +63,7 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 <a class="alphabet-letter" href="#letter-d">D</a>
 <a class="alphabet-letter" href="#letter-e">E</a>
 <a class="alphabet-letter" href="#letter-f">F</a>
-<span class="alphabet-letter alphabet-letter-disabled">G</span>
+<a class="alphabet-letter" href="#letter-g">G</a>
 <a class="alphabet-letter" href="#letter-h">H</a>
 <a class="alphabet-letter" href="#letter-i">I</a>
 <a class="alphabet-letter" href="#letter-j">J</a>
@@ -145,6 +151,10 @@ Ahimsa comes from Sanskrit and means "non-harming" and is commonly translated as
 
 "Amor fati" translates from Latin to "love of fate," reflecting an attitude of embracing everything that happens in life whether it involves pleasure or pain. It's a phrase that invokes a lifestyle of radical acceptance of the world in order to empower oneself into action every moment. A popular misconception is that "amor fati" is ancient Stoic motto, but the major Stoic philosophers like Marcus…
 
+- [Anatta](/metaphysics/glossary/anatta)
+
+"Anatta" is a Buddhist concept of "non-self" that eschews Western tendencies toward an "authentic" or "core" self, instead building a formulation of identity along the principles of impermanence, interconnectedness, and dependent origination.
+
 - [Ataraxia](/metaphysics/glossary/ataraxia)
 
 "Ataraxia" is an ancient Greek term that translates roughly to "lack of disturbance," so "tranquility" and "equanimity" are often used as the translations. Different Greek philosophies interpreted ataraxia differently, with Stoic philosophers like Seneca often using it interchangeably with "apathaeia" though Epicurean philosophers would challenge that.
@@ -198,6 +208,10 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 <a id="letter-d"></a>
 ### D
 
+- [Death Drive](/metaphysics/glossary/death-drive)
+
+In Freudian psychology, the death drive is the concept that all living things have an intrinsic desire to achieve a permanent state of peace by reverting to a state of non-living inanimacy. Freud's early psychological theories proposed that humans are wired to seek pleasurable experiences while avoiding painful ones, which he termed the pleasure principle. Dreams were proposed as unconscious…
+
 - [Detachment](/metaphysics/glossary/detachment)
 
 - [Determinism](/metaphysics/glossary/determinism)
@@ -205,6 +219,8 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 "Determinism" are ideas
 
 - [Dharma](/metaphysics/glossary/dharma)
+
+- [Dukkha](/metaphysics/glossary/dukkha)
 
 - [Dvaita](/metaphysics/glossary/dvaita)
 
@@ -227,6 +243,13 @@ Existentialism refers to branches of philosophy that question the nature, value,
 - [Falsifiable](/metaphysics/glossary/falsifiable)
 
 Falsifiable refers to the ability for a proposition to be tested and shown to be false. For instance, page 58 of the Alcoholics Anonymous Big Book states "Rarely have we seen a person fail who has thoroughly followed our path," which is also part of the conventional preamble before meetings. This is unfalsifiable: if someone has remained sober while working the program, it's proof of the success,…
+
+<a id="letter-g"></a>
+### G
+
+- [Grue Paradox](/metaphysics/glossary/grue-paradox)
+
+Nelson Goodman proposed the Grue Paradox, also called the Grue Problem or the New Riddle of Induction, to discuss a problem within the philosophy of science where categories constructed from present evidence can fail to predict future cases. Simply put, let's say we can observe that objects in a bucket are either green or blue today. However, after 10 years, we observe that some green objects…
 
 <a id="letter-h"></a>
 ### H
@@ -359,6 +382,8 @@ Tabula Rasa translates to blank slate, and it suggests the mind is blank slate o
 - [Vajrayana](/metaphysics/glossary/vajrayana)
 
 - [Vedanta](/metaphysics/glossary/vedanta)
+
+- [Vibhava Tanha](/metaphysics/glossary/vibhava-tanha)
 
 <a id="letter-y"></a>
 ### Y

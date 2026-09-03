@@ -10,8 +10,17 @@ title: Movies
 - [Noir](/recovery/media/movies/noir)
 - [Psychological Thrillers](/recovery/media/movies/psychological-thrillers)
 - [Science Fiction](/recovery/media/movies/science-fiction)
+- [Thrillers](/recovery/media/movies/thrillers)
 
 ## Recently Modified
+
+- [Echo Valley](/recovery/media/movies/thrillers/echo-valley)
+
+Fundamentally, this movie is about enabling. Kate enables her daughter's addiction, Richard enables his ex-wife's failing business, and Les enables her best friend's emotional decision-making. Richard chastises Kate for giving money to Claire despite her obvious motive to keep using drugs, yet Richard is indirectly financing Claire by writing thousands of dollars to Kate when unexpected costs hit…
+
+- [Reefer Madness](/recovery/media/movies/exploitation/reefer-madness)
+
+"The motion picture you are about to witness may startle you. It would not have been possible, otherwise, to sufficiently emphasize the frightful toll of the new drug menace which is destroying the youth of America in alarmingly-increasing numbers." "Marihuana is that drug - a violent narcotic - an unspeakable scourge - The Real Public Enemy Number One!" "Its first effect is sudden, violent,…
 
 - [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
 
@@ -64,9 +73,3 @@ There's one scene specifically in this movie that I like as just a very succinct
 Honestly, I didn't have much to say about this movie until its sequel, at which point I thought it might be interesting to examine them both to see the differences in how each of them tackled mental health.
 
 - [Smile 2](/recovery/media/movies/horror/smile-2)
-
-- [Withdrawal 2025](/recovery/media/movies/dramas-and-dramedies/romantic/withdrawal-2025)
-
-A story of a young couple going through withdrawals together, shaped by Aaron Strand's own experience with substance use.
-
-- [Reefer Madness Tell Your Children 1936](/recovery/media/movies/exploitation/reefer-madness-tell-your-children-1936)

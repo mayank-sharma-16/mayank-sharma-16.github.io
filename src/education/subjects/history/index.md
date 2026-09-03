@@ -6,14 +6,6 @@ title: History
 
 - [Imperialism As A Family Business](/education/subjects/history/imperialism-as-a-family-business)
 
-- [Primitive America](/education/subjects/history/primitive-america)
-
-Many American students of history are introduced to the subjectivity of historical narratives through the question "Was the American Revolution radical?" From the perspective of the British monarchy and aristocracy, certainly. The colonies had started in part because wealthy Protestant families hosted in a commune at the Earl of Lincolnshire's estate took the physical legal charter of their…
-
-- [Max Weber](/education/subjects/history/max-weber)
-
-If you take AP Government & Politics, you might briefly touch on Weber and his theories about bureaucracy as social organization. You likely haven't read that his ideas used some pretty insane premises. Max Weber had a theory of personality that framed an American Puritan set of ideals as the most desirable to cultivate and institutionalize. He was seeking to articulate a theory of personality in…
-
 ## Pages
 
 <div class="alphabet-bar">
@@ -29,10 +21,10 @@ If you take AP Government & Politics, you might briefly touch on Weber and his t
 <span class="alphabet-letter alphabet-letter-disabled">J</span>
 <span class="alphabet-letter alphabet-letter-disabled">K</span>
 <span class="alphabet-letter alphabet-letter-disabled">L</span>
-<a class="alphabet-letter" href="#letter-m">M</a>
+<span class="alphabet-letter alphabet-letter-disabled">M</span>
 <span class="alphabet-letter alphabet-letter-disabled">N</span>
 <span class="alphabet-letter alphabet-letter-disabled">O</span>
-<a class="alphabet-letter" href="#letter-p">P</a>
+<span class="alphabet-letter alphabet-letter-disabled">P</span>
 <span class="alphabet-letter alphabet-letter-disabled">Q</span>
 <span class="alphabet-letter alphabet-letter-disabled">R</span>
 <span class="alphabet-letter alphabet-letter-disabled">S</span>
@@ -90,17 +82,3 @@ html {
 ### I
 
 - [Imperialism As A Family Business](/education/subjects/history/imperialism-as-a-family-business)
-
-<a id="letter-m"></a>
-### M
-
-- [Max Weber](/education/subjects/history/max-weber)
-
-If you take AP Government & Politics, you might briefly touch on Weber and his theories about bureaucracy as social organization. You likely haven't read that his ideas used some pretty insane premises. Max Weber had a theory of personality that framed an American Puritan set of ideals as the most desirable to cultivate and institutionalize. He was seeking to articulate a theory of personality in…
-
-<a id="letter-p"></a>
-### P
-
-- [Primitive America](/education/subjects/history/primitive-america)
-
-Many American students of history are introduced to the subjectivity of historical narratives through the question "Was the American Revolution radical?" From the perspective of the British monarchy and aristocracy, certainly. The colonies had started in part because wealthy Protestant families hosted in a commune at the Earl of Lincolnshire's estate took the physical legal charter of their…

@@ -4,83 +4,61 @@ title: Glossary
 
 ## Recently Modified
 
-- [Dimethyltryptamine](/recovery/glossary/dimethyltryptamine)
+- [Dissociation](/recovery/glossary/dissociation)
 
-Dimethyltryptamine (DMT) is a natural psychedelic compound, often found in plants such as those used for Amazonian ayahuasca brews. Depending on how it's taken, it can last up to 30 minutes or, if taken orally with an MAOI inhibitor, several hours. I once attended a Recovery Dharma meeting where we tried a form of breathwork that felt at first like hyperventilating, but the facilitator told us it…
+Dissociation is often defined as: "disconnections between thoughts, feelings, behaviors, sensations, and other mental processes that would normally be connected. It is a human phenomenon, experienced by all to varying degrees on a continuum ranging from benign to problematic. On one end of the continuum are experiences of daydreaming, “highway hypnosis,” or absorption and flow wherein the…
 
-- [Detail Man](/recovery/glossary/detail-man)
+- [Borderline Personality Disorder](/recovery/glossary/borderline-personality-disorder)
 
-"Detail man" is an old term that refers to pharmaceutical sales representatives who had to deliver the details about a drug's properties and the evidence from the scientific community supporting its efficacy. In the mid-20th century, these representatives emerged as a new profession since pharmaceutical companies realized that doctors, rather than patients, were their actual marks to persuade due…
+- [Distress Tolerance](/recovery/glossary/distress-tolerance)
 
-- [Diet Pills](/recovery/glossary/diet-pills)
+Distress tolerance refers to the capacity to cope with negative experiences or internal states. In the late 1940s, Else Frenkel-Brunswik studied the concept of Tolerance of Ambiguity (TOA) to track how people handled complex, unfamiliar, or vague stimuli. Those with low TOA appeared to respond to those kinds of ambiguities with pushback and potentially destructive behaviors. After WWII, there was…
 
-Diet pills have historically referred to stimulants like amphetamines that can suppress appetites, though more recent classes of weight-loss drugs include GLP-1 agonists without the same risks of chemical dependencies. Around the 1930s, amidst the initial wave of manufacturing amphetamines, clinicians noticed that they suppressed appetites in their patients and began prescribing them for weight…
+- [Diversion](/recovery/glossary/diversion)
 
-- [Diagnostic And Statistical Manual Of Mental Disorders](/recovery/glossary/diagnostic-and-statistical-manual-of-mental-disorders)
+"Diversions" in the context of substance use disorders and criminal justice systems refer to alternative options compared to incarceration that can be less disruptive to someone's long-term recovery or quality of life. The American Bar Association (ABA) provides several standardized definitions for diversion programs: "(a) 'Diversion' refers to any opportunity for a person to avoid arrest, to…
 
-The Diagnostic and Statistical Manual of Mental Disorders (DSM) is considered an authoritative set of standards for classifying mental health conditions. In 1952, the DSM-I was published as a 32-page booklet with 106 disorders that was heavily influenced by the psychodynamic ideas proposed by Adolf Meyer and Sigmund Freud, where mental health disorders were seen as underlying conflicts within the…
+- [Doomscrolling](/recovery/glossary/doomscrolling)
 
-- [Diabetes](/recovery/glossary/diabetes)
+"Doomscrolling" means habitually consuming content that fuels negative or pessimistic emotions. The movable-type printing press that brought on a revolution in mass media was developed in 1440, shortly after which appeared sensationalist broadside ballads that contained gruesome and shocking stories that could be sung in spaces for public gathering, like bustling marketplaces. Often, these…
 
-Diabetes is an impairment in the body's ability to process glucose for energy. Type 1 Diabetes is an autoimmune condition that results in the body attackings its own cells responsible for producing insulin. Type 2 Diabetes is the result of insulin resistance, where the body produces insulin but doesn't respond effectively to its presence. Substance use can increase the chances of developing Type…
+- [Adolescent Brain Cognitive Development Study](/recovery/glossary/adolescent-brain-cognitive-development-study)
 
-- [Deviant](/recovery/glossary/deviant)
+The Adolescent Brain Cognitive Development (ABCD) Study is a longitudinal project tracking brain development and health in children throughout the United States. The ABCD Study has identified biomarkers associated with a genetic vulnerability to developing a substance use disorder (SUD).
 
-In social analyses, "deviance" refers to actions or characteristics outside of a society's standards and norms. A 2023 publication in the Pharmacology, Biochemistry and Behavior journal argues, as the title says, Substance Use Disorder is the Outcome of Deviant Socialization: A Prospective Investigation Spanning Childhood to Adulthood: "it is theorized herein that a social environment…
+- [Drift Diffusion Model](/recovery/glossary/drift-diffusion-model)
 
-- [Detoxification](/recovery/glossary/detoxification)
+The drift-diffusion model (DDM) is a framework in cognitive psychology and neuroscience that models how people quickly evaluate and make decisions between two choices. When we say quickly, we mean decisions with reaction times between 1 to 1.5 seconds with a single stage rather than reasoning problems that require carrying heuristics and models of a problem through multiple stages of decisions.
 
-According to the Detoxification and Substance Abuse Treatment publication within the Substance Abuse and Mental Health Services Administration (SAMHSA) Treatment Improvement Protocol (TIP) series: "Detoxification is a set of interventions aimed at managing acute intoxication and withdrawal. It denotes a clearing of toxins from the body of the patient who is acutely intoxicated and/or dependent on…
+- [Dopamine](/recovery/glossary/dopamine)
 
-- [Designer Drug](/recovery/glossary/designer-drug)
+"Dopamine is an enormously important molecule in addiction, central to th experience of learning and reward prediction, but its functioning is far more complicated than it is commonly portrayed. In a way, the popular stories about dopamine still rely on a circa-1980s level of understanding... For one thing, dopamine is not a 'pleasure' molecule: it has more to do with the feelings of desire and…
 
-From Pesce and Krock 2023: "Designer drugs are synthetic compounds developed to mimic the physiologic effects of other abused drugs. Many designer drugs are chemically similar to other abused drugs but are modified to avoid being classified as illegal. Moreover, they are often altered in ways that render them undetectable by conventional drug screening tests. Most designer drugs try to imitate…
+- [Dialectical Behavioral Therapy](/recovery/glossary/dialectical-behavioral-therapy)
 
-- [Derealization](/recovery/glossary/derealization)
+- [Methocarbamol](/recovery/glossary/methocarbamol)
 
-Derealization goes hand-in-hand with depersonalization as a feeling of disengagement with reality, although depersonalization describes disengagement with oneself while derealization describes disengagement with one's surrounding environment and external circumstances.
+Methocarbamol is used as a muscle relaxant and pain reliever for health conditions that produce painful muscle spasms or cramps. Anecdotally, this didn't too much for me when taking it for the soreness following motor tics, though it did seem to provide a slight comforting tingling at a very conservative dose, well under the standard starting dosages.
 
-- [Depressant](/recovery/glossary/depressant)
+- [Gift Of Desperation](/recovery/glossary/gift-of-desperation)
 
-The National Cancer Institute defines "central nervous system depressant" as: "A type of drug that slows down brain activity, which causes the muscles to relax and calms and soothes a person. Central nervous system depressants are used to treat insomnia (trouble sleeping), anxiety, panic attacks, and seizures. They may also be used to relieve anxiety and tension before surgery. Examples of…
+- [Optogenetics](/recovery/glossary/optogenetics)
 
-- [Depersonalization](/recovery/glossary/depersonalization)
+- [Belladonna](/recovery/glossary/belladonna)
 
-Depersonalization is defined by the American Psychological Association as: "a state of mind in which the self appears unreal. Individuals feel estranged from themselves and usually from the external world, and thoughts and experiences have a distant, dreamlike character. In its persistent form, depersonalization is observed in such disorders as depression, hypochondriasis, dissociative states,…
+- [Methemoglobinema](/recovery/glossary/methemoglobinema)
 
-- [Dependence](/recovery/glossary/dependence)
+- [Acetanilide](/recovery/glossary/acetanilide)
 
-Dependence in the context of substance use refers to a body or mind's reliance on using a substance to function normally, such that reduction or cessation of use can produce distress or induce symptoms of withdrawal. The National Cancer Institute defines "physical dependence" as: "A condition in which a person takes a drug over time, and unpleasant physical symptoms occur if the drug is suddenly…
+- [Geritol](/recovery/glossary/geritol)
 
-- [Denial](/recovery/glossary/denial)
+- [Hadacol](/recovery/glossary/hadacol)
 
-Denial is inherently difficult to work with, since if you know you're in denial, you're not really denying you have a problem. If you are in denial, then being told you're in denial is unlikely to do anything except touch a reflex to double down. If you're not in denial but being accused of it anyways, then you're denial of denial can be treated as further evidence of how deep into denial you…
+- [Bromism](/recovery/glossary/bromism)
 
-- [Delusion](/recovery/glossary/delusion)
+- [Terpin](/recovery/glossary/terpin)
 
-A delusion refers to a false belief that is so sincerely held that it seems impossible to change through logic, reason, or an appeal to values. The third and fourth editions of theDiagnostic and Statistical Manual of Mental Disorders defined delusions as "false beliefs due to incorrect inference about external reality." The DSM-V defines them as "fixed beliefs that are not amenable to change in…
-
-- [Etiology](/recovery/glossary/etiology)
-
-- [Deliverance](/recovery/glossary/deliverance)
-
-Deliverance refers to being freed or rescued. The term is used often in AA literature like the Big Book of Alcoholics Anonymous to describe a release from the obsession of drinking, generally by confessing powerlessness and surrendering to a Higher Power who delivers one to a state of sobriety.
-
-- [Delirium](/recovery/glossary/delirium)
-
-Delirium is a sudden onset of confusion and decline in cognitive function as a result of brain disturbances. The Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR) lays out criteria to identify a state of delirium: Disturbance in attention and awareness Acute onsent and fluctuating course Cognitive deficits such as problems with memory, orientation, language or perception Direct…
-
-- [Delirium Tremens](/recovery/glossary/delirium-tremens)
-
-Delirium Tremens (DTs) are among the most dangerous and severe symptoms to emerge in withdrawals from alcohol. They can begin 2 to 4 days after someone has their last drink, and it can persist as long as 8 days. It includes: Confusion Hallucinations Diaphoresis (intense sweating) Tachycardia (elevated heart rate) High Blood Pressure Fever Body Tremors Seizures
-
-- [Degeneration](/recovery/glossary/degeneration)
-
-Degeneration generally refers to some process of decline, but it adopts more specific meanings depending on the context. In medicine, "degeneration" refers to a decline in the function of body parts and processes. Age-related macular degeneration (AMD) and degenerative disc disease are common examples of the degeneration associated with getting older. In electronics, "degeneration" refers to a…
-
-- [Death Drive](/recovery/glossary/death-drive)
-
-In Freudian psychology, the death drive is the concept that all living things have an intrinsic desire to achieve a permanent state of peace by reverting to a state of non-living inanimacy. Freud's early psychological theories proposed that humans are wired to seek pleasurable experiences while avoiding painful ones, which he termed the pleasure principle. Dreams were proposed as unconscious…
+- [Codeine](/recovery/glossary/codeine)
 
 ## Pages
 
@@ -197,6 +175,8 @@ Accountability in its everyday sense refers to the ability to render judgment ba
 
 - [Acculturation Habits And Interests Multi](/recovery/glossary/acculturation-habits-and-interests-multi)
 
+- [Acetanilide](/recovery/glossary/acetanilide)
+
 - [Activation](/recovery/glossary/activation)
 
 - [Activation Threshold](/recovery/glossary/activation-threshold)
@@ -248,6 +228,10 @@ Adjustment disorders refer to a pattern of atypical strong reactions to changes 
 - [Adolescence](/recovery/glossary/adolescence)
 
 "Adolescence" refers to a transitional stage of development between childhood and adulthood, suggesting that a process of "maturing" has started. The World Health Organization formally defines the age range for adolescence as between 10 to 19 years old, but studies show that the brain continues significant development that impacts independence and judgment into the 20s. The stage of adolescence…
+
+- [Adolescent Brain Cognitive Development Study](/recovery/glossary/adolescent-brain-cognitive-development-study)
+
+The Adolescent Brain Cognitive Development (ABCD) Study is a longitudinal project tracking brain development and health in children throughout the United States. The ABCD Study has identified biomarkers associated with a genetic vulnerability to developing a substance use disorder (SUD).
 
 - [Adolescent Focused Therapy](/recovery/glossary/adolescent-focused-therapy)
 
@@ -458,6 +442,8 @@ Behavioral neurology is a field concerned with the impacts of physical brain cha
 
 "Behaviorism" within psychological circles generally refers to an approach to understanding humans through an examination of their behavioral outcomes. For empiricists who embrace behaviorist perspectives, assessing a state of mind is impossible except for the end results that can be empirically observed. If someone says they hate ice cream but eats it every day, there is nothing we can conclude…
 
+- [Belladonna](/recovery/glossary/belladonna)
+
 - [Bender](/recovery/glossary/bender)
 
 "Bender" is colloquially used to refer to an extended period of substance use in which someone is almost perpetually under the influence. For chronic substance users, benders can last from days to weeks to months.
@@ -510,6 +496,8 @@ A blackout is a period of time in which someone might appear to be functional bu
 
 Blood alcohol concentration (BAC) measures the amount of alcohol someone has consumed by testing the weight-to-volume ratio within their body's bloodstream. 0.08 grams per 100 milliliters, or 0.08%, is generally the legal limit for driving in the United States, which is reached on average after 4 standard drinks defined as 14 grams of pure alcohol, though of course this varies enormously by each…
 
+- [Borderline Personality Disorder](/recovery/glossary/borderline-personality-disorder)
+
 - [Boredom](/recovery/glossary/boredom)
 
 Despite boredom being a universal experience that extends even beyond humans to other species, researchers and clinicians have historically neglected to create a consensus around its definition. In 2012, John Eastwood was part of a team that proposed a framework in a journal called Perspectives on Psychological Science: "...boredom is best described in terms of attention. A bored person doesn't…
@@ -539,6 +527,8 @@ The Brief Alcohol Screening and Intervention for College Students (BASICS) was f
 - [Brief Motivational Intervention](/recovery/glossary/brief-motivational-intervention)
 
 Brief motivational interventions (BMIs) are an individualized method to address substance use patterns with personalized feedback from facilitators applying motivational interviewing techniques. The National Institute on Alcohol Abuse and Alcoholism (NIAAA) mentions that "BMI combines a brief intervention with motivational interviewing. BMI emphasizes personal responsibility and self-efficacy of…
+
+- [Bromism](/recovery/glossary/bromism)
 
 - [Brownout](/recovery/glossary/brownout)
 
@@ -674,6 +664,8 @@ Coca is a plant native to South America known for containing the alkaloid used i
 - [Cocaine](/recovery/glossary/cocaine)
 
 Cocaine is an alkaloid derived from coca plants (primarily Erythroxylum coca) in South America that serves as a stimulant by causing a buildup of dopamine, serotonin, and norepinephrine.
+
+- [Codeine](/recovery/glossary/codeine)
 
 - [Codependence](/recovery/glossary/codependence)
 
@@ -826,10 +818,6 @@ Crosstalk, in the context of group therapy or recovery meetings, means directly 
 
 The Daubert Standard in the American judicial system provides judges and lawyers with guidelines to assess the validity of an expert witness's testimony. It includes: Testability: can the method, conclusion, or theory applied be tested and falsified? Peer Review: is there a record of peer-reviewed scientific literature that has been published validating the method or theory? Error Rate: if the…
 
-- [Death Drive](/recovery/glossary/death-drive)
-
-In Freudian psychology, the death drive is the concept that all living things have an intrinsic desire to achieve a permanent state of peace by reverting to a state of non-living inanimacy. Freud's early psychological theories proposed that humans are wired to seek pleasurable experiences while avoiding painful ones, which he termed the pleasure principle. Dreams were proposed as unconscious…
-
 - [Decriminalization](/recovery/glossary/decriminalization)
 
 Decriminalization generally refers to movements or policies that argue for undoing policies that treat substance use as a criminal activity, often by regulating substances under a harm reduction framework that puts users into treatment instead of incarceration. In the United States, decriminalization is seen as a movement in the opposite direction of the War on Drugs, which attempted to address…
@@ -902,6 +890,8 @@ Diabetes is an impairment in the body's ability to process glucose for energy. T
 
 The Diagnostic and Statistical Manual of Mental Disorders (DSM) is considered an authoritative set of standards for classifying mental health conditions. In 1952, the DSM-I was published as a 32-page booklet with 106 disorders that was heavily influenced by the psychodynamic ideas proposed by Adolf Meyer and Sigmund Freud, where mental health disorders were seen as underlying conflicts within the…
 
+- [Dialectical Behavioral Therapy](/recovery/glossary/dialectical-behavioral-therapy)
+
 - [Diet Pills](/recovery/glossary/diet-pills)
 
 Diet pills have historically referred to stimulants like amphetamines that can suppress appetites, though more recent classes of weight-loss drugs include GLP-1 agonists without the same risks of chemical dependencies. Around the 1930s, amidst the initial wave of manufacturing amphetamines, clinicians noticed that they suppressed appetites in their patients and began prescribing them for weight…
@@ -916,35 +906,57 @@ Dionysus is the Ancient Greek god associated with alcohol and celebratory festiv
 
 - [Dipsomania](/recovery/glossary/dipsomania)
 
+"Dipsomania" is an outdated term to describe habitual compulsions to drink alcohol. In the mid-19th century Victorian era, the term arose into prominence among physicians and psychiatrists as part of other monomanic compulsions like pyromania, kleptomania, and nymphomania, which put it into a pathologized and medicalized category of human behavior rather than a simple moral or willpower issue.…
+
 - [Disability](/recovery/glossary/disability)
 
 The definition of "disability" has been fluid relative to social expectations of the archetypal "standard person." Some models arguing for a biomedical framework of disability that supposes some type of medical functioning is "standard" and that deviations from that level might manifest as a disability. For instance, someone who frequently has panic attacks more often than the average person…
 
 - [Discounting](/recovery/glossary/discounting)
 
+In finance and behavioral economics, discounting refers to the process of determining the current value of future gains. For instance, getting $10 today is worth more than $10 in a week since you can invest the $10 today, while the $10 in a week will be worth less due to inflation. When businesses put products on sale, they often consider the value of being able to quickly move products to…
+
 - [Disease](/recovery/glossary/disease)
+
+While the National Cancer Institute defines disease as: "an abnormal condition that affects the structure or function of part or all of the body and is usually associated with specific signs and symptoms." "Disease" has been used in enough ways that a discussion of its usage in contexts outside of references to physiological etiologies for suffering and dysfunction is warranted. A 2004 report…
 
 - [Disorder](/recovery/glossary/disorder)
 
+The National Cancer Institute defines "disorder" thusly: "In medicine, an abnormal condition that affects the body's function but may or may not have specific signs and symptoms. A disorder may indicate that a specific disease is present, but there is usually not enough evidence to make a diagnosis. There are many different types of disorders, including physical, mental, emotional, behavioral,…
+
 - [Dissocation Informed](/recovery/glossary/dissocation-informed)
+
+"Dissocation-informed" is a relatively recent term that describes medical care and guidelines that fully consider the way dissociation can present itself. "Trauma-informed" is a related concept about updating models of treatment that overlooked the long-term impacts of trauma on the mind and body. Since dissociation is a common outcome of trauma (PTSD even has a specific Dissociative Subtype in…
 
 - [Dissociation](/recovery/glossary/dissociation)
 
+Dissociation is often defined as: "disconnections between thoughts, feelings, behaviors, sensations, and other mental processes that would normally be connected. It is a human phenomenon, experienced by all to varying degrees on a continuum ranging from benign to problematic. On one end of the continuum are experiences of daydreaming, “highway hypnosis,” or absorption and flow wherein the…
+
 - [Distress Tolerance](/recovery/glossary/distress-tolerance)
 
+Distress tolerance refers to the capacity to cope with negative experiences or internal states. In the late 1940s, Else Frenkel-Brunswik studied the concept of Tolerance of Ambiguity (TOA) to track how people handled complex, unfamiliar, or vague stimuli. Those with low TOA appeared to respond to those kinds of ambiguities with pushback and potentially destructive behaviors. After WWII, there was…
+
 - [Diversion](/recovery/glossary/diversion)
+
+"Diversions" in the context of substance use disorders and criminal justice systems refer to alternative options compared to incarceration that can be less disruptive to someone's long-term recovery or quality of life. The American Bar Association (ABA) provides several standardized definitions for diversion programs: "(a) 'Diversion' refers to any opportunity for a person to avoid arrest, to…
 
 - [Diversity Equity Inclusion](/recovery/glossary/diversity-equity-inclusion)
 
 Diversity, equity, and inclusion (DEI) initiatives are programs designed to correct historical exclusion of groups based on their identity or associations. DEI initiatives have come under a lot of scrutiny in the past decade, but I think it's extraordinarily difficult to point to any place on Earth at any point in time and argue that there was anything like a pure meritocracy that ignored…
 
+- [Donnagel](/recovery/glossary/donnagel)
+
 - [Doomscrolling](/recovery/glossary/doomscrolling)
+
+"Doomscrolling" means habitually consuming content that fuels negative or pessimistic emotions. The movable-type printing press that brought on a revolution in mass media was developed in 1440, shortly after which appeared sensationalist broadside ballads that contained gruesome and shocking stories that could be sung in spaces for public gathering, like bustling marketplaces. Often, these…
 
 - [Dopamine](/recovery/glossary/dopamine)
 
 "Dopamine is an enormously important molecule in addiction, central to th experience of learning and reward prediction, but its functioning is far more complicated than it is commonly portrayed. In a way, the popular stories about dopamine still rely on a circa-1980s level of understanding... For one thing, dopamine is not a 'pleasure' molecule: it has more to do with the feelings of desire and…
 
-- [Drift Diffusion](/recovery/glossary/drift-diffusion)
+- [Drift Diffusion Model](/recovery/glossary/drift-diffusion-model)
+
+The drift-diffusion model (DDM) is a framework in cognitive psychology and neuroscience that models how people quickly evaluate and make decisions between two choices. When we say quickly, we mean decisions with reaction times between 1 to 1.5 seconds with a single stage rather than reasoning problems that require carrying heuristics and models of a problem through multiple stages of decisions.
 
 - [Driving Under Influence Dui](/recovery/glossary/driving-under-influence-dui)
 
@@ -955,8 +967,6 @@ Diversity, equity, and inclusion (DEI) initiatives are programs designed to corr
 - [Druggist](/recovery/glossary/druggist)
 
 - [Dual Diagnosis](/recovery/glossary/dual-diagnosis)
-
-- [Dukkha](/recovery/glossary/dukkha)
 
 - [Dysphoria](/recovery/glossary/dysphoria)
 
@@ -1131,7 +1141,11 @@ In the aftermath of WWII, researchers became interested in potentially identifyi
 
 A metonymy (I think) referring to Swiss liquor.
 
+- [Geritol](/recovery/glossary/geritol)
+
 - [Geworfenheit](/recovery/glossary/geworfenheit)
+
+- [Gift Of Desperation](/recovery/glossary/gift-of-desperation)
 
 - [Gin Craze](/recovery/glossary/gin-craze)
 
@@ -1173,6 +1187,8 @@ A synonym for alcohol.
 - [Habit Forming](/recovery/glossary/habit-forming)
 
 - [Habitual Drunkenness](/recovery/glossary/habitual-drunkenness)
+
+- [Hadacol](/recovery/glossary/hadacol)
 
 - [Half Life](/recovery/glossary/half-life)
 
@@ -1427,6 +1443,12 @@ At the time that the Vedas were written, alcohol wasn't known as a distinct conc
 
 - [Methanol](/recovery/glossary/methanol)
 
+- [Methemoglobinema](/recovery/glossary/methemoglobinema)
+
+- [Methocarbamol](/recovery/glossary/methocarbamol)
+
+Methocarbamol is used as a muscle relaxant and pain reliever for health conditions that produce painful muscle spasms or cramps. Anecdotally, this didn't too much for me when taking it for the soreness following motor tics, though it did seem to provide a slight comforting tingling at a very conservative dose, well under the standard starting dosages.
+
 - [Metta](/recovery/glossary/metta)
 
 - [Mindfulness](/recovery/glossary/mindfulness)
@@ -1547,6 +1569,8 @@ NIMBY (Not in My Backyard) refers to the various movements opposed to developing
 
 - [Opium Wars](/recovery/glossary/opium-wars)
 
+- [Optogenetics](/recovery/glossary/optogenetics)
+
 - [Orbitofrontal Cortex](/recovery/glossary/orbitofrontal-cortex)
 
 - [Over The Counter Otc](/recovery/glossary/over-the-counter-otc)
@@ -1573,6 +1597,8 @@ https://onpointnyc.org/
 - [Paradox](/recovery/glossary/paradox)
 
 - [Paranoia](/recovery/glossary/paranoia)
+
+- [Paregoric](/recovery/glossary/paregoric)
 
 - [Parentification](/recovery/glossary/parentification)
 
@@ -1899,6 +1925,8 @@ In the Rig Veda, soma refers to a sacred ritual drink offered to the gods. Consu
 
 - [Spirituality](/recovery/glossary/spirituality)
 
+- [Splitting](/recovery/glossary/splitting)
+
 - [Ssp Syringe Services Program](/recovery/glossary/ssp-syringe-services-program)
 
 - [State Unintentional Drug Overdose Reporting System Sudors](/recovery/glossary/state-unintentional-drug-overdose-reporting-system-sudors)
@@ -1965,6 +1993,8 @@ An alcoholic beverage brewed from grains, sugar canes, fruits, and flower saps. 
 - [Telos](/recovery/glossary/telos)
 
 - [Temperance](/recovery/glossary/temperance)
+
+- [Terpin](/recovery/glossary/terpin)
 
 - [Thc](/recovery/glossary/thc)
 

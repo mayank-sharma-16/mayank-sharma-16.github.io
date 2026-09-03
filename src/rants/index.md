@@ -8,6 +8,10 @@ title: Rants
 
 Life is absurd. Sometimes, it's goofy and absurd. Recovery circles have some of the goofiest and most absurd shit I have ever seen, so here's a bunch of them in no particular order. The specific incident that motivated me to start sharing some of the goofy shit in these circles is when I had to roleplay as a passive-aggressive rapist in a group session. Within the confluence of events that led to…
 
+- [Good Quotes](/rants/good-quotes)
+
+Sometimes I find good quotes that haven't been turned into a Facebook meme exclusively posted by the worst people you know. Yet. "There are moments, psychologists tell us, when the passion for sin, or what the world calls sin, so dominates a nature, that every fibre of the body, as every cell of the brain, seems to be instinct with fearful impulses. Men and women at such moments lose the freedom…
+
 - [An Anti Exploration Formulation Of Healthy Masculinity](/rants/an-anti-exploration-formulation-of-healthy-masculinity)
 
 - [Aa Is Religious](/rants/aa-is-religious)
@@ -45,10 +49,6 @@ Drugs and war have gone hand-in-hand well before the War on Drugs. Ancient Mesop
 - [The Reality Based Community](/rants/the-reality-based-community)
 
 "People like you are still living in what we call the reality-based community. You believe that solutions emerge from your judicious study of discernible reality." "That's not the way the world really works anymore. We're an empire now, and when we act, we create our own reality." "And while you are studying that reality—judiciously, as you will—we'll act again, creating other new realities,…
-
-- [Good Quotes](/rants/good-quotes)
-
-Sometimes I find good quotes that haven't been turned into a meme. "Refusing the loan of life in order to avoid the debt of death." - Otto Rank
 
 - [On Decency In Health Policy](/rants/on-decency-in-health-policy)
 
@@ -164,7 +164,7 @@ The San Francisco Bay Area is one of the most competitive places in the world. S
 
 - [Good Quotes](/rants/good-quotes)
 
-Sometimes I find good quotes that haven't been turned into a meme. "Refusing the loan of life in order to avoid the debt of death." - Otto Rank
+Sometimes I find good quotes that haven't been turned into a Facebook meme exclusively posted by the worst people you know. Yet. "There are moments, psychologists tell us, when the passion for sin, or what the world calls sin, so dominates a nature, that every fibre of the body, as every cell of the brain, seems to be instinct with fearful impulses. Men and women at such moments lose the freedom…
 
 - [Goofy Shit](/rants/goofy-shit)
 

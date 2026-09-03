@@ -9,6 +9,11 @@ In Freudian psychology, the death drive is the concept that all living things ha
 Freud's early psychological theories proposed that humans are wired to seek pleasurable experiences while avoiding painful ones, which he termed the [[pleasure-principle|pleasure principle]]. Dreams were proposed as unconscious projections of one's inner desires. However, in *Beyond the Pleasure Principle (1920)*, he revised this model after failing to reconcile this principle with the existence of nightmares or children playing with tragic concepts with no pleasurable reward from doing so. Adults also seemed to make conscious decisions that seemed to be entirely against the pursuit of pleasure, suggesting another unconscious motive underneath to Freud. For instance, people might provoke others into lashing out at them in ways that evidently caused much more pain than might be offset by latent sadistic pleasures. Freud's perspective on the human condition shifted away from the idea of seeking a balanced equilibrium that invoked constant pleasure to the idea of reproducing before seeking an end of its own volition.
 
 # Commentary
+
+## Vibhava-Tanha
+Freud borrowed from "the Nirvana Principle" from Barbara Low in 1920, who committed a massive category error in interpreting Nirvana as a desire to escape consciousness rather than awaken into unconditional freedom. He connected his death drive to the Nirvana principle as a biological/materialist mechanism for the mind to achieve the psychological relief of inanimacy. Buddhism actually does propose a concept that's much closer to the death drive: vibhava-tanha, which refers to the type of craving for self-destruction and self-annihiliation in order to escape unwanted states or conditions.
+
+## Mad Men
 The very first episode of [[mad-men|Mad Men]] features a psychologist mentioning the death drive during a discussion about the motivation of consumers in choosing to use harmful products like cigarettes. She argues that people smoke because of the health warnings, not in spite of them, because the thrill of risky self-destructive behaviors appeals to a latent death drive within us. To pull from the episode's script:
 
 Greta: *"Before the war, when I studied with Adler in Vienna, we postulated that what Freud called 'the Death Wish' is as powerful a drive as those for sexual reproduction and physical sustenance."*
