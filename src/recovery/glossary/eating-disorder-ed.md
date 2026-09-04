@@ -1,3 +1,0 @@
----
-title: Eating Disorder (ED)
----

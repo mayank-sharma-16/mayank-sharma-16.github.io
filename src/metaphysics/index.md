@@ -9,6 +9,12 @@ title: Metaphysics
 
 ## Recently Modified
 
+- [Ego](/metaphysics/glossary/ego)
+
+In philosophical and psychological contexts, "ego" doesn't have the connotation of a negative byproduct of arrogance or narcissism; instead, it refers to an aspect of our identity that we construct as the "I." Unconscious or subconscious feelings are generally considered outside of the ego's scope. In casual usage, we might say something like "you have such a huge ego, you're impossible to talk…
+
+- [Maya](/metaphysics/glossary/maya)
+
 - [Death Drive](/metaphysics/glossary/death-drive)
 
 In Freudian psychology, the death drive is the concept that all living things have an intrinsic desire to achieve a permanent state of peace by reverting to a state of non-living inanimacy. Freud's early psychological theories proposed that humans are wired to seek pleasurable experiences while avoiding painful ones, which he termed the pleasure principle. Dreams were proposed as unconscious…
@@ -54,7 +60,3 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 - [Advaita Vedanta](/metaphysics/glossary/advaita-vedanta)
 
 - [Vedanta](/metaphysics/glossary/vedanta)
-
-- [Yoga](/metaphysics/glossary/yoga)
-
-- [Samkhya](/metaphysics/glossary/samkhya)
