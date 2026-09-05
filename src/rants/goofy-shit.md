@@ -166,3 +166,23 @@ The suggester is then faced with a choice: admit they proposed something unhelpf
 "Well, what would *you* say you're resentful towards?" asks the suggester with a hint of relief in their safe return to the position of questioning rather than answering.
 
 Maybe I'm just cracked, but I enjoy dysfunction. You can often learn more from how things break down than how they work as intended.
+
+# Case Nineteen
+I will not ever be interested in attending an orgy with you, especially not if my brown ass has to cross a border to do it. The exceptions already know who they are. The waitlist is closed. 
+
+# Case Twenty
+I am once again baffled at what passes for psychoeducation or group therapy that's covered by insurance as a treatment program in 2026. 
+
+"I don't have time for that shit" is not what you expect to hear from a facilitator after someone expresses that the facilitator is providing a complete contradiction to what they've heard from other facilitators and therapists. This person was very justifiably confused that the facilitator was telling them certain emotions are unhealthy, period.
+
+"Well going through something like grief is healthy-," this person said, cautiously but with a dash of critical thinking.
+
+"I know people around here who have grief disorders," the facilitator shot back, immediately trying to shut the line of questioning down. 
+
+When the person wasn't convinced and had paused for a moment to discuss the framing of emotions as healthy or unhealthy, no doubt drawing on previous groups that explicitly framed emotions as information to take feedback from, the facilitator simply shut it down: "I don't have time for that shit." 
+
+Note that this same facilitator opened the group announcing "I'm probably the most fucked up person in here" while later encouraging the idea that responding to threats to "women and children" with violence was justifiable, demonstrating how they'd curb stomp someone who hurt their hypothetical kid. We might begin to understand why this same person feels that anger might be unhealthy, and how they arrived at the conclusion that avoiding it or diffusing it immediately is the way to to be healthy in their [[emotional-sobriety|emotional sobriety]] - though some more self-awareness might help them. They also announced that they personally message over 100 people a day with spiritual quotes about sobriety, 
+
+As a general observation, far too many people in the recovery space project their own needs, insecurities, and past failures onto others. I especially observe this in men giving advice to other men through some misguided notion of tough love and breaking someone down to build them back, as if most people dealing with substance use disorders and mental health struggles have simply been too coddled into expecting too much from life. There are certainly some people who need firm rules, consequences, and hands-on guidance, but a diet version of AA pushed by someone who has elevated themselves from a peer giving empathetic advice to a facilitator running on derived institutional authority is not a good model for that. 
+
+As always, if something keeps you sober, you should feel free to completely toss out anything I say that contradicts it. The facilitator certainly had significant time being sober, though as we discussed above, that doesn't necessarily mean time being healthy.

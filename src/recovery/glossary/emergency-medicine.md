@@ -1,3 +1,10 @@
 ---
 title: Emergency Medicine
 ---
+
+# Overview
+Emergency medicine is the field of medicine concerned with diagnosing and treating health issues that require immediate care to avoid long-lasting harm or fatalities.
+
+Many who struggle with substance use disorders don't seek or receive treatment until the disorder leads to a crisis point, whether that involves external harm addressed by a criminal justice system or a health crises that could result in permanent disabilities or death. Naloxone (narcan) is one of the most commonly known emergency interventions in response to opioid overdoses, especially as fentanyl-related overdoses have become a concerning epidemic in recent years in America. Addressing the [[delirium-tremens|delirium tremens (DTs)]] of alcohol withdrawal or complications of benzodiazepine withdrawals, both of which can be particularly fatal through their ability to cause seizures. For drug users who practice injections, infections like skin abscesses and endocarditis can require urgent treatment as well. And of course, substance use can always be a factor in physical trauma such as those from car crashes that involve [[driving-under-influence|Driving Under Influence (DUI).]]
+
+Historically, emergency rooms (ERs) focused on stabilizing substance users who suffered from an overdose or required oversight for managing withdrawal before discharging them with contact information for long-term treatment facilities like rehabilitation centers. This has since changed through ED-Bridge Programs that inititate long-term treatment within ERs, such as Medication for Opioid Use Disorder (MOUD) protocols involving buprenorphine (also called Suboxone). [[substance-use-navigators|Substance use navigators (SUNs)]] are dedicated peer counselors or social workers who guide patients into clinics or rehabs for long-term management and treatment. Many ERs also embrace harm-reduction policies that distribute take-home naloxone (narcan) kits and fentanyl test strips that can address fatal overdoses without requiring a risky and costly trip to the ER.

@@ -1,3 +1,28 @@
 ---
 title: Enabling
 ---
+
+# Overview
+The American Psychological Association (APA) offers two contexts to define enabling through:
+
+1. *"a process whereby someone (i.e., the enabler) contributes to continued maladaptive or pathological behavior (e.g., child abuse, substance abuse) in another person. The enabler is typically an intimate partner or good friend who passively permits or unwittingly encourages this behavior in the other person; often, the enabler is aware of the destructiveness of the person’s behavior but feels powerless to prevent it."*
+
+2. *"the process of encouraging or allowing individuals to meet their own needs and achieve desired ends. A therapist attempts to enable clients to believe in themselves, have the confidence to act on their desires, and affirm their ability to achieve."*
+
+For substance use disorders, enabling refers to support provided for someone to continue their pattern of substance use. This can be material, emotional, financial, or other forms of support.
+
+# Commentary
+
+## Echo Valley
+[[echo-valley|*Echo Valley* (2025)]] is a movie that I praise for two things: not leaning on Sydney Sweeney's cleavage to bring in an audience, and for putting the concept of enabling at the core of a story whose events are driven by addiction rather than focusing on the spiral of addiction with enablers at the periphery as collateral damage. While the movie is certainly driven by the consequences of each character's actions, it also doesn't resort to a morality play, instead taking us through the many grey areas between different types of relationship dynamics in which we might enable each other, intentionally or unintentionally. 
+
+Kate Garrett owns a farm called Echo Valley in which she tends to horses and teaches a list of clients to ride and train them. Kate was once married to Richard and had a daughter Claire who has struggled repeatedly with substance use. At the start of the movie, we see that Kate's business is not particularly sustainable; when she struggles to afford the repairs to the roof of her barn, she visits her ex-husband and wealthy lawyer Richard to ask for a check. Richard voices what appear to be old concerns, reminding Kate that he never thought the farm was a good idea, that they aren't married anymore, and that the advice of a counselor they had visited was to stop giving money to Claire that went towards sustaining her addiction. After losing Patty, Kate begins cancelling lessons to self-isolate and attempt to cope with her grief, which doesn't help improve the financial viability of the business. Yet, Richard still cuts the check, indicating that despite his awareness that the family dynamics are built around enabling, he still struggles to just say no.
+
+We also learn that Kate had married a woman named Patty after splitting with Richard and that Patty died tragically in a horse-riding accident. The persistent crack in the ceiling above Kate's bed symbolizes the persistence of her grief, as one of the last messages Patty left her was a promise to fix that crack. Her refusal to sell the farm despite the financial losses appears tied to the way she clings to the objects that remind her of Patty, even down to Patty's death. We also hear Patty say in one message, "I just wanted to say sorry about last night. I was just drunk and being insensitive. Anyways, I'm back home in half an hour and I'm going to shower you with kisses until you forgive me." Evidently, Kate struggles with letting go of the people and things she's become attached to or setting boundaries, even to her own detriment. Patty's message foreshadows this pattern in the movie where Kate's willingness to forgive those she loves for the promise of affection and appreciation later proves to be a source of suffering.
+
+Claire inevitably shows up at Kate's farm with a story about a recent fight she just had with her boyfriend Ryan and declares her intentions to leave and start over. Kate's parental affection dominates their interactions as she tries to coax Claire into returning to school as part of a fresh start, although, in perhaps one of the few genuine moments Claire gives us when she isn't in active addiction, Claire echoes a self-defeating sentiment that Kate herself does later: "I guess it was a failure, just like the rest of my life." My interpretation of Kate's character is that she isn't particularly introspective, not out of a lack of ability, but a lack of desire. She looks for reasons to validate a narrative in which her enabling or excuses for others are a sign of her commitment, which saves her from setting boundaries that could risk a loss of the intimacy she holds onto. If you squint hard enough, being manipulated looks like being wanted. The movie takes this to a radical extent when Kate gets roped into covering for a murder and burning her barn down to pay back a dealer because Claire ropes her into her schemes.
+
+There are more subtle versions of enabling in the show too. Kate's best friend Les, in trying to help Kate let loose from the tragedies and trauma of her life, seems to be liberal with using alcohol as a means of dancing off or venting emotions. We don't see dependence comparable to Claire's addiction, but we do get the sense that Les, understandably, aims to help her friend feel comfortable rather than work through some of the obstacles and grievances in her life.
+
+# Links
+[^0]: [[https://dictionary.apa.org/enabling|APA Dictionary of Psychology]]
