@@ -13,78 +13,80 @@ title: Home
 
 ## Recently Modified
 
-- [Employee Assistance Program](/recovery/glossary/employee-assistance-program)
+- [Endocannabinoids](/recovery/glossary/endocannabinoids)
 
-An Employee Assistance Program (EAP) is defined by the U.S. Office of Personnel Management as: "a voluntary, work-based program that offers free and confidential assessments, short-term counseling, referrals, and follow-up services to employees who have personal and/or work-related problems. EAPs address a broad and complex body of issues affecting mental and emotional well-being, such as alcohol…
+Endocannabinoids, or endogenous cannabinoids, are molecules naturally made by the body that maintain the body's internal homeostatic balance through regulating mood, appetite, sleep, pain, memory, and the movement of other molecules like dopamine and serotonin. A chapter from Neurobiology and Physiology of the Endocannabinoid System (2023) describes endocannabinoids as: "a class of small…
 
-- [Empathy](/recovery/glossary/empathy)
+- [Eugenics](/recovery/glossary/eugenics)
 
-In its most basic sense, empathy describes the ability to understand how others feel, think, or believe things. The Stanford Encyclopedia of Philosophy (SEP) describes the complexity of defining and measuring the concept: "...since researchers in different disciplines have focused their investigations on very specific aspects of the broad range of empathy-related phenomena, one should probably…
+Eugenics refers to the application of selective reproduction towards creating a human population with particular genetic characteristics. It is widely considered one of the most horrific set of beliefs that humans have ever proposed and put into practice. Not only has it relied heavily on pseudoscientific essentialist frameworks that are widely refuted through empirical analyses, but it has…
 
-- [Emotional Sobriety](/recovery/glossary/emotional-sobriety)
+- [Evaluative Beliefs Scale](/recovery/glossary/evaluative-beliefs-scale)
 
-"Emotional sobriety" is a term from 12-step programs that refers to maintaining emotional, mental, and spiritual conditions conducive to a healthy and sober lifestyle. The term comes from a January 1958 issue of the AA Grapevine magazine where William Wilson (known as Bill W. in AA circles) published an article, based on an old personal letter, titled "The Next Frontier: Emotional Sobriety": "I…
+The Evaluative Beliefs Scale (EBS) is a psychological assessment in the form of a questionnaire that is designed to evaluate beliefs associated with negative affects, cognitions, and emotional disturbances such as anxiety and depression.
 
-- [Dual Diagnosis](/recovery/glossary/dual-diagnosis)
+- [Evidence Based Intervention](/recovery/glossary/evidence-based-intervention)
 
-Dual diagnosis treatment programs are iterations of substance use and mental health programs that acknowledge the co-occurrence of multiple mental health conditions and disorders alongside substance us. The relationship is bidirectional: the self-medication hypothesis claims that people use substances as a way of addressing underlying health issues that could be a source of emotional or mental…
+Evidence-based interventions (EBIs) are treatments and programs whose results have been validated through scientific research. These can include therapies like: Cognitive-Behavioral Therapy (CBT) Dialectical Behavior Therapy (DBT) Mindfulness-Based Cognitive Therapy (MBCT) Emotion-Focused Therapy (EFT) Acceptance and Commitment Therapy (ACT) Relational-Cultural Therapy (RCT) Rational Emotive…
 
-- [Electroconvulsive Therapy](/recovery/glossary/electroconvulsive-therapy)
+- [Exogenous](/recovery/glossary/exogenous)
 
-Electroconvulsive therapy (ECT) is a medical procedure that runs electrical currents to the brain and triggers seizures for mental health conditions that are otherwise treatment-resistant. This stimulates a kind of reset in the brain that can break toxic patterns without needing weeks or months like antidepressants and therapeutic interventions. I was honestly surprised that ECT was still a real…
+"Exogenous" refers to biochemical factors that originate or operate outside of a given system, in contrast to endogenous factors. Bacteria, drugs, and radiation are all considered examples of exogenous factors to the human body that can act to change its state and relative health. In the world of designer-drugs, the goal is often to produce a product that, despite being exogenous to the body,…
 
-- [Electroencephalogram](/recovery/glossary/electroencephalogram)
+- [Housing First](/recovery/glossary/housing-first)
 
-Electroencephalograms (EEGs) are tests to measure the electrical activity in the brain. EEG Neurofeedback (EEG-NF) is a medical intervention that retrains the brain's electrical patterns that connect to subconscious cues for cravings and impulsive behavior. Someone might be hooked up to a brainwave monitoring system through EEG sensors and told to achieve some rewarding tasks solely through…
+"Housing First" refers to a policy framework that addresses homelessness by directly providing housing options without requiring sobriety or treatment for any potential health conditions, including substance use disorder. I'm a huge advocate for Housing First policies. I think it's one of the most obvious solutions to the cycles of chronic homelessness and substance use that we have and treats…
 
-- [Emotional Flashback](/recovery/glossary/emotional-flashback)
+- [Human Immunodeficiency Virus](/recovery/glossary/human-immunodeficiency-virus)
 
-The term "emotional flashback" was popularized by Pete Walker in 2005: "Emotional flashbacks are sudden and often prolonged regressions ('amygdala hijackings') to the frightening circumstances of childhood. They are typically experienced as intense and confusing episodes of fear and/or despair - or as sorrowful and/or enraged reactions to this fear and despair. Emotional flashbacks are especially…
+Human immunodeficiency virus (HIV) is a chronic infection that destroys the body's immune system and spreads through the transfer of bodily fluids, including blood, semen, vaginal and rectal fluids, and even breast milk. It can be dormant or present with mild flu-like symptoms for years before progressing into chronic fevers from frequent infections and extreme fatigue. The final stage of HIV is…
 
-- [Substance Use Navigators](/recovery/glossary/substance-use-navigators)
+- [Family Based Treatment](/recovery/glossary/family-based-treatment)
 
-Substance use navigators (SUNs) are peer counselors or social workers that help stabilized patients with substance use disorders from facilities like Emergency Rooms (ERs) enter outpatient clinic or rehabilitation programs for long-term treatment.
+In the context of eating disorders, Family-Based Treatment (FBT) is an outpatient therapeutic intervention in which a trained clinician provides parents with guidance in supporting the healthy eating habits of their adolescent children.
 
-- [Goofy Shit](/rants/goofy-shit)
+- [Fascism](/recovery/glossary/fascism)
 
-Life is absurd. Sometimes, it's goofy and absurd. Recovery circles have some of the goofiest and most absurd shit I have ever seen, so here's a bunch of them in no particular order. The specific incident that motivated me to start sharing some of the goofy shit in these circles is when I had to roleplay as a passive-aggressive rapist in a group session. Within the confluence of events that led to…
+Fascism refers to a totalitarian movement or ideology that rejects individual rights and pluralistic societies in favor of a collectivized nationalist or ethnic identity maintained through strict crackdowns on expressive liberties and political opposition. In the aftermath of WWII, researchers became interested in potentially identifying markers of a "fascist personality" and even designed some…
 
-- [Emergency Medicine](/recovery/glossary/emergency-medicine)
+- [Fentanyl](/recovery/glossary/fentanyl)
 
-Emergency medicine is the field of medicine concerned with diagnosing and treating health issues that require immediate care to avoid long-lasting harm or fatalities. Many who struggle with substance use disorders don't seek or receive treatment until the disorder leads to a crisis point, whether that involves external harm addressed by a criminal justice system or a health crises that could…
+Fentanyl is a synthetic opioid that can be prescribed for severe pain after surgery or as a result of advanced cancer, and pharmaceutical versions come in patches, lozenges, injections, and nasal sprays. It's considered to be 50 to 100 times stronger than morphine and heroin. The precursor chemicals for fentanyl are manufactured primarily by industrial chemical and pharmaceutical companies in…
 
-- [Electronic Health Records](/recovery/glossary/electronic-health-records)
+- [Fentanyl Test Strips Fts](/recovery/glossary/fentanyl-test-strips-fts)
 
-Electronic health records (EHRs) are a major part of the technical infrastructure in our healthcare system. When I worked on healthcare AI problems, parsing and interpreting EHRs was a common task, and it's not as straightforward as it sounds. The proliferation of software vendors in the healthcare space often means that there are significant hurdles to clean and efficient communication of EHR…
+A fentanyl test strip (FTS) is a cheap, portable assays that can detect the presence of fentanyl in powders, pills, and injectable substances. FTS were originally manufactured for clinical settings to test human urine for fentanyl, but harm reduction activists like Tino Fuentes realized they could be used off-label to test for fentanyl prior to consumption. Syringe service programs (SSPs) and…
 
-- [Electronic Drug Delivery Devices](/recovery/glossary/electronic-drug-delivery-devices)
+- [Fellowship](/recovery/glossary/fellowship)
 
-Electronic drug delivery devices (EDDDs) are medical instruments that release medications into the body. These can include: Insulin Pumps that continuously monitor glucose levels to release insulin Connected Inhalers that use sensors to track adherence to medication schedules and log usage on devices like smartphones Iontophoretic Devices are systems that use electrical currents to push drugs…
+A fellowship is any association of people bound by common interests, friendship, or shared values. It can also refer to a financial grant or title bestowed to someone by an organization, usually in the context of research and education. In the context of peer recovery circles, a "fellowship" means a group of sober peers who regularly meet to discuss their struggles and provide mutual aid support.
 
-- [Elder Abuse](/recovery/glossary/elder-abuse)
+- [Feighner Criteria](/recovery/glossary/feighner-criteria)
 
-Elder abuse refers to intentional acts or intentional failure to act that causes harm to older adults, generally 60 or older, though this varies by legal jurisdictions. For elders who aren't necessarily capable of taking care of themselves and have caregivers, being intentionally over- or under-medicated can be classified as elder abuse. Seniors who have struggled with substance abuse in the past…
+In 1972, researchers at Washington University led by John Feighner proposed a set of diagnostic rules to be operationalized for psychologists and psychiatrists: Primary Affective Disorders, divided into depression and mania Seconday Affective Disorders, like depression resulting from another disorder or condition Schizophrenia Anxiety Neurosis Obsessive-Compulsive Neurosis Phobic Neurosis…
 
-- [Ego](/metaphysics/glossary/ego)
+- [Fatigue](/recovery/glossary/fatigue)
 
-In philosophical and psychological contexts, "ego" doesn't have the connotation of a negative byproduct of arrogance or narcissism; instead, it refers to an aspect of our identity that we construct as the "I." Unconscious or subconscious feelings are generally considered outside of the ego's scope. In casual usage, we might say something like "you have such a huge ego, you're impossible to talk…
+The International Classification of Diseases (ICD-11) defines MG22 Fatigue as: "A feeling of exhaustion, lethargy, or decreased energy, usually experienced as a weakening or depletion of one's physical or mental resource and characterised by a decreased capacity for work and reduced efficiency in responding to stimuli. Fatigue is normal following a period of exertion, mental or physical, but…
 
-- [Maya](/metaphysics/glossary/maya)
+- [Externalizing Spectrum](/recovery/glossary/externalizing-spectrum)
 
-- [Edibles](/recovery/glossary/edibles)
+The externalizing spectrumi is a psychological framework that groups impulsive and rule-breaking behaviors together because of shared predispositions in vulnerabilities and deficiencies in impulse control. This includes: Attention-Deficit Hyperactivity Disorder (ADHD) Oppositional Defiant Disorder (ODD) Conduct Disorder (CD) Antisocial Personality Disorder (ASPD) Substance use disorder (SUD)…
 
-Most commonly, "edibles" reference cannabis products that can be consumed the same as any food or drink item. The most popular edibles tend to be candies like gummies, baked goods like cookies and brownies, and other products that are based in fats like butter and oils in order to bind to the THC that produces psychoactive effects. Some forms of edibles have been around for thousands of years.…
+- [Expungement](/recovery/glossary/expungement)
 
-- [Bhang](/recovery/glossary/bhang)
+"Expungement" refers to a legal process of sealing or destroying a criminal record so that it no longer appears on background checks or public reviews. The criteria for expungement varies based on the legal jurisdiction, and especially serious crimes are often excluded from the possibility of expungement entirely.
 
-- [Mdma](/recovery/glossary/mdma)
+- [Explication](/recovery/glossary/explication)
 
-3,4-methylenedioxymethamphetamine, also known as MDMA, ecstacy, and molly, is a psychedelic stimulant known to cause euphoria, heightened senses, and deep emotional connections.
+In the philosophy of science, explication refers to the process of creating precise and logically consistent definitions for fluid and ambiguous concepts. In Logical Foundations of Probability (1950), Rudolf Carnap proposed four principles for explication: Similarity: new definitions or formulations for a concept should map onto similar old ones Exactness: definitions should have strict logical…
 
-- [Eating Disorder](/recovery/glossary/eating-disorder)
+- [Executive Dysfunction](/recovery/glossary/executive-dysfunction)
 
-Eating disorders are patterns of consumption that are based in an unhealthy level of concern about caloric intake, weight gain, body image, or relationship to food. The Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR) acknowledges the following conditions under "Feeding and Eating Disorders": Anorexia Nervosa: restriction of food intake driven by excessive concerns about weight…
+Executive dysfunction is a symptom that presents as disruption to the brain's ability to manage information, create plans, and regulate emotions. It's unfortunately all-too-common for executive dysfunction to be framed as a "character defect" like laziness, flakiness and inconsistency, or poor time management skills. Underlying disorders or conditions that might be present when observing…
 
-- [Early Maladaptive Schema](/recovery/glossary/early-maladaptive-schema)
+- [Autism Spectrum Disorder](/recovery/glossary/autism-spectrum-disorder)
 
-Under the Schema Therapy model advanced by Jeffrey Young, an early maladaptive schema (EMS) is a recurring pattern or core belief that develops in childhood or adolescence that serves as a source of dysfunction throughout one's life. Generally, these schemas are rooted in formative experiences or trauma and are strongly held in a way that shapes new information to reinforce them. Following the…
+- [Naikan](/recovery/glossary/naikan)
+
+Naikan is a Japanese approach to introspection that uses three fundamental questions about each relationship in one's life to guide a sense of gratitude and agency: What have I received from this person? What have I given to this person? What troubles and difficulties have I caused this person? Traditional naikan involves 7 days of isolation with 15 hours a day spent on self-reflection,…

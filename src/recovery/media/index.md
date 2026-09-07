@@ -14,6 +14,10 @@ title: Media
 
 ## Recently Modified
 
+- [God Is A Bullet](/recovery/media/movies/thrillers/god-is-a-bullet)
+
+"Once upon a time, I was a disease just waiting to happen. I found a ringmaster with a magic needle. And I bowed before that needle. When I got low enough, I made a God out of it. The Devil's only an idea, Bob, an excuse for evil, just as your God is an excuse for good. They're concepts. They're the needles just waiting for people like you and me to stick 'em in." "That's real deep. I mean, wow.…
+
 - [Echo Valley](/recovery/media/movies/thrillers/echo-valley)
 
 Fundamentally, this movie is about enabling. Kate enables her daughter's addiction, Richard enables his ex-wife's failing business, and Les enables her best friend's emotional decision-making. Richard chastises Kate for giving money to Claire despite her obvious motive to keep using drugs, yet Richard is indirectly financing Claire by writing thousands of dollars to Kate when unexpected costs hit…
@@ -69,5 +73,3 @@ You might have guessed that the title is a bit sensationalist; "Should we embrac
 - [Saw](/recovery/media/movies/horror/saw)
 
 The Saw franchise actually has a whole page for "Drug Addicts": https://sawfilms.fandom.com/wiki/Category:Drug_Addicts. There are 24 total including the video games. Yes, there are Saw video games.
-
-- [Swimming Pools Drank](/recovery/media/songs/swimming-pools-drank)

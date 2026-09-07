@@ -4,6 +4,16 @@ title: Glossary
 
 ## Recently Modified
 
+- [Essentialism](/metaphysics/glossary/essentialism)
+
+- [Soul](/metaphysics/glossary/soul)
+
+- [Ego Death](/metaphysics/glossary/ego-death)
+
+- [Entheos](/metaphysics/glossary/entheos)
+
+In Ancient Greek, entheos is formed out of en (within) and theos (god), forming the phrase "the god within." It was used to describe people who appeared so passionate or talented that they seemed possessed by some kind of divinity. The word "enthusiasm" comes out of "entheos" and originally referred to operating with something that seems like a divine inner spark.
+
 - [Ego](/metaphysics/glossary/ego)
 
 In philosophical and psychological contexts, "ego" doesn't have the connotation of a negative byproduct of arrogance or narcissism; instead, it refers to an aspect of our identity that we construct as the "I." Unconscious or subconscious feelings are generally considered outside of the ego's scope. In casual usage, we might say something like "you have such a huge ego, you're impossible to talk…
@@ -47,14 +57,6 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 - [Kashmir Shaivism](/metaphysics/glossary/kashmir-shaivism)
 
 - [Bhagavad Gita](/metaphysics/glossary/bhagavad-gita)
-
-- [Purva Mimamsa](/metaphysics/glossary/purva-mimamsa)
-
-- [Dvaita](/metaphysics/glossary/dvaita)
-
-- [Advaita Vedanta](/metaphysics/glossary/advaita-vedanta)
-
-- [Vedanta](/metaphysics/glossary/vedanta)
 
 ## Pages
 
@@ -233,13 +235,39 @@ In Freudian psychology, the death drive is the concept that all living things ha
 
 In philosophical and psychological contexts, "ego" doesn't have the connotation of a negative byproduct of arrogance or narcissism; instead, it refers to an aspect of our identity that we construct as the "I." Unconscious or subconscious feelings are generally considered outside of the ego's scope. In casual usage, we might say something like "you have such a huge ego, you're impossible to talk…
 
+- [Ego Death](/metaphysics/glossary/ego-death)
+
 - [Empiricism](/metaphysics/glossary/empiricism)
 
 Empiricism refers to the beliefs and practices that emphasize the value of data that can be observed in forming models of the world. This contrasts with rationalists or idealists who argue that logical principles should come first as a lens to interpret empirical data. For instance, if we conduct some experiment that suggests 2 + 2 = 5, an empiricist might argue that we have to revise the logical…
 
+- [Entheos](/metaphysics/glossary/entheos)
+
+In Ancient Greek, entheos is formed out of en (within) and theos (god), forming the phrase "the god within." It was used to describe people who appeared so passionate or talented that they seemed possessed by some kind of divinity. The word "enthusiasm" comes out of "entheos" and originally referred to operating with something that seems like a divine inner spark.
+
+- [Epicurean](/metaphysics/glossary/epicurean)
+
+- [Episteme](/metaphysics/glossary/episteme)
+
+- [Epistemic Injustice](/metaphysics/glossary/epistemic-injustice)
+
+- [Equal Opportunity](/metaphysics/glossary/equal-opportunity)
+
+- [Essentialism](/metaphysics/glossary/essentialism)
+
+- [Ethnicity](/metaphysics/glossary/ethnicity)
+
+- [Eudaimonia](/metaphysics/glossary/eudaimonia)
+
+- [Eupatheiai](/metaphysics/glossary/eupatheiai)
+
 - [Existentialism](/metaphysics/glossary/existentialism)
 
 Existentialism refers to branches of philosophy that question the nature, value, and modalities of existence. Within Western philosophy, existentialism is often broken down into a few schools: Humanism: those like Sartre argue that human experience is the center of reality and that we are free to construct our own meanings rather than pursue an objective answer from outside of us Nihilism: those…
+
+- [Explanandum](/metaphysics/glossary/explanandum)
+
+- [Explanans](/metaphysics/glossary/explanans)
 
 <a id="letter-f"></a>
 ### F
@@ -249,6 +277,8 @@ Existentialism refers to branches of philosophy that question the nature, value,
 - [Falsifiable](/metaphysics/glossary/falsifiable)
 
 Falsifiable refers to the ability for a proposition to be tested and shown to be false. For instance, page 58 of the Alcoholics Anonymous Big Book states "Rarely have we seen a person fail who has thoroughly followed our path," which is also part of the conventional preamble before meetings. This is unfalsifiable: if someone has remained sober while working the program, it's proof of the success,…
+
+- [Faustian Bargain](/metaphysics/glossary/faustian-bargain)
 
 <a id="letter-g"></a>
 ### G
@@ -353,6 +383,8 @@ My degree says I have a specialization in Intelligent Systems, but I don't reall
 - [Skepticism](/metaphysics/glossary/skepticism)
 
 - [Smartism](/metaphysics/glossary/smartism)
+
+- [Soul](/metaphysics/glossary/soul)
 
 - [Stoicism](/metaphysics/glossary/stoicism)
 
