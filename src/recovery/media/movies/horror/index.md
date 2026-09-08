@@ -4,6 +4,8 @@ title: Horror
 
 ## Recently Modified
 
+- [Stonehearst Asylum](/recovery/media/movies/horror/stonehearst-asylum)
+
 - [Warriors](/recovery/media/movies/horror/warriors)
 
 - [Talk To Me](/recovery/media/movies/horror/talk-to-me)
@@ -153,6 +155,8 @@ The Saw franchise actually has a whole page for "Drug Addicts": https://sawfilms
 Honestly, I didn't have much to say about this movie until its sequel, at which point I thought it might be interesting to examine them both to see the differences in how each of them tackled mental health.
 
 - [Smile 2](/recovery/media/movies/horror/smile-2)
+
+- [Stonehearst Asylum](/recovery/media/movies/horror/stonehearst-asylum)
 
 <a id="letter-t"></a>
 ### T

@@ -4,11 +4,26 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    () => ({
+      render: () => `<span class="header-text">Monthly Unique Visitors: 12.66k</span>`
+    })
+  ],
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Write a Note to Mank": "https://forms.gle/Sqf9tc9CoHCufKJNA"
+      "Write a Note to Mank": "https://forms.gle/Sqf9tc9CoHCufKJNA",
+      "Facebook": "https://www.facebook.com/profile.php?id=61594404141618",
+      "Instagram": "https://www.instagram.com/mank.notes/",
+      "Quora": "https://www.quora.com/profile/Mayank-Sharma-7963",
+      "Threads": "https://www.threads.com/@mank.notes",
+      "Reddit": "https://www.reddit.com/user/manknotes/",
+      "Tumblr": "https://www.tumblr.com/manknotes",
+      "BlueSky": "https://bsky.app/profile/manknotes.bsky.social",
+      "Mastodon": "https://mastodon.social/@manknotes",
+      "Substack": "https://substack.com/@manknotes",
+      "Medium": "https://medium.com/@manknotes",
+      "Letterboxd": "https://letterboxd.com/manknotes/"
     },
   }),
 }

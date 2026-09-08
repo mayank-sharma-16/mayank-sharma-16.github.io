@@ -14,6 +14,8 @@ title: Movies
 
 ## Recently Modified
 
+- [Stonehearst Asylum](/recovery/media/movies/horror/stonehearst-asylum)
+
 - [God Is A Bullet](/recovery/media/movies/thrillers/god-is-a-bullet)
 
 "Once upon a time, I was a disease just waiting to happen. I found a ringmaster with a magic needle. And I bowed before that needle. When I got low enough, I made a God out of it. The Devil's only an idea, Bob, an excuse for evil, just as your God is an excuse for good. They're concepts. They're the needles just waiting for people like you and me to stick 'em in." "That's real deep. I mean, wow.…
@@ -71,7 +73,3 @@ The Saw franchise actually has a whole page for "Drug Addicts": https://sawfilms
 - [10 Cloverfield Lane](/recovery/media/movies/horror/10-cloverfield-lane)
 
 There's one scene specifically in this movie that I like as just a very succinct story about self-sabotage that stands alone. Emmett explains how he lived his whole life in a 40 mile radius, and how he sabotages his own literal ticket out because of his insecurities about failing. Specifically, he makes sure to get so drunk that he would fail to wake up in time to move. There's something about…
-
-- [Smile](/recovery/media/movies/horror/smile)
-
-Honestly, I didn't have much to say about this movie until its sequel, at which point I thought it might be interesting to examine them both to see the differences in how each of them tackled mental health.

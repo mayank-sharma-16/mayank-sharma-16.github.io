@@ -4,6 +4,52 @@ title: Glossary
 
 ## Recently Modified
 
+- [Future Tripping](/recovery/glossary/future-tripping)
+
+"Future tripping" is a popular casual term for the concept of anticipatory anxiety, which is a form of anxiety about potential negative outcomes from an event before it happens. This can manifest as constant rumination over "what-if" worst-case scenarios and the standard physical symptoms of anxiety like muscle tensions, elevated heart rate, tension headaches, stomach discomfort, and difficulty…
+
+- [Free Energy Principle](/recovery/glossary/free-energy-principle)
+
+Proposed in 2005 by Karl Friston, the free energy principle states that any self-organizing biological or mechanical system maintains existence by minimizing internal surprisal and uncertainty through adaptations to the environment. This means that the self-organizing system must maintain some set of internal states distinct from the outside world but also have boundaries that allow information…
+
+- [Functional Magnetic Resonance Imaging](/recovery/glossary/functional-magnetic-resonance-imaging)
+
+Functional magnetic resonance imaging (fMRI) is a brain scan that monitors blood flow to map brain activity. Parts of the brain that are more active consume more oxygen, driven by the blood-oxygen-level dependent (BOLD) response. fMRI scans were instrumental in determining substance use disorders to be more than moral failings by demonstrating that parts of the brain functioned differently in…
+
+- [Freebasing](/recovery/glossary/freebasing)
+
+- [Formaldehyde](/recovery/glossary/formaldehyde)
+
+Formaldehyde is a flammable gas used in industrial manufacturing and can be dissolved in water as a way to preserve organic samples or specimens in laboratories. In underground labs, substances like tobacco and marijuana might be combined with embalming fluid, which is a mixture of formaldehyde and methanol. This has the effect of both slowing the burn rate of cigarettes and joints while causing…
+
+- [Growth Vs Fixed Mindset](/recovery/glossary/growth-vs-fixed-mindset)
+
+"Fixed mindset" is a term that refers to mindsets that viewed people and their traits as rigid and static entities. In other words, the fixed mindset is characterized by the idea that you either had talent or you didn't, and nothing you do could change that fact. It's often framed as a contrast to a "growth mindset," which views people and their traits as malleable and capable of predictable…
+
+- [First Pass Metabolism](/recovery/glossary/first-pass-metabolism)
+
+First-pass metabolism refers to the way that human bodies first metabolize compounds and substances through the digestive system before it reaches the cells to be processed again. Prescription medications often take this into consideration when designing their structure so that certain compounds are released when the dose is moving through the digestive tract while other interactions occur only…
+
+- [Firewater Myths](/recovery/glossary/firewater-myths)
+
+The firewater myth is the disproven myth that those with indigenous American heritage (including Alaskan Native tribes) have a unique genetic vulnerability to alcohol and addiction. Critical scholarship argues that it arose as a way to deflect blame from the traumas caused by colonization and genocide that disrupted communities and their ways of life. Studies have failed to find evidence to…
+
+- [Fight Flight Freeze Fawn](/recovery/glossary/fight-flight-freeze-fawn)
+
+The 4 Fs represent four general buckets of reactions to potential threats: Fight: react aggressively towards the threat Flight: run from the threat Freeze: minimize attention from the threat Fawn: try to appease the threat through flattery or negotiation It used to be common for this threat response framework to just be "fight or flight," but since then we've come to acknowledge freeze and fawn…
+
+- [Fiend](/recovery/glossary/fiend)
+
+"Fiend" is slang for someone who uses drugs compulsively, so it amounts to a more derogatory version of calling someone an "addict." Someone that's "fiending" is expressing strong cravings to either relapse or continue a bender. "Fiend" from Old English originally meant "enemy" or Satan as the enemy of mankind. Around the late 19th century, American media was using "fiend" to imply someone with…
+
+- [Fidelity](/recovery/glossary/fidelity)
+
+Fidelity is the quality of being faithful or loyal to something, sometimes with an implication of accurately reflecting something else. For instance, when examining the treatment fidelity of a therapeutic intervention, we might look at how closely the therapist follows a manualized outline to implement the intervention. Every therapist is only human after all, and each client has their own unique…
+
+- [Fermentation](/recovery/glossary/fermentation)
+
+Fermentation is a metabolic process that breaks down sugars to create acids, gases, and alcohols: Lactic acid fermentation: bacteria turn sugars into lactic acid, which is how we get yogurt, sauerkraut, kimchi, and pickles Alcoholic fermentation: yeast breaks down sugars into alcohol and carbon dioxide, which is how we produce beer, wine, and rising dough for bread Acetic acid fermentation:…
+
 - [Endocannabinoids](/recovery/glossary/endocannabinoids)
 
 Endocannabinoids, or endogenous cannabinoids, are molecules naturally made by the body that maintain the body's internal homeostatic balance through regulating mood, appetite, sleep, pain, memory, and the movement of other molecules like dopamine and serotonin. A chapter from Neurobiology and Physiology of the Endocannabinoid System (2023) describes endocannabinoids as: "a class of small…
@@ -35,52 +81,6 @@ Human immunodeficiency virus (HIV) is a chronic infection that destroys the body
 - [Family Based Treatment](/recovery/glossary/family-based-treatment)
 
 In the context of eating disorders, Family-Based Treatment (FBT) is an outpatient therapeutic intervention in which a trained clinician provides parents with guidance in supporting the healthy eating habits of their adolescent children.
-
-- [Fascism](/recovery/glossary/fascism)
-
-Fascism refers to a totalitarian movement or ideology that rejects individual rights and pluralistic societies in favor of a collectivized nationalist or ethnic identity maintained through strict crackdowns on expressive liberties and political opposition. In the aftermath of WWII, researchers became interested in potentially identifying markers of a "fascist personality" and even designed some…
-
-- [Fentanyl](/recovery/glossary/fentanyl)
-
-Fentanyl is a synthetic opioid that can be prescribed for severe pain after surgery or as a result of advanced cancer, and pharmaceutical versions come in patches, lozenges, injections, and nasal sprays. It's considered to be 50 to 100 times stronger than morphine and heroin. The precursor chemicals for fentanyl are manufactured primarily by industrial chemical and pharmaceutical companies in…
-
-- [Fentanyl Test Strips Fts](/recovery/glossary/fentanyl-test-strips-fts)
-
-A fentanyl test strip (FTS) is a cheap, portable assays that can detect the presence of fentanyl in powders, pills, and injectable substances. FTS were originally manufactured for clinical settings to test human urine for fentanyl, but harm reduction activists like Tino Fuentes realized they could be used off-label to test for fentanyl prior to consumption. Syringe service programs (SSPs) and…
-
-- [Fellowship](/recovery/glossary/fellowship)
-
-A fellowship is any association of people bound by common interests, friendship, or shared values. It can also refer to a financial grant or title bestowed to someone by an organization, usually in the context of research and education. In the context of peer recovery circles, a "fellowship" means a group of sober peers who regularly meet to discuss their struggles and provide mutual aid support.
-
-- [Feighner Criteria](/recovery/glossary/feighner-criteria)
-
-In 1972, researchers at Washington University led by John Feighner proposed a set of diagnostic rules to be operationalized for psychologists and psychiatrists: Primary Affective Disorders, divided into depression and mania Seconday Affective Disorders, like depression resulting from another disorder or condition Schizophrenia Anxiety Neurosis Obsessive-Compulsive Neurosis Phobic Neurosis…
-
-- [Fatigue](/recovery/glossary/fatigue)
-
-The International Classification of Diseases (ICD-11) defines MG22 Fatigue as: "A feeling of exhaustion, lethargy, or decreased energy, usually experienced as a weakening or depletion of one's physical or mental resource and characterised by a decreased capacity for work and reduced efficiency in responding to stimuli. Fatigue is normal following a period of exertion, mental or physical, but…
-
-- [Externalizing Spectrum](/recovery/glossary/externalizing-spectrum)
-
-The externalizing spectrumi is a psychological framework that groups impulsive and rule-breaking behaviors together because of shared predispositions in vulnerabilities and deficiencies in impulse control. This includes: Attention-Deficit Hyperactivity Disorder (ADHD) Oppositional Defiant Disorder (ODD) Conduct Disorder (CD) Antisocial Personality Disorder (ASPD) Substance use disorder (SUD)…
-
-- [Expungement](/recovery/glossary/expungement)
-
-"Expungement" refers to a legal process of sealing or destroying a criminal record so that it no longer appears on background checks or public reviews. The criteria for expungement varies based on the legal jurisdiction, and especially serious crimes are often excluded from the possibility of expungement entirely.
-
-- [Explication](/recovery/glossary/explication)
-
-In the philosophy of science, explication refers to the process of creating precise and logically consistent definitions for fluid and ambiguous concepts. In Logical Foundations of Probability (1950), Rudolf Carnap proposed four principles for explication: Similarity: new definitions or formulations for a concept should map onto similar old ones Exactness: definitions should have strict logical…
-
-- [Executive Dysfunction](/recovery/glossary/executive-dysfunction)
-
-Executive dysfunction is a symptom that presents as disruption to the brain's ability to manage information, create plans, and regulate emotions. It's unfortunately all-too-common for executive dysfunction to be framed as a "character defect" like laziness, flakiness and inconsistency, or poor time management skills. Underlying disorders or conditions that might be present when observing…
-
-- [Autism Spectrum Disorder](/recovery/glossary/autism-spectrum-disorder)
-
-- [Naikan](/recovery/glossary/naikan)
-
-Naikan is a Japanese approach to introspection that uses three fundamental questions about each relationship in one's life to guide a sense of gratitude and agency: What have I received from this person? What have I given to this person? What troubles and difficulties have I caused this person? Traditional naikan involves 7 days of isolation with 15 hours a day spent on self-reflection,…
 
 ## Pages
 
@@ -1188,17 +1188,27 @@ A fentanyl test strip (FTS) is a cheap, portable assays that can detect the pres
 
 - [Fermentation](/recovery/glossary/fermentation)
 
+Fermentation is a metabolic process that breaks down sugars to create acids, gases, and alcohols: Lactic acid fermentation: bacteria turn sugars into lactic acid, which is how we get yogurt, sauerkraut, kimchi, and pickles Alcoholic fermentation: yeast breaks down sugars into alcohol and carbon dioxide, which is how we produce beer, wine, and rising dough for bread Acetic acid fermentation:…
+
 - [Fidelity](/recovery/glossary/fidelity)
+
+Fidelity is the quality of being faithful or loyal to something, sometimes with an implication of accurately reflecting something else. For instance, when examining the treatment fidelity of a therapeutic intervention, we might look at how closely the therapist follows a manualized outline to implement the intervention. Every therapist is only human after all, and each client has their own unique…
 
 - [Fiend](/recovery/glossary/fiend)
 
+"Fiend" is slang for someone who uses drugs compulsively, so it amounts to a more derogatory version of calling someone an "addict." Someone that's "fiending" is expressing strong cravings to either relapse or continue a bender. "Fiend" from Old English originally meant "enemy" or Satan as the enemy of mankind. Around the late 19th century, American media was using "fiend" to imply someone with…
+
 - [Fight Flight Freeze Fawn](/recovery/glossary/fight-flight-freeze-fawn)
+
+The 4 Fs represent four general buckets of reactions to potential threats: Fight: react aggressively towards the threat Flight: run from the threat Freeze: minimize attention from the threat Fawn: try to appease the threat through flattery or negotiation It used to be common for this threat response framework to just be "fight or flight," but since then we've come to acknowledge freeze and fawn…
 
 - [Firewater Myths](/recovery/glossary/firewater-myths)
 
+The firewater myth is the disproven myth that those with indigenous American heritage (including Alaskan Native tribes) have a unique genetic vulnerability to alcohol and addiction. Critical scholarship argues that it arose as a way to deflect blame from the traumas caused by colonization and genocide that disrupted communities and their ways of life. Studies have failed to find evidence to…
+
 - [First Pass Metabolism](/recovery/glossary/first-pass-metabolism)
 
-- [Fixed Mindset](/recovery/glossary/fixed-mindset)
+First-pass metabolism refers to the way that human bodies first metabolize compounds and substances through the digestive system before it reaches the cells to be processed again. Prescription medications often take this into consideration when designing their structure so that certain compounds are released when the dose is moving through the digestive tract while other interactions occur only…
 
 - [Flashback](/recovery/glossary/flashback)
 
@@ -1206,11 +1216,21 @@ A fentanyl test strip (FTS) is a cheap, portable assays that can detect the pres
 
 - [Formaldehyde](/recovery/glossary/formaldehyde)
 
-- [Freebase](/recovery/glossary/freebase)
+Formaldehyde is a flammable gas used in industrial manufacturing and can be dissolved in water as a way to preserve organic samples or specimens in laboratories. In underground labs, substances like tobacco and marijuana might be combined with embalming fluid, which is a mixture of formaldehyde and methanol. This has the effect of both slowing the burn rate of cigarettes and joints while causing…
+
+- [Free Energy Principle](/recovery/glossary/free-energy-principle)
+
+Proposed in 2005 by Karl Friston, the free energy principle states that any self-organizing biological or mechanical system maintains existence by minimizing internal surprisal and uncertainty through adaptations to the environment. This means that the self-organizing system must maintain some set of internal states distinct from the outside world but also have boundaries that allow information…
+
+- [Freebasing](/recovery/glossary/freebasing)
 
 - [Functional Magnetic Resonance Imaging](/recovery/glossary/functional-magnetic-resonance-imaging)
 
+Functional magnetic resonance imaging (fMRI) is a brain scan that monitors blood flow to map brain activity. Parts of the brain that are more active consume more oxygen, driven by the blood-oxygen-level dependent (BOLD) response. fMRI scans were instrumental in determining substance use disorders to be more than moral failings by demonstrating that parts of the brain functioned differently in…
+
 - [Future Tripping](/recovery/glossary/future-tripping)
+
+"Future tripping" is a popular casual term for the concept of anticipatory anxiety, which is a form of anxiety about potential negative outcomes from an event before it happens. This can manifest as constant rumination over "what-if" worst-case scenarios and the standard physical symptoms of anxiety like muscle tensions, elevated heart rate, tension headaches, stomach discomfort, and difficulty…
 
 <a id="letter-g"></a>
 ### G
@@ -1258,6 +1278,10 @@ A synonym for alcohol.
 - [Grounding](/recovery/glossary/grounding)
 
 - [Growth Mindset](/recovery/glossary/growth-mindset)
+
+- [Growth Vs Fixed Mindset](/recovery/glossary/growth-vs-fixed-mindset)
+
+"Fixed mindset" is a term that refers to mindsets that viewed people and their traits as rigid and static entities. In other words, the fixed mindset is characterized by the idea that you either had talent or you didn't, and nothing you do could change that fact. It's often framed as a contrast to a "growth mindset," which views people and their traits as malleable and capable of predictable…
 
 - [Grue](/recovery/glossary/grue)
 
