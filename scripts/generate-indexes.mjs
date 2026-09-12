@@ -42,7 +42,7 @@ function parseFrontmatter(filePath) {
  * - Removes horizontal rules.
  * - Removes escaped Markdown syntax.
  * - Normalizes whitespace.
- * - Truncates to 150 characters.
+ * - Truncates to the supplied limit.
  * - Adds an ellipsis when truncated.
  */
 function getPreview(filePath, limit = 400) {
@@ -65,22 +65,14 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * REMOVE FENCED CODE BLOCKS
    * ============================================================
-   *
-   * Removes entire ```...``` blocks from the preview.
    */
   content = content.replace(/```[\s\S]*?```/g, "");
-
-  /*
-   * Also remove ~~~ fenced code blocks.
-   */
   content = content.replace(/~~~[\s\S]*?~~~/g, "");
 
   /*
    * ============================================================
    * REMOVE ATX HEADINGS
    * ============================================================
-   *
-   * Removes the ENTIRE heading line, including the heading text.
    *
    * # Overview
    * ## Installation
@@ -97,14 +89,6 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * REMOVE SETEXT HEADINGS
    * ============================================================
-   *
-   * Removes headings such as:
-   *
-   * Overview
-   * ========
-   *
-   * Installation
-   * ------------
    */
   content = content.replace(
     /^(.+)\r?\n\s*(?:=+|-+)\s*$/gm,
@@ -122,9 +106,6 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * REMOVE IMAGES
    * ============================================================
-   *
-   * ![alt text](image.jpg) -> ""
-   * ![alt text][image-reference] -> ""
    */
   content = content.replace(
     /!\[[^\]]*\]\([^)]*\)/g,
@@ -141,24 +122,8 @@ function getPreview(filePath, limit = 400) {
    * QUARTZ WIKILINKS
    * ============================================================
    *
-   * [[some-page|Visible Text]]
-   *     -> Visible Text
-   *
-   * [[some-page]]
-   *     -> some-page
-   *
-   * Quartz also supports an optional #section or ^block
-   * component in the target:
-   *
-   * [[some-page#section|Visible Text]]
-   *     -> Visible Text
-   *
-   * [[some-page#section]]
-   *     -> some-page
-   *
-   * The actual preview is plain text, so the link target
-   * itself is intentionally discarded when display text
-   * is provided.
+   * [[some-page|Visible Text]] -> Visible Text
+   * [[some-page]] -> some-page
    */
   content = content.replace(
     /\[\[([^|\]]+)\|([^\]]+)\]\]/g,
@@ -174,19 +139,12 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * STANDARD MARKDOWN LINKS
    * ============================================================
-   *
-   * [Link text](url) -> Link text
    */
   content = content.replace(
     /\[([^\]]+)\]\([^)]*\)/g,
     "$1",
   );
 
-  /*
-   * Reference-style links:
-   *
-   * [Link text][reference] -> Link text
-   */
   content = content.replace(
     /\[([^\]]+)\]\[[^\]]*\]/g,
     "$1",
@@ -196,8 +154,6 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * AUTOLINKS
    * ============================================================
-   *
-   * <https://example.com> -> https://example.com
    */
   content = content.replace(
     /<((?:https?:\/\/|mailto:)[^>]+)>/g,
@@ -208,8 +164,6 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * BLOCKQUOTES
    * ============================================================
-   *
-   * > quoted text -> quoted text
    */
   content = content.replace(
     /^\s{0,3}>\s?/gm,
@@ -220,12 +174,6 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * LIST MARKERS
    * ============================================================
-   *
-   * - Item -> Item
-   * * Item -> Item
-   * + Item -> Item
-   * 1. Item -> Item
-   * 1) Item -> Item
    */
   content = content.replace(
     /^\s*[-*+]\s+/gm,
@@ -241,9 +189,6 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * TASK-LIST MARKERS
    * ============================================================
-   *
-   * [x] Complete -> Complete
-   * [ ] Todo -> Todo
    */
   content = content.replace(
     /\[[ xX]\]\s+/g,
@@ -254,25 +199,18 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * TABLE SYNTAX
    * ============================================================
-   *
-   * Remove Markdown table separator rows.
    */
   content = content.replace(
     /^\s*\|?(?:\s*:?-+:?\s*\|)+\s*$/gm,
     "",
   );
 
-  /*
-   * Replace remaining table separators with spaces.
-   */
   content = content.replace(/\|/g, " ");
 
   /*
    * ============================================================
    * INLINE CODE
    * ============================================================
-   *
-   * `some code` -> some code
    */
   content = content.replace(
     /`([^`]+)`/g,
@@ -283,12 +221,6 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * BOLD / ITALIC / STRIKETHROUGH
    * ============================================================
-   *
-   * **bold** -> bold
-   * __bold__ -> bold
-   * *italic* -> italic
-   * _italic_ -> italic
-   * ~~strikethrough~~ -> strikethrough
    */
   content = content.replace(
     /(\*\*|__)(.*?)\1/g,
@@ -319,17 +251,12 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * FOOTNOTES
    * ============================================================
-   *
-   * [^1]: Footnote definition
    */
   content = content.replace(
     /^\s*\[\^[^\]]+\]:.*$/gm,
     "",
   );
 
-  /*
-   * Remove footnote references.
-   */
   content = content.replace(
     /\[\^[^\]]+\]/g,
     "",
@@ -339,8 +266,6 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * REFERENCE DEFINITIONS
    * ============================================================
-   *
-   * [reference]: https://example.com
    */
   content = content.replace(
     /^\s*\[[^\]]+\]:\s+\S+.*$/gm,
@@ -351,10 +276,6 @@ function getPreview(filePath, limit = 400) {
    * ============================================================
    * ESCAPED MARKDOWN CHARACTERS
    * ============================================================
-   *
-   * \* -> *
-   * \_ -> _
-   * \[ -> [
    */
   content = content.replace(
     /\\([\\`*_[\]{}()#+.!>~-])/g,
@@ -387,8 +308,6 @@ function getPreview(filePath, limit = 400) {
 
   /*
    * Avoid cutting a word in half where possible.
-   *
-   * Only use the previous space if it isn't too far back.
    */
   const lastSpace = preview.lastIndexOf(" ");
 
@@ -397,6 +316,78 @@ function getPreview(filePath, limit = 400) {
   }
 
   return `${preview.trim()}…`;
+}
+
+/**
+ * Generate the Daily Review preview.
+ *
+ * This intentionally differs from getPreview():
+ *
+ * - Uses a 500-character limit.
+ * - Always adds an ellipsis when a daily-review.md exists.
+ * - If the content is shorter than 500 characters, the ellipsis
+ *   is still added so the section consistently reads as a preview.
+ */
+function getDailyReviewPreview(filePath) {
+  const preview = getPreview(filePath, 500);
+
+  if (!preview) {
+    return "";
+  }
+
+  // getPreview() already adds an ellipsis when truncated.
+  // Avoid adding a second one in that case.
+  if (preview.endsWith("…")) {
+    return preview;
+  }
+
+  return `${preview}…`;
+}
+
+/**
+ * Recursively find all daily-review.md files in a directory.
+ *
+ * The search is case-insensitive.
+ */
+function getDailyReviewFiles(directory) {
+  const files = [];
+
+  function walk(currentDirectory) {
+    const entries = fs.readdirSync(
+      currentDirectory,
+      {
+        withFileTypes: true,
+      },
+    );
+
+    for (const entry of entries) {
+      if (entry.name.startsWith(".")) {
+        continue;
+      }
+
+      const entryPath = path.join(
+        currentDirectory,
+        entry.name,
+      );
+
+      if (entry.isDirectory()) {
+        walk(entryPath);
+        continue;
+      }
+
+      if (
+        entry.isFile() &&
+        entry.name.toLowerCase() ===
+          "daily-review.md"
+      ) {
+        files.push(entryPath);
+      }
+    }
+  }
+
+  walk(directory);
+
+  return files;
 }
 
 function slugify(value) {
@@ -750,9 +741,6 @@ function generateIndex(directory) {
    * ============================================================
    * DIRECT SUBFOLDERS
    * ============================================================
-   *
-   * These are listed first and independently from the
-   * recently-modified file list.
    */
   const folders = entries.filter(
     (entry) => entry.isDirectory(),
@@ -762,8 +750,6 @@ function generateIndex(directory) {
    * ============================================================
    * DIRECT FILES
    * ============================================================
-   *
-   * These are used for the alphabetical Pages section.
    */
   const pages = entries.filter(
     (entry) =>
@@ -792,8 +778,6 @@ function generateIndex(directory) {
    * ============================================================
    * FOLDERS
    * ============================================================
-   *
-   * Only direct subfolders are listed here.
    */
   if (folders.length > 0) {
     lines.push("## Folders", "");
@@ -816,6 +800,55 @@ function generateIndex(directory) {
     }
 
     lines.push("");
+  }
+
+  /*
+   * ============================================================
+   * DAILY REVIEW
+   * ============================================================
+   *
+   * Searches recursively through the CURRENT folder.
+   *
+   * If any daily-review.md exists anywhere below this
+   * directory, a Daily Review section is generated.
+   *
+   * Each review gets a 500-character sanitized preview.
+   */
+  const dailyReviewFiles =
+    getDailyReviewFiles(directory);
+
+  if (dailyReviewFiles.length > 0) {
+    lines.push(
+      "## Daily Review",
+      "",
+    );
+
+    for (const filePath of dailyReviewFiles) {
+      const preview =
+        getDailyReviewPreview(filePath);
+
+      if (!preview) {
+        continue;
+      }
+
+      /*
+       * If there are multiple daily reviews in the
+       * directory tree, identify each one by its path.
+       */
+      if (dailyReviewFiles.length > 1) {
+        const relativePath = path.relative(
+          directory,
+          filePath,
+        );
+
+        lines.push(
+          `**${relativePath}**`,
+          "",
+        );
+      }
+
+      lines.push(preview, "");
+    }
   }
 
   /*
@@ -961,3 +994,4 @@ generateIndex(CONTENT_ROOT);
 console.log(
   "\nIndex generation complete.",
 );
+

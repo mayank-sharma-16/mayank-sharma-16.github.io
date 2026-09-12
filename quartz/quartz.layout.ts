@@ -1,13 +1,15 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { h } from "preact" // 1. Add this import
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    () => ({
-      render: () => `<span class="header-text">Monthly Unique Visitors: 12.66k</span>`
-    })
+    // 2. Return a functional component via preact's element creator
+    (() => {
+      return () => h("span", { class: "header-text" }, "Monthly Unique Visitors: 13.28k")
+    })()
   ],
   afterBody: [],
   footer: Component.Footer({
