@@ -4,6 +4,10 @@ title: Glossary
 
 ## Recently Modified
 
+- [Metascience](/metaphysics/glossary/metascience)
+
+Metascience can be described simply science of science. Contrary to the expectations that science is inherently an objective pursuit of the truth in contrast to religion and spirituality as intuitive or anecdotal approaches, there are lots of subjective elements in the design of experiments, interpretation of their results, and inclusion of evidence in the development of scientific theories.
+
 - [Essentialism](/metaphysics/glossary/essentialism)
 
 - [Soul](/metaphysics/glossary/soul)
@@ -55,8 +59,6 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 - [Tantra](/metaphysics/glossary/tantra)
 
 - [Kashmir Shaivism](/metaphysics/glossary/kashmir-shaivism)
-
-- [Bhagavad Gita](/metaphysics/glossary/bhagavad-gita)
 
 ## Pages
 
@@ -283,6 +285,10 @@ Falsifiable refers to the ability for a proposition to be tested and shown to be
 <a id="letter-g"></a>
 ### G
 
+- [Gender](/metaphysics/glossary/gender)
+
+- [Geworfenheit](/metaphysics/glossary/geworfenheit)
+
 - [Grue Paradox](/metaphysics/glossary/grue-paradox)
 
 Nelson Goodman proposed the Grue Paradox, also called the Grue Problem or the New Riddle of Induction, to discuss a problem within the philosophy of science where categories constructed from present evidence can fail to predict future cases. Simply put, let's say we can observe that objects in a bucket are either green or blue today. However, after 10 years, we observe that some green objects…
@@ -329,6 +335,10 @@ My degree says I have a specialization in Intelligent Systems, but I don't reall
 - [Meta Analysis](/metaphysics/glossary/meta-analysis)
 
 - [Metacognition](/metaphysics/glossary/metacognition)
+
+- [Metascience](/metaphysics/glossary/metascience)
+
+Metascience can be described simply science of science. Contrary to the expectations that science is inherently an objective pursuit of the truth in contrast to religion and spirituality as intuitive or anecdotal approaches, there are lots of subjective elements in the design of experiments, interpretation of their results, and inclusion of evidence in the development of scientific theories.
 
 - [Moksha](/metaphysics/glossary/moksha)
 

@@ -2,7 +2,15 @@
 title: News
 ---
 
+## Folders
+
+- [Daily Reviews](/recovery/news/daily-reviews)
+
 ## Recently Modified
+
+- [Daily Reviews](/recovery/news/daily-reviews/daily-reviews)
+
+Researchers at the University of Texas at San Antonio (UTSA) have made significant breakthroughs in their focus on using midbrain astrocytes as a natural mechanism for the brain to suppress addictive compulsions. Matthew Wanat, a professor and co-principal investigator (PI) of a grant provided by the National Institute on Drug Abuse (NIDA), has led a project titled "Targeting the midbrain…
 
 - [Addiction Depictions](/recovery/news/addiction-depictions)
 

@@ -4,83 +4,77 @@ title: Glossary
 
 ## Recently Modified
 
-- [Future Tripping](/recovery/glossary/future-tripping)
+- [Gout](/recovery/glossary/gout)
 
-"Future tripping" is a popular casual term for the concept of anticipatory anxiety, which is a form of anxiety about potential negative outcomes from an event before it happens. This can manifest as constant rumination over "what-if" worst-case scenarios and the standard physical symptoms of anxiety like muscle tensions, elevated heart rate, tension headaches, stomach discomfort, and difficulty…
+Gout is a type of inflammatory arthritis resulting from uric acid crystals surrounding the body's joints after eating certain foods that contain purines. Alcohol consumption and diuretic medications both increase the concentration of uric acid in the body. Beer is actually more likely to trigger a gout flare than wine or hard liquor because it contains high levels of purines, though hard liquor…
 
-- [Free Energy Principle](/recovery/glossary/free-energy-principle)
+- [Gold Standard](/recovery/glossary/gold-standard)
 
-Proposed in 2005 by Karl Friston, the free energy principle states that any self-organizing biological or mechanical system maintains existence by minimizing internal surprisal and uncertainty through adaptations to the environment. This means that the self-organizing system must maintain some set of internal states distinct from the outside world but also have boundaries that allow information…
+A "gold standard" refers to the best possible practice, method, or benchmark available within a field or discipline. There are a handful of practices that are often considered a gold standard in treatment for substance use disorders, though it should be noted that gold standards are highly subject to change as more research is conducted and more evidence is aggregated: Medication-Assisted…
 
-- [Functional Magnetic Resonance Imaging](/recovery/glossary/functional-magnetic-resonance-imaging)
+- [Attapulgite](/recovery/glossary/attapulgite)
 
-Functional magnetic resonance imaging (fMRI) is a brain scan that monitors blood flow to map brain activity. Parts of the brain that are more active consume more oxygen, driven by the blood-oxygen-level dependent (BOLD) response. fMRI scans were instrumental in determining substance use disorders to be more than moral failings by demonstrating that parts of the brain functioned differently in…
+Attapulgite is a magnesium-aluminum silicate clay mineral that's often used as to treat diarrhea and stomach distress. It binds to bacteria and toxins in the digestive tract to harden loose stool and soothe gastrointestinal linings. It can also be found in some industrial drilling sites as a thickening agent and litter boxes for its high liquid absorption. For a while, Donnagel was one of the…
 
-- [Freebasing](/recovery/glossary/freebasing)
+- [Donnagel](/recovery/glossary/donnagel)
 
-- [Formaldehyde](/recovery/glossary/formaldehyde)
+Donnagel was a medication available both over-the-counter (OTC) and through prescriptions that addressed diarrhea and stomach distress. It was made out of a combination of kaolin, pectin, and belladonna alkaloids. The most popular version was Donnagel-PG using paregoric, which contained powdered opium dissolved in a liquid tincture. The Controlled Substances Act of 1970 in the United States…
 
-Formaldehyde is a flammable gas used in industrial manufacturing and can be dissolved in water as a way to preserve organic samples or specimens in laboratories. In underground labs, substances like tobacco and marijuana might be combined with embalming fluid, which is a mixture of formaldehyde and methanol. This has the effect of both slowing the burn rate of cigarettes and joints while causing…
+- [Hippocratic Oath](/recovery/glossary/hippocratic-oath)
 
-- [Growth Vs Fixed Mindset](/recovery/glossary/growth-vs-fixed-mindset)
+- [Dodo Bird Verdict](/recovery/glossary/dodo-bird-verdict)
 
-"Fixed mindset" is a term that refers to mindsets that viewed people and their traits as rigid and static entities. In other words, the fixed mindset is characterized by the idea that you either had talent or you didn't, and nothing you do could change that fact. It's often framed as a contrast to a "growth mindset," which views people and their traits as malleable and capable of predictable…
+The Dodo bird verdict/conjecture is a claim that all psychotherapies, when practiced with equivalent treatment fidelity, produce equivalent outcomes in a patient's symptoms. Rather than being a concrete finding that devastated the field of clinical psychology, the claim leads us to difficult questions about the biases and subjective elements of evaluating evidence of effectiveness. Some therapies…
 
-- [First Pass Metabolism](/recovery/glossary/first-pass-metabolism)
+- [Therapeutic Alliance](/recovery/glossary/therapeutic-alliance)
 
-First-pass metabolism refers to the way that human bodies first metabolize compounds and substances through the digestive system before it reaches the cells to be processed again. Prescription medications often take this into consideration when designing their structure so that certain compounds are released when the dose is moving through the digestive tract while other interactions occur only…
+- [Motion Picture Production Code](/recovery/glossary/motion-picture-production-code)
 
-- [Firewater Myths](/recovery/glossary/firewater-myths)
+- [Geritol](/recovery/glossary/geritol)
 
-The firewater myth is the disproven myth that those with indigenous American heritage (including Alaskan Native tribes) have a unique genetic vulnerability to alcohol and addiction. Critical scholarship argues that it arose as a way to deflect blame from the traumas caused by colonization and genocide that disrupted communities and their ways of life. Studies have failed to find evidence to…
+Geritol is a brand of supplements that are high in B-vitamins and iron among other minerals. For those in recovery from chronic substance use, especially alcohol, they may need to correct severe nutritional deficiencies such as a depletion of Thiamine (Vitamin B1). Geritol Liquid is sometimes used to help restore baseline levels of these nutrients. At the same time, using the supplement without…
 
-- [Fight Flight Freeze Fawn](/recovery/glossary/fight-flight-freeze-fawn)
+- [Behavioral Activation](/recovery/glossary/behavioral-activation)
 
-The 4 Fs represent four general buckets of reactions to potential threats: Fight: react aggressively towards the threat Flight: run from the threat Freeze: minimize attention from the threat Fawn: try to appease the threat through flattery or negotiation It used to be common for this threat response framework to just be "fight or flight," but since then we've come to acknowledge freeze and fawn…
+Behavioral Activation (BA) is an approach to addressing depression that considers it a response to an environment that lacks positive reinforcement through meaningful rewards and remedies it by building a plan to engage in behaviors that would naturally lift one's mood. Under a radical behaviorist perspective, depression is the result of an initial drop in mood and motivation that spirals into a…
 
-- [Fiend](/recovery/glossary/fiend)
+- [Cognitive Behavioral Therapy](/recovery/glossary/cognitive-behavioral-therapy)
 
-"Fiend" is slang for someone who uses drugs compulsively, so it amounts to a more derogatory version of calling someone an "addict." Someone that's "fiending" is expressing strong cravings to either relapse or continue a bender. "Fiend" from Old English originally meant "enemy" or Satan as the enemy of mankind. Around the late 19th century, American media was using "fiend" to imply someone with…
+Cognitive Behavioral Therapy (CBT) refers to a set of therapeutic modalities that focus on the connection between thoughts, feelings, and actions with the goal of questioning and reframing thought patterns to promote shifts in behavioral patterns. So, CBT is controversial. Perspectives on CBT are also controversial. There is no way to talk about CBT without making someone upset. But there are…
 
-- [Fidelity](/recovery/glossary/fidelity)
+- [Gift Of Desperation](/recovery/glossary/gift-of-desperation)
 
-Fidelity is the quality of being faithful or loyal to something, sometimes with an implication of accurately reflecting something else. For instance, when examining the treatment fidelity of a therapeutic intervention, we might look at how closely the therapist follows a manualized outline to implement the intervention. Every therapist is only human after all, and each client has their own unique…
+The "gift of desperation" is a term coined in Alcoholics Anonymous circles to describe a desire to change after an alcoholic hit a bottom in which they lost, or were about to lose, something important enough as to inspire intense desperation. The premise of the term is that most alcoholics are unable to change until they experience consequences so severe that the resulting hopelessness tears at…
 
-- [Fermentation](/recovery/glossary/fermentation)
+- [Gamblers Fallacy](/recovery/glossary/gamblers-fallacy)
 
-Fermentation is a metabolic process that breaks down sugars to create acids, gases, and alcohols: Lactic acid fermentation: bacteria turn sugars into lactic acid, which is how we get yogurt, sauerkraut, kimchi, and pickles Alcoholic fermentation: yeast breaks down sugars into alcohol and carbon dioxide, which is how we produce beer, wine, and rising dough for bread Acetic acid fermentation:…
+The gambler's fallacy is the belief that random outcomes of the past affect the probability of future outcomes. For example, if you're flipping a coin and it lands on 5 heads in a row, the fallacy would be in assuming that a tail is due imminently because a 50-50 chance of tails should balance out in the long-run. In reality, the coin always has a 50-50 chance of landing on heads or tails, so…
 
-- [Endocannabinoids](/recovery/glossary/endocannabinoids)
+- [Re Narcotization](/recovery/glossary/re-narcotization)
 
-Endocannabinoids, or endogenous cannabinoids, are molecules naturally made by the body that maintain the body's internal homeostatic balance through regulating mood, appetite, sleep, pain, memory, and the movement of other molecules like dopamine and serotonin. A chapter from Neurobiology and Physiology of the Endocannabinoid System (2023) describes endocannabinoids as: "a class of small…
+Re-narcotization is the unfortunate result of naloxone (Narcan) staying in the body for less time than the fentanyl it seeks to neutralize in the case of an overdose, which can lead someone to slip back into a potentially fatal overdose after naloxone wears off.
 
-- [Eugenics](/recovery/glossary/eugenics)
+- [Ginseng](/recovery/glossary/ginseng)
 
-Eugenics refers to the application of selective reproduction towards creating a human population with particular genetic characteristics. It is widely considered one of the most horrific set of beliefs that humans have ever proposed and put into practice. Not only has it relied heavily on pseudoscientific essentialist frameworks that are widely refuted through empirical analyses, but it has…
+Ginseng is a plant used in traditions of medicine across various cultures and is considered an adaptogen that promotes homeostasis by counteracting the physiological impacts associated with both physical and mental stress. It can also lead to side effects like insomnia, headaches, an upset stomach, and increased anxiety.
 
-- [Evaluative Beliefs Scale](/recovery/glossary/evaluative-beliefs-scale)
+- [Adaptogen](/recovery/glossary/adaptogen)
 
-The Evaluative Beliefs Scale (EBS) is a psychological assessment in the form of a questionnaire that is designed to evaluate beliefs associated with negative affects, cognitions, and emotional disturbances such as anxiety and depression.
+- [Gin Craze](/recovery/glossary/gin-craze)
 
-- [Evidence Based Intervention](/recovery/glossary/evidence-based-intervention)
+The Gin Craze described several decades of a trend of "rotgut gin" being consumed in increasingly large quantities by the English populace. From Carl Erik Fisher's book The Urge: Our History of Addiction (2022), gin consumption doubled from 1700 to 1720 and then again by 1729. 1743 had six times the levels of 1700. The term "gin" was popularized during this period as a shorthand for "geneva",…
 
-Evidence-based interventions (EBIs) are treatments and programs whose results have been validated through scientific research. These can include therapies like: Cognitive-Behavioral Therapy (CBT) Dialectical Behavior Therapy (DBT) Mindfulness-Based Cognitive Therapy (MBCT) Emotion-Focused Therapy (EFT) Acceptance and Commitment Therapy (ACT) Relational-Cultural Therapy (RCT) Rational Emotive…
+- [Hepatotoxicity](/recovery/glossary/hepatotoxicity)
 
-- [Exogenous](/recovery/glossary/exogenous)
+Hepatotoxicity translates literally to liver toxicity.
 
-"Exogenous" refers to biochemical factors that originate or operate outside of a given system, in contrast to endogenous factors. Bacteria, drugs, and radiation are all considered examples of exogenous factors to the human body that can act to change its state and relative health. In the world of designer-drugs, the goal is often to produce a product that, despite being exogenous to the body,…
+- [Geneva](/recovery/glossary/geneva)
 
-- [Housing First](/recovery/glossary/housing-first)
+Geneva is an older British English term for gin from the Netherlands and Belgium called jenever. You've likely noticed that Geneva is also the name of a city in Switzerland, but there's actually no connection between the city and the drink. English speakers who brought the drink home after fighting alongside the Dutch in the Eighty Years' War (1568-1648) mistakenly called it Geneva instead of…
 
-"Housing First" refers to a policy framework that addresses homelessness by directly providing housing options without requiring sobriety or treatment for any potential health conditions, including substance use disorder. I'm a huge advocate for Housing First policies. I think it's one of the most obvious solutions to the cycles of chronic homelessness and substance use that we have and treats…
+- [Ganja](/recovery/glossary/ganja)
 
-- [Human Immunodeficiency Virus](/recovery/glossary/human-immunodeficiency-virus)
-
-Human immunodeficiency virus (HIV) is a chronic infection that destroys the body's immune system and spreads through the transfer of bodily fluids, including blood, semen, vaginal and rectal fluids, and even breast milk. It can be dormant or present with mild flu-like symptoms for years before progressing into chronic fevers from frequent infections and extreme fatigue. The final stage of HIV is…
-
-- [Family Based Treatment](/recovery/glossary/family-based-treatment)
-
-In the context of eating disorders, Family-Based Treatment (FBT) is an outpatient therapeutic intervention in which a trained clinician provides parents with guidance in supporting the healthy eating habits of their adolescent children.
+Ganja, also spelled ganjah, is a traditional Sanskrit term for cannabis in the form of dried flowers and leaves, which spread to the Caribbean in the 19th century and integrated into Jamaican culture and the Rastafari movement.
 
 ## Pages
 
@@ -222,6 +216,8 @@ Acute Stress Disorder (ASD) is a short-term mental health condition that general
 - [Adaptive Treatment Strategy](/recovery/glossary/adaptive-treatment-strategy)
 
 An adaptive treatment strategy (ATS) involves tuning treatment plans based on a patient's history of responses to previous treatments. Chronic diseases and health conditions that require ongoing management and long-term coordination implicitly follow an ATS, but some patients may also have an explicitly specified ATS. https://pmc.ncbi.nlm.nih.gov/articles/PMC2739674/
+
+- [Adaptogen](/recovery/glossary/adaptogen)
 
 - [Adderall](/recovery/glossary/adderall)
 
@@ -415,6 +411,10 @@ Assertive communication refers to expressing yourself clearly without passively 
 
 Attachment theory refers to a framework of understanding the way our development influences our attachments within relationships. While the conventional formulation of attachment theory tends to separate styles into secure, anxious, avoidant, and anxious-avoidant with a strong emphasis on childhood development, modern researchers tend to see anxiety and avoidance as continuous spectrums subject…
 
+- [Attapulgite](/recovery/glossary/attapulgite)
+
+Attapulgite is a magnesium-aluminum silicate clay mineral that's often used as to treat diarrhea and stomach distress. It binds to bacteria and toxins in the digestive tract to harden loose stool and soothe gastrointestinal linings. It can also be found in some industrial drilling sites as a thickening agent and litter boxes for its high liquid absorption. For a while, Donnagel was one of the…
+
 - [Attention](/recovery/glossary/attention)
 
 "Attention" is one of those terms that suffers from being used so often that it has numerous definitions put forward by different institutions. From Lindsay, 2020: "Attention is the important ability to flexibly control limited computational resources. It has been studies in conjunction with many other topics in neuroscience and psychology including awareness, vigilance, saliency, executive…
@@ -457,6 +457,10 @@ Bed sores are injuries to the skin and underlying tissue that result from being 
 - [Bedside Manner](/recovery/glossary/bedside-manner)
 
 "Bedside manner" refers to empathetic communication skills that clinicians exercise to build trust with patients. Historically, the stigma around substance use disorders has led to an assumption that punitive measures must be taken to correct someone's behavior. Recent studies show that labeling substance use as "substance abuse" is still associated with less empathy and more punitive attitudes…
+
+- [Behavioral Activation](/recovery/glossary/behavioral-activation)
+
+Behavioral Activation (BA) is an approach to addressing depression that considers it a response to an environment that lacks positive reinforcement through meaningful rewards and remedies it by building a plan to engage in behaviors that would naturally lift one's mood. Under a radical behaviorist perspective, depression is the result of an initial drop in mood and motivation that spirals into a…
 
 - [Behavioral Economics](/recovery/glossary/behavioral-economics)
 
@@ -700,6 +704,10 @@ Cocaine is an alkaloid derived from coca plants (primarily Erythroxylum coca) in
 - [Codependence](/recovery/glossary/codependence)
 
 Codependence refers to a relationship dynamic characterized by unhealthy reliance on each other. Even when one person might appear to be entirely dependent on another, financially, socially, interpersonally, etc., the other person may have a need to feel like they're rescuing someone in order to feel secure. This doesn't apply just to romantic or family dynamics either; friendships and…
+
+- [Cognitive Behavioral Therapy](/recovery/glossary/cognitive-behavioral-therapy)
+
+Cognitive Behavioral Therapy (CBT) refers to a set of therapeutic modalities that focus on the connection between thoughts, feelings, and actions with the goal of questioning and reframing thought patterns to promote shifts in behavioral patterns. So, CBT is controversial. Perspectives on CBT are also controversial. There is no way to talk about CBT without making someone upset. But there are…
 
 - [Cognitive Capacity](/recovery/glossary/cognitive-capacity)
 
@@ -974,7 +982,13 @@ Distress tolerance refers to the capacity to cope with negative experiences or i
 
 Diversity, equity, and inclusion (DEI) initiatives are programs designed to correct historical exclusion of groups based on their identity or associations. DEI initiatives have come under a lot of scrutiny in the past decade, but I think it's extraordinarily difficult to point to any place on Earth at any point in time and argue that there was anything like a pure meritocracy that ignored…
 
+- [Dodo Bird Verdict](/recovery/glossary/dodo-bird-verdict)
+
+The Dodo bird verdict/conjecture is a claim that all psychotherapies, when practiced with equivalent treatment fidelity, produce equivalent outcomes in a patient's symptoms. Rather than being a concrete finding that devastated the field of clinical psychology, the claim leads us to difficult questions about the biases and subjective elements of evaluating evidence of effectiveness. Some therapies…
+
 - [Donnagel](/recovery/glossary/donnagel)
+
+Donnagel was a medication available both over-the-counter (OTC) and through prescriptions that addressed diarrhea and stomach distress. It was made out of a combination of kaolin, pectin, and belladonna alkaloids. The most popular version was Donnagel-PG using paregoric, which contained powdered opium dissolved in a liquid tincture. The Controlled Substances Act of 1970 in the United States…
 
 - [Doomscrolling](/recovery/glossary/doomscrolling)
 
@@ -1212,7 +1226,11 @@ First-pass metabolism refers to the way that human bodies first metabolize compo
 
 - [Flashback](/recovery/glossary/flashback)
 
+A flashback, as defined by the American Psychological Association (APA) in their online Dictionary of Psychology, has two definitions: the reliving of a traumatic event after at least some initial adjustment to the trauma appears to have been made. Memories may be triggered by words, sounds, smells, or scenes that are reminiscent of the original trauma (as in a backfiring car triggering a…
+
 - [Folk Psychology](/recovery/glossary/folk-psychology)
+
+Folk psychology, which stands apart from armchair psychology and pop psychology, refers to the common explanations used by lay people to explain concepts and predict human behavior. The moral model of addiction, which posits that individuals who compulsively use substances are simply suffering from a weak will or moral foundation, and the rational actor model, which assumes that people make…
 
 - [Formaldehyde](/recovery/glossary/formaldehyde)
 
@@ -1223,6 +1241,8 @@ Formaldehyde is a flammable gas used in industrial manufacturing and can be diss
 Proposed in 2005 by Karl Friston, the free energy principle states that any self-organizing biological or mechanical system maintains existence by minimizing internal surprisal and uncertainty through adaptations to the environment. This means that the self-organizing system must maintain some set of internal states distinct from the outside world but also have boundaries that allow information…
 
 - [Freebasing](/recovery/glossary/freebasing)
+
+A free base is a neutral, non-salt form of a compound, especially an alkaloid like cocaine, nicotine, and morphine. Many chemicals are manufactured in a salt form for the convenience of dissolving in water and remaining stable. Pharmaceutical companies manufacture different versions of drugs depending on the ideal consumption method. In recreational substance use, "freebasing" refers to…
 
 - [Functional Magnetic Resonance Imaging](/recovery/glossary/functional-magnetic-resonance-imaging)
 
@@ -1237,35 +1257,47 @@ Functional magnetic resonance imaging (fMRI) is a brain scan that monitors blood
 
 - [Gamblers Fallacy](/recovery/glossary/gamblers-fallacy)
 
+The gambler's fallacy is the belief that random outcomes of the past affect the probability of future outcomes. For example, if you're flipping a coin and it lands on 5 heads in a row, the fallacy would be in assuming that a tail is due imminently because a 50-50 chance of tails should balance out in the long-run. In reality, the coin always has a 50-50 chance of landing on heads or tails, so…
+
 - [Gambling Disorder](/recovery/glossary/gambling-disorder)
+
+"Gambling disorder" is the term used by the DSM-5 in reference to persistent gambling compulsions. Specifically, it's defined as: "Persistent and recurrent problematic gambling behavior leading to clinically significant impairment or distress, as indicated by the individual exhibiting four (or more) of the following in a 12-month period:" "needs to gamble with increasing amounts of money in order…
 
 - [Gangrene](/recovery/glossary/gangrene)
 
+Gangrene refers to the death of body tissue as a result of lost blood supply, which can be a downstream consequence of the complications of many different conditions. It should be seen as a life-threatening emergency that warrants immediate care and surgical interventions. Within the umbrella of substance use, gangrene can begin as a result of injecting drugs into arteries instead of veins which…
+
 - [Ganja](/recovery/glossary/ganja)
 
-- [Gender](/recovery/glossary/gender)
+Ganja, also spelled ganjah, is a traditional Sanskrit term for cannabis in the form of dried flowers and leaves, which spread to the Caribbean in the 19th century and integrated into Jamaican culture and the Rastafari movement.
 
 - [Geneva](/recovery/glossary/geneva)
 
-A metonymy (I think) referring to Swiss liquor.
+Geneva is an older British English term for gin from the Netherlands and Belgium called jenever. You've likely noticed that Geneva is also the name of a city in Switzerland, but there's actually no connection between the city and the drink. English speakers who brought the drink home after fighting alongside the Dutch in the Eighty Years' War (1568-1648) mistakenly called it Geneva instead of…
 
 - [Geritol](/recovery/glossary/geritol)
 
-- [Geworfenheit](/recovery/glossary/geworfenheit)
+Geritol is a brand of supplements that are high in B-vitamins and iron among other minerals. For those in recovery from chronic substance use, especially alcohol, they may need to correct severe nutritional deficiencies such as a depletion of Thiamine (Vitamin B1). Geritol Liquid is sometimes used to help restore baseline levels of these nutrients. At the same time, using the supplement without…
 
 - [Gift Of Desperation](/recovery/glossary/gift-of-desperation)
 
+The "gift of desperation" is a term coined in Alcoholics Anonymous circles to describe a desire to change after an alcoholic hit a bottom in which they lost, or were about to lose, something important enough as to inspire intense desperation. The premise of the term is that most alcoholics are unable to change until they experience consequences so severe that the resulting hopelessness tears at…
+
 - [Gin Craze](/recovery/glossary/gin-craze)
 
-The Gin Craze described several decades of a trend of "rotgut gin" being consumed in increasingly large quantities by the English populace. From Carl Erik Fisher's book The Urge: Our History of Addiction (2022), gin consumption doubled from 1700 to 1720 and then again by 1729. 1743 had six times the levels of 1700.
+The Gin Craze described several decades of a trend of "rotgut gin" being consumed in increasingly large quantities by the English populace. From Carl Erik Fisher's book The Urge: Our History of Addiction (2022), gin consumption doubled from 1700 to 1720 and then again by 1729. 1743 had six times the levels of 1700. The term "gin" was popularized during this period as a shorthand for "geneva",…
 
 - [Ginseng](/recovery/glossary/ginseng)
 
-- [Global North Global South](/recovery/glossary/global-north-global-south)
+Ginseng is a plant used in traditions of medicine across various cultures and is considered an adaptogen that promotes homeostasis by counteracting the physiological impacts associated with both physical and mental stress. It can also lead to side effects like insomnia, headaches, an upset stomach, and increased anxiety.
 
 - [Gold Standard](/recovery/glossary/gold-standard)
 
+A "gold standard" refers to the best possible practice, method, or benchmark available within a field or discipline. There are a handful of practices that are often considered a gold standard in treatment for substance use disorders, though it should be noted that gold standards are highly subject to change as more research is conducted and more evidence is aggregated: Medication-Assisted…
+
 - [Gout](/recovery/glossary/gout)
+
+Gout is a type of inflammatory arthritis resulting from uric acid crystals surrounding the body's joints after eating certain foods that contain purines. Alcohol consumption and diuretic medications both increase the concentration of uric acid in the body. Beer is actually more likely to trigger a gout flare than wine or hard liquor because it contains high levels of purines, though hard liquor…
 
 - [Gratification](/recovery/glossary/gratification)
 
@@ -1326,11 +1358,17 @@ The time it takes for something to decrease by half.
 
 - [Hepatitis C Virus](/recovery/glossary/hepatitis-c-virus)
 
+- [Hepatotoxicity](/recovery/glossary/hepatotoxicity)
+
+Hepatotoxicity translates literally to liver toxicity.
+
 - [Heroin](/recovery/glossary/heroin)
 
 - [Higher Power](/recovery/glossary/higher-power)
 
 - [Hippocampus](/recovery/glossary/hippocampus)
+
+- [Hippocratic Oath](/recovery/glossary/hippocratic-oath)
 
 - [Historiography](/recovery/glossary/historiography)
 
@@ -1600,6 +1638,8 @@ Methocarbamol is used as a muscle relaxant and pain reliever for health conditio
 - [Morphinism](/recovery/glossary/morphinism)
 
 "The term 'morphinism,' or morphine disease, is used in this work to include all forms of opium disease. In fact, it is intended in most instances to be the equivalent of narcotic disease. While sixteen alkaloids have been isolated from opium, morphine is present in so much larger quantities, and is so much more potent than any of the other alkaloids, that practically all the medicinal or…
+
+- [Motion Picture Production Code](/recovery/glossary/motion-picture-production-code)
 
 - [Motivated Belief](/recovery/glossary/motivated-belief)
 
@@ -1888,6 +1928,10 @@ Philopotes is an ancient Greek term that translates literally to lover of drinki
 
 - [Rational Choice Theory](/recovery/glossary/rational-choice-theory)
 
+- [Re Narcotization](/recovery/glossary/re-narcotization)
+
+Re-narcotization is the unfortunate result of naloxone (Narcan) staying in the body for less time than the fentanyl it seeks to neutralize in the case of an overdose, which can lead someone to slip back into a potentially fatal overdose after naloxone wears off.
+
 - [Reconsolidation](/recovery/glossary/reconsolidation)
 
 - [Recovery](/recovery/glossary/recovery)
@@ -2127,6 +2171,8 @@ An alcoholic beverage brewed from grains, sugar canes, fruits, and flower saps. 
 - [Terpin](/recovery/glossary/terpin)
 
 - [Thc](/recovery/glossary/thc)
+
+- [Therapeutic Alliance](/recovery/glossary/therapeutic-alliance)
 
 - [Therapeutic Entitlement](/recovery/glossary/therapeutic-entitlement)
 

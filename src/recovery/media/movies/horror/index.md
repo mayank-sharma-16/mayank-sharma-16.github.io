@@ -6,6 +6,8 @@ title: Horror
 
 - [Stonehearst Asylum](/recovery/media/movies/horror/stonehearst-asylum)
 
+"Misery has a way of clarifying one's convictions."
+
 - [Warriors](/recovery/media/movies/horror/warriors)
 
 - [Talk To Me](/recovery/media/movies/horror/talk-to-me)
@@ -157,6 +159,8 @@ Honestly, I didn't have much to say about this movie until its sequel, at which 
 - [Smile 2](/recovery/media/movies/horror/smile-2)
 
 - [Stonehearst Asylum](/recovery/media/movies/horror/stonehearst-asylum)
+
+"Misery has a way of clarifying one's convictions."
 
 <a id="letter-t"></a>
 ### T

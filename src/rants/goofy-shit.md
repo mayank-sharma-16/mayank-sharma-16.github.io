@@ -122,6 +122,8 @@ The anti-Semitism isn't remotely surprising, but the gentleman's emphasis on por
 
 People like this are why I cannot stomach the AA standards about having no opinion on outside issues. I am not opening up about the intergenerational trauma and structural differences in my lived experiences resulting from colonialism, imperialism, racism, and xenophobia in a room with people like that. And if I'm perfectly honest, I don't much care to keep them sober either when their sobriety directly contributes to movements that produce the trauma that makes sobriety harder for others. If they insist on making recovery a zero-sum game, I insist on meeting that energy.
 
+UPDATE: the same person said "don't you know Muslims date 10 year olds?" while freewheeling between Muslims in the recovery program and Zohran Mamdani.
+
 # Case Sixteen
 Maybe I'm just old and conservative, as my new white hairs suggest, but I am not necessarily on board with the idea of doing whiteface as part of gender-affirming care. 
 
@@ -186,3 +188,20 @@ Note that this same facilitator opened the group announcing "I'm probably the mo
 As a general observation, far too many people in the recovery space project their own needs, insecurities, and past failures onto others. I especially observe this in men giving advice to other men through some misguided notion of tough love and breaking someone down to build them back, as if most people dealing with substance use disorders and mental health struggles have simply been too coddled into expecting too much from life. There are certainly some people who need firm rules, consequences, and hands-on guidance, but a diet version of AA pushed by someone who has elevated themselves from a peer giving empathetic advice to a facilitator running on derived institutional authority is not a good model for that. 
 
 As always, if something keeps you sober, you should feel free to completely toss out anything I say that contradicts it. The facilitator certainly had significant time being sober, though as we discussed above, that doesn't necessarily mean time being healthy.
+
+# Case Twenty-One
+Top three jankiest ways I've been transported:
+
+1. a rickshaw of eight people, meant to seat 3 people, where I was on the lap of the driver and an uncle was hanging out the side of the door, speeding on the wrong lane of the highway to get around a traffic jam
+
+2. a camel
+
+3. hitching a ride with an entire sober living house in the backseat of a BMW of someone's Tinder match on their first date, who by all accounts was a lovely young woman
+
+# Case Twenty-Two
+Please do not cite Charlie Kirk as a source on intergenerational trauma in a recovery group. 
+
+# Case Twenty-Three
+Please do not share your opinions on the (ongoing, as of 9/11/26) Iran War as an example of healthy or unhealthy conflict in a recovery group. 
+
+There is no greater combination of ignorance and arrogance than that of the median voter who informs themselves through TikTok and Facebook memes. Seriously, you guys are making me reconsider my support for this whole democracy thing.

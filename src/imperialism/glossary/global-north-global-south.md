@@ -1,0 +1,13 @@
+---
+title: Global North, Global South
+---
+
+# Overview
+The dichotomy of the Global North and Global South describes a split in the world between nations considered forward-looking and progressive versus those considered backwards-looking and regressive. 
+
+# History and Etymology
+An early version of this concept can be found in the works of Hans Singer and Raul Prebisch, who argued against the idea that trade between developing and developed nations would naturally lift all social classes of all nations out of poverty over time. Instead, they claimed that, as the price of primarity commodities fell in comparison to the price of manufactured goods, developing nations that focused on extracting and managing raw materials would actually suffer a decrease in their ability to industrialize. More raw materials would have to be exported from a developing nation per piece of manufactured good or industrial equipment imported from a developed nation.
+
+Consider a nation like Colombia that's well-suited to produce lots of coffee and a nation like Germany that has the capital to produce tractors efficiently. Let's say Colombia has to export 100 bags of coffee to import 1 tractor. This might make it easier for Colombia to produce more coffee, so say they double the production of coffee over the next few years. However, this doesn't mean the German population will necessarily consume twice as much coffee to match the production from Colombia. At the same time, Germany might be innovating to produce more advanced tractors, and German laborers might negotiate better wages and working conditions for themselves. So the cost of producing and acquiring a tractor rises while there's no significant change in the demand for coffee. Colombia might need to trade 400 bags of coffee to import the same tractor they previously acquired for 100 bags of coffee. This dynamic, which has found increasing empirical validation from economic studies since it was proposed, means that wealth is steadily transferred from Colombia to Germany even as both nations advance their industrialization.
+
+Various terms have been suggested when [[explication|explicating]] this inequality between nations. The works of Singer and Prebisch suggest a "Core-Periphery" model where nations on the "Periphery" are forever bound to be exploited by the "Core" nations. Franz Fanon describes a compartmentalization between colonialist powers and colonized peoples. Carl Oglesby is credited with using the term "Global South" when arguing against the Vietnam War in his "Briefing on Vietnam" (1969) published in the magazine *Liberation.*

@@ -14,7 +14,13 @@ title: Movies
 
 ## Recently Modified
 
+- [Reefer Madness](/recovery/media/movies/exploitation/reefer-madness)
+
+"The motion picture you are about to witness may startle you. It would not have been possible, otherwise, to sufficiently emphasize the frightful toll of the new drug menace which is destroying the youth of America in alarmingly-increasing numbers." "Marihuana is that drug - a violent narcotic - an unspeakable scourge - The Real Public Enemy Number One!" "Its first effect is sudden, violent,…
+
 - [Stonehearst Asylum](/recovery/media/movies/horror/stonehearst-asylum)
+
+"Misery has a way of clarifying one's convictions."
 
 - [God Is A Bullet](/recovery/media/movies/thrillers/god-is-a-bullet)
 
@@ -23,10 +29,6 @@ title: Movies
 - [Echo Valley](/recovery/media/movies/thrillers/echo-valley)
 
 Fundamentally, this movie is about enabling. Kate enables her daughter's addiction, Richard enables his ex-wife's failing business, and Les enables her best friend's emotional decision-making. Richard chastises Kate for giving money to Claire despite her obvious motive to keep using drugs, yet Richard is indirectly financing Claire by writing thousands of dollars to Kate when unexpected costs hit…
-
-- [Reefer Madness](/recovery/media/movies/exploitation/reefer-madness)
-
-"The motion picture you are about to witness may startle you. It would not have been possible, otherwise, to sufficiently emphasize the frightful toll of the new drug menace which is destroying the youth of America in alarmingly-increasing numbers." "Marihuana is that drug - a violent narcotic - an unspeakable scourge - The Real Public Enemy Number One!" "Its first effect is sudden, violent,…
 
 - [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
 

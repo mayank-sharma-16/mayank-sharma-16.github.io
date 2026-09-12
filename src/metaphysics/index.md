@@ -9,6 +9,10 @@ title: Metaphysics
 
 ## Recently Modified
 
+- [Metascience](/metaphysics/glossary/metascience)
+
+Metascience can be described simply science of science. Contrary to the expectations that science is inherently an objective pursuit of the truth in contrast to religion and spirituality as intuitive or anecdotal approaches, there are lots of subjective elements in the design of experiments, interpretation of their results, and inclusion of evidence in the development of scientific theories.
+
 - [Essentialism](/metaphysics/glossary/essentialism)
 
 - [Soul](/metaphysics/glossary/soul)
@@ -60,5 +64,3 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 - [Tantra](/metaphysics/glossary/tantra)
 
 - [Kashmir Shaivism](/metaphysics/glossary/kashmir-shaivism)
-
-- [Bhagavad Gita](/metaphysics/glossary/bhagavad-gita)
