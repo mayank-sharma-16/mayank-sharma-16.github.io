@@ -28,3 +28,7 @@ The dichotomy of the Global North and Global South describes a split in the worl
 - [Statism And Anarchy](/imperialism/literature/statism-and-anarchy)
 
 - [Imperialism The Highest Stage Of Capitalism](/imperialism/literature/imperialism-the-highest-stage-of-capitalism)
+
+- [Historiography](/imperialism/glossary/historiography)
+
+- [Hate Crime](/imperialism/glossary/hate-crime)

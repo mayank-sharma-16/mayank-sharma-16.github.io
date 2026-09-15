@@ -4,77 +4,85 @@ title: Glossary
 
 ## Recently Modified
 
-- [Gout](/recovery/glossary/gout)
+- [Homeostasis](/recovery/glossary/homeostasis)
 
-Gout is a type of inflammatory arthritis resulting from uric acid crystals surrounding the body's joints after eating certain foods that contain purines. Alcohol consumption and diuretic medications both increase the concentration of uric acid in the body. Beer is actually more likely to trigger a gout flare than wine or hard liquor because it contains high levels of purines, though hard liquor…
+Homeostasis is the process through which an organism's body attempts to regulate itself to some baseline of stable balance, essentially forming a negative feedback process in response to either internal or external changes. This contrasts with allostasis, in which the body predicts that a change will happen and proactively adjusts itself in anticipation to preserve some kind of baseline…
 
-- [Gold Standard](/recovery/glossary/gold-standard)
+- [Hospital Anxiety And Depression Scale](/recovery/glossary/hospital-anxiety-and-depression-scale)
 
-A "gold standard" refers to the best possible practice, method, or benchmark available within a field or discipline. There are a handful of practices that are often considered a gold standard in treatment for substance use disorders, though it should be noted that gold standards are highly subject to change as more research is conducted and more evidence is aggregated: Medication-Assisted…
+The Hospital Anxiety and Depression Scale (HADS) is a self-report questionnaire that serves as a screening for anxiety and depression. The fourteen items, each ranked somewhere between 0 and 3 depending on frequency or intensity, are split between Anxiety and Depression. For Anxiety: I feel tense or 'wound up' I get a sort of frightened feeling as if something awful is about to happen Worrying…
 
-- [Attapulgite](/recovery/glossary/attapulgite)
+- [Hungry Angry Lonely Tired Halt](/recovery/glossary/hungry-angry-lonely-tired-halt)
 
-Attapulgite is a magnesium-aluminum silicate clay mineral that's often used as to treat diarrhea and stomach distress. It binds to bacteria and toxins in the digestive tract to harden loose stool and soothe gastrointestinal linings. It can also be found in some industrial drilling sites as a thickening agent and litter boxes for its high liquid absorption. For a while, Donnagel was one of the…
+The HALT acronym points to four emotional states that make one more vulnerable to impulsive decision-making. It originated in 12-step programs as a way to stave off the triggers or cravings for a potential relapse. Hungry: low blood sugar can be a source of irritability and anxiety Angry: many people within recovery spaces will stand by the claim that resentment is the number one trigger of…
 
-- [Donnagel](/recovery/glossary/donnagel)
+- [Holding Space](/recovery/glossary/holding-space)
 
-Donnagel was a medication available both over-the-counter (OTC) and through prescriptions that addressed diarrhea and stomach distress. It was made out of a combination of kaolin, pectin, and belladonna alkaloids. The most popular version was Donnagel-PG using paregoric, which contained powdered opium dissolved in a liquid tincture. The Controlled Substances Act of 1970 in the United States…
+"Holding space" is a pop psychology term that refers to listening and witnessing someone's emotions without attempting to judge their solutions or provide one yourself. It differs from the idea of being a good listener in that holding space focuses on allowing someone to express their emotions without judgment while good listening often involves active participation in a conversation. The concept…
 
-- [Hippocratic Oath](/recovery/glossary/hippocratic-oath)
+- [Holistic](/recovery/glossary/holistic)
 
-- [Dodo Bird Verdict](/recovery/glossary/dodo-bird-verdict)
+"Holistic" means a consideration of all aspects of a situation or circumstance. In college applications, "holistic review" refers to an admissions review process that considers every aspect of a student's profile like extracurricular activities and personal struggles rather than just their test scores and GPA. In healthcare, "holistic care" refers to an approach that considers every aspect of…
 
-The Dodo bird verdict/conjecture is a claim that all psychotherapies, when practiced with equivalent treatment fidelity, produce equivalent outcomes in a patient's symptoms. Rather than being a concrete finding that devastated the field of clinical psychology, the claim leads us to difficult questions about the biases and subjective elements of evaluating evidence of effectiveness. Some therapies…
+- [Heat Not Burn](/recovery/glossary/heat-not-burn)
 
-- [Therapeutic Alliance](/recovery/glossary/therapeutic-alliance)
+Heat-not-burn (HnB) devices heat tobacco leaves just enough to create an aerosolized version of a nicotine vapor instead of burning tobacco completely like in traditional cigarettes. This still exposes users and those around them to toxins and carcinogens, but less than traditional cigarette smoke. The United States Food and Drug Administration does not consider it an aid in quitting tobacco or…
 
-- [Motion Picture Production Code](/recovery/glossary/motion-picture-production-code)
+- [Hashish](/recovery/glossary/hashish)
 
-- [Geritol](/recovery/glossary/geritol)
-
-Geritol is a brand of supplements that are high in B-vitamins and iron among other minerals. For those in recovery from chronic substance use, especially alcohol, they may need to correct severe nutritional deficiencies such as a depletion of Thiamine (Vitamin B1). Geritol Liquid is sometimes used to help restore baseline levels of these nutrients. At the same time, using the supplement without…
-
-- [Behavioral Activation](/recovery/glossary/behavioral-activation)
-
-Behavioral Activation (BA) is an approach to addressing depression that considers it a response to an environment that lacks positive reinforcement through meaningful rewards and remedies it by building a plan to engage in behaviors that would naturally lift one's mood. Under a radical behaviorist perspective, depression is the result of an initial drop in mood and motivation that spirals into a…
-
-- [Cognitive Behavioral Therapy](/recovery/glossary/cognitive-behavioral-therapy)
-
-Cognitive Behavioral Therapy (CBT) refers to a set of therapeutic modalities that focus on the connection between thoughts, feelings, and actions with the goal of questioning and reframing thought patterns to promote shifts in behavioral patterns. So, CBT is controversial. Perspectives on CBT are also controversial. There is no way to talk about CBT without making someone upset. But there are…
-
-- [Gift Of Desperation](/recovery/glossary/gift-of-desperation)
-
-The "gift of desperation" is a term coined in Alcoholics Anonymous circles to describe a desire to change after an alcoholic hit a bottom in which they lost, or were about to lose, something important enough as to inspire intense desperation. The premise of the term is that most alcoholics are unable to change until they experience consequences so severe that the resulting hopelessness tears at…
-
-- [Gamblers Fallacy](/recovery/glossary/gamblers-fallacy)
-
-The gambler's fallacy is the belief that random outcomes of the past affect the probability of future outcomes. For example, if you're flipping a coin and it lands on 5 heads in a row, the fallacy would be in assuming that a tail is due imminently because a 50-50 chance of tails should balance out in the long-run. In reality, the coin always has a 50-50 chance of landing on heads or tails, so…
-
-- [Re Narcotization](/recovery/glossary/re-narcotization)
-
-Re-narcotization is the unfortunate result of naloxone (Narcan) staying in the body for less time than the fentanyl it seeks to neutralize in the case of an overdose, which can lead someone to slip back into a potentially fatal overdose after naloxone wears off.
-
-- [Ginseng](/recovery/glossary/ginseng)
-
-Ginseng is a plant used in traditions of medicine across various cultures and is considered an adaptogen that promotes homeostasis by counteracting the physiological impacts associated with both physical and mental stress. It can also lead to side effects like insomnia, headaches, an upset stomach, and increased anxiety.
-
-- [Adaptogen](/recovery/glossary/adaptogen)
-
-- [Gin Craze](/recovery/glossary/gin-craze)
-
-The Gin Craze described several decades of a trend of "rotgut gin" being consumed in increasingly large quantities by the English populace. From Carl Erik Fisher's book The Urge: Our History of Addiction (2022), gin consumption doubled from 1700 to 1720 and then again by 1729. 1743 had six times the levels of 1700. The term "gin" was popularized during this period as a shorthand for "geneva",…
+Hashish is a cannabis concentrate made by compressing the plant's resin glands, called trichomes, which contain high levels of cannabinoids like THC that produce intense psychoactive effects.
 
 - [Hepatotoxicity](/recovery/glossary/hepatotoxicity)
 
-Hepatotoxicity translates literally to liver toxicity.
+Hepatotoxicity literally means liver toxicity. Specifically, it refers to the liver damage that might be caused by prescription medications, substance use, herbal supplements, and exposure to toxins. For the most common substances in disorders: Cocaine overdoses can cut off oxygen and blood flow to cause sudden cell death in the liver MDMA and methamphetamine can cause extremely high body…
 
-- [Geneva](/recovery/glossary/geneva)
+- [Hippocampus](/recovery/glossary/hippocampus)
 
-Geneva is an older British English term for gin from the Netherlands and Belgium called jenever. You've likely noticed that Geneva is also the name of a city in Switzerland, but there's actually no connection between the city and the drink. English speakers who brought the drink home after fighting alongside the Dutch in the Eighty Years' War (1568-1648) mistakenly called it Geneva instead of…
+The hippocampus is a part of the brain's limbic system that handles the formation of long-term memories, processing of spatial information, and association of emotions to experiences. With chronic substance use, the hippocampus stores the people, places, and things as cues associated with the high of using substances. The processes of long-term potentiation (LTP), in which the connections between…
 
-- [Ganja](/recovery/glossary/ganja)
+- [Hippocratic Oath](/recovery/glossary/hippocratic-oath)
 
-Ganja, also spelled ganjah, is a traditional Sanskrit term for cannabis in the form of dried flowers and leaves, which spread to the Caribbean in the 19th century and integrated into Jamaican culture and the Rastafari movement.
+The Hippocratic Oath is an ethical commitment that medical professionals take in the interests of building confidence that their actions will be solely for the benefit of the patient's health. The traditional Hippocratic Oath, as printed by Johns Hopkins Press in a publication by Ludwing Edelstein in 1943, reads, I swear by Apollo Physician and Asciepius and Hygieia and Panaceia and all the gods…
+
+- [Heroin](/recovery/glossary/heroin)
+
+Heroin, or diacetylmorphine, is a synthetically manufactured substance that uses natural morphine as a base before being altered with chemical groups to dissolve more effectively in lipids and penetrate the blood-brain barrier. It metabolizes back into morphine inside the central nervous system, but the rapid and concentrated delivery presents more intense impacts and a higher risk of dependency…
+
+- [Higher Power](/recovery/glossary/higher-power)
+
+"Higher Power" refers to a religious deity, spiritual force, or other entity that has a role or power over one's life. The 12 steps of Alcoholics Anonymous (AA) explicitly call on individuals to submit to or engage with some kind of Higher Power in Steps Two, Three, Five, Six, Seven, and Eleven. The language of "Higher Power" was used in the place of "God" in AA in an attempt to make the program…
+
+- [Hepatitis C Virus](/recovery/glossary/hepatitis-c-virus)
+
+The Hepatitis C virus (HCV) is an infection that attaches to liver cells and causes inflammation and liver damage. White blood cells that attempt to destroy the virus end up killing healthy liver cells. The virus clears up in 30% of people within six months without treatment, and many people in this stage may not appear sick or show symptoms that can be attributed to other conditions. 70% of…
+
+- [Hazardous Medicinal Products](/recovery/glossary/hazardous-medicinal-products)
+
+Hazardous medicinal products (HMPs) are pharmaceutical substances that can have adverse health consequences or present health risks to both the healthcare workers managing them and the patients ingesting them. There is no single definition that's universal, as different regulatory agencies use different processes to arrive at the label. Even within the United States alone, NIOSH, OSHA, the EPA,…
+
+- [Hadacol](/recovery/glossary/hadacol)
+
+Hadacol was a vitamin and mineral supplement mixed in a 12% alcohol solution. The story of Hadacol is one of the many that can make someone in 2026 wonder if everyone was just always wasted on something in the 20th century. Hadacol was a backyard laboratory concoction made by Louisiana State Senator Dudley J. LeBlanc, who had no medical training and was trying to reverse-engineer a painkiller his…
+
+- [Half Life](/recovery/glossary/half-life)
+
+"Half-life" is the period of time it takes for the amount of some substance to reduce by half. You might be wondering why we use "half-life" to measure the duration of a drug instead of its total lifetime or an hourly rate, which might be more intuitive. In many chemical reactions, the concentration of substances follows exponential decay closely, which means that it disappears quickly at first,…
+
+- [Hallucinogenic](/recovery/glossary/hallucinogenic)
+
+Hallucinogens are defined in the American Psychological Association's Dictionary of Psychology as: "a substance capable of producing a sensory effect (visual, auditory, olfactory, gustatory, or tactile) in the absence of an actual stimulus. Because they produce alterations in perception, cognition, and mood, hallucinogens are also called psychedelic drugs or psychedelics (from the Greek, meaning…
+
+- [Hangover](/recovery/glossary/hangover)
+
+Hangovers refer to the unpleasant feelings and physical symptoms that start shortly after the levels of the substance in the body return to almost zero, most commonly in reference to alcohol, where the symptoms include: Headaches, thirst, and dry mouth: alcohol blocks the release of vasopressin, an antidiuretic hormone that inhibits the reabsorption of water by the kidneys (which is why you feel…
+
+- [Harm Reduction](/recovery/glossary/harm-reduction)
+
+Harm reduction is an approach to substance use policy and treatment that views any reduction in substance use to be a victory, in contrast to viewing anything except total abstinence as a defeat. These policies include: Syringe Services Programs (SSPs) Naloxone Distribution Policies Overdose Prevention Centers (OPCs) Opioid Agonist Therapy (OAT) Fentanyl Test Strips (FTS) Managed Alcohol Programs…
+
+- [Habitual Drunkenness](/recovery/glossary/habitual-drunkenness)
+
+Habitual drunkenness, much like habit forming and other terms associated with "habit", is an outdated reference to some constant use of alcohol that might today be described as "alcoholic dependence", "alcoholism", or "alcohol use disorder." "Habitual drunkenness" is a term we can trace at least as far back as Benjamin Rush, a prominent physician who was alive to sign the Declaration of…
 
 ## Pages
 
@@ -1301,86 +1309,114 @@ Gout is a type of inflammatory arthritis resulting from uric acid crystals surro
 
 - [Gratification](/recovery/glossary/gratification)
 
-- [Grey Rock](/recovery/glossary/grey-rock)
+Gratification is defined in the American Psychological Association's Dictionary of Psychology as: "the state of satisfaction following the fulfillment of a desire or the meeting of a need." There are several dimensions of gratification: Instant/Immediate Gratification vs. Delayed Gratification, with the former driven by the limbic system chased dopamine and the latter managed by a prefrontal…
+
+- [Grey Rock Method](/recovery/glossary/grey-rock-method)
+
+Grey rocking, or the grey rock method, is the practice of making oneself as non-response and non-reactive as possible in order to avoid giving manipulative individuals the reactions or attention they're looking for. This can look like: One- or two-word answers like "yes," "no," and "okay" that try to end the conversation as soon as possible Limiting emotional expressions like keeping a neutral or…
 
 - [Grog](/recovery/glossary/grog)
 
-A synonym for alcohol.
+Grog is a synonym for alcohol. It used to refer to a specific drink made from rum, lime, and sugar as a precursor to modern hard seltzers. Over time, it became slang for any type of liquor, and "groggy" became a common term for feeling fatigued, disoriented, or dazed.
 
 - [Grounding](/recovery/glossary/grounding)
 
-- [Growth Mindset](/recovery/glossary/growth-mindset)
+"Grounding" in a psychological context refers to coping mechanisms and techniques that can disrupt dissociative episodes, oncoming flashbacks, hypervigilance and hyperarousal, and anxiety or panic attacks by interrupting these symptoms to redirect awareness towards the present. These include: The 5-4-3-2-1 Method: Name 5 things you can see, 4 things you can feel, 3 things you can hear, 2 things…
 
 - [Growth Vs Fixed Mindset](/recovery/glossary/growth-vs-fixed-mindset)
 
 "Fixed mindset" is a term that refers to mindsets that viewed people and their traits as rigid and static entities. In other words, the fixed mindset is characterized by the idea that you either had talent or you didn't, and nothing you do could change that fact. It's often framed as a contrast to a "growth mindset," which views people and their traits as malleable and capable of predictable…
 
-- [Grue](/recovery/glossary/grue)
-
 - [Guardianship](/recovery/glossary/guardianship)
+
+Guardianship in a legal context refers to a relationship in which a designated guardian is given the authority to make decisions for a ward whose ability to safely and rationally make decisions for themselves is compromised. Courts can grant various levels of guardianship as a result of substance use: Emergency or Temporary Guardianship: this often lasts 30 to 90 days in crisis situations like…
 
 - [Guilt](/recovery/glossary/guilt)
 
-- [Gunas](/recovery/glossary/gunas)
-
-- [Guru](/recovery/glossary/guru)
+The American Psychology Association's (APA) Dictionary of Psychology: "a self-conscious emotion characterized by a painful appraisal of having done (or thought) something that is wrong and often by a readiness to take action designed to undo or mitigate this wrong. It is distinct from shame, in which there is the additional strong fear of one’s deeds being publicly exposed to judgment or…
 
 <a id="letter-h"></a>
 ### H
 
 - [Habit Forming](/recovery/glossary/habit-forming)
 
+"Habit-forming" is a legal definition, not a medical one, that refers to substances with a risk of introducing chemical dependence. Medical organizations like the World Heath Organization (WHO) have explicitly mentioned that "habit-forming" introduces confusion when we're also considering the nuances of the definitions of "dependence" and "addiction." Still, it persists in legal codes as a way to…
+
 - [Habitual Drunkenness](/recovery/glossary/habitual-drunkenness)
+
+Habitual drunkenness, much like habit forming and other terms associated with "habit", is an outdated reference to some constant use of alcohol that might today be described as "alcoholic dependence", "alcoholism", or "alcohol use disorder." "Habitual drunkenness" is a term we can trace at least as far back as Benjamin Rush, a prominent physician who was alive to sign the Declaration of…
 
 - [Hadacol](/recovery/glossary/hadacol)
 
+Hadacol was a vitamin and mineral supplement mixed in a 12% alcohol solution. The story of Hadacol is one of the many that can make someone in 2026 wonder if everyone was just always wasted on something in the 20th century. Hadacol was a backyard laboratory concoction made by Louisiana State Senator Dudley J. LeBlanc, who had no medical training and was trying to reverse-engineer a painkiller his…
+
 - [Half Life](/recovery/glossary/half-life)
 
-The time it takes for something to decrease by half.
+"Half-life" is the period of time it takes for the amount of some substance to reduce by half. You might be wondering why we use "half-life" to measure the duration of a drug instead of its total lifetime or an hourly rate, which might be more intuitive. In many chemical reactions, the concentration of substances follows exponential decay closely, which means that it disappears quickly at first,…
 
 - [Hallucinogenic](/recovery/glossary/hallucinogenic)
 
+Hallucinogens are defined in the American Psychological Association's Dictionary of Psychology as: "a substance capable of producing a sensory effect (visual, auditory, olfactory, gustatory, or tactile) in the absence of an actual stimulus. Because they produce alterations in perception, cognition, and mood, hallucinogens are also called psychedelic drugs or psychedelics (from the Greek, meaning…
+
 - [Hangover](/recovery/glossary/hangover)
+
+Hangovers refer to the unpleasant feelings and physical symptoms that start shortly after the levels of the substance in the body return to almost zero, most commonly in reference to alcohol, where the symptoms include: Headaches, thirst, and dry mouth: alcohol blocks the release of vasopressin, an antidiuretic hormone that inhibits the reabsorption of water by the kidneys (which is why you feel…
 
 - [Harm Reduction](/recovery/glossary/harm-reduction)
 
+Harm reduction is an approach to substance use policy and treatment that views any reduction in substance use to be a victory, in contrast to viewing anything except total abstinence as a defeat. These policies include: Syringe Services Programs (SSPs) Naloxone Distribution Policies Overdose Prevention Centers (OPCs) Opioid Agonist Therapy (OAT) Fentanyl Test Strips (FTS) Managed Alcohol Programs…
+
 - [Hashish](/recovery/glossary/hashish)
 
-- [Hate Crime](/recovery/glossary/hate-crime)
+Hashish is a cannabis concentrate made by compressing the plant's resin glands, called trichomes, which contain high levels of cannabinoids like THC that produce intense psychoactive effects.
 
-- [Hazardous](/recovery/glossary/hazardous)
+- [Hazardous Medicinal Products](/recovery/glossary/hazardous-medicinal-products)
 
-- [Heavy Drinking](/recovery/glossary/heavy-drinking)
+Hazardous medicinal products (HMPs) are pharmaceutical substances that can have adverse health consequences or present health risks to both the healthcare workers managing them and the patients ingesting them. There is no single definition that's universal, as different regulatory agencies use different processes to arrive at the label. Even within the United States alone, NIOSH, OSHA, the EPA,…
 
-- [Hebephrenic](/recovery/glossary/hebephrenic)
+- [Heat Not Burn](/recovery/glossary/heat-not-burn)
 
-- [Hedonism](/recovery/glossary/hedonism)
+Heat-not-burn (HnB) devices heat tobacco leaves just enough to create an aerosolized version of a nicotine vapor instead of burning tobacco completely like in traditional cigarettes. This still exposes users and those around them to toxins and carcinogens, but less than traditional cigarette smoke. The United States Food and Drug Administration does not consider it an aid in quitting tobacco or…
 
 - [Hepatitis C Virus](/recovery/glossary/hepatitis-c-virus)
 
+The Hepatitis C virus (HCV) is an infection that attaches to liver cells and causes inflammation and liver damage. White blood cells that attempt to destroy the virus end up killing healthy liver cells. The virus clears up in 30% of people within six months without treatment, and many people in this stage may not appear sick or show symptoms that can be attributed to other conditions. 70% of…
+
 - [Hepatotoxicity](/recovery/glossary/hepatotoxicity)
 
-Hepatotoxicity translates literally to liver toxicity.
+Hepatotoxicity literally means liver toxicity. Specifically, it refers to the liver damage that might be caused by prescription medications, substance use, herbal supplements, and exposure to toxins. For the most common substances in disorders: Cocaine overdoses can cut off oxygen and blood flow to cause sudden cell death in the liver MDMA and methamphetamine can cause extremely high body…
 
 - [Heroin](/recovery/glossary/heroin)
 
+Heroin, or diacetylmorphine, is a synthetically manufactured substance that uses natural morphine as a base before being altered with chemical groups to dissolve more effectively in lipids and penetrate the blood-brain barrier. It metabolizes back into morphine inside the central nervous system, but the rapid and concentrated delivery presents more intense impacts and a higher risk of dependency…
+
 - [Higher Power](/recovery/glossary/higher-power)
+
+"Higher Power" refers to a religious deity, spiritual force, or other entity that has a role or power over one's life. The 12 steps of Alcoholics Anonymous (AA) explicitly call on individuals to submit to or engage with some kind of Higher Power in Steps Two, Three, Five, Six, Seven, and Eleven. The language of "Higher Power" was used in the place of "God" in AA in an attempt to make the program…
 
 - [Hippocampus](/recovery/glossary/hippocampus)
 
+The hippocampus is a part of the brain's limbic system that handles the formation of long-term memories, processing of spatial information, and association of emotions to experiences. With chronic substance use, the hippocampus stores the people, places, and things as cues associated with the high of using substances. The processes of long-term potentiation (LTP), in which the connections between…
+
 - [Hippocratic Oath](/recovery/glossary/hippocratic-oath)
 
-- [Historiography](/recovery/glossary/historiography)
-
-- [Hnb Heat Not Burn](/recovery/glossary/hnb-heat-not-burn)
+The Hippocratic Oath is an ethical commitment that medical professionals take in the interests of building confidence that their actions will be solely for the benefit of the patient's health. The traditional Hippocratic Oath, as printed by Johns Hopkins Press in a publication by Ludwing Edelstein in 1943, reads, I swear by Apollo Physician and Asciepius and Hygieia and Panaceia and all the gods…
 
 - [Holding Space](/recovery/glossary/holding-space)
 
+"Holding space" is a pop psychology term that refers to listening and witnessing someone's emotions without attempting to judge their solutions or provide one yourself. It differs from the idea of being a good listener in that holding space focuses on allowing someone to express their emotions without judgment while good listening often involves active participation in a conversation. The concept…
+
 - [Holistic](/recovery/glossary/holistic)
+
+"Holistic" means a consideration of all aspects of a situation or circumstance. In college applications, "holistic review" refers to an admissions review process that considers every aspect of a student's profile like extracurricular activities and personal struggles rather than just their test scores and GPA. In healthcare, "holistic care" refers to an approach that considers every aspect of…
 
 - [Homeostasis](/recovery/glossary/homeostasis)
 
+Homeostasis is the process through which an organism's body attempts to regulate itself to some baseline of stable balance, essentially forming a negative feedback process in response to either internal or external changes. This contrasts with allostasis, in which the body predicts that a change will happen and proactively adjusts itself in anticipation to preserve some kind of baseline…
+
 - [Hospital Anxiety And Depression Scale](/recovery/glossary/hospital-anxiety-and-depression-scale)
+
+The Hospital Anxiety and Depression Scale (HADS) is a self-report questionnaire that serves as a screening for anxiety and depression. The fourteen items, each ranked somewhere between 0 and 3 depending on frequency or intensity, are split between Anxiety and Depression. For Anxiety: I feel tense or 'wound up' I get a sort of frightened feeling as if something awful is about to happen Worrying…
 
 - [Housing First](/recovery/glossary/housing-first)
 
@@ -1390,9 +1426,9 @@ Hepatotoxicity translates literally to liver toxicity.
 
 Human immunodeficiency virus (HIV) is a chronic infection that destroys the body's immune system and spreads through the transfer of bodily fluids, including blood, semen, vaginal and rectal fluids, and even breast milk. It can be dormant or present with mild flu-like symptoms for years before progressing into chronic fevers from frequent infections and extreme fatigue. The final stage of HIV is…
 
-- [Humanism](/recovery/glossary/humanism)
-
 - [Hungry Angry Lonely Tired Halt](/recovery/glossary/hungry-angry-lonely-tired-halt)
+
+The HALT acronym points to four emotional states that make one more vulnerable to impulsive decision-making. It originated in 12-step programs as a way to stave off the triggers or cravings for a potential relapse. Hungry: low blood sugar can be a source of irritability and anxiety Angry: many people within recovery spaces will stand by the claim that resentment is the number one trigger of…
 
 - [Hyperarousal](/recovery/glossary/hyperarousal)
 

@@ -202,6 +202,16 @@ Top three jankiest ways I've been transported:
 Please do not cite Charlie Kirk as a source on intergenerational trauma in a recovery group. 
 
 # Case Twenty-Three
+Please do not market cryptocurrency pyramid schemes in a recovery group. 
+
+# Case Twenty-Four
 Please do not share your opinions on the (ongoing, as of 9/11/26) Iran War as an example of healthy or unhealthy conflict in a recovery group. 
 
 There is no greater combination of ignorance and arrogance than that of the median voter who informs themselves through TikTok and Facebook memes. Seriously, you guys are making me reconsider my support for this whole democracy thing.
+
+# Case Twenty-Five
+No, using 100% of your brain will not unlock telepathy. In fact, we already use every part of our brain constantly, otherwise strokes and aneurysms that occur in small parts of the brain wouldn't be such a big deal. Even when some parts are more active than others, all of it has blood flow and some neurons firing. 
+
+If 100% of your neurons were actually firing at once, you would be having a grand mal seizure, which translates to "very bad seizure" because the effects are very bad. This is not desirable.
+
+I don't expect the average attendee of a recovery group to necessarily know this. That movie *Lucy* did a lot to popularize this myth in its marketing material, as did a preface added to *How to Win Friends and Influence People*. 

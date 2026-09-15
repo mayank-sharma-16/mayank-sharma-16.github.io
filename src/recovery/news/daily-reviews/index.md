@@ -6,7 +6,7 @@ title: Daily Reviews
 
 - [Daily Reviews](/recovery/news/daily-reviews/daily-reviews)
 
-Researchers at the University of Texas at San Antonio (UTSA) have made significant breakthroughs in their focus on using midbrain astrocytes as a natural mechanism for the brain to suppress addictive compulsions. Matthew Wanat, a professor and co-principal investigator (PI) of a grant provided by the National Institute on Drug Abuse (NIDA), has led a project titled "Targeting the midbrain…
+The fact that you have sober periods where you enjoy the normal things in life is really encouraging. A lot of people don’t seek help until their life is unmanageable, like being unable to get out of bed in the mornings without using or burning their professional and personal relationships. If they do achieve a continuous stint of sobriety, they report feeling chronically depressed and anxious. I…
 
 ## Pages
 
@@ -85,4 +85,4 @@ html {
 
 - [Daily Reviews](/recovery/news/daily-reviews/daily-reviews)
 
-Researchers at the University of Texas at San Antonio (UTSA) have made significant breakthroughs in their focus on using midbrain astrocytes as a natural mechanism for the brain to suppress addictive compulsions. Matthew Wanat, a professor and co-principal investigator (PI) of a grant provided by the National Institute on Drug Abuse (NIDA), has led a project titled "Targeting the midbrain…
+The fact that you have sober periods where you enjoy the normal things in life is really encouraging. A lot of people don’t seek help until their life is unmanageable, like being unable to get out of bed in the mornings without using or burning their professional and personal relationships. If they do achieve a continuous stint of sobriety, they report feeling chronically depressed and anxious. I…

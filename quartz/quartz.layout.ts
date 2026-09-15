@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     // 2. Return a functional component via preact's element creator
     (() => {
-      return () => h("span", { class: "header-text" }, "Monthly Unique Visitors: 13.28k")
+      return () => h("span", { class: "header-text" }, "Monthly Unique Visitors: 15.45k    Total Monthly Requests: 197.94k")
     })()
   ],
   afterBody: [],

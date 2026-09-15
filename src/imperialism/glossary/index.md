@@ -8,6 +8,10 @@ title: Glossary
 
 The dichotomy of the Global North and Global South describes a split in the world between nations considered forward-looking and progressive versus those considered backwards-looking and regressive. An early version of this concept can be found in the works of Hans Singer and Raul Prebisch, who argued against the idea that trade between developing and developed nations would naturally lift all…
 
+- [Historiography](/imperialism/glossary/historiography)
+
+- [Hate Crime](/imperialism/glossary/hate-crime)
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -18,7 +22,7 @@ The dichotomy of the Global North and Global South describes a split in the worl
 <span class="alphabet-letter alphabet-letter-disabled">E</span>
 <span class="alphabet-letter alphabet-letter-disabled">F</span>
 <a class="alphabet-letter" href="#letter-g">G</a>
-<span class="alphabet-letter alphabet-letter-disabled">H</span>
+<a class="alphabet-letter" href="#letter-h">H</a>
 <span class="alphabet-letter alphabet-letter-disabled">I</span>
 <span class="alphabet-letter alphabet-letter-disabled">J</span>
 <span class="alphabet-letter alphabet-letter-disabled">K</span>
@@ -86,3 +90,10 @@ html {
 - [Global North Global South](/imperialism/glossary/global-north-global-south)
 
 The dichotomy of the Global North and Global South describes a split in the world between nations considered forward-looking and progressive versus those considered backwards-looking and regressive. An early version of this concept can be found in the works of Hans Singer and Raul Prebisch, who argued against the idea that trade between developing and developed nations would naturally lift all…
+
+<a id="letter-h"></a>
+### H
+
+- [Hate Crime](/imperialism/glossary/hate-crime)
+
+- [Historiography](/imperialism/glossary/historiography)

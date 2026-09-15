@@ -4,6 +4,10 @@ title: Glossary
 
 ## Recently Modified
 
+- [Hedonism](/metaphysics/glossary/hedonism)
+
+Hedonism is a philosophy that places pleasure as the highest goal of life. Psychological hedonism is a descriptive theory that posits humans are driven by the desire to maximize pleasure while minimizing pain, similar to Freud's idea of the pleasure principle. Ethical hedonism is a prescriptive theory that people should place pleasure as their highest goal in life and that pleasure is inherently…
+
 - [Metascience](/metaphysics/glossary/metascience)
 
 Metascience can be described simply science of science. Contrary to the expectations that science is inherently an objective pursuit of the truth in contrast to religion and spirituality as intuitive or anecdotal approaches, there are lots of subjective elements in the design of experiments, interpretation of their results, and inclusion of evidence in the development of scientific theories.
@@ -57,8 +61,6 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 - [Nirvana](/metaphysics/glossary/nirvana)
 
 - [Tantra](/metaphysics/glossary/tantra)
-
-- [Kashmir Shaivism](/metaphysics/glossary/kashmir-shaivism)
 
 ## Pages
 
@@ -293,10 +295,20 @@ Falsifiable refers to the ability for a proposition to be tested and shown to be
 
 Nelson Goodman proposed the Grue Paradox, also called the Grue Problem or the New Riddle of Induction, to discuss a problem within the philosophy of science where categories constructed from present evidence can fail to predict future cases. Simply put, let's say we can observe that objects in a bucket are either green or blue today. However, after 10 years, we observe that some green objects…
 
+- [Gunas](/metaphysics/glossary/gunas)
+
+- [Guru](/metaphysics/glossary/guru)
+
 <a id="letter-h"></a>
 ### H
 
+- [Hedonism](/metaphysics/glossary/hedonism)
+
+Hedonism is a philosophy that places pleasure as the highest goal of life. Psychological hedonism is a descriptive theory that posits humans are driven by the desire to maximize pleasure while minimizing pain, similar to Freud's idea of the pleasure principle. Ethical hedonism is a prescriptive theory that people should place pleasure as their highest goal in life and that pleasure is inherently…
+
 - [Hinduism](/metaphysics/glossary/hinduism)
+
+- [Humanism](/metaphysics/glossary/humanism)
 
 <a id="letter-i"></a>
 ### I

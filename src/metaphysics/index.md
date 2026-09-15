@@ -9,6 +9,10 @@ title: Metaphysics
 
 ## Recently Modified
 
+- [Hedonism](/metaphysics/glossary/hedonism)
+
+Hedonism is a philosophy that places pleasure as the highest goal of life. Psychological hedonism is a descriptive theory that posits humans are driven by the desire to maximize pleasure while minimizing pain, similar to Freud's idea of the pleasure principle. Ethical hedonism is a prescriptive theory that people should place pleasure as their highest goal in life and that pleasure is inherently…
+
 - [Metascience](/metaphysics/glossary/metascience)
 
 Metascience can be described simply science of science. Contrary to the expectations that science is inherently an objective pursuit of the truth in contrast to religion and spirituality as intuitive or anecdotal approaches, there are lots of subjective elements in the design of experiments, interpretation of their results, and inclusion of evidence in the development of scientific theories.
@@ -62,5 +66,3 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 - [Nirvana](/metaphysics/glossary/nirvana)
 
 - [Tantra](/metaphysics/glossary/tantra)
-
-- [Kashmir Shaivism](/metaphysics/glossary/kashmir-shaivism)
