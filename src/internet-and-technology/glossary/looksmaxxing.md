@@ -1,0 +1,24 @@
+---
+title: Looksmaxxing
+---
+
+# Overview
+"Looksmaxxing" is the practice of optimizing one's physical appearance to be as attractive as possible beyond what healthy diet and exercise regimens would lead to. The online subcultures around looksmaxxing largely emerged out of incel and incel-adjacent forums where users are convinced that their lack of social or dating life is the result of their appearance. Many of these users are minors who struggle with social anxiety or bullying, as well as [[dysmorphia|body dysmorphia]]. Consider the clinical diagnostic symptoms of Body Dysmorphic Disorder (BDD):
+
+- Preoccupation with Perceived Flaws: looksmaxxers will fixate on very specific measurements of their face like the canthal tilt, which is the angle at which one's eyes are slanted. Supposedly, a positive canthal tilt (where the outer corner of the eye is somewhat higher than the inner corner) is characteristic of "hunter eyes", while a negative canthal tilt and large round shapes indicate "prey eyes." Not only will looksmaxxers obsessively measure these out down to millimeters (and probably doing more trigonometry in the process than they ever do in class), but they will attempt to alter their bone structure through facial massaging and eye pulling routines. 
+
+- Repetitive Compulsive Checking: looksmaxxers can spend hours every day take selfies in order to measure their anatomical ratios and facial symmetry under a variety of camera lenses, angles, and lighting.
+
+- Excessive Grooming & Camouflaging: lookmaxxers are known for mewing, in which one holds their tongue against the roof of their mouth in an attempt to alter their jaw structure. Some may wear shoe lifts in order to "heightmaxx," or just appear taller. Others have extremely strict skincare and hair-care routines that trigger extreme distress and anxiety if done incorrectly or skipped.
+
+- Seeking Reassurance or Validation: There are actually websites and apps that will score your proportions according to the conventions of the looksmaxxing community. The looksmaxxing forums tend to have power users, especially minors who have no other obligations except attending school, who obsessively compare their bodies with each other and seek feedback on their latest procedures.
+
+- Muscle & Fat Hyper-Fixation: Looksmaxxers have been known to inject themselves with a lot of controversial or experimental chemicals in an attempt to target fat, especially in their face in an attempt to seem leaner or have more pronounced facial structures. This also includes anabolic steroids and human growth hormones.
+
+- Repetitive Seeking of Interventions: Looksmaxxers may pursue intense plastic surgery, like rhinoplasty, genioplasty, jaw implants, or canthoplasty. In a truly dangerous DIY fashion, some will try bonesmashing, which is straight up just hitting your face with hard objects in an attempt to create micro-fractures that would heal back stronger or thicker.
+
+- Social Withdrawal & Isolation: It might appear paradoxical that someone would invest so much of their time, energy, and health into looksmaxxing only to end up isolating, but it completely tracks if we locate the incentives around looksmaxxing in anxiety. There's a reason these communities sprung out of incel forums rather than conventional health and wellness communities. Looksmaxxers usually struggle with intense body dysmorphia and social anxiety that's distressing, so much so that being observed in any way can trigger spirals about their appearance. When they post themselves on social media platforms, they've usually spent hours taking photos, applying filters, and stressing over the combination of pictures to use. Many looksmaxxers actually swear off dating entirely, resigning themselves to a Sisyphean effort of achieving a perfect look so they can reject potential partners who they believe they would've fumbled anyways.
+
+In my opinion, the goofiness and absurdity of looksmaxxing procedures and content creators makes it easy to forget that the same companies who knew that they were giving young women eating disorders with their algorithms are also behind propagating the messages that drive the anxiety of young men identifying as looksmaxxers. Ultimately, we're raising our newest generations to be radical consumers by bombarding them with messages to keep chasing increasingly extreme standards in order to stay relevant. The disposable appearance of being put-together has more value than being secure in yourself and confident in the value you provide. 
+
+Or, in other words, we're algomaxxing every aspect of our lives. I trend, therefore I am.

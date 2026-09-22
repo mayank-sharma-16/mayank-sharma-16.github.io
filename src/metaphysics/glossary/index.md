@@ -4,6 +4,10 @@ title: Glossary
 
 ## Recently Modified
 
+- [Ressentiment](/metaphysics/glossary/ressentiment)
+
+"Ressentiment" describes feelings of resentment towards the perceived source of one's powerlessness. Friedrich Nietzsche used "ressentiment" to lay the groundwork for his concept of "slave morality" as a psychological defense against the implication of one's inferiority. Specifically, Nietzsche argued that those without power resent those who do have power, and they react by creating a system of…
+
 - [Hedonism](/metaphysics/glossary/hedonism)
 
 Hedonism is a philosophy that places pleasure as the highest goal of life. Psychological hedonism is a descriptive theory that posits humans are driven by the desire to maximize pleasure while minimizing pain, similar to Freud's idea of the pleasure principle. Ethical hedonism is a prescriptive theory that people should place pleasure as their highest goal in life and that pleasure is inherently…
@@ -60,8 +64,6 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 
 - [Nirvana](/metaphysics/glossary/nirvana)
 
-- [Tantra](/metaphysics/glossary/tantra)
-
 ## Pages
 
 <div class="alphabet-bar">
@@ -82,7 +84,7 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 <span class="alphabet-letter alphabet-letter-disabled">O</span>
 <a class="alphabet-letter" href="#letter-p">P</a>
 <a class="alphabet-letter" href="#letter-q">Q</a>
-<span class="alphabet-letter alphabet-letter-disabled">R</span>
+<a class="alphabet-letter" href="#letter-r">R</a>
 <a class="alphabet-letter" href="#letter-s">S</a>
 <a class="alphabet-letter" href="#letter-t">T</a>
 <a class="alphabet-letter" href="#letter-u">U</a>
@@ -384,6 +386,13 @@ Metascience can be described simply science of science. Contrary to the expectat
 ### Q
 
 - [Qi](/metaphysics/glossary/qi)
+
+<a id="letter-r"></a>
+### R
+
+- [Ressentiment](/metaphysics/glossary/ressentiment)
+
+"Ressentiment" describes feelings of resentment towards the perceived source of one's powerlessness. Friedrich Nietzsche used "ressentiment" to lay the groundwork for his concept of "slave morality" as a psychological defense against the implication of one's inferiority. Specifically, Nietzsche argued that those without power resent those who do have power, and they react by creating a system of…
 
 <a id="letter-s"></a>
 ### S

@@ -4,9 +4,9 @@ title: Biographical
 
 ## Recently Modified
 
-- [The Basketball Diaries 1995](/recovery/media/movies/dramas-and-dramedies/biographical/the-basketball-diaries-1995)
-
 - [Gladiator Days Anatomy Of A Prison Murder](/recovery/media/movies/dramas-and-dramedies/biographical/gladiator-days-anatomy-of-a-prison-murder)
+
+- [The Basketball Diaries 1995](/recovery/media/movies/dramas-and-dramedies/biographical/the-basketball-diaries-1995)
 
 - [The Fighter 2010](/recovery/media/movies/dramas-and-dramedies/biographical/the-fighter-2010)
 

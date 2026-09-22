@@ -10,6 +10,8 @@ The dichotomy of the Global North and Global South describes a split in the worl
 
 - [Historiography](/imperialism/glossary/historiography)
 
+- [Industrialism](/imperialism/glossary/industrialism)
+
 - [Hate Crime](/imperialism/glossary/hate-crime)
 
 ## Pages
@@ -23,7 +25,7 @@ The dichotomy of the Global North and Global South describes a split in the worl
 <span class="alphabet-letter alphabet-letter-disabled">F</span>
 <a class="alphabet-letter" href="#letter-g">G</a>
 <a class="alphabet-letter" href="#letter-h">H</a>
-<span class="alphabet-letter alphabet-letter-disabled">I</span>
+<a class="alphabet-letter" href="#letter-i">I</a>
 <span class="alphabet-letter alphabet-letter-disabled">J</span>
 <span class="alphabet-letter alphabet-letter-disabled">K</span>
 <span class="alphabet-letter alphabet-letter-disabled">L</span>
@@ -97,3 +99,8 @@ The dichotomy of the Global North and Global South describes a split in the worl
 - [Hate Crime](/imperialism/glossary/hate-crime)
 
 - [Historiography](/imperialism/glossary/historiography)
+
+<a id="letter-i"></a>
+### I
+
+- [Industrialism](/imperialism/glossary/industrialism)

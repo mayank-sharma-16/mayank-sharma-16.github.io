@@ -10,7 +10,7 @@ title: News
 
 - [Daily Reviews](/recovery/news/daily-reviews/daily-reviews)
 
-The fact that you have sober periods where you enjoy the normal things in life is really encouraging. A lot of people don’t seek help until their life is unmanageable, like being unable to get out of bed in the mornings without using or burning their professional and personal relationships. If they do achieve a continuous stint of sobriety, they report feeling chronically depressed and anxious. I…
+This one is going to ruffle a lot of feathers. From page 31 of the Alcoholics Anonymous Big Book: We are like men who have lost their legs; they never grow new ones. Neither does there appear to be any kind of treatment which will make alcoholics of our kind like other men. We have tried every imaginable remedy. In some instances there has been brief recovery, followed always by still worse…
 
 - [Addiction Depictions](/recovery/news/addiction-depictions)
 

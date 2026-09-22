@@ -31,4 +31,6 @@ The dichotomy of the Global North and Global South describes a split in the worl
 
 - [Historiography](/imperialism/glossary/historiography)
 
+- [Industrialism](/imperialism/glossary/industrialism)
+
 - [Hate Crime](/imperialism/glossary/hate-crime)

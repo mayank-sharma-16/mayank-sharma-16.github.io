@@ -4,6 +4,74 @@ title: Glossary
 
 ## Recently Modified
 
+- [Impairment](/recovery/glossary/impairment)
+
+The National Cancer Institute defines "impairment" as: A loss of part or all of a physical or mental ability, such as the ability to see, walk, or learn. Taber's Medical Dictionary provides a somewhat more specific definition that explicitly invokes a biopsychosocial perspective: Any loss or abnormality of psychological, physiological, or anatomical structure or function. Impairments represent a…
+
+- [Inner City](/recovery/glossary/inner-city)
+
+The term "inner city" has been used as a euphemism for low-income predominantly minority neighborhoods in urban environments, which came to the forefront of sociopolitical discourse through media coverage of the crack cocaine epidemic in the 1980s and 1990s under the banner of the War on Drugs.
+
+- [Inner Child](/recovery/glossary/inner-child)
+
+The "inner child" is a metaphor that refers to some collection of schemas and emotions rooted in childhood experiences or perspectives. The "inner child" is not a rigid scientific or clinical concept. It has origins in analytical psychology dating back to Carl Jung's archetypes of a "Divine Child" and "wounded child", but the concept isn't defined in ways we can measure for empirical testing.…
+
+- [Inflammation](/recovery/glossary/inflammation)
+
+Inflammation is typically a response from an immune system that increases blood flow, heat, and fluid build up towards some area of the body that might be injured, infected, or irritated. In the short-term, in cases such as a cut or a cold, inflammation is a healing process that helped deliver immune cells and healing factors to an affected region of the body. In the long-term, chronic…
+
+- [Inebriety](/recovery/glossary/inebriety)
+
+Inebriety refers to the state of being drunk, normally from alcohol. While the term "inebriate" can be found in the 15th century in the context of being "inebriate in the love of God" in reference to feeling overwhelmed with religious zeal and spirit, it was used as a euphemism for being drunk for centuries until the late 1800s. Physicians began using the term when addressing addiction, such as…
+
+- [Impulsivity](/recovery/glossary/impulsivity)
+
+The American Psychological Association's Dictionary of Psychology defines "impulsive" as: describing or displaying behavior characterized by little or no forethought, reflection, or consideration of the consequences of an action, particularly one that involves taking risks.
+
+- [Imposter Syndrome](/recovery/glossary/imposter-syndrome)
+
+Imposter syndrome is not an official medical diagnosis, but it was coined by clinical psychologists to describe the specific anxieties where people continually doubt themselves and feel like a fraud even when experiencing undeniable success. This can manifest as low self-esteem or self-worth, rationalizations that success was the result of luck, worrying about how others perceive one's…
+
+- [Hypervigilance](/recovery/glossary/hypervigilance)
+
+Hypervigilance is a part of hyperarousal, in which the nervous system's "fight-or-flight" stress response is continually excited. Specifically, hypervigilance refers to the component of hyperarousal in which someone is constantly diverting their attention to scanning the environment for threats. Hypervigilance can manifest as: Analyzing micro-expressions, like reading subtle changes in someone's…
+
+- [Hypochondria](/recovery/glossary/hypochondria)
+
+Hypochondria, or Illness Anxiety Disorder (IAD) as of the publication of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) in 2013, refers to a condition in which someone experiences constant and intense fear of having a serious illness. The term "hypochondriac" is weighed down by a lot of social stigma, much like "addict," so the American Psychiatric Association (APA) began…
+
+- [Iatrogenic](/recovery/glossary/iatrogenic)
+
+"Iatrogenic" refers to an illness or condition caused by a medical procedure or the actions of a medical practitioner. This includes everything from predictable side-effects of prescribed medication to botched surgeries worthy of medical malpractice suits.
+
+- [I Statements](/recovery/glossary/i-statements)
+
+I-statements are expressions that avoid generalizing by focusing on personal experiences. For instance, rather than saying "a good parent is always attentive to their kids' needs", an I-statement might reframe the sentiment as "I feel like a good parent when I'm attentive to my kids' needs." No one ever actually does this anywhere. I don't even consistently do it on this site. In fact, I'm about…
+
+- [Hysteria](/recovery/glossary/hysteria)
+
+Hysteria in a casual everyday sense refers to some kind of extreme excitement or overwhelming emotion. I use it often in the context of anti-drug or anti-immigrant hysteria, in which people are so frightened over something unfamiliar that they jump to radical or pseudoscientific solutions. However, "hysteria" used to describe a now-defunct disorder that framed an excess of emotion as a pathology…
+
+- [Cognitive Reframing](/recovery/glossary/cognitive-reframing)
+
+Cognitive reframing in modern psychology refers to a shift in mindset that can change the perspective interpreted from a situation. Within Cognitive Behavioral Therapy (CBT), cognitive reframing is considered a valuable coping skill to diffuse distressing emotions by finding an equally valid interpretation of the same facts of a situation, generally to shift away from catastrophizing or…
+
+- [Hippocampus](/recovery/glossary/hippocampus)
+
+The hippocampus is a part of the brain's limbic system that handles the formation of long-term memories, processing of spatial information, and association of emotions to experiences. With chronic substance use, the hippocampus stores the people, places, and things as cues associated with the high of using substances. The processes of long-term potentiation (LTP), in which the connections between…
+
+- [Hypomania](/recovery/glossary/hypomania)
+
+Hypomania is a short-lived form of mania in which someone experiences increased energy and elevated or irritable moods. Someone must be experiencing symptoms for four days consecutively that are not considered characteristic of someone's personality outside of the symptomatic episodes. More specifically, these symptoms include: Grandiosity Decreased desire for sleep Speaking fast or as if under…
+
+- [Hypoarousal](/recovery/glossary/hypoarousal)
+
+Hypoarousal is a state in which the nervous system shuts down to conserve energy in response to prolonged or intense stress and trauma. This is in contrast to hyperarousal, though notably, a stressed nervous system may swing abruptly from one to the other. Signs of hypoarousal include: Emotional numbness Low energy or chronic fatigue Brain fog or trouble concentrating Dissociation
+
+- [Hyperarousal](/recovery/glossary/hyperarousal)
+
+Hyperarousal refers to a physical state that the body enters as a response from the nervous system to continuous stress. This includes hypervigilance, and it contrasts withhypoarousal. In a typical stress response, the amygdala sends signals to the adrenal glands to flood the bloodstream with adrenaline and norepinephrine and trigger a potential fight-or-flight response while increasing your…
+
 - [Homeostasis](/recovery/glossary/homeostasis)
 
 Homeostasis is the process through which an organism's body attempts to regulate itself to some baseline of stable balance, essentially forming a negative feedback process in response to either internal or external changes. This contrasts with allostasis, in which the body predicts that a change will happen and proactively adjusts itself in anticipation to preserve some kind of baseline…
@@ -15,74 +83,6 @@ The Hospital Anxiety and Depression Scale (HADS) is a self-report questionnaire 
 - [Hungry Angry Lonely Tired Halt](/recovery/glossary/hungry-angry-lonely-tired-halt)
 
 The HALT acronym points to four emotional states that make one more vulnerable to impulsive decision-making. It originated in 12-step programs as a way to stave off the triggers or cravings for a potential relapse. Hungry: low blood sugar can be a source of irritability and anxiety Angry: many people within recovery spaces will stand by the claim that resentment is the number one trigger of…
-
-- [Holding Space](/recovery/glossary/holding-space)
-
-"Holding space" is a pop psychology term that refers to listening and witnessing someone's emotions without attempting to judge their solutions or provide one yourself. It differs from the idea of being a good listener in that holding space focuses on allowing someone to express their emotions without judgment while good listening often involves active participation in a conversation. The concept…
-
-- [Holistic](/recovery/glossary/holistic)
-
-"Holistic" means a consideration of all aspects of a situation or circumstance. In college applications, "holistic review" refers to an admissions review process that considers every aspect of a student's profile like extracurricular activities and personal struggles rather than just their test scores and GPA. In healthcare, "holistic care" refers to an approach that considers every aspect of…
-
-- [Heat Not Burn](/recovery/glossary/heat-not-burn)
-
-Heat-not-burn (HnB) devices heat tobacco leaves just enough to create an aerosolized version of a nicotine vapor instead of burning tobacco completely like in traditional cigarettes. This still exposes users and those around them to toxins and carcinogens, but less than traditional cigarette smoke. The United States Food and Drug Administration does not consider it an aid in quitting tobacco or…
-
-- [Hashish](/recovery/glossary/hashish)
-
-Hashish is a cannabis concentrate made by compressing the plant's resin glands, called trichomes, which contain high levels of cannabinoids like THC that produce intense psychoactive effects.
-
-- [Hepatotoxicity](/recovery/glossary/hepatotoxicity)
-
-Hepatotoxicity literally means liver toxicity. Specifically, it refers to the liver damage that might be caused by prescription medications, substance use, herbal supplements, and exposure to toxins. For the most common substances in disorders: Cocaine overdoses can cut off oxygen and blood flow to cause sudden cell death in the liver MDMA and methamphetamine can cause extremely high body…
-
-- [Hippocampus](/recovery/glossary/hippocampus)
-
-The hippocampus is a part of the brain's limbic system that handles the formation of long-term memories, processing of spatial information, and association of emotions to experiences. With chronic substance use, the hippocampus stores the people, places, and things as cues associated with the high of using substances. The processes of long-term potentiation (LTP), in which the connections between…
-
-- [Hippocratic Oath](/recovery/glossary/hippocratic-oath)
-
-The Hippocratic Oath is an ethical commitment that medical professionals take in the interests of building confidence that their actions will be solely for the benefit of the patient's health. The traditional Hippocratic Oath, as printed by Johns Hopkins Press in a publication by Ludwing Edelstein in 1943, reads, I swear by Apollo Physician and Asciepius and Hygieia and Panaceia and all the gods…
-
-- [Heroin](/recovery/glossary/heroin)
-
-Heroin, or diacetylmorphine, is a synthetically manufactured substance that uses natural morphine as a base before being altered with chemical groups to dissolve more effectively in lipids and penetrate the blood-brain barrier. It metabolizes back into morphine inside the central nervous system, but the rapid and concentrated delivery presents more intense impacts and a higher risk of dependency…
-
-- [Higher Power](/recovery/glossary/higher-power)
-
-"Higher Power" refers to a religious deity, spiritual force, or other entity that has a role or power over one's life. The 12 steps of Alcoholics Anonymous (AA) explicitly call on individuals to submit to or engage with some kind of Higher Power in Steps Two, Three, Five, Six, Seven, and Eleven. The language of "Higher Power" was used in the place of "God" in AA in an attempt to make the program…
-
-- [Hepatitis C Virus](/recovery/glossary/hepatitis-c-virus)
-
-The Hepatitis C virus (HCV) is an infection that attaches to liver cells and causes inflammation and liver damage. White blood cells that attempt to destroy the virus end up killing healthy liver cells. The virus clears up in 30% of people within six months without treatment, and many people in this stage may not appear sick or show symptoms that can be attributed to other conditions. 70% of…
-
-- [Hazardous Medicinal Products](/recovery/glossary/hazardous-medicinal-products)
-
-Hazardous medicinal products (HMPs) are pharmaceutical substances that can have adverse health consequences or present health risks to both the healthcare workers managing them and the patients ingesting them. There is no single definition that's universal, as different regulatory agencies use different processes to arrive at the label. Even within the United States alone, NIOSH, OSHA, the EPA,…
-
-- [Hadacol](/recovery/glossary/hadacol)
-
-Hadacol was a vitamin and mineral supplement mixed in a 12% alcohol solution. The story of Hadacol is one of the many that can make someone in 2026 wonder if everyone was just always wasted on something in the 20th century. Hadacol was a backyard laboratory concoction made by Louisiana State Senator Dudley J. LeBlanc, who had no medical training and was trying to reverse-engineer a painkiller his…
-
-- [Half Life](/recovery/glossary/half-life)
-
-"Half-life" is the period of time it takes for the amount of some substance to reduce by half. You might be wondering why we use "half-life" to measure the duration of a drug instead of its total lifetime or an hourly rate, which might be more intuitive. In many chemical reactions, the concentration of substances follows exponential decay closely, which means that it disappears quickly at first,…
-
-- [Hallucinogenic](/recovery/glossary/hallucinogenic)
-
-Hallucinogens are defined in the American Psychological Association's Dictionary of Psychology as: "a substance capable of producing a sensory effect (visual, auditory, olfactory, gustatory, or tactile) in the absence of an actual stimulus. Because they produce alterations in perception, cognition, and mood, hallucinogens are also called psychedelic drugs or psychedelics (from the Greek, meaning…
-
-- [Hangover](/recovery/glossary/hangover)
-
-Hangovers refer to the unpleasant feelings and physical symptoms that start shortly after the levels of the substance in the body return to almost zero, most commonly in reference to alcohol, where the symptoms include: Headaches, thirst, and dry mouth: alcohol blocks the release of vasopressin, an antidiuretic hormone that inhibits the reabsorption of water by the kidneys (which is why you feel…
-
-- [Harm Reduction](/recovery/glossary/harm-reduction)
-
-Harm reduction is an approach to substance use policy and treatment that views any reduction in substance use to be a victory, in contrast to viewing anything except total abstinence as a defeat. These policies include: Syringe Services Programs (SSPs) Naloxone Distribution Policies Overdose Prevention Centers (OPCs) Opioid Agonist Therapy (OAT) Fentanyl Test Strips (FTS) Managed Alcohol Programs…
-
-- [Habitual Drunkenness](/recovery/glossary/habitual-drunkenness)
-
-Habitual drunkenness, much like habit forming and other terms associated with "habit", is an outdated reference to some constant use of alcohol that might today be described as "alcoholic dependence", "alcoholism", or "alcohol use disorder." "Habitual drunkenness" is a term we can trace at least as far back as Benjamin Rush, a prominent physician who was alive to sign the Declaration of…
 
 ## Pages
 
@@ -1432,42 +1432,66 @@ The HALT acronym points to four emotional states that make one more vulnerable t
 
 - [Hyperarousal](/recovery/glossary/hyperarousal)
 
+Hyperarousal refers to a physical state that the body enters as a response from the nervous system to continuous stress. This includes hypervigilance, and it contrasts withhypoarousal. In a typical stress response, the amygdala sends signals to the adrenal glands to flood the bloodstream with adrenaline and norepinephrine and trigger a potential fight-or-flight response while increasing your…
+
 - [Hypervigilance](/recovery/glossary/hypervigilance)
+
+Hypervigilance is a part of hyperarousal, in which the nervous system's "fight-or-flight" stress response is continually excited. Specifically, hypervigilance refers to the component of hyperarousal in which someone is constantly diverting their attention to scanning the environment for threats. Hypervigilance can manifest as: Analyzing micro-expressions, like reading subtle changes in someone's…
 
 - [Hypoarousal](/recovery/glossary/hypoarousal)
 
+Hypoarousal is a state in which the nervous system shuts down to conserve energy in response to prolonged or intense stress and trauma. This is in contrast to hyperarousal, though notably, a stressed nervous system may swing abruptly from one to the other. Signs of hypoarousal include: Emotional numbness Low energy or chronic fatigue Brain fog or trouble concentrating Dissociation
+
 - [Hypochondria](/recovery/glossary/hypochondria)
+
+Hypochondria, or Illness Anxiety Disorder (IAD) as of the publication of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) in 2013, refers to a condition in which someone experiences constant and intense fear of having a serious illness. The term "hypochondriac" is weighed down by a lot of social stigma, much like "addict," so the American Psychiatric Association (APA) began…
 
 - [Hypomania](/recovery/glossary/hypomania)
 
+Hypomania is a short-lived form of mania in which someone experiences increased energy and elevated or irritable moods. Someone must be experiencing symptoms for four days consecutively that are not considered characteristic of someone's personality outside of the symptomatic episodes. More specifically, these symptoms include: Grandiosity Decreased desire for sleep Speaking fast or as if under…
+
 - [Hysteria](/recovery/glossary/hysteria)
+
+Hysteria in a casual everyday sense refers to some kind of extreme excitement or overwhelming emotion. I use it often in the context of anti-drug or anti-immigrant hysteria, in which people are so frightened over something unfamiliar that they jump to radical or pseudoscientific solutions. However, "hysteria" used to describe a now-defunct disorder that framed an excess of emotion as a pathology…
 
 <a id="letter-i"></a>
 ### I
 
 - [I Statements](/recovery/glossary/i-statements)
 
-No one ever actually does this anywhere. I don't even consistently do it on this site. In fact, I'm about to break that principle right now: we as people have a strong tendency to want to share our information and experiences, which requires some degree of generalization that assumes we and another person are, to some extent, interchageable.
+I-statements are expressions that avoid generalizing by focusing on personal experiences. For instance, rather than saying "a good parent is always attentive to their kids' needs", an I-statement might reframe the sentiment as "I feel like a good parent when I'm attentive to my kids' needs." No one ever actually does this anywhere. I don't even consistently do it on this site. In fact, I'm about…
 
 - [Iatrogenic](/recovery/glossary/iatrogenic)
 
-- [Im Intramuscular](/recovery/glossary/im-intramuscular)
+"Iatrogenic" refers to an illness or condition caused by a medical procedure or the actions of a medical practitioner. This includes everything from predictable side-effects of prescribed medication to botched surgeries worthy of medical malpractice suits.
 
 - [Impairment](/recovery/glossary/impairment)
 
+The National Cancer Institute defines "impairment" as: A loss of part or all of a physical or mental ability, such as the ability to see, walk, or learn. Taber's Medical Dictionary provides a somewhat more specific definition that explicitly invokes a biopsychosocial perspective: Any loss or abnormality of psychological, physiological, or anatomical structure or function. Impairments represent a…
+
 - [Imposter Syndrome](/recovery/glossary/imposter-syndrome)
+
+Imposter syndrome is not an official medical diagnosis, but it was coined by clinical psychologists to describe the specific anxieties where people continually doubt themselves and feel like a fraud even when experiencing undeniable success. This can manifest as low self-esteem or self-worth, rationalizations that success was the result of luck, worrying about how others perceive one's…
 
 - [Impulsivity](/recovery/glossary/impulsivity)
 
-- [Industrialism](/recovery/glossary/industrialism)
+The American Psychological Association's Dictionary of Psychology defines "impulsive" as: describing or displaying behavior characterized by little or no forethought, reflection, or consideration of the consequences of an action, particularly one that involves taking risks.
 
 - [Inebriety](/recovery/glossary/inebriety)
 
+Inebriety refers to the state of being drunk, normally from alcohol. While the term "inebriate" can be found in the 15th century in the context of being "inebriate in the love of God" in reference to feeling overwhelmed with religious zeal and spirit, it was used as a euphemism for being drunk for centuries until the late 1800s. Physicians began using the term when addressing addiction, such as…
+
 - [Inflammation](/recovery/glossary/inflammation)
+
+Inflammation is typically a response from an immune system that increases blood flow, heat, and fluid build up towards some area of the body that might be injured, infected, or irritated. In the short-term, in cases such as a cut or a cold, inflammation is a healing process that helped deliver immune cells and healing factors to an affected region of the body. In the long-term, chronic…
 
 - [Inner Child](/recovery/glossary/inner-child)
 
+The "inner child" is a metaphor that refers to some collection of schemas and emotions rooted in childhood experiences or perspectives. The "inner child" is not a rigid scientific or clinical concept. It has origins in analytical psychology dating back to Carl Jung's archetypes of a "Divine Child" and "wounded child", but the concept isn't defined in ways we can measure for empirical testing.…
+
 - [Inner City](/recovery/glossary/inner-city)
+
+The term "inner city" has been used as a euphemism for low-income predominantly minority neighborhoods in urban environments, which came to the forefront of sociopolitical discourse through media coverage of the crack cocaine epidemic in the 1980s and 1990s under the banner of the War on Drugs.
 
 - [Inner Work](/recovery/glossary/inner-work)
 
@@ -1492,6 +1516,8 @@ Intertemporal bargaining is a behavioral economics concept that refers to a pers
 - [Intervention](/recovery/glossary/intervention)
 
 - [Intimate Partner Violence Ivp](/recovery/glossary/intimate-partner-violence-ivp)
+
+- [Intramuscular](/recovery/glossary/intramuscular)
 
 - [Intraparietal Cortex](/recovery/glossary/intraparietal-cortex)
 

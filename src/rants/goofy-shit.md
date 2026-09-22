@@ -215,3 +215,6 @@ No, using 100% of your brain will not unlock telepathy. In fact, we already use 
 If 100% of your neurons were actually firing at once, you would be having a grand mal seizure, which translates to "very bad seizure" because the effects are very bad. This is not desirable.
 
 I don't expect the average attendee of a recovery group to necessarily know this. That movie *Lucy* did a lot to popularize this myth in its marketing material, as did a preface added to *How to Win Friends and Influence People*. 
+
+# Case Twenty-Six
+No, someone talking about "white privilege" is not the same as you using racial slurs. The fact that you felt comfortable saying that in a recovery group is a pretty good argument for the existence of white privilege, and I say that as someone who dislikes that term a lot while agreeing with the general concept. Also, "I sometimes use racial epithets I should not, but I am an equal opportunity discriminator" is a batshit crazy thing to say with a laugh.

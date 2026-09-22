@@ -4,6 +4,8 @@ title: Rants
 
 ## Recently Modified
 
+- [I Trend Therefore I Am](/rants/i-trend-therefore-i-am)
+
 - [Goofy Shit](/rants/goofy-shit)
 
 Life is absurd. Sometimes, it's goofy and absurd. Recovery circles have some of the goofiest and most absurd shit I have ever seen, so here's a bunch of them in no particular order. The specific incident that motivated me to start sharing some of the goofy shit in these circles is when I had to roleplay as a passive-aggressive rapist in a group session. Within the confluence of events that led to…
@@ -12,7 +14,7 @@ Life is absurd. Sometimes, it's goofy and absurd. Recovery circles have some of 
 
 Sometimes I find good quotes that haven't been turned into a Facebook meme exclusively posted by the worst people you know. Yet. "There are moments, psychologists tell us, when the passion for sin, or what the world calls sin, so dominates a nature, that every fibre of the body, as every cell of the brain, seems to be instinct with fearful impulses. Men and women at such moments lose the freedom…
 
-- [An Anti Exploration Formulation Of Healthy Masculinity](/rants/an-anti-exploration-formulation-of-healthy-masculinity)
+- [An Anti Imperialist Formulation Of Healthy Masculinity](/rants/an-anti-imperialist-formulation-of-healthy-masculinity)
 
 - [Aa Is Religious](/rants/aa-is-religious)
 
@@ -69,7 +71,7 @@ Wikipedia is not a good source. It is a better source than ChatGPT or Gemini or 
 <span class="alphabet-letter alphabet-letter-disabled">F</span>
 <a class="alphabet-letter" href="#letter-g">G</a>
 <span class="alphabet-letter alphabet-letter-disabled">H</span>
-<span class="alphabet-letter alphabet-letter-disabled">I</span>
+<a class="alphabet-letter" href="#letter-i">I</a>
 <span class="alphabet-letter alphabet-letter-disabled">J</span>
 <a class="alphabet-letter" href="#letter-k">K</a>
 <a class="alphabet-letter" href="#letter-l">L</a>
@@ -137,7 +139,7 @@ html {
 
 Seriously, this isn't bashing A.A. I think religious programs are a valid option and even an optimal one depending on the person. I think Buddhists would have a great time at Recovery Dharma meetings, and I think Christians would have a great time at A.A. meetings. I come from a Hindu background, which is kind of like saying "I come from a Western background" in terms of how little it conveys if…
 
-- [An Anti Exploration Formulation Of Healthy Masculinity](/rants/an-anti-exploration-formulation-of-healthy-masculinity)
+- [An Anti Imperialist Formulation Of Healthy Masculinity](/rants/an-anti-imperialist-formulation-of-healthy-masculinity)
 
 - [Animal Addiction](/rants/animal-addiction)
 
@@ -169,6 +171,11 @@ Sometimes I find good quotes that haven't been turned into a Facebook meme exclu
 - [Goofy Shit](/rants/goofy-shit)
 
 Life is absurd. Sometimes, it's goofy and absurd. Recovery circles have some of the goofiest and most absurd shit I have ever seen, so here's a bunch of them in no particular order. The specific incident that motivated me to start sharing some of the goofy shit in these circles is when I had to roleplay as a passive-aggressive rapist in a group session. Within the confluence of events that led to…
+
+<a id="letter-i"></a>
+### I
+
+- [I Trend Therefore I Am](/rants/i-trend-therefore-i-am)
 
 <a id="letter-k"></a>
 ### K

@@ -11,15 +11,19 @@ title: Dramas And Dramedies
 
 ## Recently Modified
 
+- [The Lost Weekend](/recovery/media/movies/dramas-and-dramedies/adaptations/the-lost-weekend)
+
+"Nat, are you ever scared when you wake up? So scared, the sweat starts out of you, huh? No, not you. With you, it's simple. The alarm clock goes off, you open your eyes, brush your teeth, and ready the Daily Mirror. That's all. You ever lie in your bed, looking at the window? A little daylight's coming through, and you start to wonder. Is it getting lighter? Is it getting darker? Is it dawn or…
+
+- [Gladiator Days Anatomy Of A Prison Murder](/recovery/media/movies/dramas-and-dramedies/biographical/gladiator-days-anatomy-of-a-prison-murder)
+
 - [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
+
+Well, there's my excuse. I'm late because my tits caught on fire. I have a soft spot for movies that were made in the same year as me. Is 28 Days an enjoyable movie? I would say yes. Is it a good depiction of addiction? I would say meh. It's the type of movie you might watch in rehab so that you can poke fun at how it differs from reality while being similar enough to merit the comparison in the…
 
 - [A Star Is Born 1937](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born-1937)
 
 A Star Is Born has been remade three times in 1954, 1976, and 2018, the latest of which is still in the memory of contemporary pop culture as a musical. The original was not a musical though, and instead was centrally inspired on a 1932 film called What Price Hollywood? that also featured a mentor in the show business industry whose decline from alcoholism coincides with a contrasting success…
-
-- [The Lost Weekend](/recovery/media/movies/dramas-and-dramedies/adaptations/the-lost-weekend)
-
-"Nat, are you ever scared when you wake up? So scared, the sweat starts out of you, huh? No, not you. With you, it's simple. The alarm clock goes off, you open your eyes, brush your teeth, and ready the Daily Mirror. That's all. You ever lie in your bed, looking at the window? A little daylight's coming through, and you start to wonder. Is it getting lighter? Is it getting darker? Is it dawn or…
 
 - [The Lighthouse](/recovery/media/movies/dramas-and-dramedies/the-lighthouse)
 
@@ -42,8 +46,6 @@ A story of a young couple going through withdrawals together, shaped by Aaron St
 - [Two For The Money](/recovery/media/movies/dramas-and-dramedies/sports/two-for-the-money)
 
 - [The Basketball Diaries 1995](/recovery/media/movies/dramas-and-dramedies/biographical/the-basketball-diaries-1995)
-
-- [Gladiator Days Anatomy Of A Prison Murder](/recovery/media/movies/dramas-and-dramedies/biographical/gladiator-days-anatomy-of-a-prison-murder)
 
 - [Cracked Up 1987](/recovery/media/movies/dramas-and-dramedies/cracked-up-1987)
 
@@ -138,6 +140,8 @@ html {
 ### #
 
 - [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
+
+Well, there's my excuse. I'm late because my tits caught on fire. I have a soft spot for movies that were made in the same year as me. Is 28 Days an enjoyable movie? I would say yes. Is it a good depiction of addiction? I would say meh. It's the type of movie you might watch in rehab so that you can poke fun at how it differs from reality while being similar enough to merit the comparison in the…
 
 <a id="letter-c"></a>
 ### C

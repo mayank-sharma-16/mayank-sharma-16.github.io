@@ -2,9 +2,31 @@
 title: Daily Reviews
 ---
 
+## 09/18/2026
+
+### [[https://www.cnn.com/2026/09/18/health/alcohol-use-disorder-alcoholism-recovery-wellness|'Once an alcoholic, always an alcoholic is outdated. Here's why']]
+
+This one is going to ruffle a lot of feathers.
+
+From page 31 of the Alcoholics Anonymous Big Book:
+
+*We are like men who have lost their legs; they never grow new ones. Neither does there appear to be any kind of treatment which will make alcoholics of our kind like other men. We have tried every imaginable remedy. In some instances there has been brief recovery, followed always by still worse relapse. Physicians who are familiar with alcoholism agree there is no such thing as making a normal drinker out of an alcoholic. Science may one day accomplish this, but it evidently hasn’t done so yet.*
+
+You might rightfully have read this and wondered, "so how do we know science has accomplished this?"
+
+Abstinence-centric programs like Alcoholics Anonymous (AA) and related 12-step offshoots have historically been reluctant, if not hostile, towards the idea of using medication-based approaches towards reducing substance use. It's not uncommon at all to hear those undergoing Medication for Opioid Use Disorder (MOUD) or Medication-Assisted Treatment (MAT) report stigma from those in 12-step programs, usually under the claim that they're not truly sober if they're still dependent on a chemical to manage their lives. Naltrexone as a harm-reduction approach to limit drinking instead of manage cravings during abstinence is another approach that you might never hear about or only hear negative things about in recovery groups. William Wilson (Bill W.) himself explored hallucinogens like LSD to prompt spiritual awakenings and high-dose Vitamin B supplements to address stubborn phases of depression, which others within the AA umbrella were strongly against discussing in AA literature. AA was founded in 1935, so its foundations are very distant from the findings of modern neuroscience. The analogy of the brain being a cucumber that's turned into a pickle which can never go back doesn't exactly hold up to scientific consensus.
+
+We know now that our brain is an incredibly versatile muscle that is constantly changing throughout our whole lives, just like every other aspect of our body. Contrary to popular conception, antidepressants don't work by correcting a chemical imbalance but by increasing neuroplasticity, allowing the brain to grow, repair, and reinforce neural circuits that regulate moods. The reason Behavioral Activation (BA) as a therapeutic intervention works alongside antidepressants is because it provides a structured set of tasks you can complete while your brain is better able to process the rewards from their completion. It stands to reason that if we can design a pharmacological-behavioral intervention that helps change people's brains to the point that they no longer meet the criteria for clinical depression, we might keep an open mind towards a possible intervention into substance use patterns. The goal of interventions into depression isn't to eliminate the experience of negative emotions or negative outlooks (i.e. abstaining from the symptoms of depression) but to help someone regulate the symptoms of depression as they come up so they can still pursue a life aligned with their long-term values. The medical and academic community has largely acknowledged this in their concept of "recovery," acknowledging the benefits of any reduction in harmful behavioral patterns that makes someone's life more manageable.
+
+The CNN article describes several notable studies that identified individuals who returned to low or moderate drinking patterns in their recovery beyond just Brad Pitt. Some studies suggest that as many as 1 in 5 people who met the criteria for alcohol use disorder were able to do so. In my experience, you will almost never hear this side of research presented in recovery programs or professional treatment facilities, which almost universally are focused solely on abstinence.
+
+On a personal note, I would virtually never recommend to someone who has at one point met the criteria for a substance use disorder of any kind to attempt moderation. It's impossible to know if any particular individual can manage a return to low-risk drinking or recreational use of a substance before they attempt it, and the odds and consequences of failure are high. There haven't been many studies examining the risk profiles of those who can or can't return to moderate drinking, but even a risk factors analysis will only give probabilities instead of guarantees. I could not in good conscience recommend someone attempt that if abstinence is on the table. All alcohol consumption is toxic, after all. 
+
+That all being said, I also believe individuals should have access to all the information they can to make the decisions that are best for them, and I believe anyone who does manage to moderate their substance use should be celebrated for their achievements in reducing harm to themselves and others. You should know about programs like SMART Recovery that explicitly make room for those seeking to moderate their substance use. You should know about Buprenorphine (Suboxone) as a partial opioid agonist, Methadone as a full opioid agonist, and Naltrexone as an opioid antagonist. These are evidence-based approaches that improve health and quality of life outcomes for individuals struggling to manage their substance use. 
+
+Understandably, an organization that identifies itself as providing abstinence for a discrete group of "alcoholics" may experience a conflict of interest on the topic of whether people can stop identifying as "alcoholics" at some point in their lives. AA has fundamentally Protestant roots that adopts the psychology of moral surveillance into its perspective on alcohol and addiction, likening them to the temptation to sin associated with Satan or the Devil, or at least contrary to the Higher Power that's almost always a stand-in for a personal, interventionist Biblical God. If that's your framing of the world, then harm-reduction towards moderating substance use is comparable to only occasionally consorting with the Devil, and leaning on medications to manage a disorder implies that leaning on one's Higher Power has been insufficient. There's a built-in resistance to working alongside scientific breakthroughs within this moral-psychology framework. 
+
 ## 09/15/2026
-
-
 
 ### [[https://www.reddit.com/r/recoverywithoutAA/comments/1wgyj5e/comment/p9yefbq/?context=3&utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button|Help - is it just me ? How to get out ?]]
 

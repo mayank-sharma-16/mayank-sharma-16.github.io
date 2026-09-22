@@ -3,7 +3,7 @@ title: Hyperarousal
 ---
 
 # Overview
-Hyperarousal refers to a physical state that the body enters as a response from the nervous system to continuous stress.
+Hyperarousal refers to a physical state that the body enters as a response from the nervous system to continuous stress. This includes [[hypervigilance|hypervigilance]], and it contrasts with[[hypoarousal|hypoarousal]].
 
 In a typical stress response, the amygdala sends signals to the adrenal glands to flood the bloodstream with adrenaline and norepinephrine and trigger a potential [[fight-flight-freeze-fawn|fight-or-flight response]] while increasing your heart rate, constricting muscles, dilating pupiles, and making breathing more shallow. It also releases the stress hormone cortisol to flood your blood with glucose for energy, sharpen your focus on stimuli around you, and slow down processes like digestion and reproduction that aren't needed in an emergency. The prefrontal cortex simultaneously processes the actual information that triggered the amygdala and can mute the stress response if there's no real threat, like realizing that the loud sound you just heard was a car backfiring and not a gunshot. The brain has dedicated receptors to monitor the amount of cortisol in the blood and stop producing it past a certain point, with the premise that the threat has likely been dealt with.
 

@@ -6,8 +6,13 @@ title: Metaphysics
 
 - [Glossary](/metaphysics/glossary)
 - [Literature](/metaphysics/literature)
+- [People](/metaphysics/people)
 
 ## Recently Modified
+
+- [Ressentiment](/metaphysics/glossary/ressentiment)
+
+"Ressentiment" describes feelings of resentment towards the perceived source of one's powerlessness. Friedrich Nietzsche used "ressentiment" to lay the groundwork for his concept of "slave morality" as a psychological defense against the implication of one's inferiority. Specifically, Nietzsche argued that those without power resent those who do have power, and they react by creating a system of…
 
 - [Hedonism](/metaphysics/glossary/hedonism)
 
@@ -64,5 +69,3 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 - [Mahayana](/metaphysics/glossary/mahayana)
 
 - [Nirvana](/metaphysics/glossary/nirvana)
-
-- [Tantra](/metaphysics/glossary/tantra)

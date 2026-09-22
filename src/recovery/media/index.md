@@ -14,6 +14,16 @@ title: Media
 
 ## Recently Modified
 
+- [The Lost Weekend](/recovery/media/movies/dramas-and-dramedies/adaptations/the-lost-weekend)
+
+"Nat, are you ever scared when you wake up? So scared, the sweat starts out of you, huh? No, not you. With you, it's simple. The alarm clock goes off, you open your eyes, brush your teeth, and ready the Daily Mirror. That's all. You ever lie in your bed, looking at the window? A little daylight's coming through, and you start to wonder. Is it getting lighter? Is it getting darker? Is it dawn or…
+
+- [Gladiator Days Anatomy Of A Prison Murder](/recovery/media/movies/dramas-and-dramedies/biographical/gladiator-days-anatomy-of-a-prison-murder)
+
+- [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
+
+Well, there's my excuse. I'm late because my tits caught on fire. I have a soft spot for movies that were made in the same year as me. Is 28 Days an enjoyable movie? I would say yes. Is it a good depiction of addiction? I would say meh. It's the type of movie you might watch in rehab so that you can poke fun at how it differs from reality while being similar enough to merit the comparison in the…
+
 - [Reefer Madness](/recovery/media/movies/exploitation/reefer-madness)
 
 "The motion picture you are about to witness may startle you. It would not have been possible, otherwise, to sufficiently emphasize the frightful toll of the new drug menace which is destroying the youth of America in alarmingly-increasing numbers." "Marihuana is that drug - a violent narcotic - an unspeakable scourge - The Real Public Enemy Number One!" "Its first effect is sudden, violent,…
@@ -30,15 +40,9 @@ title: Media
 
 Fundamentally, this movie is about enabling. Kate enables her daughter's addiction, Richard enables his ex-wife's failing business, and Les enables her best friend's emotional decision-making. Richard chastises Kate for giving money to Claire despite her obvious motive to keep using drugs, yet Richard is indirectly financing Claire by writing thousands of dollars to Kate when unexpected costs hit…
 
-- [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
-
 - [A Star Is Born 1937](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born-1937)
 
 A Star Is Born has been remade three times in 1954, 1976, and 2018, the latest of which is still in the memory of contemporary pop culture as a musical. The original was not a musical though, and instead was centrally inspired on a 1932 film called What Price Hollywood? that also featured a mentor in the show business industry whose decline from alcoholism coincides with a contrasting success…
-
-- [The Lost Weekend](/recovery/media/movies/dramas-and-dramedies/adaptations/the-lost-weekend)
-
-"Nat, are you ever scared when you wake up? So scared, the sweat starts out of you, huh? No, not you. With you, it's simple. The alarm clock goes off, you open your eyes, brush your teeth, and ready the Daily Mirror. That's all. You ever lie in your bed, looking at the window? A little daylight's coming through, and you start to wonder. Is it getting lighter? Is it getting darker? Is it dawn or…
 
 - [Denial Is A River](/recovery/media/songs/denial-is-a-river)
 
@@ -71,5 +75,3 @@ You might have guessed that the title is a bit sensationalist; "Should we embrac
 - [Looper](/recovery/media/movies/science-fiction/looper)
 
 - [Daybreakers](/recovery/media/movies/horror/daybreakers)
-
-- [The French Connection](/recovery/media/movies/noir/the-french-connection)
