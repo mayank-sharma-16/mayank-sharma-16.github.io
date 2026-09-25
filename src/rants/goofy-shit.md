@@ -218,3 +218,7 @@ I don't expect the average attendee of a recovery group to necessarily know this
 
 # Case Twenty-Six
 No, someone talking about "white privilege" is not the same as you using racial slurs. The fact that you felt comfortable saying that in a recovery group is a pretty good argument for the existence of white privilege, and I say that as someone who dislikes that term a lot while agreeing with the general concept. Also, "I sometimes use racial epithets I should not, but I am an equal opportunity discriminator" is a batshit crazy thing to say with a laugh.
+
+# Case Twenty-Seven
+There are few things that make a man seem less masculine than being worried about seeming gay. If you can't handle a 5-year old wanting to put makeup on you or your partner asking you to hold their purse in public, you are functionally a large child. Grow the fuck up. 
+
