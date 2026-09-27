@@ -3,12 +3,10 @@ title: The Lighthouse
 released: 2019
 ---
 
-# Overview
-
 # Commentary
 
 ## Surreal Talk
-Disclaimer: I love surrealism, which isn’t surreal at all. There’s nothing that tickles my interest like characters spiraling into insanity until we get a break from reality to parse through and interpret. So a 19th-century lighthouse ghost story casting Willem Dafoe as an old sea captain on a bender with the glittery vampire boy from Twilight? I’m locked in, chief. I went into The Lighthouse (2019) knowing I was going to love it. It’s absurd, it’s atmospheric, it’s tragic, it’s funny, it’s beautiful. 
+Disclaimer: I love surrealism, which isn’t surreal at all. There’s nothing that tickles my interest like characters spiraling into insanity until we get a break from reality to parse through and interpret. So a 19th-century lighthouse ghost story casting Willem Dafoe as an old sea captain on a bender with the glittery vampire boy from Twilight? I’m locked in, chief. I went into The Lighthouse (2019) convinced I was going to love it, and I did. It’s absurd, it’s atmospheric, it’s tragic, it’s funny, it’s beautiful. 
 
 As far as depicting substance abuse, I view it as one cog in the movie’s psychological machine that gains significance from the the larger whole. Drinking accelerates other character dynamics instead of being a central theme itself, so the best way to interpret the depiction of addiction is to start with the movie’s broader ideas and see how substances operate within them.
 

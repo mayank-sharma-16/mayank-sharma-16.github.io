@@ -220,5 +220,7 @@ I don't expect the average attendee of a recovery group to necessarily know this
 No, someone talking about "white privilege" is not the same as you using racial slurs. The fact that you felt comfortable saying that in a recovery group is a pretty good argument for the existence of white privilege, and I say that as someone who dislikes that term a lot while agreeing with the general concept. Also, "I sometimes use racial epithets I should not, but I am an equal opportunity discriminator" is a batshit crazy thing to say with a laugh.
 
 # Case Twenty-Seven
-There are few things that make a man seem less masculine than being worried about seeming gay. If you can't handle a 5-year old wanting to put makeup on you or your partner asking you to hold their purse in public, you are functionally a large child. Grow the fuck up. 
+There are few things that make a man seem less masculine than being worried about seeming gay. If you can't handle a 5-year old wanting to put makeup on you or your partner asking you to hold their purse in public, you are functionally a large child. Grow the fuck up. You are not going to survive sober if these are the hills you choose to die on.
 
+# Case Twenty-Eight
+I can't believe I'm saying this as someone who has been a big critic of the way Large Language Models (LLMs) have been deployed, but I legitimately would be homeless soon if it weren't for having an LLM explain the clusterfuck of bureaucratic stupidity that is the modern American healthcare system. It's crazy, but an LLM genuinely does not have the "look, I'm here to get paid" mindset that you will find in every corner of any modern institution. 
