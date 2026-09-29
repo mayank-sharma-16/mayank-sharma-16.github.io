@@ -1,3 +1,12 @@
 ---
 title: Juridical Image
 ---
+
+# Overview
+In legal philosophy, particularly in the works of Hanna Pickard, "juridical image" can refer to the model of human behavior that a legal system uses in evaluating actions and interpreting laws. 
+
+The common traditional juridical image found in most legal systems assumes that an individual is a discrete autonomous unit who makes calculated decisions, such that breaking the law is seen as a choice made of complete free will that merits punishment and blame through the assignment of the label "guilty." There is some room allotted for those who are considered "insane" and incapable of rational decision-making, but the system still leans on binaries: either you can make rational decisions or you can't, and either you're innocent or you're guilty.
+
+However, modern findings out of research communities significantly complicates these ideas. The biopsychosocial models found in medical settings introduces a wide variety of mechanisms through which someone's holistic well-being and behaviors can be addressed rather than punitive incarceration or fines that can actually worsen someone's condition while increasing the chance of reoffending. The introduction of [[diversion|diversion programs]] has gone a long way to offering treatment through rehabilitation programs rather than jail or prison time, which are often environments in which exposure to drug use is still possible, if not common. Rather than focusing on the extent to which an individual should suffer consequences for their actions by interrogating their rationality and character, public health research is focused on the actual outcomes of interventions that might improve public safety while helping offenders avoid further marginalization.
+
+In other contexts, "juridical image" can also refer to the literal visual imagery surrounding the legal system, including the symbols associated with "criminality." For instance, emphasizing symbols of policing or courtrooms when discussing addiction encourages people to see addicts as criminals rather than those suffering from an unmanaged, untreated health condition. Changing these images is a step towards reducing the stigma around seeking help for addiction, since people might be deterred from admitting they have a problem if they're going to be associated with criminality or antisocial personalities.

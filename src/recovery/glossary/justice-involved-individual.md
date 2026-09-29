@@ -1,3 +1,8 @@
 ---
-title: Justice-Involved Individual
+title: Justice-Involved Individual (JII)
 ---
+
+# Overview
+The term "justice-involved individual" (JII) became widespread across state agencies and healthcare fields as a replacement for "convict", "criminal", "felon" or "prisoner" which have negative connotations that imply some level of guilt or wrongdoing. There were earlier attempts to shift the language into person-first and system-focused terms like "person with a criminal record" or "formerly incarcerated person," but professionals settled on JII as means to discuss anyone who has interacted with any part of the legal justice system without assigning guilt or stereotypes. 
+
+As with all updates to language, there are criticisms. Some argue that it's a politically correct term that only makes those discussing the term feel better while doing little to change material reality, though studies have shown that even trained professionals become more susceptible to projecting biases and stereotypes when the "politically incorrect" terms are used. It's the same reason "substance use disorder" has been prioritized over "substance abuse," since the connotation of being abusive impacts how punitive medical professionals feel towards patients. Others argue that "justice-involved" is still too loaded with implications, as it implies that they're facing justice rather than dealing with the coercion of an unjust system. You can't make everyone happy, but it's really not difficult to read the room and figure out which term works to communicate your point.

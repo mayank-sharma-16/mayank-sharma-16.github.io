@@ -1,0 +1,10 @@
+---
+title: Intravenous (IV)
+---
+
+# Overview
+Intravenous (IV) translates literally into "within a vein." It's most often used in the context of IV injections, which deliver some substance directly into a person's bloodstream through their veins for rapid circulation. As a medical procedure, it's commonly done to administer medications that act rapidly without going through the digestive system's metabolic processes. If a patient has lost blood, become critically malnourished, or severely dehydrated, IV fluids might be used to quickly restore a balance of nutrients and electrolytes rather than waiting for the body to naturally arrive at a balance over a long period of time. 
+
+In the context of substance use, IV injections are used to administer a variety of drugs for an instant and more powerful high than oral ingestion that passes through the liver and might weaken the effects of the substance. Some studies also suggest that IV injections can lead to significantly higher risks of developing substance use disorders since the brain experiences the association between the injection and the reward of the high instantly. It also raises the potential of fatal overdoses and the transmission of blood-borne pathogens like HIV, Hepatitis B, and Hepatitis C on top of other infections like endocarditis. Repeated injections also cause physical trauma to veins, which can lead to scarring, collapse, or deep vein thrombosis (blood clots).
+
+Harm reduction policies often include syringe service programs (SSPs) or needle exchange programs that provide IV drug users with clean needles to reduce the transmission of diseases. Studies show that these centers are effective at limiting the spread of diseases, and they can also serve as entry points into pathways to treatment that encourages long-term sobriety.
