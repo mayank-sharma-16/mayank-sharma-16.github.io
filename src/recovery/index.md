@@ -21,80 +21,80 @@ title: Recovery
 
 ## Recently Modified
 
-- [The Lost Weekend](/recovery/media/movies/dramas-and-dramedies/adaptations/the-lost-weekend)
+- [Kraepelinian](/recovery/glossary/kraepelinian)
 
-"Nat, are you ever scared when you wake up? So scared, the sweat starts out of you, huh? No, not you. With you, it's simple. The alarm clock goes off, you open your eyes, brush your teeth, and ready the Daily Mirror. That's all. You ever lie in your bed, looking at the window? A little daylight's coming through, and you start to wonder. Is it getting lighter? Is it getting darker? Is it dawn or…
+To describe an approach as "Kraepelinian" is to mean that it views mental illnesses as distinct biologically-driven neurological conditions that can be identified through their progression rather than just the current presentation of symptoms. This is in contrast to Freudian psychoanalysis, which located the source of symptoms within someone's fluid, subconscious emotional conflicts that could…
 
-- [Gladiator Days Anatomy Of A Prison Murder](/recovery/media/movies/dramas-and-dramedies/biographical/gladiator-days-anatomy-of-a-prison-murder)
+- [Kleptomania](/recovery/glossary/kleptomania)
 
-- [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
+Kleptomania is a mental health disorder ni which someone has a recurring urge to steal items without personal gain as a motivator. While it's often considered a behavioral addiction along the lines of gambling or sex addictions, the DSM-5-TR technically categorizes it as an impulse-control disorder. The underlying mechanisms for kleptomania are almost all shared with other addictions. Much like…
 
-Well, there's my excuse. I'm late because my tits caught on fire. I have a soft spot for movies that were made in the same year as me. Is 28 Days an enjoyable movie? I would say yes. Is it a good depiction of addiction? I would say meh. It's the type of movie you might watch in rehab so that you can poke fun at how it differs from reality while being similar enough to merit the comparison in the…
+- [Ketamine](/recovery/glossary/ketamine)
 
-- [Impairment](/recovery/glossary/impairment)
+Ketamine is a dissociative anesthetic used for surgical procedures, treatment-resistant depression, and chronic pain. As an NMDA receptor antagonist, it blocks glutamate, the primary excitatory neurotransmitter in the brain. With depression, this leads to the brain creating new pathways extremely quickly that can guide someone out of negative loops in their thoughts and feelings. It's also used…
 
-The National Cancer Institute defines "impairment" as: A loss of part or all of a physical or mental ability, such as the ability to see, walk, or learn. Taber's Medical Dictionary provides a somewhat more specific definition that explicitly invokes a biopsychosocial perspective: Any loss or abnormality of psychological, physiological, or anatomical structure or function. Impairments represent a…
+- [Intravenous](/recovery/glossary/intravenous)
 
-- [Inner City](/recovery/glossary/inner-city)
+Intravenous (IV) translates literally into "within a vein." It's most often used in the context of IV injections, which deliver some substance directly into a person's bloodstream through their veins for rapid circulation. As a medical procedure, it's commonly done to administer medications that act rapidly without going through the digestive system's metabolic processes. If a patient has lost…
 
-The term "inner city" has been used as a euphemism for low-income predominantly minority neighborhoods in urban environments, which came to the forefront of sociopolitical discourse through media coverage of the crack cocaine epidemic in the 1980s and 1990s under the banner of the War on Drugs.
+- [Juridical Image](/recovery/glossary/juridical-image)
 
-- [Inner Child](/recovery/glossary/inner-child)
+In legal philosophy, particularly in the works of Hanna Pickard, "juridical image" can refer to the model of human behavior that a legal system uses in evaluating actions and interpreting laws. The common traditional juridical image found in most legal systems assumes that an individual is a discrete autonomous unit who makes calculated decisions, such that breaking the law is seen as a choice…
 
-The "inner child" is a metaphor that refers to some collection of schemas and emotions rooted in childhood experiences or perspectives. The "inner child" is not a rigid scientific or clinical concept. It has origins in analytical psychology dating back to Carl Jung's archetypes of a "Divine Child" and "wounded child", but the concept isn't defined in ways we can measure for empirical testing.…
+- [Justice Involved Individual](/recovery/glossary/justice-involved-individual)
 
-- [Inflammation](/recovery/glossary/inflammation)
+The term "justice-involved individual" (JII) became widespread across state agencies and healthcare fields as a replacement for "convict", "criminal", "felon" or "prisoner" which have negative connotations that imply some level of guilt or wrongdoing. There were earlier attempts to shift the language into person-first and system-focused terms like "person with a criminal record" or "formerly…
 
-Inflammation is typically a response from an immune system that increases blood flow, heat, and fluid build up towards some area of the body that might be injured, infected, or irritated. In the short-term, in cases such as a cut or a cold, inflammation is a healing process that helped deliver immune cells and healing factors to an affected region of the body. In the long-term, chronic…
+- [Kava](/recovery/glossary/kava)
 
-- [Inebriety](/recovery/glossary/inebriety)
+Kava is a beverage made from the root of the Piper methysticum plant and has traditionally been used in rituals and social gatherings across Polynesia, Micronesia, and Melanesia in the South Pacific. It's also sold as tea, extracts, and supplemental powders globally. Kava contains kavalactones, which are found in the resin of kava roots and are responsible for its psychoactive effects by serving…
 
-Inebriety refers to the state of being drunk, normally from alcohol. While the term "inebriate" can be found in the 15th century in the context of being "inebriate in the love of God" in reference to feeling overwhelmed with religious zeal and spirit, it was used as a euphemism for being drunk for centuries until the late 1800s. Physicians began using the term when addressing addiction, such as…
+- [Junkies](/recovery/glossary/junkies)
 
-- [Impulsivity](/recovery/glossary/impulsivity)
+"Junkie" is a derogatory slang term that refers to people with substance use disorders, typically in relation to narcotic substances that were historically called "junk." In 1923, Nels Anderson published The Hobo: The Sociology of the Homeless Man in which he writes: "The Hop Head is an interesting type. He is usually in a pitiful condition, for he has small chance, living as he does, in the…
 
-The American Psychological Association's Dictionary of Psychology defines "impulsive" as: describing or displaying behavior characterized by little or no forethought, reflection, or consideration of the consequences of an action, particularly one that involves taking risks.
+- [Isolation Of Affect](/recovery/glossary/isolation-of-affect)
 
-- [Imposter Syndrome](/recovery/glossary/imposter-syndrome)
+Isolation of affect is a psychological defense mechanism in which the cognitive and emotional components of an experience are isolated from each other so that an individual can cognitively engage with an idea without being conscious of their emotional associations with it. It's considered to be the opposite of repression, where the emotional affect is impacting an individual but they don't…
 
-Imposter syndrome is not an official medical diagnosis, but it was coined by clinical psychologists to describe the specific anxieties where people continually doubt themselves and feel like a fraud even when experiencing undeniable success. This can manifest as low self-esteem or self-worth, rationalizations that success was the result of luck, worrying about how others perceive one's…
+- [Intervention](/recovery/glossary/intervention)
 
-- [Daily Reviews](/recovery/news/daily-reviews/daily-reviews)
+"Intervention" in a general medical context has been used to refer to any treatment used to address the natural course of a disease. In preventative medicine, interventions are generally categorized as: primary interventions that prevent a disease before it occurs, like a vaccine secondary interventions that use early detection to address a disease at it's earliest stages tertiary interventions…
 
-This one is going to ruffle a lot of feathers. From page 31 of the Alcoholics Anonymous Big Book: We are like men who have lost their legs; they never grow new ones. Neither does there appear to be any kind of treatment which will make alcoholics of our kind like other men. We have tried every imaginable remedy. In some instances there has been brief recovery, followed always by still worse…
+- [Intraparietal Cortex](/recovery/glossary/intraparietal-cortex)
 
-- [Hypervigilance](/recovery/glossary/hypervigilance)
+- [Intrusive Thoughts](/recovery/glossary/intrusive-thoughts)
 
-Hypervigilance is a part of hyperarousal, in which the nervous system's "fight-or-flight" stress response is continually excited. Specifically, hypervigilance refers to the component of hyperarousal in which someone is constantly diverting their attention to scanning the environment for threats. Hypervigilance can manifest as: Analyzing micro-expressions, like reading subtle changes in someone's…
+Intrusive thoughts refer to thoughts that interrupt a flow of thoughts. There are some wordier definitions that sound more technical, but that's the essence of it. In clinical literature, it's common to see intrusive thoughts referred to as "obsessions", "mental intrusions", or other close synonyms. Everyone has some level of intrusive thoughts that come to mind throughout their day and life, but…
 
-- [Hypochondria](/recovery/glossary/hypochondria)
+- [Intrinsic Motivation](/recovery/glossary/intrinsic-motivation)
 
-Hypochondria, or Illness Anxiety Disorder (IAD) as of the publication of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) in 2013, refers to a condition in which someone experiences constant and intense fear of having a serious illness. The term "hypochondriac" is weighed down by a lot of social stigma, much like "addict," so the American Psychiatric Association (APA) began…
+The concept of intrinsic motivation refers to the tendency to perceive activities as their own reward rather than the means to an external reward. The term first entered scientific literature in 1950 in a paper titled "Learning and satiation of response in intrinsically motivated complex puzzle performance by monkeys." The psychologist Harry Harlow observed how some monkeys would learn to solve…
 
-- [Iatrogenic](/recovery/glossary/iatrogenic)
+- [Intramuscular](/recovery/glossary/intramuscular)
 
-"Iatrogenic" refers to an illness or condition caused by a medical procedure or the actions of a medical practitioner. This includes everything from predictable side-effects of prescribed medication to botched surgeries worthy of medical malpractice suits.
+Intramuscular (IM) injections are injections that aim to go deeper than intradermal (in the skin), intravenous (in the veins), and subcutaneous (fatty tissue under the skin) injections. Vaccines, hormones, steroids, and antibiotics are generally delivered at this depth which allows for rapid absorption of high quantities of a medication or drug. With injection drug use, generally the goal is to…
 
-- [I Statements](/recovery/glossary/i-statements)
+- [Intimate Partner Violence Ivp](/recovery/glossary/intimate-partner-violence-ivp)
 
-I-statements are expressions that avoid generalizing by focusing on personal experiences. For instance, rather than saying "a good parent is always attentive to their kids' needs", an I-statement might reframe the sentiment as "I feel like a good parent when I'm attentive to my kids' needs." No one ever actually does this anywhere. I don't even consistently do it on this site. In fact, I'm about…
+Intimate Partner Violence (IPV) refers to instances of physical altercation between partners who are in or used to be in a romantic relationship. In the general population, 33% of women and 25% of men report being the victim of IPV or domestic violence. Within those seeking treatment for substance use disorders, 1 in 2 women report being the victim of IPV. With men, 30% report having engaged in…
 
-- [Hysteria](/recovery/glossary/hysteria)
+- [Intertemporal Bargaining](/recovery/glossary/intertemporal-bargaining)
 
-Hysteria in a casual everyday sense refers to some kind of extreme excitement or overwhelming emotion. I use it often in the context of anti-drug or anti-immigrant hysteria, in which people are so frightened over something unfamiliar that they jump to radical or pseudoscientific solutions. However, "hysteria" used to describe a now-defunct disorder that framed an excess of emotion as a pathology…
+Intertemporal bargaining is a behavioral economics concept that refers to a person making a strategic decision that alters the benefits or consequences of their future self. Eating a whole row of Double Stuf Oreos might seem very appealing in the short-term, and the impulse to act on that might cause you to decide that the sugar intake is a problem you're willing to pass onto your future self.…
 
-- [Cognitive Reframing](/recovery/glossary/cognitive-reframing)
+- [Intentionality](/recovery/glossary/intentionality)
 
-Cognitive reframing in modern psychology refers to a shift in mindset that can change the perspective interpreted from a situation. Within Cognitive Behavioral Therapy (CBT), cognitive reframing is considered a valuable coping skill to diffuse distressing emotions by finding an equally valid interpretation of the same facts of a situation, generally to shift away from catastrophizing or…
+Intentionality is broadly the capacity to direct oneself towards something else. If that sounds vague, it's because intentionality takes on a variety of meanings depending on the specific context. Philosophers of the mind discuss intentionality as a property that separates the physical world from constructs of the mind. From the Stanford Encyclopedia of Philosophy: In philosophy, intentionality…
 
-- [Hippocampus](/recovery/glossary/hippocampus)
+- [Insomnia](/recovery/glossary/insomnia)
 
-The hippocampus is a part of the brain's limbic system that handles the formation of long-term memories, processing of spatial information, and association of emotions to experiences. With chronic substance use, the hippocampus stores the people, places, and things as cues associated with the high of using substances. The processes of long-term potentiation (LTP), in which the connections between…
+Insomnia is a disorder that disrupts sleep, either by making it hard to fall asleep or stay asleep. Short-term insomnia can be caused by stress, travel, substance use, or significant life events that lead to a lot of thoughts at night. Long-term insomnia can be related to chronic pain, mental health disorders like anxiety and depression, and the side effects of some medications. Insomnia and…
 
-- [Hypomania](/recovery/glossary/hypomania)
+- [Saw](/recovery/media/movies/horror/saw)
 
-Hypomania is a short-lived form of mania in which someone experiences increased energy and elevated or irritable moods. Someone must be experiencing symptoms for four days consecutively that are not considered characteristic of someone's personality outside of the symptomatic episodes. More specifically, these symptoms include: Grandiosity Decreased desire for sleep Speaking fast or as if under…
+The Saw franchise actually has a whole page for "Drug Addicts": https://sawfilms.fandom.com/wiki/Category:Drug_Addicts. There are 24 total including the video games. Yes, there are Saw video games. No, I do not recommend you play them. I'll probably put off Saw for a while because I'm not too entertained by gore for its own sake.
 
-- [Hypoarousal](/recovery/glossary/hypoarousal)
+- [Hellraiser](/recovery/media/movies/horror/hellraiser)
 
-Hypoarousal is a state in which the nervous system shuts down to conserve energy in response to prolonged or intense stress and trauma. This is in contrast to hyperarousal, though notably, a stressed nervous system may swing abruptly from one to the other. Signs of hypoarousal include: Emotional numbness Low energy or chronic fatigue Brain fog or trouble concentrating Dissociation
+"The doors to the pleasure of Heaven or Hell. I didn't care which... I thought I'd gone to the limits. I hadn't. The Cenobites gave me an experience beyond limits... pain and pleasure, indivisible." The original Hellraiser movie is comfortably a contender for one of my favorite movies of all time. The sequels have been not as good, to say the least, including at least one movie clearly made just…

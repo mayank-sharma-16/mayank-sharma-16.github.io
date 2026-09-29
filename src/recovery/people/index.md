@@ -202,6 +202,10 @@ An interpreter for Shohei Ohtani, a Major League Baseball player, Ippei Mizuhara
 
 - [Jean Joseph Rossi Jr](/recovery/people/jean-joseph-rossi-jr)
 
+- [Joan Vollmer](/recovery/people/joan-vollmer)
+
+In 1946, she became the first female case of amphetamine psychosis at Bellevue Hospital.
+
 - [Jolanda Kossakowski](/recovery/people/jolanda-kossakowski)
 
 <a id="letter-k"></a>

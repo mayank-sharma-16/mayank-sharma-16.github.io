@@ -4,6 +4,8 @@ title: Glossary
 
 ## Recently Modified
 
+- [Interconnectedness](/metaphysics/glossary/interconnectedness)
+
 - [Ressentiment](/metaphysics/glossary/ressentiment)
 
 "Ressentiment" describes feelings of resentment towards the perceived source of one's powerlessness. Friedrich Nietzsche used "ressentiment" to lay the groundwork for his concept of "slave morality" as a psychological defense against the implication of one's inferiority. Specifically, Nietzsche argued that those without power resent those who do have power, and they react by creating a system of…
@@ -61,8 +63,6 @@ A "cosmology" is a study or body of work exploring the origin and structure of t
 - [Theravada](/metaphysics/glossary/theravada)
 
 - [Mahayana](/metaphysics/glossary/mahayana)
-
-- [Nirvana](/metaphysics/glossary/nirvana)
 
 ## Pages
 
@@ -325,6 +325,8 @@ Impermanence is a central organizing principle of many non-Western religions tha
 
 My degree says I have a specialization in Intelligent Systems, but I don't really know how to define intelligence. The closest I can figure is that we use it to refer to some kind of system that is capable of updating its model of the world after receiving feedback from it. That means any observation of basic Bayesian inference is sufficient to label something as intelligent, but with a…
 
+- [Interconnectedness](/metaphysics/glossary/interconnectedness)
+
 <a id="letter-j"></a>
 ### J
 
@@ -411,11 +413,15 @@ Metascience can be described simply science of science. Contrary to the expectat
 
 - [Simulacrum](/metaphysics/glossary/simulacrum)
 
+- [Singularity](/metaphysics/glossary/singularity)
+
 - [Skepticism](/metaphysics/glossary/skepticism)
 
 - [Smartism](/metaphysics/glossary/smartism)
 
 - [Soul](/metaphysics/glossary/soul)
+
+- [Spirituality](/metaphysics/glossary/spirituality)
 
 - [Stoicism](/metaphysics/glossary/stoicism)
 
@@ -434,7 +440,11 @@ Tabula Rasa translates to blank slate, and it suggests the mind is blank slate o
 
 - [Tantra](/metaphysics/glossary/tantra)
 
+- [Telos](/metaphysics/glossary/telos)
+
 - [Theravada](/metaphysics/glossary/theravada)
+
+- [Transcendence](/metaphysics/glossary/transcendence)
 
 <a id="letter-u"></a>
 ### U
@@ -455,6 +465,8 @@ Tabula Rasa translates to blank slate, and it suggests the mind is blank slate o
 - [Vedanta](/metaphysics/glossary/vedanta)
 
 - [Vibhava Tanha](/metaphysics/glossary/vibhava-tanha)
+
+- [Virtue Ethics](/metaphysics/glossary/virtue-ethics)
 
 <a id="letter-y"></a>
 ### Y

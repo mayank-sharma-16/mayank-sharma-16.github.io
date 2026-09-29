@@ -4,85 +4,83 @@ title: Glossary
 
 ## Recently Modified
 
-- [Impairment](/recovery/glossary/impairment)
+- [Kraepelinian](/recovery/glossary/kraepelinian)
 
-The National Cancer Institute defines "impairment" as: A loss of part or all of a physical or mental ability, such as the ability to see, walk, or learn. Taber's Medical Dictionary provides a somewhat more specific definition that explicitly invokes a biopsychosocial perspective: Any loss or abnormality of psychological, physiological, or anatomical structure or function. Impairments represent a…
+To describe an approach as "Kraepelinian" is to mean that it views mental illnesses as distinct biologically-driven neurological conditions that can be identified through their progression rather than just the current presentation of symptoms. This is in contrast to Freudian psychoanalysis, which located the source of symptoms within someone's fluid, subconscious emotional conflicts that could…
 
-- [Inner City](/recovery/glossary/inner-city)
+- [Kleptomania](/recovery/glossary/kleptomania)
 
-The term "inner city" has been used as a euphemism for low-income predominantly minority neighborhoods in urban environments, which came to the forefront of sociopolitical discourse through media coverage of the crack cocaine epidemic in the 1980s and 1990s under the banner of the War on Drugs.
+Kleptomania is a mental health disorder ni which someone has a recurring urge to steal items without personal gain as a motivator. While it's often considered a behavioral addiction along the lines of gambling or sex addictions, the DSM-5-TR technically categorizes it as an impulse-control disorder. The underlying mechanisms for kleptomania are almost all shared with other addictions. Much like…
 
-- [Inner Child](/recovery/glossary/inner-child)
+- [Ketamine](/recovery/glossary/ketamine)
 
-The "inner child" is a metaphor that refers to some collection of schemas and emotions rooted in childhood experiences or perspectives. The "inner child" is not a rigid scientific or clinical concept. It has origins in analytical psychology dating back to Carl Jung's archetypes of a "Divine Child" and "wounded child", but the concept isn't defined in ways we can measure for empirical testing.…
+Ketamine is a dissociative anesthetic used for surgical procedures, treatment-resistant depression, and chronic pain. As an NMDA receptor antagonist, it blocks glutamate, the primary excitatory neurotransmitter in the brain. With depression, this leads to the brain creating new pathways extremely quickly that can guide someone out of negative loops in their thoughts and feelings. It's also used…
 
-- [Inflammation](/recovery/glossary/inflammation)
+- [Intravenous](/recovery/glossary/intravenous)
 
-Inflammation is typically a response from an immune system that increases blood flow, heat, and fluid build up towards some area of the body that might be injured, infected, or irritated. In the short-term, in cases such as a cut or a cold, inflammation is a healing process that helped deliver immune cells and healing factors to an affected region of the body. In the long-term, chronic…
+Intravenous (IV) translates literally into "within a vein." It's most often used in the context of IV injections, which deliver some substance directly into a person's bloodstream through their veins for rapid circulation. As a medical procedure, it's commonly done to administer medications that act rapidly without going through the digestive system's metabolic processes. If a patient has lost…
 
-- [Inebriety](/recovery/glossary/inebriety)
+- [Juridical Image](/recovery/glossary/juridical-image)
 
-Inebriety refers to the state of being drunk, normally from alcohol. While the term "inebriate" can be found in the 15th century in the context of being "inebriate in the love of God" in reference to feeling overwhelmed with religious zeal and spirit, it was used as a euphemism for being drunk for centuries until the late 1800s. Physicians began using the term when addressing addiction, such as…
+In legal philosophy, particularly in the works of Hanna Pickard, "juridical image" can refer to the model of human behavior that a legal system uses in evaluating actions and interpreting laws. The common traditional juridical image found in most legal systems assumes that an individual is a discrete autonomous unit who makes calculated decisions, such that breaking the law is seen as a choice…
 
-- [Impulsivity](/recovery/glossary/impulsivity)
+- [Justice Involved Individual](/recovery/glossary/justice-involved-individual)
 
-The American Psychological Association's Dictionary of Psychology defines "impulsive" as: describing or displaying behavior characterized by little or no forethought, reflection, or consideration of the consequences of an action, particularly one that involves taking risks.
+The term "justice-involved individual" (JII) became widespread across state agencies and healthcare fields as a replacement for "convict", "criminal", "felon" or "prisoner" which have negative connotations that imply some level of guilt or wrongdoing. There were earlier attempts to shift the language into person-first and system-focused terms like "person with a criminal record" or "formerly…
 
-- [Imposter Syndrome](/recovery/glossary/imposter-syndrome)
+- [Kava](/recovery/glossary/kava)
 
-Imposter syndrome is not an official medical diagnosis, but it was coined by clinical psychologists to describe the specific anxieties where people continually doubt themselves and feel like a fraud even when experiencing undeniable success. This can manifest as low self-esteem or self-worth, rationalizations that success was the result of luck, worrying about how others perceive one's…
+Kava is a beverage made from the root of the Piper methysticum plant and has traditionally been used in rituals and social gatherings across Polynesia, Micronesia, and Melanesia in the South Pacific. It's also sold as tea, extracts, and supplemental powders globally. Kava contains kavalactones, which are found in the resin of kava roots and are responsible for its psychoactive effects by serving…
 
-- [Hypervigilance](/recovery/glossary/hypervigilance)
+- [Junkies](/recovery/glossary/junkies)
 
-Hypervigilance is a part of hyperarousal, in which the nervous system's "fight-or-flight" stress response is continually excited. Specifically, hypervigilance refers to the component of hyperarousal in which someone is constantly diverting their attention to scanning the environment for threats. Hypervigilance can manifest as: Analyzing micro-expressions, like reading subtle changes in someone's…
+"Junkie" is a derogatory slang term that refers to people with substance use disorders, typically in relation to narcotic substances that were historically called "junk." In 1923, Nels Anderson published The Hobo: The Sociology of the Homeless Man in which he writes: "The Hop Head is an interesting type. He is usually in a pitiful condition, for he has small chance, living as he does, in the…
 
-- [Hypochondria](/recovery/glossary/hypochondria)
+- [Isolation Of Affect](/recovery/glossary/isolation-of-affect)
 
-Hypochondria, or Illness Anxiety Disorder (IAD) as of the publication of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) in 2013, refers to a condition in which someone experiences constant and intense fear of having a serious illness. The term "hypochondriac" is weighed down by a lot of social stigma, much like "addict," so the American Psychiatric Association (APA) began…
+Isolation of affect is a psychological defense mechanism in which the cognitive and emotional components of an experience are isolated from each other so that an individual can cognitively engage with an idea without being conscious of their emotional associations with it. It's considered to be the opposite of repression, where the emotional affect is impacting an individual but they don't…
 
-- [Iatrogenic](/recovery/glossary/iatrogenic)
+- [Intervention](/recovery/glossary/intervention)
 
-"Iatrogenic" refers to an illness or condition caused by a medical procedure or the actions of a medical practitioner. This includes everything from predictable side-effects of prescribed medication to botched surgeries worthy of medical malpractice suits.
+"Intervention" in a general medical context has been used to refer to any treatment used to address the natural course of a disease. In preventative medicine, interventions are generally categorized as: primary interventions that prevent a disease before it occurs, like a vaccine secondary interventions that use early detection to address a disease at it's earliest stages tertiary interventions…
 
-- [I Statements](/recovery/glossary/i-statements)
+- [Intraparietal Cortex](/recovery/glossary/intraparietal-cortex)
 
-I-statements are expressions that avoid generalizing by focusing on personal experiences. For instance, rather than saying "a good parent is always attentive to their kids' needs", an I-statement might reframe the sentiment as "I feel like a good parent when I'm attentive to my kids' needs." No one ever actually does this anywhere. I don't even consistently do it on this site. In fact, I'm about…
+- [Intrusive Thoughts](/recovery/glossary/intrusive-thoughts)
 
-- [Hysteria](/recovery/glossary/hysteria)
+Intrusive thoughts refer to thoughts that interrupt a flow of thoughts. There are some wordier definitions that sound more technical, but that's the essence of it. In clinical literature, it's common to see intrusive thoughts referred to as "obsessions", "mental intrusions", or other close synonyms. Everyone has some level of intrusive thoughts that come to mind throughout their day and life, but…
 
-Hysteria in a casual everyday sense refers to some kind of extreme excitement or overwhelming emotion. I use it often in the context of anti-drug or anti-immigrant hysteria, in which people are so frightened over something unfamiliar that they jump to radical or pseudoscientific solutions. However, "hysteria" used to describe a now-defunct disorder that framed an excess of emotion as a pathology…
+- [Intrinsic Motivation](/recovery/glossary/intrinsic-motivation)
 
-- [Cognitive Reframing](/recovery/glossary/cognitive-reframing)
+The concept of intrinsic motivation refers to the tendency to perceive activities as their own reward rather than the means to an external reward. The term first entered scientific literature in 1950 in a paper titled "Learning and satiation of response in intrinsically motivated complex puzzle performance by monkeys." The psychologist Harry Harlow observed how some monkeys would learn to solve…
 
-Cognitive reframing in modern psychology refers to a shift in mindset that can change the perspective interpreted from a situation. Within Cognitive Behavioral Therapy (CBT), cognitive reframing is considered a valuable coping skill to diffuse distressing emotions by finding an equally valid interpretation of the same facts of a situation, generally to shift away from catastrophizing or…
+- [Intramuscular](/recovery/glossary/intramuscular)
 
-- [Hippocampus](/recovery/glossary/hippocampus)
+Intramuscular (IM) injections are injections that aim to go deeper than intradermal (in the skin), intravenous (in the veins), and subcutaneous (fatty tissue under the skin) injections. Vaccines, hormones, steroids, and antibiotics are generally delivered at this depth which allows for rapid absorption of high quantities of a medication or drug. With injection drug use, generally the goal is to…
 
-The hippocampus is a part of the brain's limbic system that handles the formation of long-term memories, processing of spatial information, and association of emotions to experiences. With chronic substance use, the hippocampus stores the people, places, and things as cues associated with the high of using substances. The processes of long-term potentiation (LTP), in which the connections between…
+- [Intimate Partner Violence Ivp](/recovery/glossary/intimate-partner-violence-ivp)
 
-- [Hypomania](/recovery/glossary/hypomania)
+Intimate Partner Violence (IPV) refers to instances of physical altercation between partners who are in or used to be in a romantic relationship. In the general population, 33% of women and 25% of men report being the victim of IPV or domestic violence. Within those seeking treatment for substance use disorders, 1 in 2 women report being the victim of IPV. With men, 30% report having engaged in…
 
-Hypomania is a short-lived form of mania in which someone experiences increased energy and elevated or irritable moods. Someone must be experiencing symptoms for four days consecutively that are not considered characteristic of someone's personality outside of the symptomatic episodes. More specifically, these symptoms include: Grandiosity Decreased desire for sleep Speaking fast or as if under…
+- [Intertemporal Bargaining](/recovery/glossary/intertemporal-bargaining)
 
-- [Hypoarousal](/recovery/glossary/hypoarousal)
+Intertemporal bargaining is a behavioral economics concept that refers to a person making a strategic decision that alters the benefits or consequences of their future self. Eating a whole row of Double Stuf Oreos might seem very appealing in the short-term, and the impulse to act on that might cause you to decide that the sugar intake is a problem you're willing to pass onto your future self.…
 
-Hypoarousal is a state in which the nervous system shuts down to conserve energy in response to prolonged or intense stress and trauma. This is in contrast to hyperarousal, though notably, a stressed nervous system may swing abruptly from one to the other. Signs of hypoarousal include: Emotional numbness Low energy or chronic fatigue Brain fog or trouble concentrating Dissociation
+- [Intentionality](/recovery/glossary/intentionality)
 
-- [Hyperarousal](/recovery/glossary/hyperarousal)
+Intentionality is broadly the capacity to direct oneself towards something else. If that sounds vague, it's because intentionality takes on a variety of meanings depending on the specific context. Philosophers of the mind discuss intentionality as a property that separates the physical world from constructs of the mind. From the Stanford Encyclopedia of Philosophy: In philosophy, intentionality…
 
-Hyperarousal refers to a physical state that the body enters as a response from the nervous system to continuous stress. This includes hypervigilance, and it contrasts withhypoarousal. In a typical stress response, the amygdala sends signals to the adrenal glands to flood the bloodstream with adrenaline and norepinephrine and trigger a potential fight-or-flight response while increasing your…
+- [Insomnia](/recovery/glossary/insomnia)
 
-- [Homeostasis](/recovery/glossary/homeostasis)
+Insomnia is a disorder that disrupts sleep, either by making it hard to fall asleep or stay asleep. Short-term insomnia can be caused by stress, travel, substance use, or significant life events that lead to a lot of thoughts at night. Long-term insomnia can be related to chronic pain, mental health disorders like anxiety and depression, and the side effects of some medications. Insomnia and…
 
-Homeostasis is the process through which an organism's body attempts to regulate itself to some baseline of stable balance, essentially forming a negative feedback process in response to either internal or external changes. This contrasts with allostasis, in which the body predicts that a change will happen and proactively adjusts itself in anticipation to preserve some kind of baseline…
+- [Psychopathy](/recovery/glossary/psychopathy)
 
-- [Hospital Anxiety And Depression Scale](/recovery/glossary/hospital-anxiety-and-depression-scale)
+Psychopathy isn't an official medical or clinical diagnosis, but it carries weight as a personality construct explored by researchers of various fields. In general, psychopathy refers to a lack of empathy, a lack of inhibition, and a charming external appearance that compensates for lacking genuine emotional reactions. Antisocial personality disorder (ASPD) is often used instead, since many of…
 
-The Hospital Anxiety and Depression Scale (HADS) is a self-report questionnaire that serves as a screening for anxiety and depression. The fourteen items, each ranked somewhere between 0 and 3 depending on frequency or intensity, are split between Anxiety and Depression. For Anxiety: I feel tense or 'wound up' I get a sort of frightened feeling as if something awful is about to happen Worrying…
+- [Cluster B Personality Traits](/recovery/glossary/cluster-b-personality-traits)
 
-- [Hungry Angry Lonely Tired Halt](/recovery/glossary/hungry-angry-lonely-tired-halt)
-
-The HALT acronym points to four emotional states that make one more vulnerable to impulsive decision-making. It originated in 12-step programs as a way to stave off the triggers or cravings for a potential relapse. Hungry: low blood sugar can be a source of irritability and anxiety Angry: many people within recovery spaces will stand by the claim that resentment is the number one trigger of…
+Cluster B personality traits makes it difficult for someone to control their emotions and maintain stable, healthy relationships. There are four personality disorders recognized by the DSM-5: Antisocial Personality Disorder, characterized by a pattern of disregard for the rights of others and a lack of empathy after manipulation Borderline Personality Disorder, involving intense mood swings…
 
 ## Pages
 
@@ -691,6 +689,10 @@ A clinical decision support system (CDSS) is a tool that helps a doctor collect 
 
 A clinical trial is a research experiment that tests medical or behavioral procedures in humans to measure effectiveness and detect risks. Clinical trials in modern scientific institutions generally follow four phases: An investigation in a small group of people, typically less than 100, to scope out the ranges for safe dosages and document side effects to look at. A larger trial on 100-300…
 
+- [Cluster B Personality Traits](/recovery/glossary/cluster-b-personality-traits)
+
+Cluster B personality traits makes it difficult for someone to control their emotions and maintain stable, healthy relationships. There are four personality disorders recognized by the DSM-5: Antisocial Personality Disorder, characterized by a pattern of disregard for the rights of others and a lack of empathy after manipulation Borderline Personality Disorder, involving intense mood swings…
+
 - [Co Occurring Disorders](/recovery/glossary/co-occurring-disorders)
 
 A co-occurring disorder refers to someone having a mental health condition at the same time as substance use disorder. Sometimes, this is also referred to as a "dual diagnosis" or "comorbidity." Increasingly, mental health professionals and facilities have begun to recognize that treating substance use disorders only leaves other disorders intact that may have been a source of self-medication.…
@@ -1125,6 +1127,8 @@ Epidemiology is the field that concerns the spread of health determinants and di
 
 Epigenetics is the field of studying how behavioral functions and environmental factors influence how genes and DNA operate. The term "epigenome" is used to describe the chemical tags that collectively attach to DNA that turn certain genes on or off. With chronic substance use, the "hijacking" of neural pathways associated with reward and self-control are directly rooted in epigenetic mechanisms.…
 
+- [Equine Therapy](/recovery/glossary/equine-therapy)
+
 - [Ethanol](/recovery/glossary/ethanol)
 
 "Ethanol" is the name for the type of alcohol that goes into alcoholic beverages. In the context of chemistry, "alcohol" refers to a group of compounds that contain a hydroxl group bound to a carbon atom. What we call "alcohol" in a casual context to refer to beverages is specifically ethanol. For the rest of this page, I'll use "alcohol" in its chemical context and "ethanol" when referring to…
@@ -1176,6 +1180,10 @@ In the philosophy of science, explication refers to the process of creating prec
 - [Externalizing Spectrum](/recovery/glossary/externalizing-spectrum)
 
 The externalizing spectrumi is a psychological framework that groups impulsive and rule-breaking behaviors together because of shared predispositions in vulnerabilities and deficiencies in impulse control. This includes: Attention-Deficit Hyperactivity Disorder (ADHD) Oppositional Defiant Disorder (ODD) Conduct Disorder (CD) Antisocial Personality Disorder (ASPD) Substance use disorder (SUD)…
+
+- [Extraversion](/recovery/glossary/extraversion)
+
+Extraversion, also spelled extroversion, is a personality or character trait that psychometric instruments aim to measure around orientation towards stimulation from the external world like social interactions. Low extraversion is also called introversion, which is to say that there's a spectrum of extroversion than a simple introvert vs. extrovert dichotomy. High extraversion has been associated…
 
 <a id="letter-f"></a>
 ### F
@@ -1495,19 +1503,31 @@ The term "inner city" has been used as a euphemism for low-income predominantly 
 
 - [Inner Work](/recovery/glossary/inner-work)
 
+"Inner work" is a term that's widely used in pop psychology, though it's rooted in ideas going back to Carl Jung about reflecting on one's psyche as an internal world that interacts with the external world. If you've encountered phrases like "healing your inner child," "doing shadow work," or "protecting your peace" as general concepts divorced from specific therapeutic modalities or treatment…
+
 - [Inpatient](/recovery/glossary/inpatient)
+
+Inpatient programs involve staying in a treatment facility continuously in order to receive care. Inpatient rehabs, also sometimes called residential treatment, are considered the most intensive level of care for substance use disorders, as well as other mental health disorders as appropriate. Bringing someone out of their old environment that's laden with cues and routines related to their…
 
 - [Insanity](/recovery/glossary/insanity)
 
+Insanity is not a term used in the medical field due to its social stigma and lack of precision. Instead, it has legal weight by labeling a person as being in a state of mind in which they are incapable of understanding the consequences of their actions during a crime. Contrary to popular wisdom, the definition of insanity is not actually doing the same thing over and over while expecting…
+
 - [Insomnia](/recovery/glossary/insomnia)
+
+Insomnia is a disorder that disrupts sleep, either by making it hard to fall asleep or stay asleep. Short-term insomnia can be caused by stress, travel, substance use, or significant life events that lead to a lot of thoughts at night. Long-term insomnia can be related to chronic pain, mental health disorders like anxiety and depression, and the side effects of some medications. Insomnia and…
 
 - [Intellectualization](/recovery/glossary/intellectualization)
 
+"Intellectualization" is considered a defense mechanism against unwanted emotions that draws someone's focus to abstractions rather than the lived experience of painful feelings. One of the most commonly depicted forms of intellectualization follows the death of a loved one, where someone might throw themselves entirely into the headspace of resolving the logistical problems of a person's…
+
 - [Intensive Outpatient Program Iop](/recovery/glossary/intensive-outpatient-program-iop)
+
+Intensive Outpatient Programs (IOPs) address substance use disorders and other mental health disorders by structuring about 10-20 hours of therapy a week so that patients can continue to live at home, maintain full-time employment, or take a full-time class schedule at school. Generally, patients step down from a 24/7 inpatient facility or residential center to a Partial Hospitalization Program…
 
 - [Intentionality](/recovery/glossary/intentionality)
 
-- [Interconnectedness](/recovery/glossary/interconnectedness)
+Intentionality is broadly the capacity to direct oneself towards something else. If that sounds vague, it's because intentionality takes on a variety of meanings depending on the specific context. Philosophers of the mind discuss intentionality as a property that separates the physical world from constructs of the mind. From the Stanford Encyclopedia of Philosophy: In philosophy, intentionality…
 
 - [Intertemporal Bargaining](/recovery/glossary/intertemporal-bargaining)
 
@@ -1515,34 +1535,50 @@ Intertemporal bargaining is a behavioral economics concept that refers to a pers
 
 - [Intervention](/recovery/glossary/intervention)
 
+"Intervention" in a general medical context has been used to refer to any treatment used to address the natural course of a disease. In preventative medicine, interventions are generally categorized as: primary interventions that prevent a disease before it occurs, like a vaccine secondary interventions that use early detection to address a disease at it's earliest stages tertiary interventions…
+
 - [Intimate Partner Violence Ivp](/recovery/glossary/intimate-partner-violence-ivp)
+
+Intimate Partner Violence (IPV) refers to instances of physical altercation between partners who are in or used to be in a romantic relationship. In the general population, 33% of women and 25% of men report being the victim of IPV or domestic violence. Within those seeking treatment for substance use disorders, 1 in 2 women report being the victim of IPV. With men, 30% report having engaged in…
 
 - [Intramuscular](/recovery/glossary/intramuscular)
 
+Intramuscular (IM) injections are injections that aim to go deeper than intradermal (in the skin), intravenous (in the veins), and subcutaneous (fatty tissue under the skin) injections. Vaccines, hormones, steroids, and antibiotics are generally delivered at this depth which allows for rapid absorption of high quantities of a medication or drug. With injection drug use, generally the goal is to…
+
 - [Intraparietal Cortex](/recovery/glossary/intraparietal-cortex)
+
+- [Intravenous](/recovery/glossary/intravenous)
+
+Intravenous (IV) translates literally into "within a vein." It's most often used in the context of IV injections, which deliver some substance directly into a person's bloodstream through their veins for rapid circulation. As a medical procedure, it's commonly done to administer medications that act rapidly without going through the digestive system's metabolic processes. If a patient has lost…
 
 - [Intrinsic Motivation](/recovery/glossary/intrinsic-motivation)
 
+The concept of intrinsic motivation refers to the tendency to perceive activities as their own reward rather than the means to an external reward. The term first entered scientific literature in 1950 in a paper titled "Learning and satiation of response in intrinsically motivated complex puzzle performance by monkeys." The psychologist Harry Harlow observed how some monkeys would learn to solve…
+
 - [Intrusive Thoughts](/recovery/glossary/intrusive-thoughts)
+
+Intrusive thoughts refer to thoughts that interrupt a flow of thoughts. There are some wordier definitions that sound more technical, but that's the essence of it. In clinical literature, it's common to see intrusive thoughts referred to as "obsessions", "mental intrusions", or other close synonyms. Everyone has some level of intrusive thoughts that come to mind throughout their day and life, but…
 
 - [Isolation Of Affect](/recovery/glossary/isolation-of-affect)
 
-- [Iv Intravenous](/recovery/glossary/iv-intravenous)
+Isolation of affect is a psychological defense mechanism in which the cognitive and emotional components of an experience are isolated from each other so that an individual can cognitively engage with an idea without being conscious of their emotional associations with it. It's considered to be the opposite of repression, where the emotional affect is impacting an individual but they don't…
 
 <a id="letter-j"></a>
 ### J
 
 - [Jim Crow](/recovery/glossary/jim-crow)
 
-- [Joan Vollmer](/recovery/glossary/joan-vollmer)
-
-In 1946, she became the first female case of amphetamine psychosis at Bellevue Hospital.
-
 - [Junkies](/recovery/glossary/junkies)
+
+"Junkie" is a derogatory slang term that refers to people with substance use disorders, typically in relation to narcotic substances that were historically called "junk." In 1923, Nels Anderson published The Hobo: The Sociology of the Homeless Man in which he writes: "The Hop Head is an interesting type. He is usually in a pitiful condition, for he has small chance, living as he does, in the…
 
 - [Juridical Image](/recovery/glossary/juridical-image)
 
+In legal philosophy, particularly in the works of Hanna Pickard, "juridical image" can refer to the model of human behavior that a legal system uses in evaluating actions and interpreting laws. The common traditional juridical image found in most legal systems assumes that an individual is a discrete autonomous unit who makes calculated decisions, such that breaking the law is seen as a choice…
+
 - [Justice Involved Individual](/recovery/glossary/justice-involved-individual)
+
+The term "justice-involved individual" (JII) became widespread across state agencies and healthcare fields as a replacement for "convict", "criminal", "felon" or "prisoner" which have negative connotations that imply some level of guilt or wrongdoing. There were earlier attempts to shift the language into person-first and system-focused terms like "person with a criminal record" or "formerly…
 
 <a id="letter-k"></a>
 ### K
@@ -1551,15 +1587,19 @@ In 1946, she became the first female case of amphetamine psychosis at Bellevue H
 
 - [Kava](/recovery/glossary/kava)
 
+Kava is a beverage made from the root of the Piper methysticum plant and has traditionally been used in rituals and social gatherings across Polynesia, Micronesia, and Melanesia in the South Pacific. It's also sold as tea, extracts, and supplemental powders globally. Kava contains kavalactones, which are found in the resin of kava roots and are responsible for its psychoactive effects by serving…
+
 - [Ketamine](/recovery/glossary/ketamine)
 
-- [Kinship](/recovery/glossary/kinship)
+Ketamine is a dissociative anesthetic used for surgical procedures, treatment-resistant depression, and chronic pain. As an NMDA receptor antagonist, it blocks glutamate, the primary excitatory neurotransmitter in the brain. With depression, this leads to the brain creating new pathways extremely quickly that can guide someone out of negative loops in their thoughts and feelings. It's also used…
 
 - [Kleptomania](/recovery/glossary/kleptomania)
 
-I actually love that Marie was depicted as having compulsive kleptomania. Not every instance of pathologized compulsion leads to death.
+Kleptomania is a mental health disorder ni which someone has a recurring urge to steal items without personal gain as a motivator. While it's often considered a behavioral addiction along the lines of gambling or sex addictions, the DSM-5-TR technically categorizes it as an impulse-control disorder. The underlying mechanisms for kleptomania are almost all shared with other addictions. Much like…
 
 - [Kraepelinian](/recovery/glossary/kraepelinian)
+
+To describe an approach as "Kraepelinian" is to mean that it views mental illnesses as distinct biologically-driven neurological conditions that can be identified through their progression rather than just the current presentation of symptoms. This is in contrast to Freudian psychoanalysis, which located the source of symptoms within someone's fluid, subconscious emotional conflicts that could…
 
 - [Kratom](/recovery/glossary/kratom)
 
@@ -1776,6 +1816,10 @@ NIMBY (Not in My Backyard) refers to the various movements opposed to developing
 
 - [Novel Psychoactive Substances Nps](/recovery/glossary/novel-psychoactive-substances-nps)
 
+- [Novelty Seeking](/recovery/glossary/novelty-seeking)
+
+In the field of psychology, the term "novelty-seeking" is considered a core personality or character trait that has substantial empirical backing in psychology and biology. C. Robert Cloninger is a psychiatrist who proposed the Temperament and Character Inventory (TCI), which breaks down novelty-seeking into four subscales: Exploratory excitability vs. Stoic indifference Impulsiveness vs.…
+
 - [Nsduh National Survey On Drug Use And Health](/recovery/glossary/nsduh-national-survey-on-drug-use-and-health)
 
 - [Nutritionism](/recovery/glossary/nutritionism)
@@ -1954,6 +1998,10 @@ Philopotes is an ancient Greek term that translates literally to lover of drinki
 
 - [Psychoneuropharmacology](/recovery/glossary/psychoneuropharmacology)
 
+- [Psychopathy](/recovery/glossary/psychopathy)
+
+Psychopathy isn't an official medical or clinical diagnosis, but it carries weight as a personality construct explored by researchers of various fields. In general, psychopathy refers to a lack of empathy, a lack of inhibition, and a charming external appearance that compensates for lacking genuine emotional reactions. Antisocial personality disorder (ASPD) is often used instead, since many of…
+
 - [Psychopharmacology](/recovery/glossary/psychopharmacology)
 
 - [Psychosis](/recovery/glossary/psychosis)
@@ -2065,7 +2113,7 @@ I'm not stuck in here with you. You're stuck in here with me.
 
 - [Screening](/recovery/glossary/screening)
 
-- [Screening And Brief Intervention Sbi](/recovery/glossary/screening-and-brief-intervention-sbi)
+- [Screening And Brief Intervention](/recovery/glossary/screening-and-brief-intervention)
 
 - [Scrip Doctors](/recovery/glossary/scrip-doctors)
 
@@ -2121,8 +2169,6 @@ Edwin Van Bibber-Orr translates "shi jiu" from Song dynasty literature as "love 
 
 - [Simpliciter](/recovery/glossary/simpliciter)
 
-- [Singularity](/recovery/glossary/singularity)
-
 - [Skid Row](/recovery/glossary/skid-row)
 
 - [Sle Sober Living Environment](/recovery/glossary/sle-sober-living-environment)
@@ -2154,8 +2200,6 @@ In the Rig Veda, soma refers to a sacred ritual drink offered to the gods. Consu
 - [Spiritual But Not Religious](/recovery/glossary/spiritual-but-not-religious)
 
 - [Spiritual Bypassing](/recovery/glossary/spiritual-bypassing)
-
-- [Spirituality](/recovery/glossary/spirituality)
 
 - [Splitting](/recovery/glossary/splitting)
 
@@ -2226,8 +2270,6 @@ An alcoholic beverage brewed from grains, sugar canes, fruits, and flower saps. 
 
 - [Teleheath](/recovery/glossary/teleheath)
 
-- [Telos](/recovery/glossary/telos)
-
 - [Temperance](/recovery/glossary/temperance)
 
 - [Terpin](/recovery/glossary/terpin)
@@ -2251,8 +2293,6 @@ Media scholar Janice Peck observes that Oprah
 - [Toxicology](/recovery/glossary/toxicology)
 
 - [Tractability](/recovery/glossary/tractability)
-
-- [Transcendence](/recovery/glossary/transcendence)
 
 - [Transgression](/recovery/glossary/transgression)
 
@@ -2294,8 +2334,6 @@ According to current medical consensus, Viagra is not physically addictive, but 
 - [Victim Mentality](/recovery/glossary/victim-mentality)
 
 This is perhaps one of the worst phrases I've encountered in mental health circles. First of all, "victim mentality" is not an academic or clinical term. It is not something that appears in the DSM-V or the ICD-11. It is a term forged through pop-psych and political rhetoric to dismiss the aftermath of trauma, particulary for those on the receiving end of oppressive policies. It is ambiguous…
-
-- [Virtue Ethics](/recovery/glossary/virtue-ethics)
 
 - [Vivitrol](/recovery/glossary/vivitrol)
 

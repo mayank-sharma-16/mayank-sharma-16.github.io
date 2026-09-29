@@ -14,6 +14,8 @@ The dichotomy of the Global North and Global South describes a split in the worl
 
 - [Hate Crime](/imperialism/glossary/hate-crime)
 
+- [Kinship](/imperialism/glossary/kinship)
+
 ## Pages
 
 <div class="alphabet-bar">
@@ -27,7 +29,7 @@ The dichotomy of the Global North and Global South describes a split in the worl
 <a class="alphabet-letter" href="#letter-h">H</a>
 <a class="alphabet-letter" href="#letter-i">I</a>
 <span class="alphabet-letter alphabet-letter-disabled">J</span>
-<span class="alphabet-letter alphabet-letter-disabled">K</span>
+<a class="alphabet-letter" href="#letter-k">K</a>
 <span class="alphabet-letter alphabet-letter-disabled">L</span>
 <span class="alphabet-letter alphabet-letter-disabled">M</span>
 <span class="alphabet-letter alphabet-letter-disabled">N</span>
@@ -104,3 +106,8 @@ The dichotomy of the Global North and Global South describes a split in the worl
 ### I
 
 - [Industrialism](/imperialism/glossary/industrialism)
+
+<a id="letter-k"></a>
+### K
+
+- [Kinship](/imperialism/glossary/kinship)

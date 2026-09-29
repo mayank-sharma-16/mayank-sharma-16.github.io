@@ -11,23 +11,31 @@ title: Dramas And Dramedies
 
 ## Recently Modified
 
+- [The Lighthouse](/recovery/media/movies/dramas-and-dramedies/the-lighthouse)
+
+Disclaimer: I love surrealism, which isn’t surreal at all. There’s nothing that tickles my interest like characters spiraling into insanity until we get a break from reality to parse through and interpret. So a 19th-century lighthouse ghost story casting Willem Dafoe as an old sea captain on a bender with the glittery vampire boy from Twilight? I’m locked in, chief. I went into The Lighthouse…
+
+- [Uncut Gems](/recovery/media/movies/dramas-and-dramedies/uncut-gems)
+
+I first watched Uncut Gems years ago and remember it being one of the most enjoyable yet stressful movies I'd ever seen, which is the last thing I'd expected from an Adam Sandler movie. It starts off chaotic and tense, and each scene only compounds it. I mean, it starts with a mining accident to a crew of Ethiopian Jew, a zoom-in through multicolored black opals, a zoom-out from Adam Sandler's…
+
+- [The Gambler](/recovery/media/movies/dramas-and-dramedies/the-gambler)
+
+You get up two and a half million, any asshole in the world knows what to do. You get a house with a twenty-five year roof, an indestructable Jap economy shitbox, and you put the rest into the system at three to five percent to pay your taxes, and that’s your base, get me, that’s your Fortress of Fuckin’ Solitude, and you are for the rest of your life at a level of “fuck you”. Someone wants you…
+
+- [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
+
+Well, there's my excuse. I'm late because my tits caught on fire. I have a soft spot for movies that were made in the same year as me. Is 28 Days an enjoyable movie? I would say yes. Is it a good depiction of addiction? I would say meh. It's the type of movie you might watch in rehab so that you can poke fun at how it differs from reality while being similar enough to merit the comparison in the…
+
 - [The Lost Weekend](/recovery/media/movies/dramas-and-dramedies/adaptations/the-lost-weekend)
 
 "Nat, are you ever scared when you wake up? So scared, the sweat starts out of you, huh? No, not you. With you, it's simple. The alarm clock goes off, you open your eyes, brush your teeth, and ready the Daily Mirror. That's all. You ever lie in your bed, looking at the window? A little daylight's coming through, and you start to wonder. Is it getting lighter? Is it getting darker? Is it dawn or…
 
 - [Gladiator Days Anatomy Of A Prison Murder](/recovery/media/movies/dramas-and-dramedies/biographical/gladiator-days-anatomy-of-a-prison-murder)
 
-- [28 Days](/recovery/media/movies/dramas-and-dramedies/28-days)
-
-Well, there's my excuse. I'm late because my tits caught on fire. I have a soft spot for movies that were made in the same year as me. Is 28 Days an enjoyable movie? I would say yes. Is it a good depiction of addiction? I would say meh. It's the type of movie you might watch in rehab so that you can poke fun at how it differs from reality while being similar enough to merit the comparison in the…
-
 - [A Star Is Born 1937](/recovery/media/movies/dramas-and-dramedies/romantic/a-star-is-born-1937)
 
 A Star Is Born has been remade three times in 1954, 1976, and 2018, the latest of which is still in the memory of contemporary pop culture as a musical. The original was not a musical though, and instead was centrally inspired on a 1932 film called What Price Hollywood? that also featured a mentor in the show business industry whose decline from alcoholism coincides with a contrasting success…
-
-- [The Lighthouse](/recovery/media/movies/dramas-and-dramedies/the-lighthouse)
-
-Disclaimer: I love surrealism, which isn’t surreal at all. There’s nothing that tickles my interest like characters spiraling into insanity until we get a break from reality to parse through and interpret. So a 19th-century lighthouse ghost story casting Willem Dafoe as an old sea captain on a bender with the glittery vampire boy from Twilight? I’m locked in, chief. I went into The Lighthouse…
 
 - [The Way Back](/recovery/media/movies/dramas-and-dramedies/sports/the-way-back)
 
@@ -58,10 +66,6 @@ A story of a young couple going through withdrawals together, shaped by Aaron St
 - [Leaving Las Vegas](/recovery/media/movies/dramas-and-dramedies/leaving-las-vegas)
 
 - [Requiem For A Dream](/recovery/media/movies/dramas-and-dramedies/requiem-for-a-dream)
-
-- [Sid And Nancy](/recovery/media/movies/dramas-and-dramedies/sid-and-nancy)
-
-- [The Gambler](/recovery/media/movies/dramas-and-dramedies/the-gambler)
 
 ## Pages
 
@@ -170,6 +174,8 @@ Well, there's my excuse. I'm late because my tits caught on fire. I have a soft 
 
 - [The Gambler](/recovery/media/movies/dramas-and-dramedies/the-gambler)
 
+You get up two and a half million, any asshole in the world knows what to do. You get a house with a twenty-five year roof, an indestructable Jap economy shitbox, and you put the rest into the system at three to five percent to pay your taxes, and that’s your base, get me, that’s your Fortress of Fuckin’ Solitude, and you are for the rest of your life at a level of “fuck you”. Someone wants you…
+
 - [The Lighthouse](/recovery/media/movies/dramas-and-dramedies/the-lighthouse)
 
 Disclaimer: I love surrealism, which isn’t surreal at all. There’s nothing that tickles my interest like characters spiraling into insanity until we get a break from reality to parse through and interpret. So a 19th-century lighthouse ghost story casting Willem Dafoe as an old sea captain on a bender with the glittery vampire boy from Twilight? I’m locked in, chief. I went into The Lighthouse…
@@ -186,3 +192,5 @@ Disclaimer: I love surrealism, which isn’t surreal at all. There’s nothing t
 ### U
 
 - [Uncut Gems](/recovery/media/movies/dramas-and-dramedies/uncut-gems)
+
+I first watched Uncut Gems years ago and remember it being one of the most enjoyable yet stressful movies I'd ever seen, which is the last thing I'd expected from an Adam Sandler movie. It starts off chaotic and tense, and each scene only compounds it. I mean, it starts with a mining accident to a crew of Ethiopian Jew, a zoom-in through multicolored black opals, a zoom-out from Adam Sandler's…

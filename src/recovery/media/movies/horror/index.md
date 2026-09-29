@@ -4,6 +4,18 @@ title: Horror
 
 ## Recently Modified
 
+- [Saw](/recovery/media/movies/horror/saw)
+
+The Saw franchise actually has a whole page for "Drug Addicts": https://sawfilms.fandom.com/wiki/Category:Drug_Addicts. There are 24 total including the video games. Yes, there are Saw video games. No, I do not recommend you play them. I'll probably put off Saw for a while because I'm not too entertained by gore for its own sake.
+
+- [Hellraiser](/recovery/media/movies/horror/hellraiser)
+
+"The doors to the pleasure of Heaven or Hell. I didn't care which... I thought I'd gone to the limits. I hadn't. The Cenobites gave me an experience beyond limits... pain and pleasure, indivisible." The original Hellraiser movie is comfortably a contender for one of my favorite movies of all time. The sequels have been not as good, to say the least, including at least one movie clearly made just…
+
+- [10 Cloverfield Lane](/recovery/media/movies/horror/10-cloverfield-lane)
+
+This movie isn't about addiction or even an elaborate allegory that can be compared to addiction, but there's one scene specifically in this movie that I like as just a very succinct story about self-sabotage while intoxicated that stands alone. Emmett explains how he lived his whole life in a 40 mile radius, and how he sabotages his own literal ticket out of the small town without prospects of…
+
 - [Stonehearst Asylum](/recovery/media/movies/horror/stonehearst-asylum)
 
 "Misery has a way of clarifying one's convictions."
@@ -20,23 +32,11 @@ Spiritual possession is a way for us to try and model behaviors that seem too fa
 
 - [Daybreakers](/recovery/media/movies/horror/daybreakers)
 
-- [Saw](/recovery/media/movies/horror/saw)
-
-The Saw franchise actually has a whole page for "Drug Addicts": https://sawfilms.fandom.com/wiki/Category:Drug_Addicts. There are 24 total including the video games. Yes, there are Saw video games.
-
-- [10 Cloverfield Lane](/recovery/media/movies/horror/10-cloverfield-lane)
-
-There's one scene specifically in this movie that I like as just a very succinct story about self-sabotage that stands alone. Emmett explains how he lived his whole life in a 40 mile radius, and how he sabotages his own literal ticket out because of his insecurities about failing. Specifically, he makes sure to get so drunk that he would fail to wake up in time to move. There's something about…
-
 - [Smile](/recovery/media/movies/horror/smile)
 
 Honestly, I didn't have much to say about this movie until its sequel, at which point I thought it might be interesting to examine them both to see the differences in how each of them tackled mental health.
 
 - [Smile 2](/recovery/media/movies/horror/smile-2)
-
-- [Hellraiser](/recovery/media/movies/horror/hellraiser)
-
-"The doors to the pleasure of Heaven or Hell. I didn't care which... I thought I'd gone to the limits. I hadn't. The Cenobites gave me an experience beyond limits... pain and pleasure, indivisible." The original Hellraiser movie is comfortably a contender for one of my favorite movies of all time. The sequels have been not as good, to say the least, including one movie clearly made to extend the…
 
 - [The Night House](/recovery/media/movies/horror/the-night-house)
 
@@ -124,7 +124,7 @@ html {
 
 - [10 Cloverfield Lane](/recovery/media/movies/horror/10-cloverfield-lane)
 
-There's one scene specifically in this movie that I like as just a very succinct story about self-sabotage that stands alone. Emmett explains how he lived his whole life in a 40 mile radius, and how he sabotages his own literal ticket out because of his insecurities about failing. Specifically, he makes sure to get so drunk that he would fail to wake up in time to move. There's something about…
+This movie isn't about addiction or even an elaborate allegory that can be compared to addiction, but there's one scene specifically in this movie that I like as just a very succinct story about self-sabotage while intoxicated that stands alone. Emmett explains how he lived his whole life in a 40 mile radius, and how he sabotages his own literal ticket out of the small town without prospects of…
 
 <a id="letter-d"></a>
 ### D
@@ -138,7 +138,7 @@ There's one scene specifically in this movie that I like as just a very succinct
 
 - [Hellraiser](/recovery/media/movies/horror/hellraiser)
 
-"The doors to the pleasure of Heaven or Hell. I didn't care which... I thought I'd gone to the limits. I hadn't. The Cenobites gave me an experience beyond limits... pain and pleasure, indivisible." The original Hellraiser movie is comfortably a contender for one of my favorite movies of all time. The sequels have been not as good, to say the least, including one movie clearly made to extend the…
+"The doors to the pleasure of Heaven or Hell. I didn't care which... I thought I'd gone to the limits. I hadn't. The Cenobites gave me an experience beyond limits... pain and pleasure, indivisible." The original Hellraiser movie is comfortably a contender for one of my favorite movies of all time. The sequels have been not as good, to say the least, including at least one movie clearly made just…
 
 <a id="letter-r"></a>
 ### R
@@ -150,7 +150,7 @@ There's one scene specifically in this movie that I like as just a very succinct
 
 - [Saw](/recovery/media/movies/horror/saw)
 
-The Saw franchise actually has a whole page for "Drug Addicts": https://sawfilms.fandom.com/wiki/Category:Drug_Addicts. There are 24 total including the video games. Yes, there are Saw video games.
+The Saw franchise actually has a whole page for "Drug Addicts": https://sawfilms.fandom.com/wiki/Category:Drug_Addicts. There are 24 total including the video games. Yes, there are Saw video games. No, I do not recommend you play them. I'll probably put off Saw for a while because I'm not too entertained by gore for its own sake.
 
 - [Smile](/recovery/media/movies/horror/smile)
 

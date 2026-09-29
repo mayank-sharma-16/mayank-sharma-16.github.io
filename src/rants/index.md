@@ -4,11 +4,11 @@ title: Rants
 
 ## Recently Modified
 
-- [I Trend Therefore I Am](/rants/i-trend-therefore-i-am)
-
 - [Goofy Shit](/rants/goofy-shit)
 
 Life is absurd. Sometimes, it's goofy and absurd. Recovery circles have some of the goofiest and most absurd shit I have ever seen, so here's a bunch of them in no particular order. The specific incident that motivated me to start sharing some of the goofy shit in these circles is when I had to roleplay as a passive-aggressive rapist in a group session. Within the confluence of events that led to…
+
+- [I Trend Therefore I Am](/rants/i-trend-therefore-i-am)
 
 - [Good Quotes](/rants/good-quotes)
 
