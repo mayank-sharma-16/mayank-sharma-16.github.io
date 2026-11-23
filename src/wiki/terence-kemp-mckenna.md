@@ -1,0 +1,3 @@
+---
+title: Terence Kemp McKenna
+---

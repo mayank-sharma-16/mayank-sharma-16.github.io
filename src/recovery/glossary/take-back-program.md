@@ -1,3 +1,0 @@
----
-title: Take-Back Program
----

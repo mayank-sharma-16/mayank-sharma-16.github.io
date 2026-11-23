@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mayank-sharma-16/mayank-sharma-16.github.io/issues"
   },
-  "homepage": "https://github.com/mayank-sharma-16/mayank-sharma-16.github.io#readme"
+  "homepage": "https://github.com/mayank-sharma-16/mayank-sharma-16.github.io#readme",
+  "dependencies": {
+    "@huggingface/transformers": "^4.3.2"
+  }
 }

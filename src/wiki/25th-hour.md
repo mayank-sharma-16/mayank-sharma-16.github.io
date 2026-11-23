@@ -1,0 +1,7 @@
+---
+title: 25th Hour
+created: 2002
+---
+ 
+# Overview
+In 25th Hour, drug dealer Monty Brogan faces seven years in prison after being betrayed by and plans his goodbyes on the eve of his sentence to his best friends, his girlfriend, his father, and his dog. Filmed in the aftermath of the September 11 attacks in New York City, the movie carries traces of the psychological [[trauma|trauma]] felt by the city's people in the approach Monty takes to processing the [[grief|grief]] of losing nearly a decade of time. Initially, he looks for scapegoats and spouts a bigoted monologue against every demographic in New York City, which has since become famous. Then he steps back after his rant and realizes he has only himself to blame for choosing to deal drugs and trust organized criminals to protect him, though he then spends his last day in anxious paranoia about who he made a mistake in trusting. Only his criminal partner and his girlfriend Naturelle knew of the drugs hidden in his apartment, yet he becomes suspicious of Naturelle for a while during the last hours of his freedom. His friends and family consider their own role in watching Monty spiral down the path he chose, like his dad James who regrets not being present for Monty after they lose Monty's mother due to James' [[alcoholism|alcoholism]].

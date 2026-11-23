@@ -1,0 +1,12 @@
+---
+title: Mood Congruence
+---
+
+# Overview
+Mood congruence refers to the way a person's present emotional state biases their attention and memory to match it. People in a good mood are more likely to share stories or remember events that are positive. Similarly, feeling sad primes more negative memories of times that felt similarly distressing. For those with depression or anxiety, this process can become a cycle where low moods lead to distressing memories which worsens the mood the further.
+
+In the case of substance use patterns, mood congruence can make it more difficult to resist cravings. If someone encounters a trigger for a negative emotional state, mood congruence means it's less likely that someone will recall the negative consequences of using substances than recall the relief it provided to change their emotional state. The same applies to positive emotional states; if someone is in a celebratory mood but had a habit of using substances when celebrating in the past, mood congruence means the brain is more likely to assign attention and significance to the memories of celebrating with substances in the past compared to the consequences later.
+
+Therapy modalities like [[dialectical-behavioral-therapy|Dialectical Behavioral Therapy (DBT)]] and [[behavioral-activation|Behavioral Activation (BA)]] attempt to break cycles of mood congruence by focusing taking actions that might contradict the current mood. In DBT, this is called Opposite Action, and it attempts to produce a bottom-up signal to the brain that the urge it's producing is no longer applicable to the current context. An ideal Opposite Action involves an analysis of whether an urge is unjustified or ineffective, and if so, then to commit to the complete opposite action in a way that aligns internal thoughts and external affect with a new mood.
+
+Mood congruence is in contrast to mood incongruence, which can be a clinical problem as well that can indicate issues in emotional processing, cognitive integration, or reality testing. In the DSM-5, mood congruence or incongruence describe the presentation of certain disorders. For instance, in Major Depressive Disorder, a mood-congruent delusion might be that someone believes they deserve to suffer or not feel pleasure. A mood-incongruent delusion might involve external delusions of grandeur and supremacy while internally feeling empty or suicidal. 

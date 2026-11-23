@@ -1,0 +1,8 @@
+---
+title: Therapeutic Populism
+---
+
+# Overview
+Therapeutic populism was first coined as a political term by John Murphy in 2009 to describe rhetoric that connects with people on an internal, psychological level. It was then used by James Kenneally in a critical analysis of Barack Obama's political persona, and the term became used in political spaces to describe leadership that addresses crises with empathy and emotional healing. 
+
+By 2023, largely through the works of Jakub Szmit, "therapeutic populism" became increasingly associated with political and sociological critiques about the idea that the system is irreparably broken and so people must endure suffering through their own coping skills. Many of the movements associated with this critique reject institutional psychiatry and psychotherapy in favor of anti-establishment alternative medicine and grassroots wellness movements. Others use the concept of "therapeutic populism" in their criticisms of a strategy used by institutions to maintain control by [[pathologize|pathologizing]] complaints and suffering they produce while forcing them to pursue private treatment that will help them endure or cope. That private sector is often full of entities whose priority is making profit from the promise and appearance of a service that improves someone's well-being, from mountains of literature loaded with vague pop psych terms to courses and retreats charging thousands for personalized coaching. Instead of systemic changes that address the root cause of people's suffering and lack of well-being, therapeutic populism encourages individualized silos of coping skills to manage suffering where each person has their own care team to isolate sentiments and grievances through medical institutions.

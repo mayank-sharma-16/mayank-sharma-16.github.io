@@ -1,3 +1,0 @@
----
-title: Occupational Therapy
----

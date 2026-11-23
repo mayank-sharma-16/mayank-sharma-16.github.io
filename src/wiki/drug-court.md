@@ -1,0 +1,6 @@
+---
+title: Drug Court
+---
+
+# Overview
+Drug courts, or treatment courts, are specialized court programs to handle cases involving those struggling with [[substance-use-disorder|Substance Use Disorders (SUDs)]], usually with alternative [[diversion|diversions]] that involve mandatory [[rehab|rehabilitation]] or SUD treatment. The National Treatment Court Resource Center (NTCRC) has set out guidelines stating that ideally, drug courts function collaboratively with a multidisciplinary team that includes a judge, prosecutor, defense counsel, treatment provides, and probation officers who review a person's progress. There are specific types too: Adult Drug Courts, Juvenile Drug Courts, Family Treatment Courts, Veterans Treatment Courts, [[driving-under-influence|DUI]] Courts, etc. Studies show that individuals who go through drug court are significantly less likely to reoffend compared to traditional criminal justice channels, reduce the costs of [[mass-incarceration|incarceration]] and emergency healthcare services, and lower costs for the individual. 

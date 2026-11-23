@@ -1,3 +1,0 @@
----
-title: Speech Language Therapy
----

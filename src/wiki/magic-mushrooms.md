@@ -1,0 +1,8 @@
+---
+title: Magic Mushrooms
+---
+
+# Overview
+Magic mushrooms refer to fungi that contain [[psilocybin|psilocybin]], which causes psychoactive effects that alter perception and mood. Shrooms are one of the substances alongside alcohol and marijuana that have had thousands of years of use across cultures. The Aztecs referred to them as teonanacatl, mixing them with wild honey for preservation. Some scholars have argued that the ancient Greek's Eleusinian Mysteries used ergot as a base for a hallucinogenic drink called kykeon.
+
+The term "magic mushrooms" was introduced to Western pop culture in the 1950s through Gordon Wasson and Allan Richardson, who documented their participation in a ceremony with a Mazatec healer. In 1958, Albert Hofmann, the Swiss chemist who discovered LSD, identified psilocybin and psilocin as the active compounds in mushroom specimens from Mexico. There was a brief period of research and exploration into mushrooms, like the Harvard Psychdelic Project, until President Richard Nixon signed the Controlled Substances Act into law in 1970, which placed psilocybin mushrooms into Schedule I and inhibited future research. In more recent years, there has been some movement in research and medicine towards studying the use of mushrooms in addressing treatment-resistant depression. Some states and cities in the United States have also taken steps to decriminalize mushrooms, like in 2020 with Oregon's Measure 109 that gave a framework for therapeutic psilocybin use.

@@ -1,3 +1,0 @@
----
-title: Radical Self-Acceptance
----

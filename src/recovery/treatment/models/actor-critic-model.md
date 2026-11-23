@@ -1,3 +1,0 @@
----
-title: Actor-Critic Model
----

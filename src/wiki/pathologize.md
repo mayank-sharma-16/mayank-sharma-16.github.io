@@ -1,0 +1,10 @@
+---
+title: Pathologize
+---
+
+# Overview
+To pathologize means to identify some human behavior or emotion as abnormal, such that it's worth addressing medically or psychologically. 
+
+The term often carries a negative connotation because of recent criticisms that normal human patterns are labeled as diseases or symptoms by the medical establishment, whether that's by neurodivergent advocates who want society to accept differences rather than label them as sick or by mental health skeptics who believe diagnoses are handed out to those who don't have severe enough impairments to warrant them. After all, some of the worst examples of pathologizing include drapetomania to describe the urge of slaves to flee, homosexuality as a type of "Sociopathic Personality Disturbance", and hysteria to describe women whose behavior didn't align with gender roles or patriarchal expectations. Institutions in power have a pattern of pathologizing behaviors or cultural patterns for groups they seek to use.
+
+At the same time, pathologizing addiction meant a shift in framing the problem as a moral-religious issue into a medical and public health issue. "Substance use disorder (SUD)" frames addictive behaviors as a chronic brain disease with relapses and remissions, rather than an issue of willpower. Complex Post-Traumatic Stress Disorder (C-PTSD) isn't acknowledged by the DSM-5, but advocates for its incorporation argue that pathologizing the aftermath of prolonged chronic trauma is validating to those who struggle with symptoms that are reduced to personality flaws or miscategorized as personality disorders. The same applies to adult ADHD and helping people realize that the messaging they may have internalized around being "lazy" or "unmotivated" actually comes from issues in dopamine regulation due to structural differences in the prefrontal cortex. There are many kids who burnout or whose symptoms go overlooked because their grades are fine and they don't have obvious behavioral issues, but then struggle later in life with basic executive function skills.

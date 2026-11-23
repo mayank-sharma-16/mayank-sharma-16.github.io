@@ -1,0 +1,10 @@
+---
+title: Moderation
+---
+
+# Overview
+Moderation refers to using substances or processes in a way that limits the negative consequences. 
+
+In recovery circles, the idea of moderation is very controversial. In 12-step groups like Alcoholics Anonymous or Narcotics Anonymous, there's a firm rejection of the idea that one can ever go back to "drinking like a gentleman." Other adages include "a pickle can't go back to being a cucumber" and "one drink is too much, a thousand is never enough." Within medical and research communities, any amount of alcohol is generally considered harmful to the body, despite any potential benefits behind the media's sensationalization of a glass of wine a day, so it's unlikely for there to ever be a circumstance where a clinician recommends drinking to someone with abstinence. 
+
+At the same time, research also shows that 1 in 5 people who at one point qualified for alcohol use disorder diagnosis no longer meet the clinical criteria in their drinking patterns, suggesting that harm reduction or moderation is not completely off the table for those experiencing SUD. Some recovery groups like SMART Recovery explicitly validate moderation as a valid goal to aim for as their program follows the medical paradigm found in [[harm-reduction|harm reduction]] programs that any improvement in quality of life is meaningful. However, anecdotally, the goal of moderation is respected in these meetings but warnings about it are still common. One of the problems is that the people most interested in moderation are those who struggle the most with the idea of living sober, such that it's virtually never a good idea to recommend moderation to someone who wants or needs to aim for abstinence. But if you really can moderate, all the power to you if the tradeoff of continuing drinking in moderation is worth it. Medications like naltrexone blunt the effects of alcohol which some people use to stop after a couple drinks to prevent a binge or to practice the Sinclair Method that trains the brain to desire alcohol less.

@@ -1,3 +1,0 @@
----
-title: Surgeon General
----

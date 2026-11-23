@@ -1,0 +1,6 @@
+---
+title: Segregation
+---
+
+# Overview
+Segregation 

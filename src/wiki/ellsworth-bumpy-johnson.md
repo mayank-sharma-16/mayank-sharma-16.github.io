@@ -1,0 +1,3 @@
+---
+title: Ellsworth "Bumpy" Johnson
+---

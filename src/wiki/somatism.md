@@ -1,0 +1,9 @@
+---
+title: Somatism
+---
+
+# Overview
+Somatism is the framework that all mental illnesses and psychological processes have physiological origins. Humorism was a dominant somatist framework in Western and Islamic medicine for over a thousand years, and it argued that imbalances in bodily fluids were responsible for mental disturbances and disordered behavior.
+
+# Historical Context
+The term "somatism" arose in early 19th-century Europe as opposition to psychicism, which argued that people had a soul or psyche, independent of a material body, that could become sick or disordered from moral failures or excessive passion. Somatists responded that souls are immortal and intangible, while diseases by definition occur in the disorder of tangible, temporary mortal bodies. The somatic view gained traction through the work of [[kraepelinian|Emil Kraepelin]], which catalogued patterns of symptoms with shared progression in the hopes of isolating biological foundations for diseases. The discovery of chlorpromazine in the 1950s, the first effective antipsychotic medication, facilitated a paradigm shift that saw psychiatric disorders as neurochemical imbalances. With the development of [[neuroimaging|neuroimaging]] techniques like PET and fMRI, disorders have been mapped to the brain's structures, activity levels, and neural pathways. However, the modern medical establishment has also shifted to acknowledge that social and interpersonal factors in people's daily lives influence their symptoms and quality of life, so it's common for clinicians to use a [[biopsychosocial-models|biopsychosocial model]].

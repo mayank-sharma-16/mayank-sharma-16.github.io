@@ -1,0 +1,6 @@
+---
+title: Let Go and Let God
+---
+
+# Overview
+The phrase "Let go and let God" is commonly used in 12-step-based recovery groups like Alcoholics Anonymous, whose religious and spiritual foundations are rooted in the Higher Life Christianity movement tied to the Keswick Convention of the 1870s. The original meaning as invoked by Higher Life theologists meant surrendering personal will and agency so that divine will via the Holy Spirit, which would manifest as a personal moral clarity free of the impulses of the individual ego, including the idea of building endurance for active works and labor. The Oxford Group, and later, Alcoholics Anonymous, drew on this framework to address the psychological feelings of powerlessness that accompany addiction. With this perspective, an alcoholic or addict would acknowledge they are powerless over the people, places, and things around them but can achieve personal peace that leads to abstinence as a result of seeking God, or an equivalent Higher Power. When something happens outside of one's control, rather than attempt to retain or fight for control, one ought to "let go and let God" handle it as a power outside of oneself.

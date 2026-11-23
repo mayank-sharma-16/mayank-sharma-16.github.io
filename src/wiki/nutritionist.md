@@ -1,0 +1,8 @@
+---
+title: Nutritionist
+---
+
+# Overview
+A nutritionist is someone who provides advice about food choices and lifestyle towards health and wellness. The term "nutritionist" is not legally protected in America, so anyone can call themselves one. The protected titles are Registered Dietitian (RD), Registered Dietitian Nutritionist (RND), and Certified Nutrition Specialist (CNS), and they require degrees, supervised practice, and passing national exams. 
+
+Nutritionists who address recovery from chronic substance use will often focus on restoring neurotransmitters critical for the brain's reward pathways that have been depleted, like dopamine and serotonin. Eating high amounts of protein will help add the amino acids it takes to build neurotransmitters, regulate mood, and reduce aggressive tendencies. Eating regular meals with complex carbohydrates can smooth out glucose spikes and dips; the brain can interpret low blood sugar as a craving because of an impulse for immediate relief from irritable moods or low energy states. Depending on one's drugs of choice, there might be different types of nutrient depletions to emphasize. Chronic alcohol use interferes with the absorption of B vitamins like thiamine, folate, and B12. Stimulants can lead to extreme appetite suppresion and electrolyte imbalances. All substance use has the potential to significantly impact the gut microbiome, and since a huge portion of the body's serotonin is produced in the digestive tract, rebuilding a population of healthy bacteria through fiber and probiotic foods can be both a physical and mental boost. 

@@ -1,3 +1,0 @@
----
-title: Therapeutic Entitlement
----

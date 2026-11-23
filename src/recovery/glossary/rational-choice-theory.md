@@ -1,3 +1,0 @@
----
-title: Rational Choice Theory
----

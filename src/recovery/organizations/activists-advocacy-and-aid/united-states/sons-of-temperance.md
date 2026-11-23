@@ -1,3 +1,0 @@
----
-title: Sons of Temperance
----

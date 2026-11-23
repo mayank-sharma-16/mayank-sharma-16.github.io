@@ -1,0 +1,8 @@
+---
+title: Stigma
+---
+
+# Overview
+Stigma refers to negative beliefs, like [[stereotype|stereotypes]], that a society or collective group of people hold towards others based on their personal characteristics or circumstances.
+
+Mental health conditions and especially [[substance-use-disorder|Substance Use Disorder (SUD)]] have been the recipients of stigma for as long as the concept of a disorder has existed in virtually every culture on Earth. Because identifying a physiological cause behind mental health disorders has required advance [[neuroimaging|neuroimaging]] techniques we've only developed over the last century, mental disorders were often seen as the result of a weak moral character, lack of willpower, personal defects, inability to handle [[trauma|trauma]], and vulnerability to spiritual or supernatural disturbances. The stigma might appear to be a deterrent to undesirable behavior, but humans are flawed and will do an undesirable behavior anyways, so stigma can also have the effect of stopping those in trouble from coming forward. This is a known issue in medical professions like physicians who are worried about jeopardizing their career if they receive a mental health diagnosis or need time off to receive extended treatment at a [[rehab|rehabilitation center]], since they feel expected to show ideal outcomes in personal health as a reflection of their professional competence.

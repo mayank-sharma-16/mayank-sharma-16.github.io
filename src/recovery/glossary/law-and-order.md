@@ -1,3 +1,0 @@
----
-title: Law and Order
----

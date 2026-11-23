@@ -53,6 +53,11 @@ export default (() => {
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+        <link rel="manifest" href="/static/manifest.json" />
+        <meta name="theme-color" content="#284b63" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+
+
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
         <meta property="og:type" content="website" />

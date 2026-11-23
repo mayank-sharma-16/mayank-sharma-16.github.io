@@ -1,3 +1,0 @@
----
-title: Habit-Caching Model
----

@@ -1,3 +1,0 @@
----
-title: Somatic Marker Hypothesis
----

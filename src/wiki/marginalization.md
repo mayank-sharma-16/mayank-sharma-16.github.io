@@ -1,0 +1,10 @@
+---
+title: Marginalization
+---
+
+# Overview
+Marginalization is the act of treating specific groups of people to the margins of society, where they're treated as less valuable than others and deprived of equal access to resources and opportunities. 
+
+In the context of substance use, marginalization occurs both prior to and as a result of it. People are far more likely to use substances to self-medicate when they lack access to medical providers or have a mistrust of medical institutions that may not be inclusive towards different groups. Environments with high stressors like housing instability, job insecurity, community violence, systemic discrimination, and intergenerational trauma are more likely to result in people using substances to get relief and cope with stress. Then, once in active addiction, individuals often burn through their employment, housing, and social support networks while also facing potential incarceration if they broke the law under the influence. This means that sustaining sobriety also requires overcoming the obstacles from marginalization acquired while using. 
+
+Part of the motivation behind the design of Alcoholics Anonymous as a peer-led mutual aid network, among other recovery programs, is to remain open to those in society who are too marginalized to get help from mainstream institutions or have experienced active harm from them. These recovery programs often have no requirement for participation and are completely free to join and network through. It's common to hear announcements at these meetings for jobs and housing assistance dedicated for those in recovery or hear advice about navigating social services and local charities. Some meetings are dedicated safe spaces for certain identities, like LGTBQ+, agnostic, and Spanish-speaking meetings in case general groups don't make appropriately inclusive efforts or one wants to be part of groups that understand marginalization at the intersection of multiple dimensions of lived experience.

@@ -1,3 +1,0 @@
----
-title: Motivational Model
----

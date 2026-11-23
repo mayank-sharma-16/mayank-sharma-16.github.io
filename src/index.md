@@ -1,91 +1,78 @@
 ---
-title: Home
+title: Wellness And Recovery
 ---
 
 ## Folders
 
-- [Education](/education)
-- [Imperialism](/imperialism)
-- [Internet And Technology](/internet-and-technology)
-- [Metaphysics](/metaphysics)
 - [Notes To Mank](/notes-to-mank)
 - [Rants](/rants)
-- [Recovery](/recovery)
+- [Tools](/tools)
+- [Shows](/wiki)
 
 ## Recently Modified
 
-- [Kraepelinian](/recovery/glossary/kraepelinian)
+- [10 Cloverfield Lane](/wiki/10-cloverfield-lane)
 
-To describe an approach as "Kraepelinian" is to mean that it views mental illnesses as distinct biologically-driven neurological conditions that can be identified through their progression rather than just the current presentation of symptoms. This is in contrast to Freudian psychoanalysis, which located the source of symptoms within someone's fluid, subconscious emotional conflicts that could…
+10 Cloverfield Lane is a standalone companion story to the original Cloverfield movie that shares the premise of an incomprehensible otherworldly threat forcing humanity into a struggle for survival, although with a claustrophobic bunker centering human conflict this time rather than a ground zero incident that reveals human frailty. This movie isn't about addiction or an elaborate allegory that…
 
-- [Kleptomania](/recovery/glossary/kleptomania)
+- [Molotov Cocktail](/wiki/molotov-cocktail)
 
-Kleptomania is a mental health disorder ni which someone has a recurring urge to steal items without personal gain as a motivator. While it's often considered a behavioral addiction along the lines of gambling or sex addictions, the DSM-5-TR technically categorizes it as an impulse-control disorder. The underlying mechanisms for kleptomania are almost all shared with other addictions. Much like…
+- [7 Cups](/wiki/7-cups)
 
-- [Ketamine](/recovery/glossary/ketamine)
+7 Cups is a non-clinical emotional support platform driven by volunteer listeners and peer support those struggling with Substance Use Disorder (SUD) and other mental health disorders. The platform provides: Addiction Chat Room: real-time peer encouragement, discussion about relapse prevention, and strategies for developing coping skills Community Sub-Forums: topic-specific threads within…
 
-Ketamine is a dissociative anesthetic used for surgical procedures, treatment-resistant depression, and chronic pain. As an NMDA receptor antagonist, it blocks glutamate, the primary excitatory neurotransmitter in the brain. With depression, this leads to the brain creating new pathways extremely quickly that can guide someone out of negative loops in their thoughts and feelings. It's also used…
+- [Country Leadership Award](/wiki/country-leadership-award)
 
-- [Intravenous](/recovery/glossary/intravenous)
+- [Schizophrenia](/wiki/schizophrenia)
 
-Intravenous (IV) translates literally into "within a vein." It's most often used in the context of IV injections, which deliver some substance directly into a person's bloodstream through their veins for rapid circulation. As a medical procedure, it's commonly done to administer medications that act rapidly without going through the digestive system's metabolic processes. If a patient has lost…
+- [National Alliance On Mental Illness](/wiki/national-alliance-on-mental-illness)
 
-- [Juridical Image](/recovery/glossary/juridical-image)
+- [Glamorizing](/wiki/glamorizing)
 
-In legal philosophy, particularly in the works of Hanna Pickard, "juridical image" can refer to the model of human behavior that a legal system uses in evaluating actions and interpreting laws. The common traditional juridical image found in most legal systems assumes that an individual is a discrete autonomous unit who makes calculated decisions, such that breaking the law is seen as a choice…
+"Glamorizing" is the most common term used in recovery circles when describing substance use as positive or transformational, usually from the perspective that
 
-- [Justice Involved Individual](/recovery/glossary/justice-involved-individual)
+- [A Philosophical And Statistical History](/wiki/a-philosophical-and-statistical-history)
 
-The term "justice-involved individual" (JII) became widespread across state agencies and healthcare fields as a replacement for "convict", "criminal", "felon" or "prisoner" which have negative connotations that imply some level of guilt or wrongdoing. There were earlier attempts to shift the language into person-first and system-focused terms like "person with a criminal record" or "formerly…
+A Philosophical and Statistical History of the Inventions and Customs of Ancient and Modern Nations in the Manufacture and Use of Inebriating Liquors (1838) is the second edition of an 1824 essay by Samuel Morewood that studies alcohol production and consumption across ancient and modern societies. In addition to beer, wine, and hard liquor, it also touches on opium and stimulants in cultures…
 
-- [Kava](/recovery/glossary/kava)
+- [Contingency Management](/wiki/contingency-management)
 
-Kava is a beverage made from the root of the Piper methysticum plant and has traditionally been used in rituals and social gatherings across Polynesia, Micronesia, and Melanesia in the South Pacific. It's also sold as tea, extracts, and supplemental powders globally. Kava contains kavalactones, which are found in the resin of kava roots and are responsible for its psychoactive effects by serving…
+Over three decades of research into contingency management interventions has shown that it routinely outperforms Cognitive-Behavioral Therapy and 12-step facilitation models. It is the gold standard for stimulant use disorders, which have no FDA-approved medications. Adding CM to Medication for Opioid Use Disorder (MOUD) protocols substantially improves cigarette use, medication adherence,…
 
-- [Junkies](/recovery/glossary/junkies)
+- [Meth Storm](/wiki/meth-storm)
 
-"Junkie" is a derogatory slang term that refers to people with substance use disorders, typically in relation to narcotic substances that were historically called "junk." In 1923, Nels Anderson published The Hobo: The Sociology of the Homeless Man in which he writes: "The Hop Head is an interesting type. He is usually in a pitiful condition, for he has small chance, living as he does, in the…
+Meth Storm (2017) is a documentary about methamphetamine use and trafficking operations in the communities of rural Arkansas.
 
-- [Goofy Shit](/rants/goofy-shit)
+- [American Gangster](/wiki/american-gangster)
 
-Life is absurd. Sometimes, it's goofy and absurd. Recovery circles have some of the goofiest and most absurd shit I have ever seen, so here's a bunch of them in no particular order. The specific incident that motivated me to start sharing some of the goofy shit in these circles is when I had to roleplay as a passive-aggressive rapist in a group session. Within the confluence of events that led to…
+American Gangster (2007) is loosely based on the life of Frank Lucas, a gangster from North Carolina who trafficked drugs like heroin using planes returning to the United States from the Vietnam War.
 
-- [Isolation Of Affect](/recovery/glossary/isolation-of-affect)
+- [Qualifier](/wiki/qualifier)
 
-Isolation of affect is a psychological defense mechanism in which the cognitive and emotional components of an experience are isolated from each other so that an individual can cognitively engage with an idea without being conscious of their emotional associations with it. It's considered to be the opposite of repression, where the emotional affect is impacting an individual but they don't…
+In Al-Anon circles, "Qualifier" or "Q" refers to a person in someone's life whose drinking or substance use patterns have led them to ("qualified" them for) attendance at an Al-Anon meeting.
 
-- [Intervention](/recovery/glossary/intervention)
+- [Al Anon](/wiki/al-anon)
 
-"Intervention" in a general medical context has been used to refer to any treatment used to address the natural course of a disease. In preventative medicine, interventions are generally categorized as: primary interventions that prevent a disease before it occurs, like a vaccine secondary interventions that use early detection to address a disease at it's earliest stages tertiary interventions…
+Al-Anon is an anonymous support group for those who have been impacted by someone else's drinking and substance use patterns. Although the term isn't originally from the program's literature, "Q" for "Qualifier" has been used to describe a person whose drinking patterns are an ongoing factor in someone's life. https://al-anon.org/
 
-- [Interconnectedness](/metaphysics/glossary/interconnectedness)
+- [Stanford Medicine X Prize For Health Care Systems Design](/wiki/stanford-medicine-x-prize-for-health-care-systems-design)
 
-- [Intraparietal Cortex](/recovery/glossary/intraparietal-cortex)
+2016: 7 Cups
 
-- [Intrusive Thoughts](/recovery/glossary/intrusive-thoughts)
+- [Journal Of Mental Health](/wiki/journal-of-mental-health)
 
-Intrusive thoughts refer to thoughts that interrupt a flow of thoughts. There are some wordier definitions that sound more technical, but that's the essence of it. In clinical literature, it's common to see intrusive thoughts referred to as "obsessions", "mental intrusions", or other close synonyms. Everyone has some level of intrusive thoughts that come to mind throughout their day and life, but…
+20-10-2015: Online emotional support delivered by trained volunteers: users' satisfaction and their perception of the service compared to psychotherapy
 
-- [Intrinsic Motivation](/recovery/glossary/intrinsic-motivation)
+- [Domestic Violence](/wiki/domestic-violence)
 
-The concept of intrinsic motivation refers to the tendency to perceive activities as their own reward rather than the means to an external reward. The term first entered scientific literature in 1950 in a paper titled "Learning and satiation of response in intrinsically motivated complex puzzle performance by monkeys." The psychologist Harry Harlow observed how some monkeys would learn to solve…
+- [Acceptance And Commitment Therapy](/wiki/acceptance-and-commitment-therapy)
 
-- [Intramuscular](/recovery/glossary/intramuscular)
+- [Coping Skills](/wiki/coping-skills)
 
-Intramuscular (IM) injections are injections that aim to go deeper than intradermal (in the skin), intravenous (in the veins), and subcutaneous (fatty tissue under the skin) injections. Vaccines, hormones, steroids, and antibiotics are generally delivered at this depth which allows for rapid absorption of high quantities of a medication or drug. With injection drug use, generally the goal is to…
+- [Housing First](/wiki/housing-first)
 
-- [Intimate Partner Violence Ivp](/recovery/glossary/intimate-partner-violence-ivp)
+"Housing First" refers to a policy framework that addresses homelessness by directly providing housing options without requiring sobriety or treatment for any potential health conditions, including substance use disorder. As the National Alliance to End Homelessness states, Housing First is an approach that prioritizes providing permanent housing to people experiencing homelessness, thus ending…
 
-Intimate Partner Violence (IPV) refers to instances of physical altercation between partners who are in or used to be in a romantic relationship. In the general population, 33% of women and 25% of men report being the victim of IPV or domestic violence. Within those seeking treatment for substance use disorders, 1 in 2 women report being the victim of IPV. With men, 30% report having engaged in…
+- [American Journal Of Public Health](/wiki/american-journal-of-public-health)
 
-- [Intertemporal Bargaining](/recovery/glossary/intertemporal-bargaining)
-
-Intertemporal bargaining is a behavioral economics concept that refers to a person making a strategic decision that alters the benefits or consequences of their future self. Eating a whole row of Double Stuf Oreos might seem very appealing in the short-term, and the impulse to act on that might cause you to decide that the sugar intake is a problem you're willing to pass onto your future self.…
-
-- [Intentionality](/recovery/glossary/intentionality)
-
-Intentionality is broadly the capacity to direct oneself towards something else. If that sounds vague, it's because intentionality takes on a variety of meanings depending on the specific context. Philosophers of the mind discuss intentionality as a property that separates the physical world from constructs of the mind. From the Stanford Encyclopedia of Philosophy: In philosophy, intentionality…
-
-- [Insomnia](/recovery/glossary/insomnia)
-
-Insomnia is a disorder that disrupts sleep, either by making it hard to fall asleep or stay asleep. Short-term insomnia can be caused by stress, travel, substance use, or significant life events that lead to a lot of thoughts at night. Long-term insomnia can be related to chronic pain, mental health disorders like anxiety and depression, and the side effects of some medications. Insomnia and…
+The American Journal of Public Health (AJPH) https://pmc.ncbi.nlm.nih.gov/articles/PMC2791251/ https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.64.12_Suppl.38

@@ -1,3 +1,0 @@
----
-title: Money And Finance
----

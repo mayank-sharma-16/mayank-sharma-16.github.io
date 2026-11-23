@@ -1,3 +1,0 @@
----
-title: Whole-Person Care
----

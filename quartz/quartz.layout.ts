@@ -1,17 +1,22 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { h } from "preact" // 1. Add this import
+import PageChat from "./quartz/components/PageChat"
+import { h } from "preact"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    // 2. Return a functional component via preact's element creator
     (() => {
       return () => h("span", { class: "header-text" }, "Monthly Unique Visitors: 16.49k    Total Monthly Requests: 197.99k")
     })()
   ],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: PageChat(),
+      condition: (page) => page.fileData.slug !== "index" && !page.fileData.slug?.startsWith("tags/"),
+    }),
+  ],
   footer: Component.Footer({
     links: {
       "Write a Note to Mank": "https://forms.gle/Sqf9tc9CoHCufKJNA",
@@ -63,7 +68,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [

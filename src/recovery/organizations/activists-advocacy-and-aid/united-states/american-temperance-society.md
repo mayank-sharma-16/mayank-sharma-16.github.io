@@ -1,3 +1,0 @@
----
-title: American Temperance Society
----

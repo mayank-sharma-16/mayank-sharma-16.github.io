@@ -1,0 +1,112 @@
+---
+title: Reefer Madness (Tell Your Children)
+released: 1936 
+---
+
+# Overview
+*Reefer Madness*, originally titled *Tell Your Children*, is a hilariously outdated PSA about the dangers of marijuana. In fact, it's somewhat of a cult hit as a stoner movie itself. The original release reflects the drug hysteria of a post-Prohibition America in which the public had tired of big institutional interventions into the problems of addiction and instead sought to foster a local culture of parents seeking direct, personal interventions into their children's lives. After a while, it was edited and re-released as a way to depict scandalous content that was otherwise prohibited under the guise of being a cautionary set of warnings.
+
+# Live Commentary
+*"The motion picture you are about to witness may startle you. It would not have been possible, otherwise, to sufficiently emphasize the frightful toll of the new drug menace which is destroying the youth of America in alarmingly-increasing numbers."*
+
+*"Marihuana is that drug - a violent narcotic - an unspeakable scourge - The Real Public Enemy Number One!"*
+
+*"Its first effect is sudden, violent, uncontrollable laughter; then come dangerous hallucinations - space expands - time slows down, almost stands still .... fixed ideas come next, conjuring up monstrous extravagances - followed by emotional disturbances, the total inability to direct thoughts, the lost of all power to resist physical emotions... leading finally to acts of shocking violence ... ending often in incurable insanity."*
+
+*"In picturing its soul-destroying effects no attempt was made to equivocate. The scenes and incidents, while fictionized for the purposes of this story, are based upon actual research into the results of Marihuana addiction. If their stark reality will make you think, will make you aware that something must be done to wipe out this ghastly menace, then the picture will not have failed in its purpose... Because the dread Marihuana may be reaching forth next for your son or daughter .... or yours .... or YOURS!"*
+
+This is the text that opens up the movie. Keep in mind this movie was released in the same era where the following substances were available over-the-counter:
+
+- [[benzedrine|Benzedrine Inhalers]], loaded with amphetamine
+
+- paregoric (camphorated opium tincture) was accessible in liquid form for infants at any corner drug store
+
+- donnagel which contained opium extracts and belladonna alkaloids
+
+- terpin hydrate with codeine
+
+- bromo-seltzer as a hangover remedy that contained sodium bromide, a sedative toxin
+
+- Barbital and Veronal as early [[barbiturates|barbiturates]]
+
+- Hadacol and Geritol, which contained 12 to 15% alcohol while being marketed as "vitamin tonics" appropriate for families with children
+
+- Acetanilide as painkillers
+
+But beware, the Real Public Enemy Number One is the Dread Marihuana! Hide your kids! Hide your wives!
+
+# Commentary
+I'll be honest, I really wish I was high while seeing this. What a missed opportunity. 
+
+## Live Reactions
+*"Out of the traffic in these drugs, a lawlessness that we can scarcely estimate has grown and is now flourishing. It exists in almost every city and hamlet in the country... The weed marihuana is grown in every state in the Union."*
+
+Interestingly, modern studies into D.A.R.E have suggested that Public Service Announcements (PSAs) and educational programs that frame substances as being an ever-present threat around them has the opposite effect of deterrence and marginalization of substance use. People, especially children, are more likely to walk away from these messages with the conclusion that substance use is normalized in society. If every city has marijuana, then it no longer seems to be some distant dangerous drug demolishing domestic order, but a fabric of that very domestic order itself that is practiced discreetly as a sign of maturity and respectability.
+
+*"It might be interesting and important for you to know some of the methods use in bringing these drugs into the country and the work of the forces of law and order, which are daily combating the traffic, always at the risk of life by their agents. This ceaseless fight against the drug traffic is directed by the Department of Narcotics, Washington."*
+
+While there is appropriately a lot of blame placed on American Presidents Richard Nixon and Ronald Reagan for concocting and perpetuating the disastrous War on Drugs, we can see that the notion of a battle or a war against the presence of drugs through the state has older roots. This film was produced only a few years after Prohibition was repealed and black market organized crime groups that sold bootleg alcohol were addressed, so there was some recent precedence for expecting violence when regulating substances that are highly in-demand.
+
+*"At the outset of this letter, there is one vital fact I would like to submit. There is a powerful agency. I speak of the school-parent associations of this country, which can be invaluable in stamping out this scourge. Their help, their eternal vigilance, could be the deciding factor in our fight against it."*
+
+As a rule of thumb, whenever a product of the culture of Protestant moral-psychology discusses "eternal vigilance" or "constant spiritual warfare" or some similar term referring to the need to be on constant guard from some external temptation or threat, I hear a comparison to Satan being set up. 
+
+*"They are hidden in fake jewelry cases, in the heels of shoes, women's shoes especially, because the drugs can be secreted in false heels. Hollowed shaving brushes are another medium. Books with false centers are often used. Watch cases are convenient hiding places. The value of drugs thus seized is enormous."*
+
+I'm sorry, this is a PSA that's supposed to discourage the use of drugs? They just told us that everyone everywhere is doing them, there are tons of effective hiding places in everyday objects, and selling drugs is very lucrative.
+
+*"Oh why don't you button up your lips? You're always squawking about something. You got more static than a radio."*
+
+Unfortunately, Jack's embrace of weed does not by any stretch of the imagination make him oriented towards progressive values about the opinions of women. 
+
+*Mary: "Why, don't you know him? That's Hot Fingers Pirelli!"*
+
+*Bill: "Boy, he really swings out hot with a mess of jive!"*
+
+Perfect. No notes.
+
+*Mary: "It's sweet of you to help me, Bill."*
+
+*Bill: "I'll show you anything except domestic science."*
+
+*Mary: "I see, don't you want to learn anything about running your own home?"*
+
+*Bill: "The answer is no. You know, after that session we had yesterday, I went home and told Mother that the trouble with her pot roast gravy was she hadn't added three heaping teaspoonfuls of olive oil."*
+
+*Mary: "What did she say?"*
+
+*Bill: "She didn't say anything. She just threw me out of the kitchen."*
+
+*Mary: "I don't wonder."*
+
+Setting aside Bill's bitch of a mother (that's sarcasm, don't @ me), my ears perked up at the phrase "domestic science," which at first impression sounds like a lip-service concession to feminist activists who sought to eliminate disparities between men and women in terms of involvement in public life outside the domestic sphere. The actual history is more nuanced, and I intend to dig into it at some point. For now though, if I were being generous, I might say Bill's disinterest in domestic science is potential foreshadowing for the corruption of the values and structures that preserved the middle-class white American lifestyle. If only Bill's mother allowed his son to cook.
+
+*Bill: "Mary, before we do that math, how about reading some of this? It's swell!"*
+
+*Mary: "Romeo and Juliet?"*
+
+*Bill: "You know, when I study this, I kinda think of you."*
+
+If only this wasn't a black-and-white movie, Mary might see this as a red flag.
+
+Also, the average person in this movie dresses better in their daily life than I have in my entire life. What's the point of all this post-WWII American exceptionalism when we don't even wear suits and vests to school anymore?
+
+*Dr. Carroll: "There is no doubt that there is an organized gang distributing the narcotic to students, not only in my school, but all over the city. You government men have got to find some way to put an end to it!"*
+
+*Mr. Wyatt: "Of course, I agree with you, Dr. Carroll. But do you realize that marihuana is not like other forms of dope? You see, it grows wild in almost every state of the Union. There's practically no interstate commerce in the drug. As a result, the government's hands are tied. And frankly, the only sure cure is a widespread campaign in education."*
+
+*Dr. Carroll: "Oh, it's all right to talk about education, Mr. Wyatt? But we educators can't do anything until the public is sufficiently aroused."*
+
+There's actually a lot more being reflected here than a simple plea for parents to be more involved in guiding the youth away from substance use. Early temperance movements have many of their roots in the Second Great Awakening, which most historians mark between the 1790s and 1840s, just a couple decades before the Civil War. These revival movements attempted to move past the Calvinist notions of predestination that predetermined who would go to Heaven or Hell before they were even born with a message about achieving salvation through personal choices. Many staunch religious activists advocated for the end of slavery and ban of alcohol, which culminated in Prohibition from 1920 to 1933. The rising "democratized" view on spiritual connections that claimed any individual could be saved through personal revelation rather than adhering to the strict practices and logic of institutional authorities. Gender stereotypes framed women as inherently more emotional, so feminists of the era were able to push back on traditional narratives that used the story of Eve and the Garden of Eden to undermine the moral character of women. Without access to suffrage or political office, the masses of women joining moral movements argued that the community was an extension of the home as part of the domestic sphere. As such, their moral and spiritual authority ought to guide social reforms while men dealt with the dirty aspects of politics, law enforcement, and war.
+
+So, insofar as substance use could be framed as a moral failing, the local infrastructure set up by temperance activists and early feminists was particularly significant. Movies like *Reefer Madness*, originally titled *Tell Your Children* if you recall, were made and distributed by groups steeped in this culture. After the failures of Prohibition, in which the black market for alcohol thrived and led to widespread local corruption, there was a strong distaste from the American public for more solutions that involved government intervention. It's no coincidence that Alcoholics Anonymous (AA) was started in the 1930s as well as a social and cultural movement that explicitly embraced anarchist ideas about mutual aid and voluntary association while eschewing institutional authorities.
+
+The movie avoids condemning the government, instead framing federal law enforcement agencies as limited by their legal jurisdiction (via the interstate commerce clause) but supportive of efforts from the public to rise to the moral occasion and act against the dread marihuana. In fact, many officials like Harry J. Anslinger, first commissioner of the Federal Bureau of Narcotics (FBN), leaned into the hysteria promoted by the film to build momentum for crackdowns on drug use. Rather than attempting to change the moral character of the nation with a ban on a substance as widely integrated into daily life as alcohol, anti-drug coalitions reframed their project as preserving and protecting the public from a new intrusive threat to the order of society tied to immigrants and communities of color. Rhetoric from these anti-drug crusades shifted from standard morality plays derived from revivalist sermons to public service announcements concerning criminal and medical dangers coated in xenophobic and racism. 
+
+In the context of the movie, the contrast between the jazz being played in Jack and Mae's apartment-turned-marihuana-den and the "swell" Shakespeare Billy and Mary recite at Mary's middle-class home under the supervision of her mother is a completely unsubtle reference to "black" culture leaking into the lives of white communities.
+
+*"Bill, I'm going to ask you a straightforward question, and I'd like to have a straightforward answer... Isn't it true that you have, perhaps unwillingly, acquired a certain harmful habit through an association with certain undesirable people?"*
+
+That's not a straightforward question. 
+
+"Bill, are you a pothead?" is a straightforward question. 

@@ -1,3 +1,0 @@
----
-title: Abraham Adolf Baer
----

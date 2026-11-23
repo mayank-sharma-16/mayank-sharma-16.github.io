@@ -1,3 +1,0 @@
----
-title: Distress-Amplification Model
----

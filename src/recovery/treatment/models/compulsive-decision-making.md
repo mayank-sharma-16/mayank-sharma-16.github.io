@@ -1,3 +1,0 @@
----
-title: Compulsive Decision-Making
----

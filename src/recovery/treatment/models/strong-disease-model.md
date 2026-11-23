@@ -1,3 +1,0 @@
----
-title: Strong Disease Model
----
