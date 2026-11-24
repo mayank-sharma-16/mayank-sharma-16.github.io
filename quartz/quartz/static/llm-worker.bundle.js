@@ -34708,6 +34708,29 @@ var CONCRETE_DTYPES = Object.keys(DEFAULT_DTYPE_SUFFIX_MAPPING);
 env2.allowLocalModels = false;
 env2.backends.onnx.wasm.wasmPaths = "/static/transformers/";
 var generator = null;
+var wasmInitialized = false;
+async function initLocalWasmPaths() {
+  if (wasmInitialized) return;
+  const [part1, part2] = await Promise.all([
+    fetch("/static/transformers/asyncify.part1.bin").then((r) => {
+      if (!r.ok) throw new Error(`Failed to load asyncify.part1.bin (${r.status})`);
+      return r.arrayBuffer();
+    }),
+    fetch("/static/transformers/asyncify.part2.bin").then((r) => {
+      if (!r.ok) throw new Error(`Failed to load asyncify.part2.bin (${r.status})`);
+      return r.arrayBuffer();
+    })
+  ]);
+  const asyncifyWasmBlob = new Blob([part1, part2], { type: "application/wasm" });
+  const asyncifyWasmUrl = URL.createObjectURL(asyncifyWasmBlob);
+  env2.backends.onnx.wasm.wasmPaths = {
+    "ort-wasm-simd-threaded.asyncify.wasm": asyncifyWasmUrl,
+    "ort-wasm-simd-threaded.asyncify.mjs": "/static/transformers/ort-wasm-simd-threaded.asyncify.mjs",
+    "ort-wasm-simd-threaded.jsep.wasm": "/static/transformers/ort-wasm-simd-threaded.jsep.wasm",
+    "ort-wasm-simd-threaded.jsep.mjs": "/static/transformers/ort-wasm-simd-threaded.jsep.mjs"
+  };
+  wasmInitialized = true;
+}
 var STOPWORDS = /* @__PURE__ */ new Set([
   "a",
   "an",
@@ -34866,6 +34889,7 @@ self.onmessage = async (e) => {
   const { type, pageTitle, sections, pageText, question } = e.data;
   if (type === "init") {
     try {
+      await initLocalWasmPaths();
       if (!generator) {
         let device = "wasm";
         if (navigator.gpu) {

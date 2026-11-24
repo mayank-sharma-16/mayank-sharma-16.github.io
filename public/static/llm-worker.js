@@ -3,6 +3,35 @@ import { pipeline, TextStreamer, env } from "@huggingface/transformers";
 env.allowLocalModels = false;
 env.backends.onnx.wasm.wasmPaths = "/static/transformers/";
 let generator = null;
+let wasmInitialized = false;
+
+
+async function initLocalWasmPaths() {
+  if (wasmInitialized) return;
+
+  const [part1, part2] = await Promise.all([
+    fetch("/static/transformers/asyncify.part1.bin").then((r) => {
+      if (!r.ok) throw new Error(`Failed to load asyncify.part1.bin (${r.status})`);
+      return r.arrayBuffer();
+    }),
+    fetch("/static/transformers/asyncify.part2.bin").then((r) => {
+      if (!r.ok) throw new Error(`Failed to load asyncify.part2.bin (${r.status})`);
+      return r.arrayBuffer();
+    }),
+  ]);
+
+  const asyncifyWasmBlob = new Blob([part1, part2], { type: "application/wasm" });
+  const asyncifyWasmUrl = URL.createObjectURL(asyncifyWasmBlob);
+
+  env.backends.onnx.wasm.wasmPaths = {
+    "ort-wasm-simd-threaded.asyncify.wasm": asyncifyWasmUrl,
+    "ort-wasm-simd-threaded.asyncify.mjs": "/static/transformers/ort-wasm-simd-threaded.asyncify.mjs",
+    "ort-wasm-simd-threaded.jsep.wasm": "/static/transformers/ort-wasm-simd-threaded.jsep.wasm",
+    "ort-wasm-simd-threaded.jsep.mjs": "/static/transformers/ort-wasm-simd-threaded.jsep.mjs",
+  };
+
+  wasmInitialized = true;
+}
 
 const STOPWORDS = new Set([
   "a", "an", "and", "are", "as", "at", "be", "by", "for", "from", "has", "he",
@@ -154,6 +183,8 @@ self.onmessage = async (e) => {
 
   if (type === "init") {
     try {
+      await initLocalWasmPaths();
+
       if (!generator) {
         let device = "wasm";
         if (navigator.gpu) {

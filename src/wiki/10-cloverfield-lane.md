@@ -4,13 +4,16 @@ created: 2016
 format: Movie
 genres:
 - thriller
+- horror
+- science-fiction
+- fiction
 ---
 
 # Overview
 10 Cloverfield Lane is a standalone companion story to the original Cloverfield movie that shares the premise of an incomprehensible otherworldly threat forcing humanity into a struggle for survival, although with a claustrophobic bunker centering human conflict this time rather than a ground zero incident that reveals human frailty.
 
 # Substance Use Themes
-This movie isn't about addiction or an elaborate allegory that can be compared to addiction, but substances do facilitate several key parts of the plot. Setting the story in a bunker sets up themes of self-empowerment through overcoming the internal [[avoidance|avoidance]] of one's external fears.
+This movie isn't about addiction, but substances still facilitate several key parts of the plot. Setting the story in a bunker sets up themes of self-empowerment through overcoming the internal [[avoidance|avoidance]] of one's external fears.
 
 ## Howard's Need for Control
 For Howard, the human antagonist, his bunker is a tool to control Michelle and Emmett, which he rationalizes as protection for them against a dangerous and unpredictable world. His methods to distill [[vodka|vodka]] despite being in a bunker reflects his paranoia about losing control by being caught unprepared, and so his attempt to share his alcohol as a friendly gesture falls flat given the coercive need for control underlying all his interactions. The same happens when he provides sedatives and painkillers to Michelle for the injuries from her accident; it only reinforces a power disparity in how prepared one is for handling the other. Then the movie reveals that Howard has lied repeatedly about his past and his motives, including the details of the "accident" that led to him dragging an unconscious Michelle into the bunker. His real agenda is to play out the fantasy of being alone with a daughter figure as a way of avoiding the reality of being estranged from his real daughter, and so for Howard the bunker is a cage of his own design and control that gives him the comfort of avoiding loneliness with everything he could ever want in one locked spot.

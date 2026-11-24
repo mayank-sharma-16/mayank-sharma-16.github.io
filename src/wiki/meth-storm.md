@@ -1,6 +1,13 @@
 ---
 title: Meth Storm
 created: 2017
+country: United States
+state: Arkansas
+format: Documentary
+genre: 
+- Documentary
+- Realism
+- Expository
 ---
 
 # Overview
