@@ -34709,24 +34709,30 @@ env2.allowLocalModels = false;
 env2.backends.onnx.wasm.wasmPaths = "/static/transformers/";
 var generator = null;
 var wasmInitialized = false;
-async function initLocalWasmPaths() {
-  if (wasmInitialized) return;
+async function fetchWasmBlobUrl(part1Url, part2Url) {
   const [part1, part2] = await Promise.all([
-    fetch("/static/transformers/asyncify.part1.bin").then((r) => {
-      if (!r.ok) throw new Error(`Failed to load asyncify.part1.bin (${r.status})`);
+    fetch(part1Url).then((r) => {
+      if (!r.ok) throw new Error(`Failed to load ${part1Url} (${r.status})`);
       return r.arrayBuffer();
     }),
-    fetch("/static/transformers/asyncify.part2.bin").then((r) => {
-      if (!r.ok) throw new Error(`Failed to load asyncify.part2.bin (${r.status})`);
+    fetch(part2Url).then((r) => {
+      if (!r.ok) throw new Error(`Failed to load ${part2Url} (${r.status})`);
       return r.arrayBuffer();
     })
   ]);
-  const asyncifyWasmBlob = new Blob([part1, part2], { type: "application/wasm" });
-  const asyncifyWasmUrl = URL.createObjectURL(asyncifyWasmBlob);
+  const blob = new Blob([part1, part2], { type: "application/wasm" });
+  return URL.createObjectURL(blob);
+}
+async function initLocalWasmPaths() {
+  if (wasmInitialized) return;
+  const [asyncifyWasmUrl, jsepWasmUrl] = await Promise.all([
+    fetchWasmBlobUrl("/static/transformers/asyncify.part1.bin", "/static/transformers/asyncify.part2.bin"),
+    fetchWasmBlobUrl("/static/transformers/jsep.part1.bin", "/static/transformers/jsep.part2.bin")
+  ]);
   env2.backends.onnx.wasm.wasmPaths = {
     "ort-wasm-simd-threaded.asyncify.wasm": asyncifyWasmUrl,
     "ort-wasm-simd-threaded.asyncify.mjs": "/static/transformers/ort-wasm-simd-threaded.asyncify.mjs",
-    "ort-wasm-simd-threaded.jsep.wasm": "/static/transformers/ort-wasm-simd-threaded.jsep.wasm",
+    "ort-wasm-simd-threaded.jsep.wasm": jsepWasmUrl,
     "ort-wasm-simd-threaded.jsep.mjs": "/static/transformers/ort-wasm-simd-threaded.jsep.mjs"
   };
   wasmInitialized = true;
