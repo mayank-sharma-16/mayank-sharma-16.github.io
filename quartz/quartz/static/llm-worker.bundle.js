@@ -34709,30 +34709,46 @@ env2.allowLocalModels = false;
 env2.backends.onnx.wasm.wasmPaths = "/static/transformers/";
 env2.backends.onnx.wasm.numThreads = 1;
 var generator = null;
+var wasmBlobUrls = {};
 var originalFetch = self.fetch.bind(self);
+async function getReassembledWasmUrl(type) {
+  if (wasmBlobUrls[type]) return wasmBlobUrls[type];
+  const [p1, p2] = await Promise.all([
+    originalFetch(`/static/transformers/${type}.part1.bin`).then((r) => {
+      if (!r.ok) throw new Error(`Failed to fetch ${type}.part1.bin (${r.status})`);
+      return r.arrayBuffer();
+    }),
+    originalFetch(`/static/transformers/${type}.part2.bin`).then((r) => {
+      if (!r.ok) throw new Error(`Failed to fetch ${type}.part2.bin (${r.status})`);
+      return r.arrayBuffer();
+    })
+  ]);
+  const blob = new Blob([p1, p2], { type: "application/wasm" });
+  wasmBlobUrls[type] = URL.createObjectURL(blob);
+  return wasmBlobUrls[type];
+}
 self.fetch = async (input, init) => {
   const url = typeof input === "string" ? input : input instanceof Request ? input.url : String(input);
   if (url.endsWith("ort-wasm-simd-threaded.jsep.wasm")) {
-    const [p1, p2] = await Promise.all([
-      originalFetch("/static/transformers/jsep.part1.bin").then((r) => r.arrayBuffer()),
-      originalFetch("/static/transformers/jsep.part2.bin").then((r) => r.arrayBuffer())
-    ]);
-    return new Response(new Blob([p1, p2], { type: "application/wasm" }), {
-      status: 200,
-      headers: { "Content-Type": "application/wasm" }
-    });
+    const blobUrl = await getReassembledWasmUrl("jsep");
+    return originalFetch(blobUrl);
   }
   if (url.endsWith("ort-wasm-simd-threaded.asyncify.wasm")) {
-    const [p1, p2] = await Promise.all([
-      originalFetch("/static/transformers/asyncify.part1.bin").then((r) => r.arrayBuffer()),
-      originalFetch("/static/transformers/asyncify.part2.bin").then((r) => r.arrayBuffer())
-    ]);
-    return new Response(new Blob([p1, p2], { type: "application/wasm" }), {
-      status: 200,
-      headers: { "Content-Type": "application/wasm" }
-    });
+    const blobUrl = await getReassembledWasmUrl("asyncify");
+    return originalFetch(blobUrl);
   }
   return originalFetch(input, init);
+};
+var originalXhrOpen = XMLHttpRequest.prototype.open;
+XMLHttpRequest.prototype.open = function(method, url, ...rest) {
+  const urlStr = String(url);
+  if (urlStr.endsWith("ort-wasm-simd-threaded.jsep.wasm") && wasmBlobUrls.jsep) {
+    return originalXhrOpen.call(this, method, wasmBlobUrls.jsep, ...rest);
+  }
+  if (urlStr.endsWith("ort-wasm-simd-threaded.asyncify.wasm") && wasmBlobUrls.asyncify) {
+    return originalXhrOpen.call(this, method, wasmBlobUrls.asyncify, ...rest);
+  }
+  return originalXhrOpen.call(this, method, url, ...rest);
 };
 var STOPWORDS = /* @__PURE__ */ new Set([
   "a",
@@ -34883,7 +34899,7 @@ function rankChunksBM25(chunks, query, topK = 4, k1 = 1.5, b = 0.75) {
     return { chunk: chunk2, score, index: idx };
   });
   scored.sort((a, b2) => b2.score !== a.score ? b2.score - a.score : a.index - b2.index);
-  if (scored[0].score === 0) {
+  if (scored.score === 0) {
     return chunks.slice(0, topK);
   }
   return scored.slice(0, topK).map((item) => item.chunk);
@@ -34892,29 +34908,31 @@ self.onmessage = async (e) => {
   const { type, pageTitle, sections, pageText, question } = e.data;
   if (type === "init") {
     try {
+      await Promise.all([
+        getReassembledWasmUrl("jsep"),
+        getReassembledWasmUrl("asyncify")
+      ]);
       if (!generator) {
         let device = "wasm";
-        let dtype = "q4";
         if (navigator.gpu) {
           const adapter = await navigator.gpu.requestAdapter();
           if (adapter) {
             device = "webgpu";
-            dtype = adapter.features.has("shader-f16") ? "q4f16" : "q4";
           }
         }
-        console.log(`LLM Worker initializing LFM3-1.7B on ${device.toUpperCase()}`);
-        self.postMessage({ type: "status", message: `Initializing on ${device.toUpperCase()}...` });
-        generator = await pipeline2(
-          "text-generation",
-          "onnx-community/LFM3-1.7B-ONNX",
-          {
-            dtype: "q4",
-            device,
-            progress_callback: (progress) => {
-              self.postMessage({ type: "progress", progress });
-            }
+        const modelId = device === "webgpu" ? "onnx-community/LFM2-2.6B-ONNX" : "LiquidAI/LFM2.5-1.2B-Instruct-ONNX";
+        console.log(`LLM Worker initializing ${modelId} on ${device.toUpperCase()}`);
+        self.postMessage({
+          type: "status",
+          message: `Initializing ${device === "webgpu" ? "LFM2-2.6B (WebGPU)" : "LFM2.5-1.2B (CPU)"}...`
+        });
+        generator = await pipeline2("text-generation", modelId, {
+          dtype: "q4",
+          device,
+          progress_callback: (progress) => {
+            self.postMessage({ type: "progress", progress });
           }
-        );
+        });
       }
       self.postMessage({ type: "ready" });
     } catch (err) {
@@ -34932,7 +34950,7 @@ ${c.text}`).join("\n\n").slice(0, 4500);
       const messages = [
         {
           role: "system",
-          content: "You are a thorough reference assistant for MankNotes.com, authored by Mank. Answer the user's question in depth using the retrieved page excerpts. Break down definitions, mechanisms, and key nuances clearly across well-structured paragraphs. If the excerpts do not cover the question AT ALL, state that directly."
+          content: "You are a thorough recovery coach co-pilot for MankNotes.com, authored by Mank. Answer the user's question in depth using the retrieved page excerpts. Break down definitions, mechanisms, and practical applications clearly across well-structured paragraphs. If the excerpts do not cover the question AT ALL, state that directly."
         },
         {
           role: "user",
@@ -34944,35 +34962,26 @@ ${retrievedContext}
 Question: ${question}`
         }
       ];
-      let basePrompt = generator.tokenizer.apply_chat_template(messages, {
-        tokenize: false,
-        add_generation_prompt: true,
-        enable_thinking: false
-      });
-      basePrompt = basePrompt.replace(/<think>\s*$/i, "");
-      const noThinkPrompt = `${basePrompt}<think></think>
-`;
       let fullResponse = "";
       const streamer = new TextStreamer(generator.tokenizer, {
         skip_prompt: true,
         skip_special_tokens: true,
         callback_function: (token) => {
-          const clean = token.replace(/<\/?think>/g, "");
-          fullResponse += clean;
+          fullResponse += token;
           self.postMessage({ type: "token", token: fullResponse.trimStart() });
         }
       });
       console.log("BM25 retrieved sources:", sources);
-      await generator(noThinkPrompt, {
-        max_new_tokens: 700,
-        temperature: 0.15,
+      await generator(messages, {
+        max_new_tokens: 750,
+        temperature: 0.2,
         top_k: 50,
         top_p: 0.9,
-        repetition_penalty: 1.1,
+        repetition_penalty: 1.08,
         do_sample: true,
         streamer
       });
-      const finalAnswer = fullResponse.replace(/<\/?think>/g, "").trim();
+      const finalAnswer = fullResponse.trim();
       self.postMessage({ type: "done", answer: finalAnswer, sources });
     } catch (err) {
       self.postMessage({ type: "error", message: String(err) });
