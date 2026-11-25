@@ -2,42 +2,41 @@ import { pipeline, TextStreamer, env } from "@huggingface/transformers";
 
 env.allowLocalModels = false;
 env.backends.onnx.wasm.wasmPaths = "/static/transformers/";
+// Prevent multi-threaded SharedArrayBuffer worker errors on Cloudflare Pages
+env.backends.onnx.wasm.numThreads = 1;
+
 let generator = null;
-let wasmInitialized = false;
 
+// Intercept .wasm fetches so whichever runtime ONNX picks (jsep vs asyncify) gets its exact matching binary
+const originalFetch = self.fetch.bind(self);
+self.fetch = async (input, init) => {
+  const url = typeof input === "string" ? input : input instanceof Request ? input.url : String(input);
 
-async function fetchWasmBlobUrl(part1Url, part2Url) {
-  const [part1, part2] = await Promise.all([
-    fetch(part1Url).then((r) => {
-      if (!r.ok) throw new Error(`Failed to load ${part1Url} (${r.status})`);
-      return r.arrayBuffer();
-    }),
-    fetch(part2Url).then((r) => {
-      if (!r.ok) throw new Error(`Failed to load ${part2Url} (${r.status})`);
-      return r.arrayBuffer();
-    }),
-  ]);
-  const blob = new Blob([part1, part2], { type: "application/wasm" });
-  return URL.createObjectURL(blob);
-}
+  if (url.endsWith("ort-wasm-simd-threaded.jsep.wasm")) {
+    const [p1, p2] = await Promise.all([
+      originalFetch("/static/transformers/jsep.part1.bin").then((r) => r.arrayBuffer()),
+      originalFetch("/static/transformers/jsep.part2.bin").then((r) => r.arrayBuffer()),
+    ]);
+    return new Response(new Blob([p1, p2], { type: "application/wasm" }), {
+      status: 200,
+      headers: { "Content-Type": "application/wasm" },
+    });
+  }
 
-async function initLocalWasmPaths() {
-  if (wasmInitialized) return;
+  if (url.endsWith("ort-wasm-simd-threaded.asyncify.wasm")) {
+    const [p1, p2] = await Promise.all([
+      originalFetch("/static/transformers/asyncify.part1.bin").then((r) => r.arrayBuffer()),
+      originalFetch("/static/transformers/asyncify.part2.bin").then((r) => r.arrayBuffer()),
+    ]);
+    return new Response(new Blob([p1, p2], { type: "application/wasm" }), {
+      status: 200,
+      headers: { "Content-Type": "application/wasm" },
+    });
+  }
 
-  const [asyncifyWasmUrl, jsepWasmUrl] = await Promise.all([
-    fetchWasmBlobUrl("/static/transformers/asyncify.part1.bin", "/static/transformers/asyncify.part2.bin"),
-    fetchWasmBlobUrl("/static/transformers/jsep.part1.bin", "/static/transformers/jsep.part2.bin"),
-  ]);
+  return originalFetch(input, init);
+};
 
-  env.backends.onnx.wasm.wasmPaths = {
-    "ort-wasm-simd-threaded.asyncify.wasm": asyncifyWasmUrl,
-    "ort-wasm-simd-threaded.asyncify.mjs": "/static/transformers/ort-wasm-simd-threaded.asyncify.mjs",
-    "ort-wasm-simd-threaded.jsep.wasm": jsepWasmUrl,
-    "ort-wasm-simd-threaded.jsep.mjs": "/static/transformers/ort-wasm-simd-threaded.jsep.mjs",
-  };
-
-  wasmInitialized = true;
-}
 
 const STOPWORDS = new Set([
   "a", "an", "and", "are", "as", "at", "be", "by", "for", "from", "has", "he",
@@ -189,14 +188,16 @@ self.onmessage = async (e) => {
 
   if (type === "init") {
     try {
-      await initLocalWasmPaths();
 
       if (!generator) {
         let device = "wasm";
+        let dtype = "q4";
+
         if (navigator.gpu) {
           const adapter = await navigator.gpu.requestAdapter();
           if (adapter) {
             device = "webgpu";
+            dtype = adapter.features.has("shader-f16") ? "q4f16" : "q4";
           }
         }
 
@@ -207,7 +208,7 @@ self.onmessage = async (e) => {
           "text-generation",
           "onnx-community/LFM3-1.7B-ONNX",
           {
-            dtype: "q4f16",
+            dtype: "q4",
             device,
             progress_callback: (progress) => {
               self.postMessage({ type: "progress", progress });

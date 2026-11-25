@@ -1,5 +1,5 @@
 ---
-title: Shows
+title: Wiki
 ---
 
 ## Recently Modified
