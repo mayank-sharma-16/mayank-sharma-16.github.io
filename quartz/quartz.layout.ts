@@ -2,6 +2,7 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import PageChat from "./quartz/components/PageChat"
 import { h } from "preact"
+import CoachStudio from "./quartz/components/CoachStudio"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -16,6 +17,10 @@ export const sharedPageComponents: SharedLayout = {
       component: PageChat(),
       condition: (page) => page.fileData.slug !== "index" && !page.fileData.slug?.startsWith("tags/"),
     }),
+    Component.ConditionalRender({
+      component: CoachStudio(),
+      condition: (page) => page.fileData.slug === "tools/studio",
+    })
   ],
   footer: Component.Footer({
     links: {

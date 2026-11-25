@@ -34987,6 +34987,49 @@ Question: ${question}`
       self.postMessage({ type: "error", message: String(err) });
     }
   }
+  if (type === "generate_asset") {
+    try {
+      const { categoryLabel, formatLabel, formatInstructions, rawNotes } = e.data;
+      const messages = [
+        {
+          role: "system",
+          content: "You are an expert recovery coach and clinical documentation assistant. Transform the user's unstructured notes into a clean, well-structured Markdown document following the exact requested template format. Maintain a supportive, objective, professional tone. Do not invent facts not supported by the notes; if a section lacks details in the notes, include a clear placeholder prompt (e.g., '[To be explored in next session]')."
+        },
+        {
+          role: "user",
+          content: `Asset Category: ${categoryLabel}
+Template Format: ${formatLabel}
+
+Required Structure & Instructions:
+${formatInstructions}
+
+Unstructured Notes / Context:
+${rawNotes.slice(0, 5e3)}`
+        }
+      ];
+      let fullResponse = "";
+      const streamer = new TextStreamer(generator.tokenizer, {
+        skip_prompt: true,
+        skip_special_tokens: true,
+        callback_function: (token) => {
+          fullResponse += token;
+          self.postMessage({ type: "token", token: fullResponse.trimStart() });
+        }
+      });
+      await generator(messages, {
+        max_new_tokens: 950,
+        temperature: 0.25,
+        top_k: 50,
+        top_p: 0.9,
+        repetition_penalty: 1.08,
+        do_sample: true,
+        streamer
+      });
+      self.postMessage({ type: "done", answer: fullResponse.trim() });
+    } catch (err) {
+      self.postMessage({ type: "error", message: String(err) });
+    }
+  }
 };
 /*! Bundled license information:
 
